@@ -151,15 +151,16 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.0.7 / Ver.2.4.6」日本語言語ファイル
+## 「simplewall Ver.3.0.7 / Ver.2.4.6」日本語環境対応パッチ/日本語言語ファイル
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
-最新版は公式のアップデート機能がありますので、通常はそちらを使用ください。  
-Ver.2 系は アップデート実行後、都度上書きする必要がありますので注意してください。
+知人が「ポップアップの表示が見えないからパッチよろ」とうるさいのでパッチ化しました。  
+ついでにルール編集ウォンドウのフォントサイズを +1 してあります。  
+なお、私自身が使っていないので本件を公式で Issue を投稿する予定はありません。
 
-ダウンロード: [Ver.2.4.6 用 simplewall.lng](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Language-File/2.4.6/simplewall.lng)
+ダウンロード: [simplewall-3.0.7_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Patch/3.0.7/simplewall-3.0.7_x64-jp.exe)  
+ダウンロード: [simplewall-3.0.7_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Patch/3.0.7/simplewall-3.0.7_x86-jp.exe)
 
-本品は依頼品ですが、例外的に公式への PR を行うことで更新を継続する予定ではありますが、  
-IDS_HIGHLIGHT_INVALID / IDS_USESTEALTHMODE_HINT に修正が必要な事は当分放置します。
+ダウンロード: [Ver.2.4.6 用 simplewall.lng](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Patch/2.4.6/simplewall.lng)
 
 [COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
 -「simplewall」の著作権は Henry++氏 にあります。
