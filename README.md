@@ -53,14 +53,14 @@ Ver.10.2 で公式の日本語対応が復活し、本職の方が主翻訳を�
 Ver.12 以降、主翻訳の担当者との連絡が途絶しています。小生の役割も同時に終了か。
 
 ---
-## 「Driver Store Explorer Ver.0.10.57」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.10.60」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
 ## 「FileZilla Client Ver.3.45.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.18.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.19.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
@@ -151,16 +151,12 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.0.7 / Ver.2.4.6」日本語環境対応パッチ/日本語言語ファイル
-その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
-知人が「ポップアップの表示が見えないからパッチよろ」とうるさいのでパッチ化しました。  
-ついでにルール編集ウォンドウのフォントサイズを +1 してあります。  
-なお、私自身が使っていないので本件を公式で Issue を投稿する予定はありません。
+## 「simplewall Ver.3.0.8 / Ver.2.4.6」日本語環境対応パッチ/日本語言語ファイル
+その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。
+最新版は公式のアップデート機能がありますので、通常はそちらを使用ください。  
+Ver.2 系は アップデート実行後、都度上書きする必要がありますので注意してください。
 
-ダウンロード: [simplewall-3.0.7_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Patch/3.0.7/simplewall-3.0.7_x64-jp.exe)  
-ダウンロード: [simplewall-3.0.7_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Patch/3.0.7/simplewall-3.0.7_x86-jp.exe)
-
-ダウンロード: [Ver.2.4.6 用 simplewall.lng](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Patch/2.4.6/simplewall.lng)
+ダウンロード: [Ver.2.4.6 用 simplewall.lng](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Language-File/2.4.6/simplewall.lng)
 
 [COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
 -「simplewall」の著作権は Henry++氏 にあります。
@@ -176,16 +172,6 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 主翻訳は Tilt氏 であり、私たちはチームではありません。Tilt氏 が小生に対して配慮頂いたものと思います。  
 本アプリの日本語言語ファイルに関しての問い合わせ窓口は、Tilt氏 が第一となります。  
 (翻訳貢献者としての責任を放棄するつもりはありませんが、公式とのコネクションは私にはありません。) 
-
----
-## 「Windows Update MiniTool 20.12.2016」日本語言語ファイル
-サードパーティ製 Windows Update クライアント「[Windows Update MiniTool](http://forum.ru-board.com/topic.cgi?forum=5&topic=48142)」の日本語言語ファイルです。  
-すぐ下の「WuMgr」と同期させるために、いくつかの訳文が原文と合致していないかもしれません。  
-上位互換となる「WuMgr」は Windows 10 専用なので、それ以前の環境の方向けに残しておきます。
-
-ダウンロード: [wumt_lang.ini](https://github.com/Rukoto/Toy-Box/raw/master/Windows_Update_MiniTool-Japanese-Language-File/wumt_lang.ini)
-
-元となった日本語言語ファイルを公開されている [しろみち氏](http://ch.nicovideo.jp/lunaorbit/blomaga/ar1003976) に感謝。
 
 ---
 ## 「WinMerge 日本語版」日本語言語ファイル (コメントのみ)
