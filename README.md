@@ -4,7 +4,7 @@
 ※私の都合に合った仕様としているため、パッチはインストーラー的に使う前提であることをご理解ください。  
 ※パッチはかなりの確率でセキュリティ機能に誤検知されます。[VirusTotal](https://www.virustotal.com/gui/home/upload) 等をご活用ください。  
 ※公式へのコミットを可能な範囲で行いますが、私の拙い英語力が原因で成果が得られない場合もあります。  
-※Windows 10 Pro x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
+※Windows 10 Pro 1909 x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
 ※更新停止しているような古いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
@@ -59,8 +59,8 @@ Ver.12 以降、主翻訳の担当者との連絡が途絶しています。小�
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.45.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.19.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.46.0 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.19.1」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
@@ -151,8 +151,8 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.0.8 / Ver.2.4.6」日本語環境対応パッチ/日本語言語ファイル
-その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。
+## 「simplewall Ver.3.0.9 / Ver.2.4.6」日本語言語ファイル
+その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 最新版は公式のアップデート機能がありますので、通常はそちらを使用ください。  
 Ver.2 系は アップデート実行後、都度上書きする必要がありますので注意してください。
 
