@@ -35,7 +35,7 @@
 
 ---
 ## 「Bandizip Ver.7.0 Beta」日本語言語ファイル/Webページ
-## 「Honeycam Ver.2.11」日本語言語ファイル/Webページ
+## 「Honeycam Ver.2.12」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.31」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
@@ -120,9 +120,6 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ---
 ## 「Open-Shell Ver.4.4.142」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
-
-ダウンロード: [Open-Shell-4.4.126jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.126/Open-Shell-4.4.126jp.exe)  
-↑ Ver.4.4.126 から Ver.4.4.134 までの適合確認済み。
 
 ダウンロード: [Open-Shell-4.4.135jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.135/Open-Shell-4.4.135jp.exe)  
 ↑ Ver.4.4.135 から Ver.4.4.142 までの適合確認済み。
