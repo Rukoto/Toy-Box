@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2019-11-16 05:30+0100\n"
+"POT-Creation-Date: 2019-11-23 05:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -330,11 +330,11 @@ msgstr ""
 msgid "&Close"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1836
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1838
 msgid "&Close FileZilla"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1839
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1841
 msgid "&Close FileZilla once"
 msgstr ""
 
@@ -383,7 +383,7 @@ msgid "&Default editor:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:113
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1821
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1823
 msgid "&Default file exists action..."
 msgstr ""
 
@@ -603,7 +603,7 @@ msgstr ""
 msgid "&Hide identical files"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1825
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1827
 msgid "&Highest"
 msgstr ""
 
@@ -687,7 +687,7 @@ msgstr ""
 msgid "&Logontype:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1828
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1830
 msgid "&Low"
 msgstr ""
 
@@ -750,11 +750,11 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:403
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:664
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1833
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1835
 msgid "&None"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1827
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1829
 msgid "&Normal"
 msgstr ""
 
@@ -793,7 +793,7 @@ msgstr ""
 msgid "&Password:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1838
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1840
 msgid "&Play sound"
 msgstr ""
 
@@ -870,7 +870,7 @@ msgid "&Remove key"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:3359
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1820
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1822
 msgid "&Remove selected"
 msgstr ""
 
@@ -900,7 +900,7 @@ msgstr ""
 msgid "&Report a bug..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1835
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1837
 msgid "&Request attention"
 msgstr ""
 
@@ -916,7 +916,7 @@ msgstr ""
 msgid "&Resume"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1837
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1839
 msgid "&Run command..."
 msgstr ""
 
@@ -1435,7 +1435,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1832
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1834
 msgid "Action after queue &completion"
 msgstr ""
 
@@ -1524,7 +1524,7 @@ msgstr ""
 msgid "Algorithm:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2699
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2701
 msgid "All files have been successfully transferred"
 msgstr ""
 
@@ -1532,7 +1532,7 @@ msgstr ""
 msgid "All ports in the given range have to be between 1024 and 65535."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2695
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2697
 #, c-format
 msgid "All transfers have finished. %d file could not be transferred."
 msgid_plural "All transfers have finished. %d files could not be transferred."
@@ -1575,14 +1575,14 @@ msgid ""
 "website:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1678
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1680
 #, c-format
 msgid ""
 "An error occurred loading the transfer queue from \"%s\".\n"
 "Some queue items might not have been restored."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1570
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1572
 #, c-format
 msgid ""
 "An error occurred saving the transfer queue to \"%s\".\n"
@@ -2791,7 +2791,7 @@ msgstr ""
 msgid "Could not write \"%s\", the global bookmarks could no be saved: %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1601
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1603
 #, c-format
 msgid ""
 "Could not write \"%s\", the queue could not be saved.\n"
@@ -3418,7 +3418,7 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/queueview_failed.cpp:36
 #: ../../../source/FileZilla3/locales/../src/interface/queueview_successful.cpp:32
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1846
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1848
 msgid "E&xport..."
 msgstr ""
 
@@ -3462,7 +3462,7 @@ msgstr ""
 msgid "Email:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1926
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1928
 msgid "Empty command"
 msgstr ""
 
@@ -3537,7 +3537,7 @@ msgstr ""
 msgid "Enter 0 for unlimited speed."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1920
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1922
 msgid "Enter command"
 msgstr ""
 
@@ -3627,7 +3627,7 @@ msgstr ""
 msgid "Error importing"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1679
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1681
 msgid "Error loading queue"
 msgstr ""
 
@@ -3639,7 +3639,6 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1352
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1372
 #: ../../../source/FileZilla3/locales/../src/interface/wrapengine.cpp:943
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1582
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:176
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:338
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:794
@@ -3654,10 +3653,11 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:924
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:739
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:799
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1584
 msgid "Error loading xml file"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1571
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1573
 msgid "Error saving queue"
 msgstr ""
 
@@ -3668,7 +3668,6 @@ msgstr ""
 msgid "Error starting program"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1602
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:374
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:929
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:579
@@ -3677,6 +3676,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:822
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1943
 #: ../../../source/FileZilla3/locales/../src/interface/xmlfunctions.cpp:153
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1604
 msgid "Error writing xml file"
 msgstr ""
 
@@ -4313,7 +4313,7 @@ msgstr ""
 msgid "Group permissions"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1826
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1828
 msgid "H&igh"
 msgstr ""
 
@@ -4826,7 +4826,7 @@ msgstr ""
 msgid "Key identifier:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1829
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1831
 msgid "L&owest"
 msgstr ""
 
@@ -5298,7 +5298,7 @@ msgstr ""
 msgid "No category to export selected"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1926
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1928
 msgid "No command given, aborting."
 msgstr ""
 
@@ -5922,7 +5922,7 @@ msgid ""
 "Using raw ftp commands will clear the directory cache."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1920
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1922
 msgid ""
 "Please enter the complete path of a program and its arguments. This command "
 "will be executed when the queue has finished processing.\n"
@@ -6142,7 +6142,7 @@ msgid "Pro&xy password:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:111
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1816
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1818
 msgid "Process &Queue"
 msgstr ""
 
@@ -6234,7 +6234,7 @@ msgstr ""
 msgid "Public permissions"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2821
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2823
 msgid "Queue has been fully processed"
 msgstr ""
 
@@ -6270,7 +6270,7 @@ msgstr ""
 msgid "Quick search cannot be opened if comparing directories."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1841
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1843
 msgid "R&eboot system once"
 msgstr ""
 
@@ -6357,7 +6357,7 @@ msgstr ""
 msgid "Reason"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2814
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2816
 msgid "Reboot now"
 msgstr ""
 
@@ -6640,7 +6640,7 @@ msgstr ""
 msgid "S&how the Site Manager on startup"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1842
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1844
 msgid "S&hutdown system once"
 msgstr ""
 
@@ -6652,7 +6652,7 @@ msgstr ""
 msgid "S&top"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1843
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1845
 msgid "S&uspend system once"
 msgstr ""
 
@@ -7087,7 +7087,7 @@ msgstr ""
 msgid "Session details"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1824
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1826
 msgid "Set &Priority"
 msgstr ""
 
@@ -7105,7 +7105,7 @@ msgstr ""
 msgid "Settings directory:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1834
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1836
 msgid "Sh&ow notification bubble"
 msgstr ""
 
@@ -7142,7 +7142,7 @@ msgstr ""
 msgid "Shows this help dialog"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2810
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2812
 msgid "Shutdown now"
 msgstr ""
 
@@ -7403,7 +7403,7 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1817
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1819
 msgid "Stop and remove &all"
 msgstr ""
 
@@ -7440,7 +7440,7 @@ msgstr ""
 msgid "Summary of test results:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2818
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2820
 msgid "Suspend now"
 msgstr ""
 
@@ -7804,7 +7804,7 @@ msgstr ""
 msgid "The new version has been saved in your Downloads directory."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1581
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1583
 msgid "The queue will not be saved."
 msgstr ""
 
@@ -7895,11 +7895,11 @@ msgstr ""
 msgid "The specified network name is no longer available"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2813
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2815
 msgid "The system will soon reboot unless you click Cancel."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2809
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2811
 msgid "The system will soon shut down unless you click Cancel."
 msgstr ""
 
@@ -8091,7 +8091,7 @@ msgstr ""
 msgid "Transfers"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2691
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2693
 msgid "Transfers finished"
 msgstr ""
 
@@ -8766,7 +8766,7 @@ msgid ""
 "should work properly."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2817
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:2819
 msgid "Your computer will suspend unless you click Cancel."
 msgstr ""
 
