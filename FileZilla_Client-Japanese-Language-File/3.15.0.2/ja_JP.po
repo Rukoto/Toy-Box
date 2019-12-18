@@ -573,7 +573,7 @@ msgstr "グローバル ブックマーク(&G)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:724
 msgid "&HTTP/1.1 using CONNECT method"
-msgstr "&HTTP/1.1 の CONNECT メソッド"
+msgstr "HTTP/1.1 の CONNECT メソッド(&H)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:216
 msgid "&Help"
@@ -600,11 +600,11 @@ msgstr "ホスト(&H):"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1616
 msgid "&IEC binary prefixes (e.g. 1 KiB = 1024 bytes)"
-msgstr "&IEC 2進接頭辞 (例: 1 KiB = 1024 バイト)"
+msgstr "IEC 2進接頭辞 (例: 1 KiB = 1024 バイト)(&I)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1502
 msgid "&ISO 8601 (example: 2007-09-15)"
-msgstr "&ISO 8601 (例: 2007-09-15)"
+msgstr "ISO 8601 (例: 2007-09-15)(&I)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:30
 msgid "&Import..."
@@ -737,11 +737,11 @@ msgstr "属性値(&N):"
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:2885
 #: ../../locales/../src/interface/resources/xrc/sitemanager.xrc:597
 msgid "&OK"
-msgstr "&OK"
+msgstr "OK(&O)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:473
 msgid "&OPEN"
-msgstr "&OPEN"
+msgstr "OPEN(&O)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:255
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:557
@@ -888,11 +888,11 @@ msgstr "今すぐアップデートを確認(&R)..."
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:468
 msgid "&SITE"
-msgstr "&SITE"
+msgstr "SITE(&S)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:734
 msgid "&SOCKS 5"
-msgstr "&SOCKS 5"
+msgstr "SOCKS 5(&S)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1058
 msgid "&Save as..."
@@ -977,7 +977,7 @@ msgstr "ローカル ペインとリモート ペインを入れ替える(&S)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:440
 msgid "&TLS Ciphers"
-msgstr "&TLS 暗号化"
+msgstr "TLS 暗号化(&T)"
 
 #: ../../locales/../src/interface/netconfwizard.cpp:227
 msgid "&Test"
@@ -1091,14 +1091,14 @@ msgstr "はい(&Y)"
 #: ../../locales/../src/engine/local_path.cpp:490
 #, c-format
 msgid "'%s' does not exist or cannot be accessed."
-msgstr "'%s' は存在しないかアクセスできません。"
+msgstr "「%s」は存在しないかアクセスできません。"
 
 #: ../../locales/../src/engine/local_path.cpp:459
 #: ../../locales/../src/engine/local_path.cpp:479
 #: ../../locales/../src/engine/local_path.cpp:485
 #, c-format
 msgid "'%s' is not a directory."
-msgstr "'%s' はディレクトリではありません。"
+msgstr "「%s」はディレクトリではありません。"
 
 #: ../../locales/../src/interface/manual_transfer.cpp:427
 #: ../../locales/../src/interface/sitemanager_dialog.cpp:967
@@ -1128,8 +1128,8 @@ msgid ""
 "arguments following 'quote' to the server. You might want to enter the raw "
 "command without the leading 'quote'."
 msgstr ""
-"'quote' は通常引数を伴った 'quote' をサーバーに送信するためにコマンドライン "
-"クライアントによって使われるローカル コマンドです。あなたは先頭に 'quote' を"
+"「quote」は通常引数を伴った「quote」をサーバーに送信するためにコマンドライン "
+"クライアントによって使われるローカル コマンドです。あなたは先頭に「quote」を"
 "付けずに生のコマンドを入力することもできます。"
 
 #: ../../locales/../src/interface/filelist_statusbar.cpp:76
@@ -1334,7 +1334,7 @@ msgstr ""
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:590
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1062
 msgid "A&SCII"
-msgstr "A&SCII"
+msgstr "ASCII(&S)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1110
 msgid "A&dd"
@@ -1835,8 +1835,8 @@ msgstr "現在の操作をキャンセル"
 #, c-format
 msgid "Cannot access '%s', no media inserted or drive not ready."
 msgstr ""
-"メディアが挿入されていないかドライブの準備ができていないため、'%s' にアクセス"
-"できません。"
+"メディアが挿入されていないかドライブの準備ができていないため、「%s」にアクセ"
+"スできません。"
 
 #: ../../locales/../src/interface/Mainfrm.cpp:561
 msgid "Cannot add server to Site Manager"
@@ -2512,7 +2512,7 @@ msgid ""
 msgstr ""
 "FileZilla のリソース ファイルを見つけられなかったため、FileZilla を終了しま"
 "す。\n"
-"コマンドライン オプション '--datadir <custompath>' を使用するか、環境変数 "
+"コマンドライン オプション「--datadir <custompath>」を使用するか、環境変数 "
 "FZ_DATADIR を設定することで、FileZilla のデータ ディレクトリを指定できます。"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:681
@@ -2589,7 +2589,7 @@ msgid ""
 "'%s'.\n"
 "Disable synchronized browsing and continue changing the remote directory?"
 msgstr ""
-"リモート ディレクトリ '%s' に対応するローカル ディレクトリを取得できませんで"
+"リモート ディレクトリ「%s」に対応するローカル ディレクトリを取得できませんで"
 "した。\n"
 "同期ブラウジングを無効にしてリモート ディレクトリの変更を継続しますか?"
 
@@ -2600,7 +2600,7 @@ msgid ""
 "'%s'.\n"
 "Synchronized browsing has been disabled."
 msgstr ""
-"リモート ディレクトリ '%s' に対応するローカル ディレクトリを取得できませんで"
+"リモート ディレクトリ「%s」に対応するローカル ディレクトリを取得できませんで"
 "した。\n"
 "同期ブラウジングを無効にしました。"
 
@@ -2611,7 +2611,7 @@ msgid ""
 "'%s'.\n"
 "Synchronized browsing has been disabled."
 msgstr ""
-"ローカル ディレクトリ '%s' に対応するリモート ディレクトリを取得できませんで"
+"ローカル ディレクトリ「%s」に対応するリモート ディレクトリを取得できませんで"
 "した。\n"
 "同期ブラウジングを無効にしました。"
 
@@ -2805,7 +2805,7 @@ msgstr "ディレクトリを作成しています"
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:3171
 #, c-format
 msgid "Creating directory '%s'..."
-msgstr "ディレクトリ '%s' を作成中..."
+msgstr "ディレクトリ「%s」を作成中..."
 
 #: ../../locales/../src/engine/ControlSocket.cpp:180
 msgid "Critical error"
@@ -3190,7 +3190,7 @@ msgstr "転送キューを本当に削除しますか?"
 #: ../../locales/../src/interface/Mainfrm.cpp:589
 #, c-format
 msgid "Do you really want to send '%s' to the server?"
-msgstr "'%s' をサーバーに本当に送信しますか?"
+msgstr "「%s」をサーバーに本当に送信しますか?"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1864
 msgid "Do you want to reopen this file?"
@@ -3482,7 +3482,7 @@ msgid ""
 "Enter the password for the file '%s'.\n"
 "Please note that the converted file will not be password protected."
 msgstr ""
-"ファイル '%s' のパスワードを入力してください。\n"
+"ファイル「%s」のパスワードを入力してください。\n"
 "変換後のファイルはパスワード保護されないことにご注意ください。"
 
 #: ../../locales/../src/interface/resources/xrc/quickconnectbar.xrc:82
@@ -3685,7 +3685,7 @@ msgstr "アクティブ モード転送のためのリスニング ソケット�
 
 #: ../../locales/../src/interface/LocalTreeView.cpp:621
 msgid "Failed to get 'My Documents' path"
-msgstr "'マイ ドキュメント' のパス取得に失敗しました"
+msgstr "「マイ ドキュメント」のパス取得に失敗しました"
 
 #: ../../locales/../src/interface/LocalTreeView.cpp:609
 msgid "Failed to get desktop path"
@@ -4124,7 +4124,7 @@ msgstr ""
 
 #: ../../locales/../src/interface/resources/xrc/sitemanager.xrc:523
 msgid "Force &UTF-8"
-msgstr "&UTF-8 を強制"
+msgstr "UTF-8 を強制(&U)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:199
 msgid "Force showing &hidden files"
@@ -4268,7 +4268,7 @@ msgstr "ホスト鍵が一致しません"
 
 #: ../../locales/../src/engine/server.cpp:157
 msgid "Host starts with '[' but no closing bracket found."
-msgstr "ホストが '[' で始まっていますが閉じ括弧がありません。"
+msgstr "ホストが「[」で始まっていますが閉じ括弧がありません。"
 
 #: ../../locales/../src/engine/proxy.cpp:518
 msgid "Host unreachable"
@@ -4287,7 +4287,7 @@ msgstr "時間"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1551
 msgid "I&SO 8601 (example: 15:47)"
-msgstr "I&SO 8601 (例: 15:47)"
+msgstr "ISO 8601 (例: 15:47)(&S)"
 
 #: ../../locales/../src/engine/proxy.cpp:155
 msgid "IPv6 addresses are not supported with SOCKS4 proxy"
@@ -4896,7 +4896,7 @@ msgstr ""
 #: ../../locales/../src/interface/cmdline.cpp:103
 msgid "Logontype has to be either 'ask' or 'interactive' (without the quotes)."
 msgstr ""
-"ログオン タイプは 'パスワードを尋ねる' または 'インタラクティブ' (引用符な"
+"ログオン タイプは「パスワードを尋ねる」または「インタラクティブ」(引用符な"
 "し) である必要があります。"
 
 #: ../../locales/../src/interface/cmdline.cpp:11
@@ -4905,8 +4905,8 @@ msgid ""
 "Logontype, can only be used together with FTP URL. Argument has to be either "
 "'%s' or '%s'"
 msgstr ""
-"ログオン タイプは FTP URL と同時に指定する必要があります。引数は '%s' と "
-"'%s' のどちらかである必要があります。"
+"ログオン タイプは FTP URL と同時に指定する必要があります。引数は「%s」と"
+"「%s」のどちらかである必要があります。"
 
 #: ../../locales/../src/interface/queue.cpp:906
 #: ../../locales/../src/interface/queue.cpp:993
@@ -5199,7 +5199,7 @@ msgstr "ファイルの種類に関連付けられたプログラムがありま
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:2909
 #, c-format
 msgid "No program has been associated to edit files with the extension '%s'."
-msgstr "拡張子 '%s' のファイルの編集に関連付けられたプログラムはありません。"
+msgstr "拡張子「%s」のファイルの編集に関連付けられたプログラムはありません。"
 
 #: ../../locales/../src/engine/socket.cpp:1053
 msgid "No route to host"
@@ -5615,7 +5615,7 @@ msgstr ""
 #: ../../locales/../src/interface/netconfwizard.cpp:632
 msgid "Please disable settings like 'DMZ mode' or 'Game mode' on your router."
 msgstr ""
-"ルーター上の 'DMZ モード' や 'ゲーム モード' のような設定を無効にしてくださ"
+"ルーター上の「DMZ モード」や「ゲーム モード」のような設定を無効にしてくださ"
 "い。"
 
 #: ../../locales/../src/interface/netconfwizard.cpp:571
@@ -5786,8 +5786,8 @@ msgid ""
 "'game mode'."
 msgstr ""
 "ルーターの利用できる最新のファームウェアを確認してください。そのうえで、ルー"
-"ターを適切に設定すべきです。手動ポート転送を利用すべきでしょう。ルーターを "
-"'DMZ モード' や 'ゲーム モード' と呼ばれるモードで運用しないでください。"
+"ターを適切に設定すべきです。手動ポート転送を利用すべきでしょう。ルーターを"
+"「DMZ モード」や「ゲーム モード」と呼ばれるモードで運用しないでください。"
 
 #: ../../locales/../src/interface/resources/xrc/netconfwizard.xrc:131
 msgid ""
@@ -5872,9 +5872,9 @@ msgid ""
 msgstr ""
 "ファイアウォールを更新してあなたのルーターが最新の利用できるファームウェアを"
 "使用しているか確認してください。そのうえでルーターが適切に設定されている必要"
-"があります。あなたは手動でポート転送を使用する必要があります。ルーターを "
-"'DMZ モード' や 'ゲーム モード' と呼ばれるモードで運用しないでください。プロ"
-"トコル検知またはプロトコルの特殊な 'fixups' は無効にする必要があります。"
+"があります。あなたは手動でポート転送を使用する必要があります。ルーターを"
+"「DMZ モード」や「ゲーム モード」と呼ばれるモードで運用しないでください。プロ"
+"トコル検知またはプロトコルの特殊な「fixups」は無効にする必要があります。"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1318
 msgid "Positio&n of the message log:"
@@ -5995,7 +5995,7 @@ msgstr "プロキシ ハンドシェイクに失敗: %s"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:4227
 msgid "Proxy host starts with '[' but no closing bracket found."
-msgstr "プロキシ ホストが '[' で始まっていますが閉じ括弧がありません。"
+msgstr "プロキシ ホストが「[」で始まっていますが閉じ括弧がありません。"
 
 #: ../../locales/../src/engine/proxy.cpp:354
 #, c-format
@@ -6336,7 +6336,7 @@ msgstr "選択したファイルとディレクトリの名前の変更"
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:3397
 #, c-format
 msgid "Renaming '%s' to '%s'"
-msgstr "名前を '%s' から '%s' に変更中"
+msgstr "名前を「%s」から「%s」に変更中"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3422
 msgid "Reporting bugs and feature requests"
@@ -6458,7 +6458,7 @@ msgstr "SFTP"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:729
 msgid "SOC&KS 4"
-msgstr "SOC&KS 4"
+msgstr "SOCKS 4(&K)"
 
 #: ../../locales/../src/engine/proxy.cpp:179
 #, c-format
@@ -6835,7 +6835,7 @@ msgstr "優先度の設定(&P)"
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:3545
 #, c-format
 msgid "Set permissions of '%s' to '%s'"
-msgstr "'%s' のパーミッションを '%s' に設定"
+msgstr "「%s」のパーミッションを「%s」に設定"
 
 #: ../../locales/../src/engine/transfersocket.cpp:793
 msgid "SetSocketBufferSize called without socket"
@@ -7340,7 +7340,7 @@ msgstr "テキスト ファイルを編集するデフォルトのエディタ�
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:2925
 #, c-format
 msgid "The default editor for text files is '%s'."
-msgstr "テキスト ファイルを編集するデフォルトのエディタは '%s' です。"
+msgstr "テキスト ファイルを編集するデフォルトのエディタは「%s」です。"
 
 #: ../../locales/../src/interface/filteredit.cpp:149
 #: ../../locales/../src/interface/filteredit.cpp:217
@@ -7351,7 +7351,7 @@ msgstr "入力したフィルタ名は既に存在しています。他の名前
 #: ../../locales/../src/interface/settings/optionspage_filetype.cpp:153
 #, c-format
 msgid "The extension '%s' does already exist in the list"
-msgstr "拡張子 '%s' は既にリストに存在しません"
+msgstr "拡張子「%s」は既にリストに存在しません"
 
 #: ../../locales/../src/interface/asyncrequestqueue.cpp:283
 #: ../../locales/../src/interface/asyncrequestqueue.cpp:289
@@ -7371,7 +7371,7 @@ msgid ""
 "The associated program (%s) could not be found.\n"
 "Please check your filetype associations."
 msgstr ""
-"ファイル '%s' を開くことができません:\n"
+"ファイル「%s」を開くことができません:\n"
 "関連付けられたプログラム (%s) が見つかりませんでした。\n"
 "ファイルの関連付けを確認してください。"
 
@@ -7381,18 +7381,18 @@ msgid ""
 "The file '%s' contains an SSH1 key. The SSH1 protocol has been deprecated, "
 "FileZilla only supports SSH2 keys."
 msgstr ""
-"ファイル '%s' には SSH1 の鍵が含まれています。SSH1 プロトコルは推奨されておら"
+"ファイル「%s」には SSH1 の鍵が含まれています。SSH1 プロトコルは推奨されておら"
 "ず、FileZilla は SSH2 の鍵のみをサポートしています。"
 
 #: ../../locales/../src/interface/fzputtygen_interface.cpp:57
 #, c-format
 msgid "The file '%s' could not be loaded or does not contain a private key."
-msgstr "ファイル '%s' を読み込めないか、秘密鍵を含んでいません。"
+msgstr "ファイル「%s」を読み込めないか、秘密鍵を含んでいません。"
 
 #: ../../locales/../src/interface/xmlfunctions.cpp:42
 #, c-format
 msgid "The file '%s' could not be loaded."
-msgstr "ファイル '%s' を読み込めませんでした。"
+msgstr "ファイル「%s」を読み込めませんでした。"
 
 #: ../../locales/../src/interface/LocalListView.cpp:1700
 #: ../../locales/../src/interface/edithandler.cpp:1616
@@ -7401,7 +7401,7 @@ msgid ""
 "The file '%s' could not be opened:\n"
 "No program has been associated on your system with this file type."
 msgstr ""
-"ファイル '%s' を開くことができませんでした:\n"
+"ファイル「%s」を開くことができませんでした:\n"
 "あなたのシステムではこのファイルの種類にプログラムが関連付けられていません。"
 
 #: ../../locales/../src/interface/LocalListView.cpp:1712
@@ -7411,7 +7411,7 @@ msgid ""
 "The file '%s' could not be opened:\n"
 "The associated command failed"
 msgstr ""
-"ファイル '%s' を開くことができませんでした:\n"
+"ファイル「%s」を開くことができませんでした:\n"
 "関連付けられたコマンドが失敗しました"
 
 #: ../../locales/../src/interface/import.cpp:57
@@ -7422,7 +7422,7 @@ msgid ""
 "Loading files created by newer versions can result in loss of data.\n"
 "Do you want to continue?"
 msgstr ""
-"ファイル '%s' は新しいバージョンの FileZilla で作成されています。\n"
+"ファイル「%s」は新しいバージョンの FileZilla で作成されています。\n"
 "新しいバージョンで作成されたファイルを読み込むとデータの喪失を引き起こしま"
 "す。\n"
 "処理を続けますか?"
@@ -7433,7 +7433,7 @@ msgid ""
 "The file '%s' is not in a format supported by FileZilla.\n"
 "Would you like to convert it into a supported format?"
 msgstr ""
-"FileZilla はファイル '%s' の形式をサポートしていません。\n"
+"FileZilla はファイル「%s」の形式をサポートしていません。\n"
 "FileZilla がサポートしている形式に変換しますか?"
 
 #: ../../locales/../src/interface/settings/optionspage_edit.cpp:87
@@ -7500,12 +7500,12 @@ msgstr "制限は 1 から 2000 MiB にしてください"
 #: ../../locales/../src/interface/state.cpp:981
 #, c-format
 msgid "The local directory '%s' could not be created."
-msgstr "ローカル ディレクトリに '%s' を作成できませんでした。"
+msgstr "ローカル ディレクトリに「%s」を作成できませんでした。"
 
 #: ../../locales/../src/interface/state.cpp:966
 #, c-format
 msgid "The local directory '%s' does not exist."
-msgstr "ローカル ディレクトリに '%s' は見つかりませんでした。"
+msgstr "ローカル ディレクトリに「%s」は見つかりませんでした。"
 
 #: ../../locales/../src/interface/state.cpp:250
 #, c-format
@@ -7513,7 +7513,7 @@ msgid ""
 "The local directory '%s' is not below the synchronization root (%s).\n"
 "Disable synchronized browsing and continue changing the local directory?"
 msgstr ""
-"ローカル ディレクトリ '%s' は同期ルート (%s) の配下ではありません。\n"
+"ローカル ディレクトリ「%s」は同期ルート (%s) の配下ではありません。\n"
 "同期ブラウジングを無効にしてローカル ディレクトリの変更を継続しますか?"
 
 #: ../../locales/../src/interface/settings/optionspage_connection_active.cpp:78
@@ -7538,7 +7538,7 @@ msgstr "キューは保存されません。"
 #: ../../locales/../src/interface/state.cpp:893
 #, c-format
 msgid "The remote directory '%s' does not exist."
-msgstr "リモート ディレクトリに '%s' は見つかりませんでした。"
+msgstr "リモート ディレクトリに「%s」は見つかりませんでした。"
 
 #: ../../locales/../src/interface/state.cpp:937
 #, c-format
@@ -7546,7 +7546,7 @@ msgid ""
 "The remote directory '%s' is not below the synchronization root (%s).\n"
 "Disable synchronized browsing and continue changing the remote directory?"
 msgstr ""
-"リモート ディレクトリ '%s' は同期ルート (%s) の配下ではありません。\n"
+"リモート ディレクトリ「%s」は同期ルート (%s) の配下ではありません。\n"
 "同期ブラウジングを無効にしてリモート ディレクトリの変更を継続しますか?"
 
 #: ../../locales/../src/interface/import.cpp:76
@@ -7660,7 +7660,7 @@ msgstr "テストは成功しませんでした。設定を本当に保存しま
 #: ../../locales/../src/interface/xmlfunctions.cpp:78
 #, c-format
 msgid "The valid backup file %s could not be restored"
-msgstr "有効なバックアップ ファイル '%s' を復元できませんでした"
+msgstr "有効なバックアップ ファイル「%s」を復元できませんでした"
 
 #: ../../locales/../src/interface/settings/settingsdialog.cpp:103
 msgid "Themes"
@@ -7923,7 +7923,7 @@ msgstr "システムのデフォルト言語を使用(&S)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:463
 msgid "USER@&HOST"
-msgstr "ユーザー@ホスト(&H)"
+msgstr "USER@HOST(&H)"
 
 #: ../../locales/../src/engine/proxy.cpp:406
 #: ../../locales/../src/engine/proxy.cpp:533

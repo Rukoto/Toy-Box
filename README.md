@@ -114,8 +114,7 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ダウンロード: [LockHunter-3.3.1.129_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.1.129_x64-jp.exe)  
 ダウンロード: [LockHunter-3.3.1.129_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.1.129_x86-jp.exe)
 
-3.3 beta 1 に対応しましたが、正式版がリリースされたら改めてパッチを更新します。  
-3.3 beta 3 が公開されましたが、気が向いたら公開します。
+Ver.3.3.4.139 (正式版) がリリースされてます。完成次第公開します。
 
 ---
 ## 「Open-Shell Ver.4.4.142」日本語言語ファイル
@@ -176,7 +175,7 @@ Ver.2 系は アップデート実行後、都度上書きする必要があり�
 現在までの成果は本体側の改善のみ。ヘルプ対応は未定…。
 
 ---
-## 「WuMgr Ver.1.0」日本語対応言語ファイル (作業用)
+## 「WuMgr Ver.1.1b」日本語対応言語ファイル (作業用)
 サードパーティ製 Windows Update クライアント「[WuMgr](https://github.com/DavidXanatos/wumgr)」の言語ファイルを更新しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
 
