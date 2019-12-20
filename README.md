@@ -107,14 +107,14 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 作成のきっかけは [Tilt氏](http://tiltstr.seesaa.net/) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「LockHunter Ver.3.3.1.129」日本語化パッチ
+## 「LockHunter Ver.3.3.4.139」日本語化パッチ
 ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。  
-エクスプローラーのコンテキストメニューはあえて英語のままにしています。
 
-ダウンロード: [LockHunter-3.3.1.129_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.1.129_x64-jp.exe)  
-ダウンロード: [LockHunter-3.3.1.129_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.1.129_x86-jp.exe)
+ダウンロード: [LockHunter-3.3.4.139_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.4.139_x64-jp.exe)  
+x86 用は完成次第公開します。
 
-Ver.3.3.4.139 (正式版) がリリースされてます。完成次第公開します。
+コンテキストメニューの日本語化は、今のところ対応予定はありません。  
+LHShellExt??.dll を倍直してシステムに再登録するだけのことです。
 
 ---
 ## 「Open-Shell Ver.4.4.142」日本語言語ファイル
