@@ -111,7 +111,7 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。  
 
 ダウンロード: [LockHunter-3.3.4.139_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.4.139_x64-jp.exe)  
-x86 用は完成次第公開します。
+ダウンロード: [LockHunter-3.3.4.139_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.4.139_x86-jp.exe)
 
 コンテキストメニューの日本語化は、今のところ対応予定はありません。  
 LHShellExt??.dll を倍直してシステムに再登録するだけのことです。
