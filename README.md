@@ -150,7 +150,7 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.0.9 / Ver.2.4.6」日本語言語ファイル
+## 「simplewall Ver.3.1 / Ver.2.4.6」日本語言語ファイル
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 最新版は公式のアップデート機能がありますので、通常はそちらを使用ください。  
 Ver.2 系は アップデート実行後、都度上書きする必要がありますので注意してください。
