@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2020-01-18 05:30+0100\n"
+"POT-Creation-Date: 2020-03-11 05:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1370
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1371
 msgid "A certificate in the chain was signed using an insecure algorithm"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1374
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1375
 msgid "An issuer in the certificate chain is not a certificate authority"
 msgstr ""
 
@@ -33,7 +33,7 @@ msgstr ""
 msgid "Bad file descriptor"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1360
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1361
 msgid "Beware! Certificate has been revoked"
 msgstr ""
 
@@ -45,11 +45,11 @@ msgstr ""
 msgid "Certificate file too big."
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1425
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1431
 msgid "Certificate of connection does not match expected certificate."
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1366
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1367
 msgid "Certificate signature verification failed"
 msgstr ""
 
@@ -73,21 +73,21 @@ msgstr ""
 msgid "Connection reset by peer"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1507
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1513
 msgid "Could not add certificate to temporary trust list"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1499
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1505
 msgid "Could not copy certificate"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1138
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1139
 msgid ""
 "Could not get distinguished name of certificate issuer, "
 "gnutls_x509_get_issuer_dn failed"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1124
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1125
 msgid ""
 "Could not get distinguished name of certificate subject, gnutls_x509_get_dn "
 "failed"
@@ -109,12 +109,12 @@ msgstr ""
 msgid "Could not read key file."
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1343
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1344
 msgid "Could not sort peer certificates"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1470
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1521
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1476
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1527
 msgid "Failed to verify peer certificate"
 msgstr ""
 
@@ -178,7 +178,7 @@ msgstr ""
 msgid "Local endpoint has been closed"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1558
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1564
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr ""
 
@@ -263,7 +263,11 @@ msgstr ""
 msgid "Received TLS alert from the server: %s (%d)"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1388
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1390
+msgid "Received certificate chain could not be verified."
+msgstr ""
+
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1393
 #, c-format
 msgid ""
 "Received certificate chain could not be verified. Verification status is %d."
@@ -274,7 +278,7 @@ msgstr ""
 msgid "Received unknown TLS alert %d from the server"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1060
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1061
 msgid "Remote certificate not trusted."
 msgstr ""
 
@@ -286,11 +290,11 @@ msgstr ""
 msgid "Resource temporarily unavailable"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:946
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:947
 msgid "Server did not properly shut down TLS connection"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1334
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1335
 msgid ""
 "Server sent unsorted certificate chain in violation of the TLS specifications"
 msgstr ""
@@ -335,13 +339,13 @@ msgstr ""
 msgid "The ai_socktype member is not supported"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1383
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1384
 msgid ""
 "The certificate requires the server to include an OCSP status in its "
 "response, but the OCSP status is missing."
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1378
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1379
 msgid "The server's hostname does not match the certificate's hostname"
 msgstr ""
 
@@ -357,25 +361,25 @@ msgstr ""
 msgid "The specified network name is no longer available"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1403
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1409
 msgid "Unsupported certificate type"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1542
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1548
 msgid "Verifying certificate..."
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1297
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1298
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1309
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1310
 msgid "gnutls_pem_base64_encode2 failed"
 msgstr ""
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1602
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1618
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1634
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1650
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1608
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1644
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1660
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1676
 msgid "unknown"
 msgstr ""

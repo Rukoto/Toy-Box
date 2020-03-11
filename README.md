@@ -34,7 +34,7 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Bandizip Ver.7.0 Beta」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.0」日本語言語ファイル/Webページ
 ## 「Honeycam Ver.2.12」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.32」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
@@ -53,14 +53,14 @@ Ver.10.2 で公式の日本語対応が復活し、本職の方が主翻訳を�
 Ver.12 以降、主翻訳の担当者との連絡が途絶しています。小生の役割も同時に終了か。
 
 ---
-## 「Driver Store Explorer Ver.0.10.60」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.10.61」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.46.3 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.19.3」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.47.2 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.20.2」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
@@ -91,10 +91,12 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) などか
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.2.10.6」日本語言語ファイル (コメントのみ)
+## 「Greenshot Ver.1.3.63」日本語言語ファイル (コメントのみ)
 高機能スクリーンショットアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新しています。  
-Imgur への自動アップロードや保存前処理など、非常に使いやすく高機能で愛用しています。  
-署名の期限切れ & 開発環境変更で更新が停滞していますが、開発自体は継続されています。
+Imgur への自動アップロードや保存前処理など、非常に使いやすく高機能で愛用しています。
+
+突如 Ver.1.x 系での更新が再開されたので、そのうちパッチ形式で公開する予定です。  
+Ver.2.x 系への公式への PR は当分先になりそうです。
 
 ---
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
