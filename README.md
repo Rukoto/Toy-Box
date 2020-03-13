@@ -91,12 +91,16 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) などか
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.63」日本語言語ファイル (コメントのみ)
-高機能スクリーンショットアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新しています。  
-Imgur への自動アップロードや保存前処理など、非常に使いやすく高機能で愛用しています。
+## 「Greenshot Ver.1.3.63」日本語言語ファイル
+スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。
+プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
+ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
+また、プラグインが部分的に翻訳されない等の不具合が内在しています。
 
-突如 Ver.1.x 系での更新が再開されたので、そのうちパッチ形式で公開する予定です。  
-Ver.2.x 系への公式への PR は当分先になりそうです。
+ダウンロード: [Greenshot-1.3.63jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.63jp.exe)
+
+より高機能な [ShareX](https://getsharex.com/) のへの移行や日本語対応も検討しましたが、  
+更新止まってますが既に言語ファイルはあるし、Greenshot で自分の用途では十分なのでスルー。
 
 ---
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
