@@ -10,7 +10,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: FileZilla 3.15.0.2\n"
+"Project-Id-Version: FileZilla Client 3.15.0.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-10 20:38+0100\n"
 "PO-Revision-Date: 2016-02-11 03:38+0900\n"
@@ -241,7 +241,7 @@ msgstr "サーバー ダイムゾーン調整のオフセット(&A):"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:242
 msgid "&Always trust certificate in future sessions."
-msgstr "今後は常にこの証明書を信用する(&A)"
+msgstr "今後常にこの証明書を信用する(&A)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:895
 msgid "&Always trust this host, add this key to the cache"
@@ -429,7 +429,7 @@ msgstr "パスワードを保存しない (推奨)(&D)"
 
 #: ../../locales/../src/interface/conditionaldialog.cpp:25
 msgid "&Don't show this dialog again."
-msgstr "今後はこのダイアログを表示しない(&D)"
+msgstr "今後このダイアログを表示しない(&D)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:389
 msgid "&Don't use external IP address on local connections."
@@ -636,7 +636,7 @@ msgstr "FileZilla が使用するローカル ポートを制限する(&L)"
 
 #: ../../locales/../src/interface/resources/xrc/sitemanager.xrc:464
 msgid "&Limit number of simultaneous connections"
-msgstr "同時接続の数を制限する(&L)"
+msgstr "同時接続数を制限する(&L)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:114
 msgid "&Local directory tree"
@@ -723,7 +723,7 @@ msgstr "いいえ(&N)"
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:458
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:719
 msgid "&None"
-msgstr "何もしない(&N)"
+msgstr "なし(&N)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:362
 msgid "&Normal"
@@ -916,7 +916,7 @@ msgstr "言語の選択(&S):"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:2136
 msgid "&Select the columns that should be displayed:"
-msgstr "表示する列を選択(&S):"
+msgstr "表示する列の選択(&S):"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:2323
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:174
@@ -1147,23 +1147,23 @@ msgstr "(%u%% ダウンロード)"
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:858
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:879
 msgid "(0 for no limit)"
-msgstr "(0 は無制限)"
+msgstr "(0: 無制限)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:149
 msgid "(0-99)"
-msgstr "(0～99)"
+msgstr "(0 - 99)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:167
 msgid "(0-999 seconds)"
-msgstr "(0～999 秒)"
+msgstr "(0 - 999 秒)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:837
 msgid "(1-10)"
-msgstr "(1～10)"
+msgstr "(1 - 10)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:109
 msgid "(10-9999, 0 to disable)"
-msgstr "(10～9999, 0 は無効)"
+msgstr "(10 - 9999, 0: 無効)"
 
 #: ../../locales/../src/interface/aboutdialog.cpp:85
 #: ../../locales/../src/interface/aboutdialog.cpp:174
@@ -1354,7 +1354,7 @@ msgstr "アップロードにのみ適用する(&P)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:541
 msgid "A&pply to all files and directories"
-msgstr "すべてのファイルとディレクトリに適用する(&P)"
+msgstr "すべてのファイルとディレクトリに適用(&P)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:478
 msgid "A&utomatically remove successful transfers"
@@ -1588,7 +1588,7 @@ msgstr "フィルタへの変更は保存されません。"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:555
 msgid "App&ly to directories only"
-msgstr "ディレクトリにのみ適用する(&L)"
+msgstr "ディレクトリにのみ適用(&L)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1191
 msgid "Apply"
@@ -1600,7 +1600,7 @@ msgstr "現在のキューにのみ適用する(&C)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:548
 msgid "Apply to &files only"
-msgstr "ファイルにのみ適用する(&F)"
+msgstr "ファイルにのみ適用(&F)"
 
 #: ../../locales/../src/interface/filter_conditions_dialog.cpp:105
 msgid "Archive"
@@ -2229,7 +2229,7 @@ msgstr "同時転送"
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1315
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3063
 msgid "Conditions are c&ase sensitive"
-msgstr "大文字と小文字を区別する(&A)"
+msgstr "大文字と小文字を区別(&A)"
 
 #: ../../locales/../src/interface/resources/xrc/netconfwizard.xrc:341
 msgid "Configuration test"
@@ -2884,7 +2884,7 @@ msgstr "削除(&E)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:2704
 msgid "D&irectory comparison"
-msgstr "ディレクトリの比較(&I)"
+msgstr "ディレクトリの比較を有効にする(&I)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1100
 msgid "D&isable all"
@@ -2994,7 +2994,7 @@ msgstr "デフォルト: http://ip.filezilla-project.org/ip.php"
 #: ../../locales/../src/interface/settings/optionspage_connection.cpp:41
 msgid ""
 "Delay between failed connection attempts has to be between 1 and 999 seconds."
-msgstr "接続の試行に失敗している間の遅延は 1 から 999 秒の範囲になります。"
+msgstr "ログイン失敗時の待機時間は 1 から 999 秒の範囲である必要があります。"
 
 #: ../../locales/../src/engine/engineprivate.cpp:522
 #, c-format
@@ -3072,7 +3072,7 @@ msgstr "ディレクトリ"
 #: ../../locales/../src/interface/Mainfrm.cpp:2167
 #: ../../locales/../src/interface/filelistctrl.cpp:464
 msgid "Directory comparison"
-msgstr "ディレクトリの比較"
+msgstr "ディレクトリの比較を有効にする"
 
 #: ../../locales/../src/interface/listingcomparison.cpp:71
 msgid "Directory comparison failed"
@@ -3168,29 +3168,29 @@ msgstr "既に編集中のすべての選択したファイルで同じ操作を
 #: ../../locales/../src/interface/Mainfrm.cpp:1138
 #: ../../locales/../src/interface/Mainfrm.cpp:1160
 msgid "Do you really want to close FileZilla?"
-msgstr "FileZilla を本当に終了しますか?"
+msgstr "本当に FileZilla を終了しますか?"
 
 #: ../../locales/../src/interface/clearprivatedata.cpp:34
 msgid ""
 "Do you really want to delete all Site Manager entries and the transfer queue?"
-msgstr "サイト マネージャ エントリと転送キューを本当に削除しますか?"
+msgstr "本当にサイト マネージャ エントリと転送キューを削除しますか?"
 
 #: ../../locales/../src/interface/clearprivatedata.cpp:46
 msgid "Do you really want to delete all Site Manager entries?"
-msgstr "すべてのサイト マネージャ エントリを本当に削除しますか?"
+msgstr "本当にすべてのサイト マネージャ エントリを削除しますか?"
 
 #: ../../locales/../src/interface/sitemanager_dialog.cpp:1233
 msgid "Do you really want to delete selected entry?"
-msgstr "選択したエントリを本当に削除しますか?"
+msgstr "本当に選択したエントリを削除しますか?"
 
 #: ../../locales/../src/interface/clearprivatedata.cpp:40
 msgid "Do you really want to delete the transfer queue?"
-msgstr "転送キューを本当に削除しますか?"
+msgstr "本当に転送キューを削除しますか?"
 
 #: ../../locales/../src/interface/Mainfrm.cpp:589
 #, c-format
 msgid "Do you really want to send '%s' to the server?"
-msgstr "「%s」をサーバーに本当に送信しますか?"
+msgstr "本当にサーバーに「%s」を送信しますか?"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1864
 msgid "Do you want to reopen this file?"
@@ -4080,11 +4080,11 @@ msgstr "フィルタの検証に失敗しました"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3068
 msgid "Find &files"
-msgstr "ファイルを検索する(&F)"
+msgstr "ファイルを検索(&F)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3073
 msgid "Find d&irectories"
-msgstr "ディレクトリを検索する(&I)"
+msgstr "ディレクトリを検索(&I)"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:97
 msgid "Fingerprint (SHA-1):"
@@ -5356,7 +5356,7 @@ msgstr "平文の FTP のみを使用する (安全でない)"
 
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:558
 msgid "Open directory in system's file manager"
-msgstr "システムのファイル マネージャのディレクトリを開く"
+msgstr "システムのファイル マネージャでディレクトリを開く"
 
 #: ../../locales/../src/interface/resources/xrc/toolbar.xrc:8
 msgid "Open the Site Manager"
@@ -5696,7 +5696,7 @@ msgstr ""
 #: ../../locales/../src/interface/settings/optionspage_connection.cpp:46
 msgid ""
 "Please enter a timeout between 10 and 9999 seconds or 0 to disable timeouts."
-msgstr "タイムアウトを入力してください。(10～9999 秒, 0 はタイムアウト無効)"
+msgstr "タイムアウトを入力してください。(10 - 9999 秒, 0: タイムアウト無効)"
 
 #: ../../locales/../src/interface/filter.cpp:334
 msgid "Please enter a unique name for this filter set"
@@ -6109,7 +6109,7 @@ msgstr "読み取り専用"
 
 #: ../../locales/../src/interface/Mainfrm.cpp:1023
 msgid "Really cancel current operation?"
-msgstr "現在の操作を本当に中止しますか?"
+msgstr "本当に現在の操作を中止しますか?"
 
 #: ../../locales/../src/interface/RemoteListView.cpp:1382
 #: ../../locales/../src/interface/search.cpp:740
@@ -6117,28 +6117,29 @@ msgstr "現在の操作を本当に中止しますか?"
 msgid "Really delete %d directory with its contents from the server?"
 msgid_plural ""
 "Really delete %d directories with their contents from the server?"
-msgstr[0] "サーバーから %d 個のディレクトリとその中身を本当に削除しますか?"
+msgstr[0] "本当にサーバーから %d 個のディレクトリとその中身を削除しますか?"
 
 #: ../../locales/../src/interface/RemoteListView.cpp:1380
 #: ../../locales/../src/interface/search.cpp:738
 #, c-format
 msgid "Really delete %d file from the server?"
 msgid_plural "Really delete %d files from the server?"
-msgstr[0] "サーバーから %d 個のファイルを本当に削除しますか?"
+msgstr[0] "本当にサーバーから %d 個のファイルを削除しますか?"
 
 #: ../../locales/../src/interface/RemoteListView.cpp:1387
 #: ../../locales/../src/interface/search.cpp:744
 #, c-format
 msgid "Really delete %s and %s from the server?"
-msgstr "サーバーから %sと %s を本当に削除しますか?"
+msgstr "本当にサーバーから %sと %s を削除しますか?"
 
 #: ../../locales/../src/interface/RemoteTreeView.cpp:1041
 msgid "Really delete all selected files and/or directories from the server?"
-msgstr "選択したすべてのファイル/ディレクトリをサーバーから削除しますか?"
+msgstr "本当に選択したすべてのファイル/ディレクトリをサーバーから削除しますか?"
 
 #: ../../locales/../src/interface/file_utils.h:45
 msgid "Really delete all selected files and/or directories from your computer?"
-msgstr "選択したすべてのファイル/ディレクトリをコンピュータから削除しますか?"
+msgstr ""
+"本当に選択したすべてのファイル/ディレクトリをコンピュータから削除しますか?"
 
 #: ../../locales/../src/interface/queue.cpp:1210
 msgid "Reason"
@@ -6497,7 +6498,7 @@ msgstr "検索条件(&C):"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3001
 msgid "Search &directory:"
-msgstr "検索するディレクトリ(&D):"
+msgstr "検索ディレクトリ(&D):"
 
 #: ../../locales/../src/interface/resources/xrc/toolbar.xrc:86
 msgid "Search for files recursively."
@@ -7248,11 +7249,11 @@ msgstr "ターゲットのファイル名は既に存在しています!"
 
 #: ../../locales/../src/interface/RemoteListView.cpp:1596
 msgid "Target filename already exists, really continue?"
-msgstr "ターゲットのファイル名は既に存在しています。本当に続けますか?"
+msgstr "ターゲットのファイル名は既に存在しています。本当に続行しますか?"
 
 #: ../../locales/../src/engine/socket.cpp:1068
 msgid "Temporary failure in name resolution"
-msgstr "名前解決が一時的に失敗しました"
+msgstr "名前解決の一時的な失敗"
 
 #: ../../locales/../src/interface/resources/xrc/netconfwizard.xrc:370
 msgid "Test results"
@@ -7577,7 +7578,7 @@ msgid ""
 msgstr ""
 "選択したファイルは直接実行されます。\n"
 "これは危険な操作であり、システムにダメージを与える可能性があります。\n"
-"本当に続けますか?"
+"本当に続行しますか?"
 
 #: ../../locales/../src/interface/sitemanager.cpp:566
 msgid "The server could not be added."
@@ -7655,7 +7656,7 @@ msgstr ""
 
 #: ../../locales/../src/interface/netconfwizard.cpp:846
 msgid "The test did not succeed. Do you really want to save the settings?"
-msgstr "テストは成功しませんでした。設定を本当に保存しますか?"
+msgstr "テストは成功しませんでした。本当に設定を保存しますか?"
 
 #: ../../locales/../src/interface/xmlfunctions.cpp:78
 #, c-format
@@ -7756,7 +7757,7 @@ msgid ""
 msgstr ""
 "ディレクトリ比較の切り替えです。右クリックで比較モードを変更します。\n"
 "\n"
-"色:\n"
+"色の意味:\n"
 "黄: 片方のみに存在するファイル\n"
 "緑: 他方より新しいファイル\n"
 "赤: サイズが異なるファイル"
@@ -8221,7 +8222,7 @@ msgstr ""
 "ナイトリー ビルドは期待通りに動作しない可能性があり、システムに損傷を与える可"
 "能性があります。\n"
 "\n"
-"ナイトリー ビルドを本当にチェックしますか?"
+"本当にナイトリー ビルドをチェックしますか?"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:943
 msgid "Warning: Potential security breach!"
@@ -8341,13 +8342,14 @@ msgstr "少なくとも 1 つのシンボリックリンクを選択する必要
 msgid ""
 "You have selected more than 10 files for editing, do you really want to "
 "continue?"
-msgstr "10 個以上のファイルを選択していますが、本当に編集しますか?"
+msgstr "10 個以上のファイルを選択していますが、本当に続行しますか?"
 
 #: ../../locales/../src/interface/LocalListView.cpp:1670
 msgid ""
 "You have selected more than 10 files or directories to open, do you really "
 "want to continue?"
-msgstr "10 個以上のファイル/ディレクトリを選択していますが、本当に開きますか?"
+msgstr ""
+"10 個以上のファイル/ディレクトリを選択していますが、本当に続行しますか?"
 
 #: ../../locales/../src/interface/manual_transfer.cpp:415
 #: ../../locales/../src/interface/sitemanager_dialog.cpp:954

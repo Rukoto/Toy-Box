@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2020-03-11 05:30+0100\n"
+"POT-Creation-Date: 2020-04-07 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -378,8 +378,8 @@ msgid "gnutls_pem_base64_encode2 failed"
 msgstr ""
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:1608
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1644
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1660
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1676
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1646
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1662
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1678
 msgid "unknown"
 msgstr ""

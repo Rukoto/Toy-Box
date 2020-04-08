@@ -34,8 +34,8 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Bandizip Ver.7.0」日本語言語ファイル/Webページ
-## 「Honeycam Ver.2.12」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.02」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.0 Beta」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.32」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
@@ -53,13 +53,13 @@ Ver.10.2 で公式の日本語対応が復活し、本職の方が主翻訳を�
 Ver.12 以降、主翻訳の担当者との連絡が途絶しています。小生の役割も同時に終了か。
 
 ---
-## 「Driver Store Explorer Ver.0.10.61」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.10.64」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.47.2 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.47.2.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.20.2」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
@@ -83,7 +83,7 @@ Ver.12 以降、主翻訳の担当者との連絡が途絶しています。小�
 ↑Ver.0.9.43 用 (WIndows XP 向け)
 
 古いバージョンの本体は [ココ](https://download.filezilla-project.org/server/) から入手できます。  
-OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) などから 1.0.x系の最新版で上書きしましょう。
+OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の openssl-1.0.2u-i386-win32.zip で上書きを推奨。
 
 [COPYING(GPLv2)](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/COPYING)  
 -FileZilla Server の著作権は Tim Kosse氏にあります。
@@ -92,7 +92,7 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) などか
 
 ---
 ## 「Greenshot Ver.1.3.63」日本語言語ファイル
-スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。
+スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
 また、プラグインが部分的に翻訳されない等の不具合が内在しています。

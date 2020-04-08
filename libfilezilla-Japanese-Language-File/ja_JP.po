@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libfilezilla 0.20.2\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2020-03-11 05:30+0100\n"
-"PO-Revision-Date: 2020-03-11 13:30+0900\n"
+"POT-Creation-Date: 2020-04-07 05:30+0200\n"
+"PO-Revision-Date: 2020-04-07 12:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -74,11 +74,11 @@ msgstr "相手によって接続がリセットされました"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:1513
 msgid "Could not add certificate to temporary trust list"
-msgstr "一時的な信頼リストに証明書を追加できませんでした"
+msgstr "一時的な信頼リストに証明書を追加できません"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:1505
 msgid "Could not copy certificate"
-msgstr "証明書をコピーできませんでした"
+msgstr "証明書をコピーできません"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:1139
 msgid ""
@@ -96,19 +96,19 @@ msgstr ""
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:260
 msgid "Could not open certificate file."
-msgstr "証明書ファイルを開けませんでした。"
+msgstr "証明書ファイルを開けません。"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:241
 msgid "Could not open key file."
-msgstr "鍵ファイルを開けませんでした。"
+msgstr "鍵ファイルを開けません。"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:272
 msgid "Could not read certificate file."
-msgstr "証明書ファイルを読み込めませんでした。"
+msgstr "証明書ファイルを読み込めません。"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:253
 msgid "Could not read key file."
-msgstr "鍵ファイルを読み込めませんでした。"
+msgstr "鍵ファイルを読み込めません。"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:1344
 msgid "Could not sort peer certificates"
@@ -268,14 +268,14 @@ msgstr "サーバーから TLS アラートを受信しました: %s (%d)"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:1390
 msgid "Received certificate chain could not be verified."
-msgstr "受信した証明書チェーンを検証できませんでした。"
+msgstr "受信した証明書チェーンを検証できません。"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:1393
 #, c-format
 msgid ""
 "Received certificate chain could not be verified. Verification status is %d."
 msgstr ""
-"受信した証明書チェーンを検証できませんでした。確認ステータスは %d です。"
+"受信した証明書チェーンを検証できません。確認ステータスは %d です。"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:465
 #, c-format
@@ -384,8 +384,8 @@ msgid "gnutls_pem_base64_encode2 failed"
 msgstr "gnutls_pem_base64_encode2 が失敗しました"
 
 #: ../../../source/lfz/lib/tls_layer_impl.cpp:1608
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1644
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1660
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1676
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1646
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1662
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1678
 msgid "unknown"
 msgstr "不明"
