@@ -53,7 +53,7 @@ Ver.10.2 で公式の日本語対応が復活し、本職の方が主翻訳を�
 Ver.12 以降、主翻訳の担当者との連絡が途絶しています。小生の役割も同時に終了か。
 
 ---
-## 「Driver Store Explorer Ver.0.10.64」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.10.65」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
@@ -91,13 +91,13 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.63」日本語言語ファイル
+## 「Greenshot Ver.1.3.71」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
 また、プラグインが部分的に翻訳されない等の不具合が内在しています。
 
-ダウンロード: [Greenshot-1.3.63jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.63jp.exe)
+ダウンロード: [Greenshot-1.3.71jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.71jp.exe)
 
 より高機能な [ShareX](https://getsharex.com/) のへの移行や日本語対応も検討しましたが、  
 更新止まってますが既に言語ファイルはあるし、Greenshot で自分の用途では十分なのでスルー。
