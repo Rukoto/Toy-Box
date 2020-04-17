@@ -9,7 +9,7 @@
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
 ---
-## 「匿名の質問者への回答」と「翻訳スタンス」について
+## 「中の人からのコメント」
 [こちら](https://github.com/Rukoto/Toy-Box/blob/master/Comment.md)に掲載しております。
 
 ---
@@ -45,12 +45,6 @@ Webページの一部は翻訳者に変更できない部分があるため、�
 Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われています。
 
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
-
----
-## 「COMODO Internet Security」日本語言語ファイル (コメントのみ)
-総合セキュリティ対策ソフトウェア「[COMODO Internet Security](https://www.comodo.com/home/internet-security/free-internet-security.php)」の日本語言語ファイルを更新していました。  
-Ver.10.2 で公式の日本語対応が復活し、本職の方が主翻訳を行い、小生はそのサポートをしています。  
-Ver.12 以降、主翻訳の担当者との連絡が途絶しています。小生の役割も同時に終了か。
 
 ---
 ## 「Driver Store Explorer Ver.0.10.65」日本語言語ファイル (コメントのみ)
@@ -154,18 +148,6 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/web/20180223164138/http://www.angusj.com/resourcehacker/) から入手できます。
 
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
-
----
-## 「Snappy Driver Installer / (同) Origin」日本語言語ファイル (コメントのみ)
-ドライバー管理アプリ「[SDI](https://sdi-tool.org/)」、「[SDIO](https://www.snappy-driver-installer.org/)」には [Tilt氏](http://tiltstr.seesaa.net/) の日本語言語ファイルがありますが、  
-2018年某日、SDI と SDIO の言語ファイルに関して [Tilt氏](http://tiltstr.seesaa.net/) に修正提案を行いました。  
-「参考にする」とのご回答をいただき、更新の際に一部採用いただいたようです。  
-自サイトで恐縮ではありますが、修正を検討・対応いただきありがとうございました。
-
-訳者欄に私の名前が連名記載されました事に関して、念の為補足しておきます。  
-主翻訳は Tilt氏 であり、私たちはチームではありません。Tilt氏 が小生に対して配慮頂いたものと思います。  
-本アプリの日本語言語ファイルに関しての問い合わせ窓口は、Tilt氏 が第一となります。  
-(翻訳貢献者としての責任を放棄するつもりはありませんが、公式とのコネクションは私にはありません。) 
 
 ---
 ## 「WinMerge 日本語版」日本語言語ファイル (コメントのみ)
