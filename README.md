@@ -34,7 +34,7 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Bandizip Ver.7.02」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.04」日本語言語ファイル/Webページ
 ## 「Honeycam Ver.3.0 Beta」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.32」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  

@@ -10,10 +10,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: FileZilla Client 3.47.2.1\n"
+"Project-Id-Version: FileZilla Client 3.48.0\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2020-04-15 05:30+0200\n"
-"PO-Revision-Date: 2020-04-15 12:30+0900\n"
+"POT-Creation-Date: 2020-04-21 05:30+0200\n"
+"PO-Revision-Date: 2020-04-21 12:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -187,7 +187,7 @@ msgstr "%w - プロキシ パスワード"
 msgid "&AWS S3 encryption"
 msgstr "AWS S3 暗号化(&A)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1878
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1795
 msgid "&Abort previous connection and connect in current tab"
 msgstr "前の接続を中止して現在のタブで接続(&A)"
 
@@ -205,7 +205,7 @@ msgstr "アクセス キー ID(&A)"
 msgid "&Account ID:"
 msgstr "アカウント ID(&A)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1331
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1248
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:132
 msgid "&Account:"
 msgstr "アカウント(&A):"
@@ -220,21 +220,21 @@ msgstr "アクティブ(&A)"
 msgid "&Add bookmark..."
 msgstr "ブックマークの追加(&A)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2215
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2132
 msgid "&Add directory..."
 msgstr "ディレクトリの追加(&A)..."
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1065
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:811
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:813
 msgid "&Add files to queue"
 msgstr "キューにファイルを追加(&A)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:590
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:61
 msgid "&Add key file..."
 msgstr "鍵ファイルの追加(&A)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1111
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:919
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1110
 msgid "&Add to queue"
 msgstr "キューに追加(&A)"
 
@@ -259,7 +259,7 @@ msgstr "常にこのホストを信用し、この鍵をキャッシュに追加
 msgid "&Always use default editor"
 msgstr "常にデフォルトのエディターを使用(&A)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1750
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1746
 msgid "&Always use selection for all unassociated files"
 msgstr "関連付けされていないすべてのファイルに対して常にこの選択を使用する(&A)"
 
@@ -271,7 +271,7 @@ msgstr "常にこのアクションを使用する(&A)"
 msgid "&Ask your operating system for the external IP address"
 msgstr "オペレーティング システムに外部 IP アドレスを尋ねる(&A)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:762
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:48
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:118
 #: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:563
 msgid "&Auto"
@@ -285,7 +285,7 @@ msgstr "自動検出(&A)"
 msgid "&Background color:"
 msgstr "背景色(&B):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:777
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:52
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:120
 #: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:565
 msgid "&Binary"
@@ -299,14 +299,14 @@ msgstr "SI 接頭辞 (2進数) (例: 1 KB = 1024 バイト)(&B)"
 msgid "&Bookmarks"
 msgstr "ブックマーク(&B)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1104
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1515
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1609
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1341
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1021
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1432
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1526
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1133
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:71
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:933
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:301
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1772
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1768
 msgid "&Browse..."
 msgstr "参照(&B)..."
 
@@ -315,8 +315,8 @@ msgid "&Burst tolerance:"
 msgstr "バースト耐性(&B):"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:486
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2005
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2107
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1922
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2024
 #: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:75
 #: ../../../source/FileZilla3/locales/../src/interface/inputdialog.cpp:31
 #: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:784
@@ -360,10 +360,10 @@ msgstr "現在の接続をサイト マネージャーにコピー(&C)..."
 msgid "&Copy to clipboard"
 msgstr "クリップボードにコピー(&C)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1119
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1072
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:924
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:821
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:823
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1118
 msgid "&Create directory"
 msgstr "ディレクトリの作成(&C)"
 
@@ -375,7 +375,7 @@ msgstr "新規タブの作成(&C)"
 msgid "&Debug"
 msgstr "デバッグ(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1430
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1222
 msgid "&Debug information in message log:"
 msgstr "メッセージ ログのデバッグ情報(&D):"
 
@@ -393,14 +393,14 @@ msgid "&Delay between failed login attempts:"
 msgstr "ログイン失敗時の待機時間(&D):"
 
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:100
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1123
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:275
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:358
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:826
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:828
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1122
 msgid "&Delete"
 msgstr "削除(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1801
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1718
 msgid "&Delete symlink"
 msgstr "シンボリックリンクの削除(&D)"
 
@@ -416,17 +416,17 @@ msgstr "ディレクトリのパーミッション(&D)..."
 msgid "&Directory comparison"
 msgstr "ディレクトリの比較(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1085
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1086
 msgid ""
 "&Disable synchronized browsing and continue changing the local directory"
 msgstr "同期ブラウジングを無効にしてローカル ディレクトリの移動を継続(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1163
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1164
 msgid ""
 "&Disable synchronized browsing and continue changing the remote directory"
 msgstr "同期ブラウジングを無効にしてリモート ディレクトリの移動を継続(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1165
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1170
 msgid "&Discard local file then download and edit file anew"
 msgstr "ローカル ファイルを破棄して新たにファイルをダウンロード/編集(&D)"
 
@@ -450,7 +450,7 @@ msgstr "今後このダイアログを表示しない(&D)"
 msgid "&Don't use external IP address on local connections."
 msgstr "ローカル接続に外部 IP アドレスを使用しない(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1186
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:978
 msgid "&Double-click action on files:"
 msgstr "ファイルをダブルクリックしたときのアクション(&D):"
 
@@ -459,7 +459,7 @@ msgstr "ファイルをダブルクリックしたときのアクション(&D):"
 msgid "&Download"
 msgstr "ダウンロード(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1595
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1512
 msgid "&Download to:"
 msgstr "ダウンロード先(&D):"
 
@@ -468,7 +468,7 @@ msgid "&Download..."
 msgstr "ダウンロード(&D)..."
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:516
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:887
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:679
 msgid "&Downloads:"
 msgstr "ダウンロード(&D):"
 
@@ -477,7 +477,7 @@ msgid "&Duplicate"
 msgstr "複製(&D)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:68
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:818
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:820
 msgid "&Edit"
 msgstr "編集(&E)"
 
@@ -492,11 +492,11 @@ msgstr "フィルター ルールの編集(&E)..."
 msgid "&Enable"
 msgstr "有効(&E)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:632
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:77
 msgid "&Enable compression"
 msgstr "圧縮を有効にする(&E)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1933
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1850
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:46
 msgid "&Enable speed limits"
 msgstr "速度制限を有効にする(&E)"
@@ -513,7 +513,7 @@ msgstr "暗号化(&E)"
 msgid "&Enter custom command..."
 msgstr "カスタム コマンドの入力(&E)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1871
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1788
 msgid "&Establish connection in a new tab"
 msgstr "新規タブで接続を確立(&E)"
 
@@ -546,7 +546,7 @@ msgstr "パーミッションの変更(&F)..."
 msgid "&File permissions..."
 msgstr "パーミッションの変更(&F)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1092
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1009
 msgid "&File:"
 msgstr "ファイル(&F):"
 
@@ -574,7 +574,7 @@ msgstr "編集を終了(&F)"
 msgid "&Finish editing and delete local file"
 msgstr "編集を終了してローカル ファイルを削除する(&F)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1726
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1643
 msgid ""
 "&Flatten local paths, upload all contained files directly into target "
 "directory"
@@ -582,7 +582,7 @@ msgstr ""
 "ローカル パスをフラットにして、含まれるすべてのファイルをターゲット ディレク"
 "トリへ直接アップロード(&F)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1631
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1548
 msgid ""
 "&Flatten remote paths, download all contained files directly into target "
 "directory"
@@ -590,7 +590,7 @@ msgstr ""
 "リモート パスをフラットにして、含まれるすべてのファイルをターゲット ディレク"
 "トリへ直接ダウンロード(&F)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1808
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1725
 msgid "&Follow symlink, delete target directory contents"
 msgstr "シンボリックリンクを追跡して、ターゲット ディレクトリの内容を削除(&F)"
 
@@ -602,11 +602,11 @@ msgstr "以下の URL から外部 IP アドレスを取得(&G):"
 msgid "&Getting help..."
 msgstr "ヘルプの利用(&G)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1444
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1361
 msgid "&Global bookmark"
 msgstr "グローバル ブックマーク(&G)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:669
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:578
 msgid "&HTTP/1.1 using CONNECT method"
 msgstr "HTTP/1.1 の CONNECT メソッド(&H)"
 
@@ -628,7 +628,7 @@ msgstr "最高(&H)"
 msgid "&Highest available port:"
 msgstr "利用可能なポートの最大値(&H):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1239
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1156
 #: ../../../source/FileZilla3/locales/../src/interface/quickconnectbar.cpp:43
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:90
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:387
@@ -639,7 +639,7 @@ msgstr "ホスト(&H):"
 msgid "&IEC binary prefixes (e.g. 1 KiB = 1024 bytes)"
 msgstr "IEC 2進接頭辞 (例: 1 KiB = 1024 バイト)(&I)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:990
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:782
 msgid "&ISO 8601 (example: 2007-09-15)"
 msgstr "ISO 8601 (例: 2007-09-15)(&I)"
 
@@ -651,11 +651,11 @@ msgstr "インポート(&I)..."
 msgid "&Install new version"
 msgstr "新しいバージョンをインストール(&I)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1719
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1636
 msgid "&Keep local path structure relative to search root"
 msgstr "ローカル パス構造を検索のルートに対して相対的に保つ(&K)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1624
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1541
 msgid "&Keep remote path structure relative to search root"
 msgstr "リモート パス構造を検索のルートに対して相対的に保つ(&K)"
 
@@ -679,7 +679,7 @@ msgstr "同時接続数を制限する(&L)"
 msgid "&Local directory tree"
 msgstr "ローカル ディレクトリ ツリー(&L)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1500
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1417
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:295
 msgid "&Local directory:"
 msgstr "ローカル ディレクトリ(&L):"
@@ -688,7 +688,7 @@ msgstr "ローカル ディレクトリ(&L):"
 msgid "&Local search"
 msgstr "ローカル検索(&L)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1318
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1110
 msgid "&Log to file"
 msgstr "ファイルにログを記録する(&L)"
 
@@ -696,7 +696,7 @@ msgstr "ファイルにログを記録する(&L)"
 msgid "&Logon Type:"
 msgstr "ログオン タイプ(&L):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1294
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1211
 msgid "&Logontype:"
 msgstr "ログオン タイプ(&L):"
 
@@ -728,11 +728,11 @@ msgstr "メッセージ ログ(&M)"
 msgid "&Minimize to tray"
 msgstr "トレイに最小化する(&M)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1113
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:905
 msgid "&Name sorting mode:"
 msgstr "名前による並べ替え(&N):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1471
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1388
 msgid "&Name:"
 msgstr "名前(&N):"
 
@@ -757,12 +757,12 @@ msgid "&Next >"
 msgstr "次へ(&N) >"
 
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:791
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1198
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1203
 msgid "&No"
 msgstr "いいえ(&N)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:403
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:664
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:573
 #: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1802
 msgid "&None"
 msgstr "なし(&N)"
@@ -789,8 +789,8 @@ msgstr "OK(&O)"
 msgid "&OPEN"
 msgstr "OPEN(&O)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1116
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:817
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:819
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1115
 msgid "&Open"
 msgstr "開く(&O)"
 
@@ -810,7 +810,7 @@ msgstr "パスワード(&P):"
 msgid "&Play sound"
 msgstr "音を鳴らす(&P)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1252
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1169
 #: ../../../source/FileZilla3/locales/../src/interface/quickconnectbar.cpp:59
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:95
 msgid "&Port:"
@@ -861,12 +861,12 @@ msgstr "FileZilla が終了するまでマスター パスワードを記憶(&R)
 msgid "&Remember password until FileZilla is closed"
 msgstr "FileZilla が終了するまでパスワードを記憶(&R)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1527
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1444
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:303
 msgid "&Remote directory:"
 msgstr "リモート ディレクトリ(&R):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1128
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1045
 msgid "&Remote path:"
 msgstr "リモート パス(&R):"
 
@@ -874,26 +874,26 @@ msgstr "リモート パス(&R):"
 msgid "&Remote search"
 msgstr "リモート検索(&R)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:825
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:77
 msgid "&Remove"
 msgstr "削除(&R)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:595
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:64
 msgid "&Remove key"
 msgstr "鍵を削除(&R)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2220
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2137
 #: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1789
 msgid "&Remove selected"
 msgstr "選択したアイテムを削除(&R)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:101
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1124
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1079
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:929
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:274
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:357
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:827
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:829
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1123
 msgid "&Rename"
 msgstr "名前の変更(&R)"
 
@@ -901,7 +901,7 @@ msgstr "名前の変更(&R)"
 msgid "&Rename..."
 msgstr "名前の変更(&R)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1163
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1168
 msgid "&Reopen local file"
 msgstr "ローカル ファイルを再び開く(&R)"
 
@@ -937,7 +937,7 @@ msgstr "コマンドを実行(&R)..."
 msgid "&Run configuration wizard now..."
 msgstr "今すぐ設定ウィザードを実行(&R)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1280
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1072
 msgid "&Run update check now..."
 msgstr "今すぐアップデートを確認(&R)..."
 
@@ -945,7 +945,7 @@ msgstr "今すぐアップデートを確認(&R)..."
 msgid "&SITE"
 msgstr "SITE(&S)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:679
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:588
 msgid "&SOCKS 5"
 msgstr "SOCKS 5(&S)"
 
@@ -973,11 +973,11 @@ msgstr "エントリの選択(&S):"
 msgid "&Select language:"
 msgstr "言語の選択(&S):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:980
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:710
 msgid "&Select the columns that should be displayed:"
 msgstr "表示する列の選択(&S):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1167
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1084
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:136
 msgid "&Server"
 msgstr "サーバー(&S)"
@@ -990,7 +990,7 @@ msgstr "設定(&S)"
 msgid "&Settings..."
 msgstr "設定(&S)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1419
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1211
 msgid "&Show debug menu"
 msgstr "デバッグ メニューを表示する(&S)"
 
@@ -998,7 +998,7 @@ msgstr "デバッグ メニューを表示する(&S)"
 msgid "&Show detailed log"
 msgstr "詳細なログを表示(&S)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1313
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1105
 msgid "&Show timestamps in message log"
 msgstr "メッセージ ログにタイムスタンプを表示する(&S)"
 
@@ -1010,7 +1010,7 @@ msgstr "サイト マネージャー エントリ(&S)"
 msgid "&Site Manager..."
 msgstr "サイト マネージャー(&S)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1452
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1369
 msgid "&Site-specific bookmark"
 msgstr "サイト別ブックマーク(&S)"
 
@@ -1022,8 +1022,8 @@ msgstr "スキップ(&S)"
 msgid "&Speed limits"
 msgstr "速度制限(&S)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1642
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1737
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1559
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1654
 msgid "&Start transfer immediately"
 msgstr "今すぐ転送を開始(&S)"
 
@@ -1056,7 +1056,7 @@ msgstr "転送モード(&T):"
 msgid "&Transfer queue"
 msgstr "転送キュー(&T)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:849
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:85
 msgid "&Treat dotfiles as ASCII files"
 msgstr "ドットファイルを ASCII ファイルとして扱う(&T)"
 
@@ -1064,7 +1064,7 @@ msgstr "ドットファイルを ASCII ファイルとして扱う(&T)"
 msgid "&Trust this certificate on the listed alternative hostnames."
 msgstr "記載されている代替ホスト名でこの証明書を信頼する(&T)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1455
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1452
 msgid "&Unedit"
 msgstr "編集中を解除(&U)"
 
@@ -1072,12 +1072,12 @@ msgstr "編集中を解除(&U)"
 msgid "&Update cached key for this host"
 msgstr "このホストのキャッシュされた鍵を更新(&U)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1108
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:808
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:810
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1107
 msgid "&Upload"
 msgstr "アップロード(&U)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1696
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1613
 msgid "&Upload to:"
 msgstr "アップロード先(&U):"
 
@@ -1086,11 +1086,11 @@ msgid "&Upload..."
 msgstr "アップロード(&U)..."
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:539
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:908
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:700
 msgid "&Uploads:"
 msgstr "アップロード(&U):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1755
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1751
 msgid "&Use custom program"
 msgstr "カスタム プログラムを使用(&U)"
 
@@ -1114,7 +1114,7 @@ msgstr "代わりにサーバーの外部 IP アドレスを使用(&U)"
 msgid "&Use thousands separator"
 msgstr "桁区切りを使用する(&U)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1306
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1223
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:228
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:120
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:390
@@ -1144,7 +1144,7 @@ msgstr "表示/編集(&V)"
 msgid "&Watch locally edited files and prompt to upload modifications"
 msgstr "ローカルで編集したファイルを監視して変更のアップロードを促す(&W)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1256
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1048
 msgid "&When checking for updates, check for:"
 msgstr "アップデートの確認対象(&W):"
 
@@ -1153,7 +1153,7 @@ msgid "&Write"
 msgstr "書き込み(&W)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:788
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1195
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1200
 msgid "&Yes"
 msgstr "はい(&Y)"
 
@@ -1245,16 +1245,16 @@ msgstr "(10 - 9999, 0: 無効)"
 msgid "(app-compat is set to %d.%d)"
 msgstr "(app-compat は %d.%d に設定されています)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1057
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:849
 msgid "(example: %H:%M)"
 msgstr "(例: %H:%M)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1008
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:800
 msgid "(example: %Y-%m-%d)"
 msgstr "(例: %Y-%m-%d)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1952
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1969
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1869
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1886
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:57
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:65
 #, c-format
@@ -1275,12 +1275,6 @@ msgid ""
 "- In arguments, %%f is a placeholder for the file to be opened. Use %%%% for "
 "literal percents"
 msgstr ""
-"- コマンドと各引数はスペースで区切られます\n"
-"- 空白または二重引用符を含むコマンドまたは引数は、二重引用符で囲む必要があり"
-"ます\n"
-"- コマンドまたは引数内の二重引用符は二重にする必要があります\n"
-"- 引数では、%%f は開くファイルのプレースホルダーで、%%%% はリテラルのパーセン"
-"トに使用します"
 
 #: ../../../source/FileZilla3/locales/../src/interface/statuslinectrl.cpp:229
 msgid "--:--:-- left"
@@ -1302,19 +1296,19 @@ msgstr "-s と -c は同時に使用できません。"
 msgid "-s cannot be used together with an FTP URL."
 msgstr "-s は FTP URL と同時には使用できません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1440
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1232
 msgid "0 - None"
 msgstr "0 - なし"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1441
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1233
 msgid "1 - Warning"
 msgstr "1 - 警告"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1442
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1234
 msgid "2 - Info"
 msgstr "2 - 情報"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1443
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1235
 msgid "3 - Verbose"
 msgstr "3 - 詳細"
 
@@ -1322,7 +1316,7 @@ msgstr "3 - 詳細"
 msgid "32-bit system"
 msgstr "32 ビット システム"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1444
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1236
 msgid "4 - Debug"
 msgstr "4 - デバッグ"
 
@@ -1345,9 +1339,9 @@ msgstr ""
 msgid "A default editor needs to be set."
 msgstr "デフォルトのエディターを設定する必要があります。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:891
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:168
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:123
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:891
 msgid "A directory cannot be dragged into one of its subdirectories."
 msgstr "ディレクトリを自身のサブディレクトリにドラッグすることはできません。"
 
@@ -1365,11 +1359,11 @@ msgstr ""
 msgid "A file previously opened has been changed."
 msgstr "以前開かれたファイルは変更されています。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1127
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1132
 msgid "A file with that name is already being transferred."
 msgstr "その名前のファイルは既に転送されています。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1131
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1136
 msgid ""
 "A file with that name is still being edited. Please close it and try again."
 msgstr "その名前のファイルはまだ編集中です。閉じてから再度試してください。"
@@ -1389,7 +1383,7 @@ msgstr ""
 "す。\n"
 "以降このセッションでは警告を表示しません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2088
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2005
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:190
 msgid ""
 "A lost master password cannot be recovered! Please thoroughly memorize your "
@@ -1426,17 +1420,17 @@ msgstr ""
 "リモート操作が進行中で同期ブラウジングが有効です。\n"
 "同期ブラウジングを無効にしてローカル ディレクトリの変更を継続しますか?"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:770
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:50
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:119
 #: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:564
 msgid "A&SCII"
 msgstr "ASCII(&S)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:818
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:74
 msgid "A&dd"
 msgstr "追加(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:955
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:747
 msgid "A&llow resume of ASCII files"
 msgstr "ASCII ファイルの再開を許可する(&L)"
 
@@ -1456,7 +1450,7 @@ msgstr "すべてのファイルとディレクトリに適用(&P)"
 msgid "A&utomatically remove successful transfers"
 msgstr "成功した転送を自動的に削除(&U)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1383
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1300
 msgid "ASCII"
 msgstr "ASCII"
 
@@ -1494,11 +1488,11 @@ msgstr "アカウント"
 msgid "Action after queue &completion"
 msgstr "キュー完了後のアクション(&C)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1450
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1447
 msgid "Action on selected file:"
 msgstr "選択したファイルの操作:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1161
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1166
 msgid "Action to perform:"
 msgstr "実行するアクション:"
 
@@ -1540,23 +1534,23 @@ msgstr ""
 msgid "Active mode IP"
 msgstr "アクティブ モード IP"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1649
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1744
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1566
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1661
 msgid "Add files to &queue only"
 msgstr "キューにのみファイルを追加(&Q)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1111
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:919
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1110
 msgid "Add selected directory to the transfer queue"
 msgstr "選択したディレクトリを転送キューへ追加"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1065
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:811
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:813
 msgid "Add selected files and folders to the transfer queue"
 msgstr "選択したファイルとフォルダーを転送キューへ追加"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1194
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1214
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:986
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1006
 msgid "Add to queue"
 msgstr "キューに追加"
 
@@ -1568,7 +1562,7 @@ msgstr "サポートされていないアドレス タイプ"
 msgid "Advanced"
 msgstr "詳細"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1271
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1063
 msgid ""
 "Advice: Unless you want to test new features, please keep using stable "
 "versions only. Beta versions and nightly builds are development versions "
@@ -1581,7 +1575,7 @@ msgstr ""
 "リー ビルドは期待どおりに動作しない可能性があり、システムに損傷を与える可能性"
 "があります。ベータ版とナイトリー ビルドは、自己責任で使用してください。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1888
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1805
 msgid "Al&ways perform this action"
 msgstr "常にこのアクションを実行する(&W)"
 
@@ -1612,7 +1606,7 @@ msgstr "失敗時に他の転送モードへのフォールバックを許可す
 msgid "Allow fallback to other transfer mode on failure"
 msgstr "失敗時に他の転送モードへのフォールバックを許可する"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1848
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1765
 msgid "Already connected"
 msgstr "既に接続されています"
 
@@ -1621,7 +1615,7 @@ msgid "Alternative name:"
 msgid_plural "Alternative names:"
 msgstr[0] "フィルター名:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:605
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:69
 msgid ""
 "Alternatively you can use the Pageant tool from PuTTY to manage your keys, "
 "FileZilla does recognize Pageant."
@@ -1629,7 +1623,7 @@ msgstr ""
 "代わりに PuTTY の Pageant ツールを使用して鍵を管理できます。FileZilla は "
 "Pageant を認識します。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:610
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:71
 msgid ""
 "Alternatively you can use your system's SSH agent. To do so, make sure the "
 "SSH_AUTH_SOCK environment variable is set."
@@ -1675,7 +1669,7 @@ msgstr "目的の場所には既にドラッグしたアイテムと同じ名前
 msgid "Anonymous"
 msgstr "匿名"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1139
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1140
 msgid ""
 "Another remote operation is already in progress, cannot change directory now."
 msgstr "他のリモート操作が既に進行中のため現在はディレクトリを変更できません。"
@@ -1727,8 +1721,8 @@ msgstr "転送キュー ペイン内のタブ"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:524
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:547
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:894
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:915
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:686
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:707
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:159
 msgid "Ask for action"
 msgstr "アクションを尋ねる"
@@ -1747,7 +1741,7 @@ msgstr "オペレーティング システムにポートを尋ねる"
 msgid "Ask your operating system for the external IP address"
 msgstr "オペレーティング システムに外部 IP アドレスを尋ねる"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:95
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:94
 msgid "Asking questions in the FileZilla Forums"
 msgstr "FileZilla フォーラムでの質問と回答"
 
@@ -1775,11 +1769,11 @@ msgstr "認証に失敗しました。"
 msgid "Author:"
 msgstr "作者:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1361
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1278
 msgid "Auto"
 msgstr "自動"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:788
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:57
 msgid "Automatic file type classification"
 msgstr "ファイルの種類の自動判別"
 
@@ -1796,7 +1790,7 @@ msgstr "プロキシを無視する(&Y)"
 msgid "Bad file descriptor"
 msgstr "不正なファイル記述子"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:104
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:103
 msgid "Basic usage instructions"
 msgstr "基本的な使用手順"
 
@@ -1804,12 +1798,12 @@ msgstr "基本的な使用手順"
 msgid "Behaviour"
 msgstr "挙動"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1402
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1429
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1399
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1426
 msgid "Being edited"
 msgstr "編集中"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1388
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1305
 msgid "Binary"
 msgstr "バイナリ"
 
@@ -1892,7 +1886,7 @@ msgstr "URL をクリップボードにコピー(&O)"
 msgid "C&opy URL(s) with password to clipboard"
 msgstr "パスワード付き URL をクリップボードにコピー(&O)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:995
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:787
 msgid "C&ustom"
 msgstr "カスタム(&U)"
 
@@ -1935,24 +1929,24 @@ msgstr "ファイルにデータを書き込めません: %s"
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:662
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:720
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:785
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1032
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1414
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1569
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1666
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1761
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1831
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1906
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2169
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2240
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1331
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1486
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1583
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1678
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1748
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1823
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2086
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2157
 #: ../../../source/FileZilla3/locales/../src/interface/filter.cpp:201
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:143
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:124
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:266
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:284
 #: ../../../source/FileZilla3/locales/../src/interface/fileexistsdlg.cpp:103
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:737
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:373
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1191
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1780
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1196
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1776
 msgid "Cancel"
 msgstr "キャンセル"
 
@@ -2005,19 +1999,19 @@ msgstr ""
 msgid "Cannot create new filter"
 msgstr "新しいフィルターを作成できません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1929
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1080
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1297
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1625
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2020
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1078
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1301
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1931
 msgid "Cannot edit file"
 msgstr "ファイルを編集できません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1808
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1810
 msgid "Cannot edit file, not connected to any server."
 msgstr "どのサーバーにも接続されていないため、ファイルを編集できません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1817
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1819
 msgid "Cannot edit file, remote path unknown."
 msgstr "リモート パスが不明のため、ファイルを編集できません。"
 
@@ -2029,7 +2023,7 @@ msgstr ""
 "SFTP サーバーに対して FTP 接続を確立できません、適切なプロトコルを選択してく"
 "ださい。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:128
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:168
 msgid "Cannot load key file"
 msgstr "鍵ファイルを読み込めません"
 
@@ -2059,18 +2053,19 @@ msgstr "フィルターセットを保存できません"
 msgid "Cannot select filter"
 msgstr "フィルターを選択できません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1826
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1831
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1845
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1822
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1827
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1841
 msgid "Cannot set file association"
 msgstr "ファイルの関連付けを設定できません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1354
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1351
 msgid "Cannot show dialog"
 msgstr "ダイアログを表示できません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1127
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1273
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1113
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1132
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1278
 msgid "Cannot view/edit selected file"
 msgstr "選択したファイルは表示/編集できません"
 
@@ -2078,19 +2073,19 @@ msgstr "選択したファイルは表示/編集できません"
 msgid "Case Insensitive"
 msgstr "大文字と小文字を区別しない"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1122
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:914
 msgid "Case insensitive"
 msgstr "大文字と小文字を区別しない"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1121
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:913
 msgid "Case insensitive (default)"
 msgstr "大文字と小文字を区別しない (デフォルト)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1123
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:915
 msgid "Case sensitive"
 msgstr "大文字と小文字を区別する"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1124
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:916
 msgid "Case sensitive (default)"
 msgstr "大文字と小文字を区別する (デフォルト)"
 
@@ -2123,7 +2118,7 @@ msgstr "パーミッションの変更"
 msgid "Change the file permissions."
 msgstr "パーミッションを変更します。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1391
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1183
 msgid "Changing logfile settings requires restart of FileZilla."
 msgstr "ログ ファイルの設定の変更には FileZilla の再起動が必要です。"
 
@@ -2139,7 +2134,7 @@ msgstr "文字コード"
 msgid "Check for &updates..."
 msgstr "アップデートの確認(&U)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1238
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1030
 msgid "Check for FileZilla &updates automatically:"
 msgstr "アップデートの自動確認(&U):"
 
@@ -2287,11 +2282,11 @@ msgstr "現在のタブを閉じる"
 msgid "Co&mments:"
 msgstr "コメント(&M):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:760
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:806
 msgid "Column properties"
 msgstr "列のプロパティ"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:965
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:700
 msgid "Column setup"
 msgstr "列の設定"
 
@@ -2321,7 +2316,7 @@ msgstr "このプロトコルでサポートされていないコマンドです
 msgid "Command:"
 msgstr "コマンド:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:38
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:86
 msgid "Comment"
 msgstr "コメント"
 
@@ -2348,7 +2343,7 @@ msgstr "ファイル サイズで比較(&S)"
 msgid "Compare:"
 msgstr "比較:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1155
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:947
 msgid "Comparison &threshold (in minutes):"
 msgstr "比較の閾値 (分)(&T):"
 
@@ -2397,7 +2392,7 @@ msgstr "パッシブ モードを設定"
 msgid "Configure port range"
 msgstr "ポート範囲を設定"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:105
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:104
 msgid "Configuring FileZilla and your network"
 msgstr "FileZilla とネットワークの設定"
 
@@ -2407,11 +2402,11 @@ msgstr "削除の確認"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1436
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:1129
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1894
 #: ../../../source/FileZilla3/locales/../src/interface/file_utils.h:60
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1092
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1637
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1984
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1090
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1896
 msgid "Confirmation needed"
 msgstr "必要な確認"
 
@@ -2663,7 +2658,7 @@ msgstr "この転送の URI を作成できません。"
 msgid "Could not create local file %s\n"
 msgstr "ローカル ファイル %s に書き込めません\n"
 
-#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:198
+#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:197
 #, c-format
 msgid "Could not create logging mutex: %s"
 msgstr "ロギング ミューテックスを作成できません: %s"
@@ -2673,7 +2668,7 @@ msgstr "ロギング ミューテックスを作成できません: %s"
 msgid "Could not create security-scoped bookmark from URL:"
 msgstr "URL からセキュリティ スコープ付きブックマークを作成できません:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1273
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1278
 msgid "Could not create temporary file name."
 msgstr "一時ファイル名を作成できません。"
 
@@ -2712,7 +2707,7 @@ msgstr "カスタム ログイン シーケンスを生成できません。"
 msgid "Could not generate key"
 msgstr "鍵を生成できません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1124
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1125
 msgid "Could not get full remote path."
 msgstr "完全なリモート パスを取得できません。"
 
@@ -2730,8 +2725,8 @@ msgstr "URL からパスを取得できません"
 msgid "Could not get reply from fzputtygen."
 msgstr "fzputtygen からの結果を取得できません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1080
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1625
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1078
 msgid "Could not get temporary directory to download file into."
 msgstr "ファイルをダウンロードする一時ディレクトリを取得できません。"
 
@@ -2764,7 +2759,7 @@ msgstr "鍵ファイルを読み込めません"
 msgid "Could not load private key"
 msgstr "秘密鍵を読み込めません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1147
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1148
 #, c-format
 msgid ""
 "Could not obtain corresponding local directory for the remote directory "
@@ -2815,10 +2810,10 @@ msgid "Could not open clipboard"
 msgstr "クリップボードを開くことができません"
 
 #: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:125
-#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:211
-#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:255
-#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:293
-#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:319
+#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:210
+#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:254
+#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:292
+#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:318
 #, c-format
 msgid "Could not open log file: %s"
 msgstr "ログ ファイルを開けません: %s"
@@ -2944,8 +2939,8 @@ msgstr "鍵ファイルに書き込めません: %s"
 msgid "Could not write to local file"
 msgstr "ローカル ファイルに書き込めません"
 
-#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:268
-#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:336
+#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:267
+#: ../../../source/FileZilla3/locales/../src/engine/logging.cpp:335
 #, c-format
 msgid "Could not write to log file: %s"
 msgstr "ログ ファイルに書き込めません: %s"
@@ -2965,25 +2960,25 @@ msgstr "国:"
 msgid "Crea&te new file"
 msgstr "新しいファイルの作成(&T)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1162
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1163
 msgid "Create &missing local directory and enter it"
 msgstr "ディレクトリを作成して移動(&M)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1084
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1085
 msgid "Create &missing remote directory and enter it"
 msgstr "ディレクトリを作成して移動(&M)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1119
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1072
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:924
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:821
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:823
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1118
 msgid "Create a new subdirectory in the current directory"
 msgstr "現在のディレクトリに新しいサブディレクトリを作成"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1120
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1073
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:925
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:822
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:824
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1119
 msgid "Create a new subdirectory in the current directory and change into it"
 msgstr "現在のディレクトリに新しいサブディレクトリを作成して移動"
 
@@ -2991,17 +2986,17 @@ msgstr "現在のディレクトリに新しいサブディレクトリを作成
 msgid "Create a new, empty file in the current directory"
 msgstr "現在のディレクトリに空のファイルを作成"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1120
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1073
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:925
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:822
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:824
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1119
 msgid "Create director&y and enter it"
 msgstr "ディレクトリを作成して移動(&Y)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1238
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1334
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:1328
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:992
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:994
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1237
 msgid "Create directory"
 msgstr "ディレクトリを作成"
 
@@ -3068,7 +3063,7 @@ msgid "Curve:"
 msgstr "曲線:"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:423
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1044
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:836
 msgid "Cus&tom"
 msgstr "カスタム(&T)"
 
@@ -3096,8 +3091,8 @@ msgstr "カスタム キーは空にできません。"
 msgid "Custom key length must be 256-bit."
 msgstr "カスタム キーの長さは 256 ビットでなければなりません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1218
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1232
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1135
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1149
 msgid "Custom server"
 msgstr "カスタム サーバー"
 
@@ -3105,7 +3100,7 @@ msgstr "カスタム サーバー"
 msgid "Cyan"
 msgstr "Cyan"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1352
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1269
 msgid "D&ata type"
 msgstr "データ形式(&A)"
 
@@ -3124,7 +3119,7 @@ msgstr "デフォルト(&E)"
 msgid "D&elete"
 msgstr "削除(&E)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1550
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1467
 msgid "D&irectory comparison"
 msgstr "ディレクトリの比較を有効にする(&I)"
 
@@ -3132,12 +3127,12 @@ msgstr "ディレクトリの比較を有効にする(&I)"
 msgid "D&isable all"
 msgstr "すべて無効(&I)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2044
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1961
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:178
 msgid "D&o not save passwords"
 msgstr "パスワードを保存しない(&O)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1203
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:995
 msgid "D&ouble-click action on directories:"
 msgstr "ディレクトリをダブルクリックしたときのアクション(&O):"
 
@@ -3149,11 +3144,7 @@ msgstr "複製(&U)"
 msgid "DOS-like with virtual paths"
 msgstr "DOS 風の仮想パス"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1301
-msgid "Dangerous filetype"
-msgstr "危険なファイルの種類"
-
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:39
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:87
 msgid "Data"
 msgstr "データ"
 
@@ -3166,7 +3157,7 @@ msgstr "データ ソケットは早々に閉じられました。"
 msgid "Date"
 msgstr "日付"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:978
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:770
 msgid "Date formatting"
 msgstr "日付の書式"
 
@@ -3182,7 +3173,7 @@ msgstr "日付/時刻が不明"
 msgid "Debug"
 msgstr "デバッグ"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1412
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1204
 msgid "Debugging settings"
 msgstr "デバッグの設定"
 
@@ -3204,7 +3195,7 @@ msgstr "デフォルトのエディターが引用符で適切に囲まれてい
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:496
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:566
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:934
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:726
 msgid "Default file exists action"
 msgstr "ファイル存在時のデフォルトのアクション"
 
@@ -3220,7 +3211,7 @@ msgstr ""
 "デフォルトのリモート パスを構文解析できません。選択したサーバー タイプに有効"
 "な絶対パスであることを確認してください。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_language.cpp:69
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_language.cpp:68
 msgid "Default system language"
 msgstr "デフォルトのシステム言語"
 
@@ -3228,7 +3219,7 @@ msgstr "デフォルトのシステム言語"
 msgid "Default transfer mode:"
 msgstr "デフォルトの転送モード:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:758
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:47
 msgid "Default transfer type:"
 msgstr "デフォルトの転送タイプ:"
 
@@ -3256,13 +3247,13 @@ msgstr[0] "前回の接続失敗から %d 秒間再接続を遅延させてい�
 msgid "Delete Site Manager entries"
 msgstr "サイト マネージャー エントリの削除"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1123
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:928
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1122
 msgid "Delete selected directory"
 msgstr "選択したディレクトリを削除"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1078
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:826
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:828
 msgid "Delete selected files and directories"
 msgstr "選択したファイルとフォルダーを削除"
 
@@ -3276,11 +3267,11 @@ msgstr "ディレクトリを削除中 \"%s\""
 msgid "Deleting %u files from \"%s\""
 msgstr "%u 個のファイルを \"%s\" から削除中"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1779
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1696
 msgid "Deleting symbolic link"
 msgstr "シンボリックリンクを削除中"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1033
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1032
 msgid "Desktop"
 msgstr "デスクトップ"
 
@@ -3306,7 +3297,7 @@ msgstr "ディレクトリ(&C)"
 msgid "Direction"
 msgstr "方向"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2202
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2119
 msgid "Directories:"
 msgstr "ディレクトリ:"
 
@@ -3314,11 +3305,11 @@ msgstr "ディレクトリ:"
 msgid "Directory"
 msgstr "ディレクトリ"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2250
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2167
 msgid "Directory access permissions"
 msgstr "ディレクトリのアクセス許可"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1141
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:933
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2372
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2392
 #: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:51
@@ -3366,7 +3357,7 @@ msgstr "ディレクトリ リストの表示成功"
 msgid "Disa&ble all"
 msgstr "すべて無効(&B)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1155
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1156
 msgid ""
 "Disable synchronized browsing and continue changing the remote directory?"
 msgstr "同期ブラウジングを無効にしてリモート ディレクトリの変更を継続しますか?"
@@ -3414,7 +3405,7 @@ msgstr "ダイアログについて表示"
 msgid "Do &not use default editor"
 msgstr "デフォルトのエディターを使用しない(&N)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1178
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1183
 msgid "Do the same with &all selected files already being edited"
 msgstr "既に編集中のすべての選択したファイルで同じ操作を行う(&A)"
 
@@ -3445,11 +3436,11 @@ msgstr "本当に転送キューを削除しますか?"
 msgid "Do you really want to send '%s' to the server?"
 msgstr "本当にサーバーに「%s」を送信しますか?"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1158
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1163
 msgid "Do you want to reopen this file?"
 msgstr "このファイルを開き直しますか?"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:100
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:99
 msgid "Documentation"
 msgstr "ドキュメント"
 
@@ -3457,20 +3448,20 @@ msgstr "ドキュメント"
 msgid "Don't use external IP address on &local connections."
 msgstr "ローカル接続に外部 IP アドレスを使用しない(&L)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:855
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:88
 msgid "Dotfiles are filenames starting with a dot, e.g. .htaccess"
 msgstr ""
 "ドットファイルとはファイル名がドットで始まるファイルです。 例: .htaccess"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1179
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:971
 msgid "Double-click action"
 msgstr "ダブルクリックしたときのアクション"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1061
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:978
 msgid "Download"
 msgstr "ダウンロード"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1941
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1858
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:51
 msgid "Download &limit:"
 msgstr "ダウンロード制限(&L):"
@@ -3484,7 +3475,7 @@ msgstr "ダウンロード制限: %s/s"
 msgid "Download limit: none"
 msgstr "ダウンロード制限: なし"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1583
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1500
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1332
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1337
 msgid "Download search results"
@@ -3507,7 +3498,7 @@ msgstr ""
 "ダウンロード速度: %s/s\n"
 "アップロード速度: %s/s"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1387
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1384
 msgid "Downloading"
 msgstr "ダウンロード中"
 
@@ -3520,21 +3511,21 @@ msgstr "%s をダウンロード中"
 msgid "Downloading update..."
 msgstr "ダウンロード中..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:123
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:96
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:117
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:99
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:117
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:96
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:123
 msgid ""
 "Drag&drop between different instances of FileZilla has not been implemented "
 "yet."
 msgstr "FileZilla の異なるインスタンス間でのドラッグ＆ドロップは未実装です。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:129
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:110
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:122
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:104
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:122
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:110
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:129
 msgid "Drag&drop between different servers has not been implemented yet."
 msgstr "異なるサーバー間でのドラッグ＆ドロップは未実装です。"
 
@@ -3547,7 +3538,7 @@ msgid "E&nable all"
 msgstr "すべて有効(&N)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1068
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:814
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:816
 msgid "E&nter directory"
 msgstr "ディレクトリを開く(&N)"
 
@@ -3559,9 +3550,9 @@ msgstr "実行(&X)"
 msgid "E&xit"
 msgstr "終了(&X)"
 
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1815
 #: ../../../source/FileZilla3/locales/../src/interface/queueview_failed.cpp:38
 #: ../../../source/FileZilla3/locales/../src/interface/queueview_successful.cpp:34
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1815
 msgid "E&xport..."
 msgstr "エクスポート(&X)..."
 
@@ -3577,7 +3568,7 @@ msgstr "各フィルターは少なくとも 1 つの条件を必要とします
 msgid "Edit filters"
 msgstr "フィルター編集"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:818
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:820
 msgid ""
 "Edit the file with the configured editor and upload changes to the server."
 msgstr ""
@@ -3587,8 +3578,8 @@ msgstr ""
 msgid "Editing directories is not supported"
 msgstr "複数ディレクトリの編集はサポートされていません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1808
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1817
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1810
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1819
 msgid "Editing failed"
 msgstr "編集に失敗"
 
@@ -3667,7 +3658,7 @@ msgstr "比較を終了してクイック検索を開きますか?"
 msgid "Enter &custom command..."
 msgstr "カスタム コマンドの入力(&C)..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1982
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1899
 msgid "Enter 0 for unlimited speed."
 msgstr "速度を無制限にするには 0 を入力してください。"
 
@@ -3679,7 +3670,7 @@ msgstr "コマンドを入力"
 msgid "Enter custom command"
 msgstr "カスタム コマンドの入力"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1212
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1004
 msgid "Enter directory"
 msgstr "ディレクトリに移動"
 
@@ -3707,7 +3698,7 @@ msgid "Enter password"
 msgstr "パスワードを入力"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1068
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:814
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:816
 msgid "Enter selected directory"
 msgstr "選択したディレクトリに移動"
 
@@ -3784,14 +3775,17 @@ msgstr "キューの読み込みエラー"
 #: ../../../source/FileZilla3/locales/../src/interface/filter.cpp:943
 #: ../../../source/FileZilla3/locales/../src/interface/filter.cpp:1034
 #: ../../../source/FileZilla3/locales/../src/interface/wrapengine.cpp:943
-#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:66
-#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:137
 #: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:285
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1551
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:177
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:339
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:795
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:835
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:888
+#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:66
+#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:137
+#: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1771
+#: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1805
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:41
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:472
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:532
@@ -3801,9 +3795,6 @@ msgstr "キューの読み込みエラー"
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:941
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:742
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:802
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1551
-#: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1771
-#: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1805
 msgid "Error loading xml file"
 msgstr "xml ファイルの読み込みエラー"
 
@@ -3819,6 +3810,7 @@ msgid "Error starting program"
 msgstr "プログラムの開始エラー"
 
 #: ../../../source/FileZilla3/locales/../src/interface/xmlfunctions.cpp:155
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1571
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:375
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:930
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:581
@@ -3826,7 +3818,6 @@ msgstr "プログラムの開始エラー"
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:763
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:825
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1950
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1571
 msgid "Error writing xml file"
 msgstr "xml ファイルの書き込みエラー"
 
@@ -3932,12 +3923,12 @@ msgid "FTPS - FTP over implicit TLS"
 msgstr "FTPS - FTP over TLS (暗黙的)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/viewheader.cpp:504
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:909
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1211
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:563
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:636
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:979
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:2012
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:565
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:638
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:981
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:2014
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:908
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1210
 msgid "Failed to change directory"
 msgstr "ディレクトリ変更に失敗しました"
 
@@ -3973,11 +3964,11 @@ msgstr "アクティブ モード転送のためのリスニング ソケット�
 msgid "Failed to decrypt server password."
 msgstr "サーバーのパスワードを復号化できません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:659
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:658
 msgid "Failed to get 'My Documents' path"
 msgstr "「ドキュメント」のパス取得に失敗しました"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:646
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:645
 msgid "Failed to get desktop path"
 msgstr "デスクトップへのパスの取得に失敗しました"
 
@@ -4117,7 +4108,7 @@ msgstr "アクティブ モードに戻す"
 msgid "Fil&e sizes"
 msgstr "ファイル サイズ(&E)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1140
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1057
 msgid "Fil&e:"
 msgstr "ファイル(&E):"
 
@@ -4161,7 +4152,7 @@ msgstr "ファイル リスト"
 #: ../../../source/FileZilla3/locales/../src/engine/storj/resolve.cpp:174
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:194
 #: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:689
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1891
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1887
 msgid "File not found"
 msgstr "ファイルが見つかりません"
 
@@ -4206,11 +4197,11 @@ msgstr "%s (%s) のファイル転送に成功しました"
 msgid "File transfers still in progress."
 msgstr "ファイル転送はまだ進行中です。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1371
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1288
 msgid "File would transfer with ASCII data type."
 msgstr "ファイルは ASCII データ形式で転送されます。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1376
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1293
 msgid "File would transfer with binary data type."
 msgstr "ファイルはバイナリ データ形式で転送されます。"
 
@@ -4225,7 +4216,7 @@ msgid ""
 "properly."
 msgstr "FileZilla ではすべての設定が適切か確認するために設定をテストできます。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1866
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1783
 msgid "FileZilla is already connected to a server."
 msgstr "FileZilla は既にサーバーに接続されています。"
 
@@ -4233,7 +4224,7 @@ msgstr "FileZilla は既にサーバーに接続されています。"
 msgid "FileZilla needs to be restarted for the language change to take effect."
 msgstr "言語設定を有効にするには、FileZilla を再起動する必要があります。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1297
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1089
 msgid "FileZilla updates"
 msgstr "Filezilla のアップデート"
 
@@ -4241,12 +4232,12 @@ msgstr "Filezilla のアップデート"
 msgid "Filelist status &bars"
 msgstr "ファイル リストのステータス バー(&B)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:37
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:85
 #: ../../../source/FileZilla3/locales/../src/interface/filter_conditions_dialog.cpp:100
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:337
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:288
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1373
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:176
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1370
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:288
 msgid "Filename"
 msgstr "名前"
 
@@ -4264,22 +4255,22 @@ msgstr "ファイル名が不正です"
 msgid "Filename unchanged"
 msgstr "ファイル名は変更されません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1329
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1121
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:752
 msgid "Filename:"
 msgstr "ファイル名:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/file_utils.cpp:530
+#: ../../../source/FileZilla3/locales/../src/interface/file_utils.cpp:534
 msgid "Filenames may not contain any of the following characters: / * ? < > |"
 msgstr "ファイル名に使用できない文字: / * ? < > |"
 
-#: ../../../source/FileZilla3/locales/../src/interface/file_utils.cpp:495
+#: ../../../source/FileZilla3/locales/../src/interface/file_utils.cpp:499
 msgid ""
 "Filenames may not contain any of the following characters: / \\ : * ? \" < > "
 "|"
 msgstr "ファイル名に使用できない文字: / \\ : * ? \" < > |"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1358
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1355
 msgid "Files currently being edited"
 msgstr "編集中のファイルがあります"
 
@@ -4294,8 +4285,8 @@ msgstr "ファイルが見つかりません"
 
 #: ../../../source/FileZilla3/locales/../src/interface/filter_conditions_dialog.cpp:104
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:338
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:289
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:178
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:289
 msgid "Filesize"
 msgstr "サイズ"
 
@@ -4304,8 +4295,8 @@ msgid "Filesize format"
 msgstr "ファイル サイズの書式"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:339
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:290
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:179
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:290
 msgid "Filetype"
 msgstr "種類"
 
@@ -4404,6 +4395,10 @@ msgid ""
 msgstr ""
 "このセッションではデフォルトの設定を使用します。設定の変更は保存されません。"
 
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1113
+msgid "Forbidden character in file extension."
+msgstr "ファイルの拡張子に禁止文字があります。"
+
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1083
 msgid "Force &UTF-8"
 msgstr "UTF-8 を強制(&U)"
@@ -4435,7 +4430,7 @@ msgstr "新しい %s %s が見つかりました\n"
 msgid "Function %s failed"
 msgstr "関数 %s は失敗しました"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:106
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:105
 msgid "Further documentation"
 msgstr "さらに詳しいドキュメント"
 
@@ -4451,7 +4446,7 @@ msgstr "SOCKS サーバーの一般エラー"
 msgid "Generate..."
 msgstr "自動生成..."
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:651
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:560
 #: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:124
 msgid "Generic proxy"
 msgstr "汎用プロキシ"
@@ -4460,7 +4455,7 @@ msgstr "汎用プロキシ"
 msgid "Get external IP address from the following URL:"
 msgstr "以下の URL から外部 IP アドレスを取得:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:91
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:90
 msgid "Getting help"
 msgstr "ヘルプを取得"
 
@@ -4576,7 +4571,7 @@ msgstr ""
 "マスター パスワードを忘れてしまいました。この鍵で保存されているすべてのパス"
 "ワードを削除します。(&F)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1039
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:831
 msgid "I&SO 8601 (example: 15:47)"
 msgstr "ISO 8601 (例: 15:47)(&S)"
 
@@ -4603,7 +4598,7 @@ msgstr ""
 "操作中に指定された時間を超えてもデータが送受信されない場合には、接続は閉じら"
 "れ、FileZilla は必要なときに自動で再接続を試みます。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1461
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1253
 msgid "If reporting bugs, please provide logs with \"Verbose\" logging level."
 msgstr ""
 "バグを報告していただく場合は、ログ レベル \"詳細\" でのログの提供をお願いしま"
@@ -4652,7 +4647,7 @@ msgstr ""
 "問題が続く場合は、ルーター/ファイアウォールが接続を中断している可能性がありま"
 "す。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1384
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1176
 msgid ""
 "If the size of the logfile reaches the limit, it gets renamed by adding "
 "\".1\" to the end of the filename (possibly overwriting older logfiles) and "
@@ -4662,7 +4657,7 @@ msgstr ""
 "た名前に変更して新規ファイルを作成します。(古いログ ファイルを上書きする可能"
 "性があります)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1791
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1708
 msgid ""
 "If the symlink points to a directory, FileZilla can either delete the "
 "symbolic link or remove the contents of the linked directory."
@@ -4683,7 +4678,7 @@ msgid "If this problem stays, please contact your router manufacturer."
 msgstr "この問題が解決しない場合は、ルーターの製造元にお問い合わせください。"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:575
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:947
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:739
 msgid ""
 "If using 'overwrite if newer', your system time has to be synchronized with "
 "the server. If the time differs (e.g. different timezone), specify a time "
@@ -4693,7 +4688,7 @@ msgstr ""
 "している必要があります。時刻が異なっている場合 (例: 異なるタイムゾーン) は、"
 "サイト マネージャーでタイムゾーンのオフセットを指定してください。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1148
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:940
 msgid ""
 "If using timestamp based comparison, consider two files equal if their "
 "timestamp difference does not exceed this threshold."
@@ -4701,7 +4696,7 @@ msgstr ""
 "更新日時で比較を行う場合は、更新日時の差が以下の閾値を超えなければ 2 つのファ"
 "イルを同一と見なします。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_language.cpp:27
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_language.cpp:26
 msgid "If you change the language, you need to restart FileZilla."
 msgstr "言語の変更には FileZilla の再起動が必要です。"
 
@@ -4724,7 +4719,7 @@ msgid ""
 msgstr ""
 "続行すると、パスワードとファイルはインターネット経由でそのまま送信されます。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:835
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:81
 msgid ""
 "If you enter the wrong filetypes, those files may get corrupted when "
 "transferred."
@@ -4924,8 +4919,8 @@ msgstr "不正なデータを受信しました"
 msgid "Invalid date"
 msgstr "不正な日付"
 
-#: ../../../source/FileZilla3/locales/../src/interface/file_utils.cpp:495
-#: ../../../source/FileZilla3/locales/../src/interface/file_utils.cpp:530
+#: ../../../source/FileZilla3/locales/../src/interface/file_utils.cpp:499
+#: ../../../source/FileZilla3/locales/../src/interface/file_utils.cpp:534
 msgid "Invalid filename"
 msgstr "不正なファイル名"
 
@@ -5041,7 +5036,7 @@ msgstr "管轄する地方:"
 msgid "Jurisdiction state or province:"
 msgstr "管轄する都道府県:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1105
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:897
 msgid "Keep directories on top"
 msgstr "ディレクトリを常に先頭に"
 
@@ -5087,8 +5082,8 @@ msgid "Language changed"
 msgstr "言語が変更されました"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:340
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:291
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:180
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:291
 msgid "Last modified"
 msgstr "更新日時"
 
@@ -5118,11 +5113,11 @@ msgstr "同時アップロード数の上限(&U):"
 msgid "Limit local ports"
 msgstr "ローカル ポートの制限"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1353
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1145
 msgid "Limit size of logfile"
 msgstr "ログ ファイルのサイズを制限する"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1361
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1153
 msgid "Limit:"
 msgstr "制限:"
 
@@ -5148,8 +5143,8 @@ msgstr "リスト:"
 msgid "Lo&west available port:"
 msgstr "利用可能なポートの最小値(&W):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1419
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1667
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1416
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1664
 msgid "Local"
 msgstr "ローカル"
 
@@ -5161,7 +5156,7 @@ msgstr "使用中のローカル アドレス"
 msgid "Local endpoint has been closed"
 msgstr "ローカル エンドポイントは閉じられています"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1084
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1001
 msgid "Local file"
 msgstr "ローカル ファイル"
 
@@ -5192,7 +5187,7 @@ msgstr "ローカル ファイルの検索"
 msgid "Local filters:"
 msgstr "ローカル フィルター:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1714
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1631
 msgid "Local path handling:"
 msgstr "ローカル パスの処理:"
 
@@ -5221,7 +5216,7 @@ msgstr "ログ ファイル"
 msgid "Logged in"
 msgstr "ログインしました"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1307
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1099
 #: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:142
 msgid "Logging"
 msgstr "ログ"
@@ -5326,7 +5321,7 @@ msgstr "不正なレスポンス ヘッダー: %s"
 msgid "Malformed response: %s"
 msgstr "不正なレスポンス: %s"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1426
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1343
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:291
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:297
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:303
@@ -5343,7 +5338,7 @@ msgstr "手動転送"
 msgid "Master &Password:"
 msgstr "マスター パスワード(&P):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2060
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1977
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:183
 msgid "Master password:"
 msgstr "マスター パスワード:"
@@ -5385,7 +5380,7 @@ msgstr "メッセージ ログの位置(&N):"
 msgid "Message too large"
 msgstr "メッセージが長過ぎます"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1373
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1165
 msgid "MiB"
 msgstr "MiB"
 
@@ -5397,19 +5392,19 @@ msgstr "分"
 msgid "Modification tim&e"
 msgstr "更新時間(&E)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:999
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:727
 msgid "Move &down"
 msgstr "下に移動(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:993
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:723
 msgid "Move &up"
 msgstr "上に移動(&U)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1050
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1049
 msgid "My Computer"
 msgstr "PC"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1041
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1040
 msgid "My Documents"
 msgstr "ドキュメント"
 
@@ -5428,7 +5423,7 @@ msgstr "暗号化なし(&O)"
 msgid "N/a"
 msgstr "利用不可"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1464
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1381
 msgid "Name"
 msgstr "名前"
 
@@ -5454,7 +5449,7 @@ msgstr "名前またはメール アドレス"
 msgid "Name:"
 msgstr "名前:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1125
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:917
 msgid "Natural sort"
 msgstr "自然な並べ替え"
 
@@ -5491,7 +5486,7 @@ msgstr ""
 msgid "Network unreachable"
 msgstr "ネットワークに到達できません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1244
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1036
 msgid "Never"
 msgstr "しない"
 
@@ -5508,7 +5503,7 @@ msgstr "新規タブ(&T)"
 msgid "New Book&mark"
 msgstr "新規ブックマーク(&M)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1429
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1346
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:64
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:77
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:83
@@ -5527,13 +5522,13 @@ msgstr "新規ブックマーク(&M)"
 msgid "New bookmark"
 msgstr "新規ブックマーク"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1242
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1347
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:1342
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1241
 msgid "New directory"
 msgstr "新規ディレクトリ"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:86
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:85
 #, c-format
 msgid "New features and improvements in %s"
 msgstr "%s での新機能と改善点"
@@ -5585,7 +5580,7 @@ msgstr "「%s」に一致するエントリは見つかりません。"
 msgid "No external IP address set, trying default."
 msgstr "外部 IP アドレスが設定されていないため、デフォルトを試しています。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1354
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1351
 msgid "No files are currently being edited."
 msgstr "現在編集中のファイルはありません。"
 
@@ -5608,19 +5603,19 @@ msgstr "利用できる画像はありません"
 msgid "No name for the filterset given."
 msgstr "フィルターセット名が入力されていません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1710
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1707
 msgid "No program associated with filetype"
 msgstr "ファイルの種類に関連付けられたプログラムがありません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1720
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1717
 msgid "No program has been associated to edit dotfiles."
 msgstr "ドットファイルの編集に関連付けられたプログラムはありません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1717
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1714
 msgid "No program has been associated to edit extensionless files."
 msgstr "拡張子なしのファイルの編集に関連付けられたプログラムはありません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1723
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1720
 #, c-format
 msgid "No program has been associated to edit files with the extension '%s'."
 msgstr "拡張子「%s」のファイルの編集に関連付けられたプログラムはありません。"
@@ -5646,14 +5641,14 @@ msgstr "サポートされた SOCKS5 認証メソッドがありません"
 msgid "No username given."
 msgstr "ユーザー名が入力されていません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1196
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1215
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:988
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1007
 #: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:394
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:22
 msgid "None"
 msgstr "なし"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1200
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1117
 msgid "None selected yet"
 msgstr "まだ選択されていません"
 
@@ -5678,7 +5673,7 @@ msgid "Not all items could be requeued for transfer."
 msgstr "転送キューに再び入れられないアイテムがありました。"
 
 #: ../../../source/FileZilla3/locales/../src/interface/state.cpp:223
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1417
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1418
 msgid "Not connected"
 msgstr "未接続"
 
@@ -5710,7 +5705,7 @@ msgstr "注意: 紛失した鍵は復元できません"
 msgid "Note: This only works with plain, unencrypted FTP connections."
 msgstr "注意: これは暗号化されていない平文での FTP 接続でのみ機能します"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:739
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:648
 msgid "Note: Using a generic proxy forces passive mode on FTP connections."
 msgstr "注意: 汎用プロキシを使用すると FTP 接続でパッシブ モードが強制されます"
 
@@ -5741,24 +5736,24 @@ msgstr "開く(&P)"
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:714
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:779
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:950
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1025
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1408
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1563
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1660
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1755
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1824
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1999
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2101
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2234
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1325
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1480
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1577
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1672
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1741
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1916
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2018
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2151
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/storj.xrc:37
 #: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:72
 #: ../../../source/FileZilla3/locales/../src/interface/aboutdialog.cpp:134
 #: ../../../source/FileZilla3/locales/../src/interface/filter.cpp:198
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:140
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:114
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1188
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1470
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1777
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:734
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:113
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1193
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1467
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1773
 msgid "OK"
 msgstr "OK"
 
@@ -5782,11 +5777,11 @@ msgstr ""
 msgid "Once"
 msgstr "1 度だけ"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1245
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1037
 msgid "Once a day"
 msgstr "1 日に 1 回"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1246
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1038
 msgid "Once a week"
 msgstr "1 週間に 1 回"
 
@@ -5794,11 +5789,11 @@ msgstr "1 週間に 1 回"
 msgid "Only use plain FTP (insecure)"
 msgstr "平文の FTP のみを使用する (安全でない)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1464
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1461
 msgid "Op&en file"
 msgstr "ファイルを開く(&E)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1116
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1115
 msgid "Open directory in system's file manager"
 msgstr "システムのファイル マネージャーでディレクトリを開く"
 
@@ -5823,7 +5818,7 @@ msgstr ""
 "ディレクトリのアクセス許可ダイアログを開き、FileZilla がアクセスできるローカ"
 "ル ディレクトリを設定します。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:817
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:819
 msgid "Open the file."
 msgstr "ファイルを開きます。"
 
@@ -5835,12 +5830,12 @@ msgstr "FileZilla の設定ダイアログを開く"
 msgid "Opened as:"
 msgstr "開かれています:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1924
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1936
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:322
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1291
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2015
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2026
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:322
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1295
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1926
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1938
 msgid "Opening failed"
 msgstr "開くのに失敗"
 
@@ -5887,7 +5882,7 @@ msgstr "Orange"
 msgid "Organization:"
 msgstr "組織:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:625
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:75
 msgid "Other SFTP options"
 msgstr "その他の SFTP オプション"
 
@@ -5914,29 +5909,29 @@ msgstr "ソースが新しければ上書き(&I)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:525
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:548
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:895
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:916
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:687
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:708
 msgid "Overwrite file"
 msgstr "ファイルを上書き"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:527
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:550
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:897
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:918
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:689
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:710
 msgid "Overwrite file if size differs"
 msgstr "サイズが異なればファイルを上書き"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:528
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:551
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:898
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:919
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:690
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:711
 msgid "Overwrite file if size differs or source file is newer"
 msgstr "サイズが異なるかソース ファイルが新しければファイルを上書き"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:526
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:549
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:896
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:917
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:688
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:709
 msgid "Overwrite file if source file newer"
 msgstr "ソース ファイルが新しければファイルを上書き"
 
@@ -5969,7 +5964,7 @@ msgid ""
 msgstr "転送中や他の操作中にシステムがアイドル スリープに入るのを回避する(&R)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:500
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:687
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:596
 msgid "P&roxy host:"
 msgstr "プロキシ ホスト(&R):"
 
@@ -5990,7 +5985,7 @@ msgstr "パラメーターは有効な URL ではありません"
 msgid "Parsing %d bytes of version information.\n"
 msgstr "%d バイトのバージョン情報を解析します。\n"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1316
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1233
 #: ../../../source/FileZilla3/locales/../src/interface/quickconnectbar.cpp:54
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:128
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:391
@@ -6046,14 +6041,14 @@ msgstr "パスが見つかりません:"
 msgid "Path of identity service"
 msgstr "アイデンティティ サービスのパス"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1493
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1410
 msgid "Paths"
 msgstr "パス"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1399
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1553
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1637
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1648
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1396
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1550
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1634
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1645
 msgid "Pending removal"
 msgstr "保留を取り除く"
 
@@ -6087,7 +6082,7 @@ msgstr ""
 "ファイルをダウンロード、またはアップロードするディレクトリを少なくとも 1 つ追"
 "加してください。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2194
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2111
 msgid "Please add the local directories you want to use FileZilla with."
 msgstr "FileZilla を使用するローカル ディレクトリを追加してください。"
 
@@ -6234,10 +6229,10 @@ msgstr ""
 "例: (MS Windows) c:\\somePath\\file.exe, (UNIX) /somePath/file\n"
 "スペースを含む場合はコマンドと引数を引用符で適切に囲む必要があります。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1238
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1334
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:1328
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:992
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:994
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1237
 msgid "Please enter the name of the directory which should be created:"
 msgstr "作成するディレクトリ名を入力:"
 
@@ -6353,7 +6348,7 @@ msgstr ""
 "この鍵は安全な場所に保管してください。正しい鍵がないと、アップロードされた"
 "ファイルにアクセスできません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1796
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1713
 msgid "Please select an action:"
 msgstr "アクションを選択してください:"
 
@@ -6440,7 +6435,7 @@ msgstr "FileZilla の起動に関連する診断情報を表示"
 msgid "Print version information to stdout and exit"
 msgstr "バージョン情報を標準出力に表示して終了"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1104
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:896
 msgid "Prioritize directories (default)"
 msgstr "ディレクトリ毎の優先順位に従う (デフォルト)"
 
@@ -6448,7 +6443,7 @@ msgstr "ディレクトリ毎の優先順位に従う (デフォルト)"
 msgid "Priority"
 msgstr "優先度"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1285
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1077
 msgid ""
 "Privacy policy: Only your version of FileZilla, your used operating system "
 "and your CPU architecture will be submitted to the server."
@@ -6456,7 +6451,7 @@ msgstr ""
 "プライバシー ポリシー: FileZilla のバージョン、OS、CPU アーキテクチャのみが"
 "サーバーに送信されます"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:574
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:53
 msgid "Private &keys:"
 msgstr "秘密鍵(&K):"
 
@@ -6473,7 +6468,7 @@ msgid "Pro&tocol:"
 msgstr "プロトコル(&T):"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:523
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:720
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:629
 msgid "Pro&xy password:"
 msgstr "プロキシ パスワード(&X):"
 
@@ -6509,12 +6504,12 @@ msgstr "指定されたソケット タイプはプロトコルでサポート�
 msgid "Protocol:"
 msgstr "プロトコル:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:697
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:606
 msgid "Proxy &port:"
 msgstr "プロキシ ポート(&P):"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:513
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:710
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:619
 msgid "Proxy &user:"
 msgstr "プロキシ ユーザー(&U):"
 
@@ -6560,7 +6555,7 @@ msgstr "まだリクエストを送信していない段階でプロキシがデ
 msgid "Proxy set but proxy host or port invalid"
 msgstr "プロキシは設定されていますがプロキシ ホストまたはポートが不正です"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:561
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:49
 msgid "Public Key Authentication"
 msgstr "公開鍵認証"
 
@@ -6595,8 +6590,8 @@ msgstr "キュー: なし"
 msgid "Queued files"
 msgstr "キュー ファイル"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1637
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1732
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1554
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1649
 msgid "Queueing:"
 msgstr "キュー:"
 
@@ -6611,7 +6606,7 @@ msgstr "ディレクトリを比較中はクイック検索を開くことがで
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:41
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:78
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit_associations.cpp:33
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1765
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1761
 msgid "Quoting rules"
 msgstr "引用符の規則"
 
@@ -6637,7 +6632,7 @@ msgid "Re&ad"
 msgstr "読み取り(&A)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1075
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:823
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:825
 msgid "Re&fresh"
 msgstr "最新の情報に更新(&F)"
 
@@ -6790,15 +6785,15 @@ msgstr "不正またはサポートされていないアドレスへのリダイ
 msgid "Refresh the file and folder lists"
 msgstr "ファイルとフォルダーのリストを更新"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2121
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2038
 msgid "Remember passwords?"
 msgstr "パスワードを保存しますか?"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1383
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1380
 msgid "Remote"
 msgstr "リモート"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1119
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1036
 #: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:1277
 msgid "Remote file"
 msgstr "リモート ファイル"
@@ -6812,7 +6807,7 @@ msgstr "リモート ファイルの検索"
 msgid "Remote filters:"
 msgstr "リモート フィルター:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1375
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1372
 msgid "Remote path"
 msgstr "リモート パス"
 
@@ -6844,7 +6839,7 @@ msgstr "リモート パスを構文解析できません。有効な絶対パ�
 msgid "Remote path could not be parsed."
 msgstr "リモート パスを構文解析できません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1619
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1536
 msgid "Remote path handling:"
 msgstr "リモート パスの処理:"
 
@@ -6872,19 +6867,19 @@ msgstr "選択されているアイテムを削除(&S)"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:530
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:553
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:900
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:921
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:692
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:713
 #: ../../../source/FileZilla3/locales/../src/interface/asyncrequestqueue.cpp:353
 msgid "Rename file"
 msgstr "ファイル名を変更"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1124
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:929
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1123
 msgid "Rename selected directory"
 msgstr "選択したディレクトリの名前の変更"
 
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1079
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:827
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:829
 msgid "Rename selected files and directories"
 msgstr "選択したファイルとディレクトリの名前の変更"
 
@@ -6894,12 +6889,12 @@ msgstr "選択したファイルとディレクトリの名前の変更"
 msgid "Renaming '%s' to '%s'"
 msgstr "名前を「%s」から「%s」に変更中"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2072
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1989
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:186
 msgid "Repeat password:"
 msgstr "パスワードの再入力:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:96
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:95
 msgid "Reporting bugs and feature requests"
 msgstr "不具合の報告と機能の要望"
 
@@ -6968,12 +6963,12 @@ msgstr "結果:"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:529
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:552
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:899
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:920
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:691
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:712
 msgid "Resume file transfer"
 msgstr "ファイル転送を再開"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:960
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:752
 msgid ""
 "Resuming ASCII files can cause problems if server uses a different line "
 "ending format than the client."
@@ -7035,7 +7030,7 @@ msgstr "SFTP"
 msgid "SFTP support"
 msgstr "SFTP サポート"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:674
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:583
 msgid "SOC&KS 4"
 msgstr "SOCKS 4(&K)"
 
@@ -7054,12 +7049,12 @@ msgstr ""
 msgid "SQLite:"
 msgstr "SQLite:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2049
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1966
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:179
 msgid "Sa&ve passwords protected by a master password"
 msgstr "マスター パスワードで保護されたパスワードを保存する(&V)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2039
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1956
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:177
 msgid "Sav&e passwords"
 msgstr "パスワードを保存する(&E)"
@@ -7129,7 +7124,7 @@ msgstr "セキュリティ情報"
 msgid "See also: https://wiki.filezilla-project.org/Network_Configuration"
 msgstr "URL 参照: https://wiki.filezilla-project.org/Network_Configuration"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1207
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1124
 msgid "Sele&ct server"
 msgstr "サーバーを選択(&C)"
 
@@ -7141,7 +7136,7 @@ msgstr "ページの選択(&P):"
 msgid "Select Theme"
 msgstr "テーマの選択"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:875
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:667
 msgid ""
 "Select default action to perform if target file of a transfer already exists."
 msgstr ""
@@ -7149,7 +7144,7 @@ msgstr ""
 "択してください。"
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:173
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1870
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1866
 msgid "Select default editor"
 msgstr "デフォルトのエディターを選択"
 
@@ -7169,7 +7164,7 @@ msgstr ""
 "現在キューで選択されているファイルにのみ適用する、ファイル存在時のデフォルト"
 "のアクションを選択してください。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:83
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:130
 msgid "Select file containing private key"
 msgstr "秘密鍵が格納されたファイルを選択"
 
@@ -7207,7 +7202,7 @@ msgstr "アップロードするファイルを選択"
 msgid "Select filename for converted key file"
 msgstr "変換された鍵ファイルの名前を選択"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1726
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1723
 msgid "Select how these files should be opened."
 msgstr "これらのファイルをどのように開くか選択してください。"
 
@@ -7273,24 +7268,24 @@ msgid "Selected %s and %s. Total size: At least %s"
 msgstr "%sと %sを選択 合計サイズ: %s 以上"
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:194
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1831
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1891
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1827
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1887
 msgid "Selected editor does not exist."
 msgstr "選択したエディターは存在しません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1140
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1145
 msgid "Selected file already being edited"
 msgstr "選択したファイルは既に編集中です"
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:128
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:168
 msgid "Selected file is already loaded"
 msgstr "選択したファイルは既に読み込まれています"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1131
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1136
 msgid "Selected file is already opened"
 msgstr "選択したファイルは既に開かれています"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1248
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1253
 msgid "Selected file is still being edited"
 msgstr "選択したファイルはまだ編集中です"
 
@@ -7461,7 +7456,7 @@ msgstr "サーバー -> クライアント MAC:"
 msgid "Server to client cipher:"
 msgstr "サーバー -> クライアント 暗号化方式:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1270
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1187
 msgid "Server&type:"
 msgstr "サーバー タイプ(&T):"
 
@@ -7469,7 +7464,7 @@ msgstr "サーバー タイプ(&T):"
 msgid "Server/Local file"
 msgstr "サーバー/ローカル ファイル"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1193
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1110
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:767
 msgid "Server:"
 msgstr "サーバー:"
@@ -7500,7 +7495,7 @@ msgstr "設定ディレクトリ:"
 msgid "Sh&ow notification bubble"
 msgstr "通知バルーンを表示(&O)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1469
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1261
 msgid "Show &raw directory listing"
 msgstr "生のディレクトリ リストを表示する(&R)"
 
@@ -7517,7 +7512,7 @@ msgstr "両方のディレクトリ ツリーを表示して、比較を継続�
 msgid "Show details"
 msgstr "詳細の表示"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1076
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:868
 msgid "Show details about custom date and time formats"
 msgstr "日付と時刻の書式を表示"
 
@@ -7634,8 +7629,8 @@ msgstr "サイズ不明"
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:531
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:554
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:901
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:922
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:693
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:714
 msgid "Skip file"
 msgstr "ファイルをスキップ"
 
@@ -7693,7 +7688,7 @@ msgstr ""
 "ルーターの配下にある設定の正しくないリモート サーバーは、ローカル IP アドレス"
 "を返すことがあります。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1106
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:898
 msgid "Sort directories inline"
 msgstr "ディレクトリをインラインで並べ替え"
 
@@ -7701,11 +7696,11 @@ msgstr "ディレクトリをインラインで並べ替え"
 msgid "Sort order cannot be changed if comparing directories."
 msgstr "ディレクトリ比較中は並べ替え順を変更できません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1090
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:882
 msgid "Sorting"
 msgstr "並べ替え"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1097
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:889
 msgid "Sorting &mode:"
 msgstr "並べ替えモード(&M):"
 
@@ -7725,7 +7720,7 @@ msgstr "ソースとドロップされたターゲットが同じです"
 msgid "Source file:"
 msgstr "ソース ファイル:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2017
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1934
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:64
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:72
 msgid "Speed Limits"
@@ -7743,19 +7738,19 @@ msgstr "速度制限は無効です。変更するにはクリックしてくだ
 msgid "Speed limits are enabled, click to change."
 msgstr "速度制限は有効です。変更するにはクリックしてください。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1263
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1055
 msgid "Stable and beta versions"
 msgstr "安定版とベータ版"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1262
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1054
 msgid "Stable versions only"
 msgstr "安定版のみ"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1264
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1056
 msgid "Stable, beta and nightly versions"
 msgstr "安定版、ベータ版、およびナイトリー ビルド"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1401
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1318
 msgid "Start transfer &immediately"
 msgstr "今すぐ転送を開始する(&I)"
 
@@ -7791,7 +7786,7 @@ msgid "State or province:"
 msgstr "都道府県:"
 
 #: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:1277
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1376
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1373
 msgid "Status"
 msgstr "状態"
 
@@ -7842,7 +7837,7 @@ msgstr "テスト結果の概要:"
 msgid "Suspend now"
 msgstr "今すぐサスペンド"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1813
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1730
 msgid ""
 "Symlinks to files are not affected by this choice, such symlinks are always "
 "deleted."
@@ -7850,7 +7845,8 @@ msgstr ""
 "この選択はファイルへのシンボリックリンクには影響しません。このようなシンボ"
 "リックリンクは常に削除されます。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2124
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2041
+#: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:52
 #: ../../../source/FileZilla3/locales/../src/interface/state.cpp:275
 #: ../../../source/FileZilla3/locales/../src/interface/state.cpp:290
 #: ../../../source/FileZilla3/locales/../src/interface/state.cpp:297
@@ -7858,12 +7854,11 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/state.cpp:407
 #: ../../../source/FileZilla3/locales/../src/interface/state.cpp:415
 #: ../../../source/FileZilla3/locales/../src/interface/state.cpp:423
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1125
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1133
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1140
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1149
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1176
-#: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:52
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1126
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1134
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1141
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1150
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1177
 msgid "Synchronized browsing"
 msgstr "同期ブラウジング"
 
@@ -7962,7 +7957,7 @@ msgstr "テスト結果"
 msgid "Testing resume capabilities of server"
 msgstr "サーバーの再開の互換性をテストしています"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1365
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1362
 msgid "The &following files are currently being edited:"
 msgstr "以下のファイルが現在編集中です(&F):"
 
@@ -8000,7 +7995,7 @@ msgstr "ai_family メンバーをサポートしていません"
 msgid "The ai_socktype member is not supported"
 msgstr "ai_socktype メンバーをサポートしていません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1845
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1841
 msgid "The associated program could not be found."
 msgstr "関連付けられたプログラムが見つかりません。"
 
@@ -8040,11 +8035,11 @@ msgstr ""
 msgid "The data connection could not be established: %s"
 msgstr "データ接続が確立できません: %s"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1749
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1745
 msgid "The default editor for text files is:"
 msgstr "テキスト ファイルを編集するデフォルトのエディター:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1736
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1732
 msgid "The default editor for this file type is:"
 msgstr "このファイルの種類を編集するデフォルトのエディター:"
 
@@ -8059,7 +8054,7 @@ msgstr "入力したフィルター名は既に存在しています。他の名
 msgid "The entered passwords are not the same."
 msgstr "入力したパスワードは同じではありません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:153
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:204
 #, c-format
 msgid "The extension '%s' does already exist in the list"
 msgstr "拡張子「%s」は既にリストに存在しません"
@@ -8074,9 +8069,9 @@ msgstr ""
 "ファイル %s は既に存在しています。\n"
 "新しい名前を入力:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1928
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1296
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2019
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1300
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1930
 #, c-format
 msgid ""
 "The file '%s' cannot be opened:\n"
@@ -8106,9 +8101,9 @@ msgstr "ファイル「%s」を読み込めないか、秘密鍵を含んでい�
 msgid "The file '%s' could not be loaded."
 msgstr "ファイル「%s」を読み込めません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1924
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1291
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2015
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1295
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1926
 #, c-format
 msgid ""
 "The file '%s' could not be opened:\n"
@@ -8117,9 +8112,9 @@ msgstr ""
 "ファイル「%s」を開くことができません:\n"
 "あなたのシステムではこのファイルの種類にプログラムが関連付けられていません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1936
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:322
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2026
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:322
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1938
 #, c-format
 msgid ""
 "The file '%s' could not be opened:\n"
@@ -8154,11 +8149,11 @@ msgstr ""
 msgid "The file selected as default editor does not exist."
 msgstr "デフォルトのエディターとして選択したファイルが存在しません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:760
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:806
 msgid "The filename column can neither be hidden nor moved."
 msgstr "ファイル名の列は非表示や移動ができません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:810
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:845
 msgid "The filename column cannot be hidden."
 msgstr "ファイル名の列は非表示にできません。"
 
@@ -8184,7 +8179,7 @@ msgstr "生成された暗号化鍵:"
 msgid "The global bookmarks could not be saved."
 msgstr "グローバル ブックマークを保存できません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1456
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1248
 msgid ""
 "The higher the debug level, the more information will be displayed in the "
 "message log. Displaying debug information has a negative impact on "
@@ -8197,12 +8192,12 @@ msgstr ""
 msgid "The limit needs to be between 1 and 2000 MiB"
 msgstr "制限は 1 から 2000 MiB にしてください"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1176
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1177
 #, c-format
 msgid "The local directory '%s' could not be created."
 msgstr "ローカル ディレクトリに「%s」を作成できません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1161
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1162
 #, c-format
 msgid "The local directory '%s' does not exist."
 msgstr "ローカル ディレクトリに「%s」は見つかりません。"
@@ -8239,12 +8234,12 @@ msgstr "ダウンロード ディレクトリに新しいバージョンを保�
 msgid "The queue will not be saved."
 msgstr "キューは保存されません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1083
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1084
 #, c-format
 msgid "The remote directory '%s' does not exist."
 msgstr "リモート ディレクトリに「%s」は見つかりません。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1130
+#: ../../../source/FileZilla3/locales/../src/interface/state.cpp:1131
 #, c-format
 msgid ""
 "The remote directory '%s' is not below the synchronization root (%s).\n"
@@ -8262,25 +8257,15 @@ msgid ""
 "The selected file contains importable data for the following categories:"
 msgstr "選択したファイルに含まれるインポート可能なデータのカテゴリ:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1149
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1154
 msgid "The selected file is already being edited:"
 msgstr "選択したファイルは既に編集中です:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1248
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1253
 msgid ""
 "The selected file is still opened in some other program, please close it."
 msgstr ""
 "選択したファイルは他のプログラムによって開かれているので閉じてください。"
-
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1301
-msgid ""
-"The selected file would be executed directly.\n"
-"This can be dangerous and might damage your system.\n"
-"Do you really want to continue?"
-msgstr ""
-"選択したファイルは直接実行されます。\n"
-"これは危険な操作であり、システムにダメージを与える可能性があります。\n"
-"本当に続行しますか?"
 
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:531
 msgid "The server could not be added."
@@ -8417,7 +8402,7 @@ msgstr ""
 msgid "Time"
 msgstr "日時"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1027
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:819
 msgid "Time formatting"
 msgstr "時刻の書式"
 
@@ -8450,7 +8435,7 @@ msgstr ""
 "これを行うには、両方のディレクトリ ツリーはともに表示または非表示である必要が"
 "あります。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:568
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:52
 msgid ""
 "To support public key authentication, FileZilla needs to know the private "
 "keys to use."
@@ -8518,12 +8503,12 @@ msgstr "リダイレクトが多すぎます"
 msgid "Trace:"
 msgstr "トレース:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1193
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1213
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:985
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1005
 msgid "Transfer"
 msgstr "転送"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1057
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:974
 msgid "Transfer &direction"
 msgstr "転送の方向(&D)"
 
@@ -8565,11 +8550,11 @@ msgstr "転送"
 msgid "Transfers finished"
 msgstr "転送完了"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:843
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:83
 msgid "Treat files &without extension as ASCII file"
 msgstr "拡張子なしのファイルを ASCII ファイルとして扱う(&W)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:795
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:59
 msgid "Treat the &following filetypes as ASCII files:"
 msgstr "以下の拡張子のファイルを ASCII ファイルとして扱う(&F):"
 
@@ -8598,8 +8583,8 @@ msgstr "このホストを信用して接続を実行しますか?"
 msgid "Try again"
 msgstr "再試行"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1437
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1374
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1354
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1371
 msgid "Type"
 msgstr "タイプ"
 
@@ -8607,15 +8592,15 @@ msgstr "タイプ"
 msgid "Type of FTP Proxy:"
 msgstr "FTP プロキシ タイプ:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:659
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:568
 msgid "Type of generic proxy:"
 msgstr "汎用プロキシ タイプ:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1458
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1455
 msgid "U&pload"
 msgstr "アップロード(&P)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1958
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1875
 msgid "U&pload limit:"
 msgstr "アップロード制限(&P):"
 
@@ -8623,7 +8608,7 @@ msgstr "アップロード制限(&P):"
 msgid "U&se filetype associations if available"
 msgstr "可能ならファイルの関連付けを使用(&S)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1033
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:825
 msgid "U&se system defaults for current language"
 msgstr "システムのデフォルト言語を使用(&S)"
 
@@ -8652,8 +8637,8 @@ msgstr "ユニット:"
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:865
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:875
 #: ../../../source/FileZilla3/locales/../src/engine/sizeformatting_base.cpp:61
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1405
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1432
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1402
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1429
 msgid "Unknown"
 msgstr "不明"
 
@@ -8729,7 +8714,7 @@ msgstr ""
 msgid "Unsupported redirect"
 msgstr "サポートされていないリダイレクト"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1461
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1458
 msgid "Up&load and unedit"
 msgstr "アップロードして編集中を解除(&L)"
 
@@ -8738,7 +8723,7 @@ msgstr "アップロードして編集中を解除(&L)"
 msgid "Updates"
 msgstr "アップデート"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1071
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:988
 msgid "Upload"
 msgstr "アップロード"
 
@@ -8746,7 +8731,7 @@ msgstr "アップロード"
 msgid "Upload &limit:"
 msgstr "アップロード制限(&L):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1396
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1393
 msgid "Upload failed"
 msgstr "アップロード失敗"
 
@@ -8759,16 +8744,16 @@ msgstr "アップロード制限: %s/s"
 msgid "Upload limit: none"
 msgstr "アップロード制限: なし"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1684
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1601
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1346
 msgid "Upload search results"
 msgstr "検索結果をアップロード"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1108
+#: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:1107
 msgid "Upload selected directory"
 msgstr "選択したディレクトリをアップロード"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:808
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:810
 msgid "Upload selected files and directories"
 msgstr "選択したファイルとディレクトリをアップロード"
 
@@ -8780,19 +8765,19 @@ msgstr "このファイルをサーバーに戻すためにアップロードし
 msgid "Upload this file to the server?"
 msgstr "このファイルをサーバーにアップロードしますか?"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1390
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1423
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1594
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1387
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1420
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1591
 msgid "Uploading"
 msgstr "アップロード中"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1393
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1597
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1390
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1594
 msgid "Uploading and pending removal"
 msgstr "アップロード中と未解決を取り除く"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1426
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1600
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1423
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1597
 msgid "Uploading and unediting"
 msgstr "アップロード/編集解除中"
 
@@ -8804,11 +8789,11 @@ msgstr "カスタム文字コードを使用(&C)"
 msgid "Use &custom editor:"
 msgstr "カスタム エディターを使用(&C):"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1743
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1739
 msgid "Use &default editor for text files"
 msgstr "テキスト ファイルにデフォルトのエディターを使用(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1543
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1460
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:306
 msgid "Use &synchronized browsing"
 msgstr "同期ブラウジングを使用する(&S)"
@@ -8826,19 +8811,19 @@ msgstr "デフォルトのアクションを使用"
 msgid "Use explicit FTP over TLS if available"
 msgstr "使用可能なら明示的な FTP over TLS を使用"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1176
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1093
 msgid "Use server currently connected to"
 msgstr "現在接続しているサーバーを使用"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1182
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1099
 msgid "Use server from site manager"
 msgstr "サイト マネージャーからサーバーを選択"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:984
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:776
 msgid "Use system &defaults for current language"
 msgstr "システムのデフォルト言語を使用(&D)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1732
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1728
 msgid "Use system association"
 msgstr "システムの関連付けを使用する"
 
@@ -8930,11 +8915,11 @@ msgstr ""
 "隠しオプションセットを表示しようとしましたが、サーバーにサポートされていませ"
 "ん"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1195
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:987
 msgid "View/Edit"
 msgstr "表示/編集"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:973
+#: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:708
 msgid "Visible columns"
 msgstr "表示する列"
 
@@ -9009,7 +8994,7 @@ msgstr "HTTPS を使用した WebDAV"
 msgid "Welcome to FileZilla"
 msgstr "FileZilla にようこそ"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:83
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:82
 msgid "What's new"
 msgstr "更新情報"
 
@@ -9017,7 +9002,7 @@ msgstr "更新情報"
 msgid "What's new:"
 msgstr "更新情報:"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2032
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1949
 msgid ""
 "When allowing FileZilla to remember passwords, you can reconnect without "
 "having to re-enter a password after restarting FileZilla."
@@ -9041,7 +9026,7 @@ msgstr "接続済みの状態で新しく接続する場合(&A):"
 msgid "Widescreen"
 msgstr "ワイドスクリーン"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2027
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1944
 msgid "Would you like FileZilla to remember passwords?"
 msgstr "パスワードを保存しますか?"
 
@@ -9092,7 +9077,7 @@ msgstr ""
 msgid "You are using the latest version of FileZilla."
 msgstr "最新版の FileZilla を使用しています。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:108
+#: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:107
 msgid "You can always open this dialog again through the help menu."
 msgstr "このダイアログはいつでも [ヘルプ] メニューから開くことができます。"
 
@@ -9144,19 +9129,19 @@ msgstr ""
 msgid "You do not have permission to list this directory"
 msgstr "このディレクトリをリストする権限がありません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1786
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1703
 msgid "You have selected at least one symbolic link."
 msgstr "少なくとも 1 つのシンボリックリンクを選択する必要があります。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1093
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1638
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1091
 msgid ""
 "You have selected more than 10 files for editing, do you really want to "
 "continue?"
 msgstr "10 個以上のファイルを選択していますが、本当に続行しますか?"
 
-#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1895
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1985
+#: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1897
 msgid ""
 "You have selected more than 10 files or directories to open, do you really "
 "want to continue?"
@@ -9222,7 +9207,7 @@ msgstr "ブックマーク名を入力する必要があります。"
 msgid "You need to enter a name for the log file."
 msgstr "ログ ファイルの名前を入力する必要があります。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1826
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1822
 msgid "You need to enter a properly quoted command."
 msgstr "引用符で適切に囲まれたコマンドを入力する必要があります。"
 
@@ -9265,7 +9250,7 @@ msgstr ""
 "このサイトで同期ブラウジングを有効にするにはローカル パスとリモート パスの両"
 "方を入力する必要があります。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2189
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:2106
 msgid ""
 "You need to grant FileZilla access to the directories you want to download "
 "files into or to upload files from."
@@ -9404,7 +9389,7 @@ msgstr "グループは読み取り可能"
 msgid "group writeable"
 msgstr "グループは書き込み可能"
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:1078
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:870
 msgid "https://wiki.filezilla-project.org/Date_and_Time_formatting"
 msgstr "https://wiki.filezilla-project.org/Date_and_Time_formatting"
 
