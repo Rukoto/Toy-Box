@@ -177,8 +177,8 @@ msgid ""
 "- Make sure %s is in a directory listed in your PATH environment variable.\n"
 "- Set the full path to %s in the FZ_FZSFTP environment variable."
 msgstr ""
-"%s が見つかりませんでした。この FileZilla のコンポーネントなしに SFTP は動作"
-"しません。\n"
+"%s が見つかりません。この FileZilla のコンポーネントなしに SFTP は動作しませ"
+"ん。\n"
 "\n"
 "解決策の候補:\n"
 "- %s が環境変数 PATH に含まれるディレクトリにあるか確認する\n"
@@ -187,7 +187,7 @@ msgstr ""
 #: ../../locales/../src/interface/verifycertdialog.cpp:63
 #, c-format
 msgid "%s with %d bits"
-msgstr "%s - %d ビット"
+msgstr "%s (%d ビット)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:509
 #, c-format
@@ -241,7 +241,7 @@ msgstr "サーバー ダイムゾーン調整のオフセット(&A):"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:242
 msgid "&Always trust certificate in future sessions."
-msgstr "今後常にこの証明書を信用する(&A)"
+msgstr "今後は常にこの証明書を信用する(&A)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:895
 msgid "&Always trust this host, add this key to the cache"
@@ -253,7 +253,7 @@ msgstr "常にデフォルトのエディタを使用(&A)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:2964
 msgid "&Always use selection for unassociated files"
-msgstr "関連付けされていないファイルは常にこの選択を使用する(&A)"
+msgstr "関連付けされていないファイルに対して常にこの選択を使用する(&A)"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:190
 msgid "&Always use this action"
@@ -1295,7 +1295,7 @@ msgid ""
 "Unless you fix this problem, files might be missing in the file listings.\n"
 "No further warning will be displayed this session."
 msgstr ""
-"ローカル ファイル名をデコードできませんでした。\n"
+"ローカル ファイル名をデコードできません。\n"
 "環境変数 LC_CTYPE (または LC_ALL) が正しく設定されているか確認してくださ"
 "い。\n"
 "この問題を修正するまで、ファイル リストにファイルが表示されない可能性がありま"
@@ -1469,10 +1469,12 @@ msgid ""
 "expected and might even damage your system. Use beta versions and nightly "
 "builds at your own risk."
 msgstr ""
-"アドバイス: 新しい機能をテストしない限り、安定版のみを使用してください。ベー"
-"タ版とナイトリー ビルドは、テスト目的の開発バージョンです。FileZilla のナイト"
-"リー ビルドは期待どおりに動作しない可能性があり、システムに損傷を与える可能性"
-"があります。ベータ版とナイトリー ビルドは、自己責任で使用してください。"
+"アドバイス:\n"
+"新しい機能をテストしたくない場合は、安定版のみを使用してください。\n"
+"ベータ版とナイトリー ビルドは、テストを目的とした開発バージョンです。\n"
+"FileZilla のナイトリー ビルドは期待どおりに動作しない可能性があり、\n"
+"システムに損傷を与える可能性があります。\n"
+"ベータ版とナイトリー ビルドは、自己責任で使用してください。"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3507
 msgid "Al&ways perform this action"
@@ -2440,25 +2442,25 @@ msgstr "選択したアイテムの URL をクリップボードにコピーし�
 #: ../../locales/../src/engine/transfersocket.cpp:180
 #, c-format
 msgid "Could not accept connection: %s"
-msgstr "接続を受け入れることができませんでした: %s"
+msgstr "接続を受け入れることができません: %s"
 
 #: ../../locales/../src/interface/bookmarks_dialog.cpp:96
 #: ../../locales/../src/interface/bookmarks_dialog.cpp:529
 msgid "Could not add connection to Site Manager"
-msgstr "サイト マネージャに接続を追加できませんでした"
+msgstr "サイト マネージャに接続を追加できません"
 
 #: ../../locales/../src/interface/state.cpp:758
 msgid "Could not complete operation"
-msgstr "操作を完了できませんでした"
+msgstr "操作を完了できません"
 
 #: ../../locales/../src/engine/ControlSocket.cpp:187
 msgid "Could not connect to server"
-msgstr "サーバーに接続できませんでした"
+msgstr "サーバーに接続できません"
 
 #: ../../locales/../src/engine/ControlSocket.cpp:1089
 #, c-format
 msgid "Could not connect to server: %s"
-msgstr "サーバーに接続できませんでした: %s"
+msgstr "サーバーに接続できません: %s"
 
 #: ../../locales/../src/engine/sftpcontrolsocket.cpp:788
 msgid "Could not convert command to server encoding"
@@ -2472,21 +2474,21 @@ msgstr "秘密鍵を変換できません"
 #: ../../locales/../src/interface/RemoteListView.cpp:2522
 #: ../../locales/../src/interface/RemoteTreeView.cpp:1381
 msgid "Could not copy URLs"
-msgstr "URL をコピーできませんでした"
+msgstr "URL をコピーできません"
 
 #: ../../locales/../src/interface/aboutdialog.cpp:198
 msgid "Could not copy data"
-msgstr "データをコピーできませんでした"
+msgstr "データをコピーできません"
 
 #: ../../locales/../src/interface/updater.cpp:459
 #, c-format
 msgid "Could not create local file %s\n"
-msgstr "ローカル ファイル %s に書き込めませんでした\n"
+msgstr "ローカル ファイル %s に書き込めません\n"
 
 #: ../../locales/../src/engine/logging.cpp:173
 #, c-format
 msgid "Could not create logging mutex: %s"
-msgstr "ロギング ミューテックスを作成できませんでした: %s"
+msgstr "ロギング ミューテックスを作成できません: %s"
 
 #: ../../locales/../src/interface/RemoteListView.cpp:2183
 #: ../../locales/../src/interface/RemoteTreeView.cpp:851
@@ -2497,11 +2499,11 @@ msgid ""
 msgstr ""
 "ドラッグ＆ドロップ操作のターゲットを決定できません。\n"
 "シェル拡張が適切にインストールされてない、またはエクスプローラのウィンドウに"
-"ファイルをドロップできませんでした。"
+"ファイルをドロップできません。"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:4110
 msgid "Could not establish connection to server"
-msgstr "サーバーとの接続を確立できませんでした"
+msgstr "サーバーとの接続を確立できません"
 
 #: ../../locales/../src/interface/FileZilla.cpp:428
 msgid ""
@@ -2517,7 +2519,7 @@ msgstr ""
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:681
 msgid "Could not generate custom login sequence."
-msgstr "カスタム ログイン シーケンスを生成できませんでした。"
+msgstr "カスタム ログイン シーケンスを生成できません。"
 
 #: ../../locales/../src/engine/tlssocket.cpp:958
 msgid ""
@@ -2535,7 +2537,7 @@ msgstr ""
 
 #: ../../locales/../src/interface/state.cpp:931
 msgid "Could not get full remote path."
-msgstr "完全なリモート パスを取得できませんでした。"
+msgstr "完全なリモート パスを取得できません。"
 
 #: ../../locales/../src/interface/fzputtygen_interface.cpp:236
 #: ../../locales/../src/interface/fzputtygen_interface.cpp:250
@@ -2545,7 +2547,7 @@ msgstr "fzputtygen からの結果を取得できません。"
 #: ../../locales/../src/interface/edithandler.cpp:1574
 #: ../../locales/../src/interface/search.cpp:696
 msgid "Could not get temporary directory to download file into."
-msgstr "ファイルをダウンロードする一時ディレクトリを取得できませんでした。"
+msgstr "ファイルをダウンロードする一時ディレクトリを取得できません。"
 
 #: ../../locales/../src/engine/tlssocket.cpp:881
 msgid "Could not import peer certificates, gnutls_x509_crt_import failed"
@@ -2554,7 +2556,7 @@ msgstr "ピア証明書をインポートできず、gnutls_x509_crt_import に�
 #: ../../locales/../src/interface/FileZilla.cpp:108
 #, c-format
 msgid "Could not initialize Winsock (%d): %s"
-msgstr "Winsock (%d) を初期化できませんでした: %s"
+msgstr "Winsock (%d) を初期化できません: %s"
 
 #: ../../locales/../src/engine/tlssocket.cpp:876
 msgid ""
@@ -2589,8 +2591,8 @@ msgid ""
 "'%s'.\n"
 "Disable synchronized browsing and continue changing the remote directory?"
 msgstr ""
-"リモート ディレクトリ「%s」に対応するローカル ディレクトリを取得できませんで"
-"した。\n"
+"リモート ディレクトリ「%s」に対応するローカル ディレクトリを取得できませ"
+"ん。\n"
 "同期ブラウジングを無効にしてリモート ディレクトリの変更を継続しますか?"
 
 #: ../../locales/../src/interface/state.cpp:362
@@ -2600,8 +2602,8 @@ msgid ""
 "'%s'.\n"
 "Synchronized browsing has been disabled."
 msgstr ""
-"リモート ディレクトリ「%s」に対応するローカル ディレクトリを取得できませんで"
-"した。\n"
+"リモート ディレクトリ「%s」に対応するローカル ディレクトリを取得できませ"
+"ん。\n"
 "同期ブラウジングを無効にしました。"
 
 #: ../../locales/../src/interface/state.cpp:267
@@ -2611,26 +2613,26 @@ msgid ""
 "'%s'.\n"
 "Synchronized browsing has been disabled."
 msgstr ""
-"ローカル ディレクトリ「%s」に対応するリモート ディレクトリを取得できませんで"
-"した。\n"
+"ローカル ディレクトリ「%s」に対応するリモート ディレクトリを取得できませ"
+"ん。\n"
 "同期ブラウジングを無効にしました。"
 
 #: ../../locales/../src/interface/RemoteListView.cpp:2522
 #: ../../locales/../src/interface/RemoteTreeView.cpp:1381
 #: ../../locales/../src/interface/aboutdialog.cpp:198
 msgid "Could not open clipboard"
-msgstr "クリップボードを開くことができませんでした"
+msgstr "クリップボードを開くことができません"
 
 #: ../../locales/../src/engine/logging.cpp:106
 #: ../../locales/../src/engine/logging.cpp:186
 #: ../../locales/../src/engine/logging.cpp:218
 #, c-format
 msgid "Could not open log file: %s"
-msgstr "ログ ファイルを開けませんでした: %s"
+msgstr "ログ ファイルを開けません: %s"
 
 #: ../../locales/../src/interface/bookmarks_dialog.cpp:69
 msgid "Could not parse remote path."
-msgstr "リモート パスを構文解析できませんでした。"
+msgstr "リモート パスを構文解析できません。"
 
 #: ../../locales/../src/interface/quickconnectbar.cpp:82
 msgid "Could not parse server address:"
@@ -2638,33 +2640,33 @@ msgstr "サーバーのアドレスを構文解析できません:"
 
 #: ../../locales/../src/interface/netconfwizard.cpp:977
 msgid "Could not read from data socket."
-msgstr "データ ソケットから読み取れませんでした。"
+msgstr "データ ソケットから読み取れません。"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:211
 #, c-format
 msgid "Could not read from socket: %s"
-msgstr "ソケットから読み取れませんでした: %s"
+msgstr "ソケットから読み取れません: %s"
 
 #: ../../locales/../src/interface/sitemanager.cpp:468
 msgid "Could not read server item."
-msgstr "サーバー アイテムを読み取れませんでした。"
+msgstr "サーバー アイテムを読み取れません。"
 
 #: ../../locales/../src/interface/netconfwizard.cpp:344
 msgid "Could not receive data from server."
-msgstr "サーバーからデータを受信できませんでした。"
+msgstr "サーバーからデータを受信できません。"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:2596
 #, c-format
 msgid "Could not seek to offset %s within file"
-msgstr "ファイル内のオフセット %s を探し出せませんでした"
+msgstr "ファイル内のオフセット %s を探し出せません"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:2503
 msgid "Could not seek to the end of the file"
-msgstr "ファイルの終わりを見つけられませんでした"
+msgstr "ファイルの終わりを見つけられません"
 
 #: ../../locales/../src/interface/fzputtygen_interface.cpp:223
 msgid "Could not send command to fzputtygen."
-msgstr "fzputtygen にコマンドを送信できませんでした。"
+msgstr "fzputtygen にコマンドを送信できません。"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:2624
 msgid "Could not spawn IO thread"
@@ -2673,7 +2675,7 @@ msgstr "IO スレッドを作成できません"
 #: ../../locales/../src/engine/ControlSocket.cpp:1065
 #, c-format
 msgid "Could not start proxy handshake: %s"
-msgstr "プロキシ ハンドシェイクを開始できませんでした: %s"
+msgstr "プロキシ ハンドシェイクを開始できません: %s"
 
 #: ../../locales/../src/interface/queue.cpp:338
 msgid "Could not start transfer"
@@ -2686,20 +2688,18 @@ msgid ""
 "Could not write \"%s\", any changes to the Site Manager could not be saved: "
 "%s"
 msgstr ""
-"\"%s\" に書き込むことができず、サイト マネージャへの変更は保存されませんでし"
-"た: %s"
+"\"%s\" に書き込むことができず、サイト マネージャへの変更は保存されません: %s"
 
 #: ../../locales/../src/interface/bookmarks_dialog.cpp:812
 #, c-format
 msgid "Could not write \"%s\", the bookmark could not be added: %s"
-msgstr "\"%s\" を書き込めなかったため、ブックマークを追加できませんでした: %s"
+msgstr "\"%s\" を書き込めなかったため、ブックマークを追加できません: %s"
 
 #: ../../locales/../src/interface/bookmarks_dialog.cpp:317
 #, c-format
 msgid "Could not write \"%s\", the global bookmarks could no be saved: %s"
 msgstr ""
-"\"%s\" を書き込めなかったため、グローバル ブックマークを保存できませんでし"
-"た: %s"
+"\"%s\" を書き込めなかったため、グローバル ブックマークを保存できません: %s"
 
 #: ../../locales/../src/interface/QueueView.cpp:1841
 #, c-format
@@ -2707,7 +2707,7 @@ msgid ""
 "Could not write \"%s\", the queue could not be saved.\n"
 "%s"
 msgstr ""
-"\"%s\" を書き込めなかったため、キューを保存できませんでした。\n"
+"\"%s\" を書き込めなかったため、キューを保存できません。\n"
 "%s"
 
 #: ../../locales/../src/interface/sitemanager.cpp:720
@@ -2716,34 +2716,33 @@ msgstr ""
 #, c-format
 msgid "Could not write \"%s\", the selected sites could not be exported: %s"
 msgstr ""
-"\"%s\" を書き込めなかったため、選択したサイトをエクスポートできませんでした: "
-"%s"
+"\"%s\" を書き込めなかったため、選択したサイトをエクスポートできません: %s"
 
 #: ../../locales/../src/interface/xmlfunctions.cpp:146
 #, c-format
 msgid "Could not write \"%s\":"
-msgstr "書き込めませんでした \"%s\":"
+msgstr "\"%s\" を書き込めません:"
 
 #: ../../locales/../src/interface/fzputtygen_interface.cpp:147
 #, c-format
 msgid "Could not write key file: %s"
-msgstr "鍵ファイルに書き込めませんでした: %s"
+msgstr "鍵ファイルに書き込めません: %s"
 
 #: ../../locales/../src/interface/queue.cpp:337
 msgid "Could not write to local file"
-msgstr "ローカル ファイルに書き込めませんでした"
+msgstr "ローカル ファイルに書き込めません"
 
 #: ../../locales/../src/engine/logging.cpp:230
 #: ../../locales/../src/engine/logging.cpp:297
 #, c-format
 msgid "Could not write to log file: %s"
-msgstr "ログ ファイルに書き込めませんでした: %s"
+msgstr "ログ ファイルに書き込めません: %s"
 
 #: ../../locales/../src/engine/ControlSocket.cpp:883
 #: ../../locales/../src/engine/ControlSocket.cpp:987
 #, c-format
 msgid "Could not write to socket: %s"
-msgstr "ソケットに書き込めませんでした: %s"
+msgstr "ソケットに書き込めません: %s"
 
 #: ../../locales/../src/interface/verifycertdialog.cpp:248
 msgid "Country:"
@@ -3577,7 +3576,8 @@ msgstr "実行(&C)"
 #: ../../locales/../src/interface/update_dialog.cpp:57
 msgid "Executable contains no version info, cannot check for updates."
 msgstr ""
-"実行ファイルがバージョン情報を含んでいないためアップデートを確認できません。"
+"実行ファイルにバージョン情報が含まれていないため、アップデートを確認できませ"
+"ん。"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1286
 msgid "Explorer"
@@ -3993,7 +3993,7 @@ msgstr "ファイル名が不正です"
 
 #: ../../locales/../src/interface/asyncrequestqueue.cpp:301
 msgid "Filename unchanged"
-msgstr "ファイル名は変更されませんでした"
+msgstr "ファイル名は変更されません"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1686
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:2133
@@ -4088,16 +4088,16 @@ msgstr "ディレクトリを検索(&I)"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:97
 msgid "Fingerprint (SHA-1):"
-msgstr "指紋 (SHA-1):"
+msgstr "拇印 (SHA-1):"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:89
 msgid "Fingerprint (SHA-256):"
-msgstr "指紋 (SHA-256):"
+msgstr "拇印 (SHA-256):"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:868
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:979
 msgid "Fingerprint:"
-msgstr "指紋:"
+msgstr "拇印:"
 
 #: ../../locales/../src/interface/netconfwizard.cpp:55
 msgid "Firewall and router configuration wizard"
@@ -4140,7 +4140,7 @@ msgstr "書式の仕様:"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:2008
 msgid "Format: Extension followed by properly quoted command and arguments."
-msgstr "書式: 拡張子の後に引用符で適切に囲まれたコマンドと引数を続けて記述"
+msgstr "書式: 拡張子の後に引用符で適切に囲まれたコマンドと引数が続きます"
 
 #. @translator: Two examples: Found new nightly 2014-04-03\n, Found new release 3.9.0.1\n
 #: ../../locales/../src/interface/updater.cpp:647
@@ -4260,7 +4260,7 @@ msgstr "ホストがダウンしています"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:2026
 msgid "Host key fingerprint:"
-msgstr "ホスト鍵の指紋:"
+msgstr "ホスト鍵の拇印:"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:924
 msgid "Host key mismatch"
@@ -4546,8 +4546,8 @@ msgid ""
 "Information about the latest version of FileZilla could not be retrieved. "
 "Please try again later."
 msgstr ""
-"FileZilla の最新バージョンに関する情報を取得できませんでした。後でもう一度お"
-"試しください。"
+"FileZilla の最新バージョンに関する情報を取得できません。後でもう一度やり直し"
+"てください。"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:746
 msgid "Initializing TLS..."
@@ -4876,16 +4876,17 @@ msgid ""
 "Login data contains non-ASCII characters and server might not be UTF-8 "
 "aware. Cannot fall back to local charset since using proxy."
 msgstr ""
-"ログイン データが非 ASCII 文字を含んでいて、サーバーは UTF-8 に気付かない可能"
-"性があります。プロキシを使用しているためローカルの文字コードに戻せません。"
+"ログイン データにASCII 文字以外を含んでいるため、サーバーは UTF-8 に気付かな"
+"い可能性があります。プロキシを使用しているためローカルの文字コードに戻せませ"
+"ん。"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:811
 msgid ""
 "Login data contains non-ASCII characters and server might not be UTF-8 "
 "aware. Trying local charset."
 msgstr ""
-"ログイン データが非 ASCII 文字を含んでいて、サーバーは UTF-8 に気付かない可能"
-"性があります。ローカルの文字コードを試しています。"
+"ログイン データにASCII 文字以外を含んでいるため、サーバーは UTF-8 に気付かな"
+"い可能性があります。ローカルの文字コードを試しています。"
 
 #: ../../locales/../src/engine/ftpcontrolsocket.cpp:838
 msgid "Login sequence fully executed yet not logged in. Aborting."
@@ -4925,7 +4926,7 @@ msgstr ""
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:220
 msgid "MAC:"
-msgstr "MAC:"
+msgstr "Mac:"
 
 #: ../../locales/../src/interface/xmlfunctions.cpp:44
 msgid "Make sure the file can be accessed and is a well-formed XML document."
@@ -5814,8 +5815,8 @@ msgid ""
 "Please note that some servers might ban you if you try to reconnect too "
 "often or in too short intervals."
 msgstr ""
-"あまりにも頻繁に再接続を試みたり、あまりにも短い間隔で再接続しようとすると、"
-"一部のサーバーでは接続が禁止されることがあります。"
+"頻繁に再接続したり、間隔が短すぎたりすると、サーバーによってはアクセスが禁止"
+"される場合があることに注意してください。"
 
 #: ../../locales/../src/interface/netconfwizard.cpp:579
 msgid ""
@@ -6291,7 +6292,7 @@ msgstr "リモート パスを構文解析できません。有効な絶対パ�
 
 #: ../../locales/../src/interface/manual_transfer.cpp:332
 msgid "Remote path could not be parsed."
-msgstr "リモート パスを構文解析できませんでした。"
+msgstr "リモート パスを構文解析できません。"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3146
 msgid "Remote path handling:"
@@ -6762,8 +6763,8 @@ msgid ""
 "Server might require an account. Try specifying an account using the Site "
 "Manager"
 msgstr ""
-"サーバーにアカウントが必要な可能性があります。サイト マネージャを使ってアカウ"
-"ントを指定してみてください。"
+"サーバにアカウントが必要な可能性があります。サイト マネージャを使ってアカウン"
+"トを指定してみてください。"
 
 #: ../../locales/../src/engine/ControlSocket.cpp:345
 msgid "Server returned empty path."
@@ -7300,11 +7301,11 @@ msgstr "ai_socktype メンバーをサポートしていません"
 #: ../../locales/../src/interface/bookmarks_dialog.cpp:777
 #: ../../locales/../src/interface/sitemanager.cpp:665
 msgid "The bookmark could not be added."
-msgstr "ブックマークを追加できませんでした。"
+msgstr "ブックマークを追加できません。"
 
 #: ../../locales/../src/interface/sitemanager.cpp:742
 msgid "The bookmarks could not be cleared."
-msgstr "ブックマークをクリアできませんでした。"
+msgstr "ブックマークをクリアできません。"
 
 #: ../../locales/../src/interface/statusbar.cpp:464
 msgid "The connection is encrypted. Click icon for details."
@@ -7373,7 +7374,7 @@ msgid ""
 "Please check your filetype associations."
 msgstr ""
 "ファイル「%s」を開くことができません:\n"
-"関連付けられたプログラム (%s) が見つかりませんでした。\n"
+"関連付けられたプログラム (%s) が見つかりません。\n"
 "ファイルの関連付けを確認してください。"
 
 #: ../../locales/../src/interface/fzputtygen_interface.cpp:54
@@ -7393,7 +7394,7 @@ msgstr "ファイル「%s」を読み込めないか、秘密鍵を含んでい�
 #: ../../locales/../src/interface/xmlfunctions.cpp:42
 #, c-format
 msgid "The file '%s' could not be loaded."
-msgstr "ファイル「%s」を読み込めませんでした。"
+msgstr "ファイル「%s」を読み込めません。"
 
 #: ../../locales/../src/interface/LocalListView.cpp:1700
 #: ../../locales/../src/interface/edithandler.cpp:1616
@@ -7402,7 +7403,7 @@ msgid ""
 "The file '%s' could not be opened:\n"
 "No program has been associated on your system with this file type."
 msgstr ""
-"ファイル「%s」を開くことができませんでした:\n"
+"ファイル「%s」を開くことができません:\n"
 "あなたのシステムではこのファイルの種類にプログラムが関連付けられていません。"
 
 #: ../../locales/../src/interface/LocalListView.cpp:1712
@@ -7412,7 +7413,7 @@ msgid ""
 "The file '%s' could not be opened:\n"
 "The associated command failed"
 msgstr ""
-"ファイル「%s」を開くことができませんでした:\n"
+"ファイル「%s」を開くことができません:\n"
 "関連付けられたコマンドが失敗しました"
 
 #: ../../locales/../src/interface/import.cpp:57
@@ -7483,7 +7484,7 @@ msgstr "無料でオープン ソースの FTP ソリューション"
 
 #: ../../locales/../src/interface/bookmarks_dialog.cpp:285
 msgid "The global bookmarks could not be saved."
-msgstr "グローバル ブックマークを保存できませんでした。"
+msgstr "グローバル ブックマークを保存できません。"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:2260
 msgid ""
@@ -7501,12 +7502,12 @@ msgstr "制限は 1 から 2000 MiB にしてください"
 #: ../../locales/../src/interface/state.cpp:981
 #, c-format
 msgid "The local directory '%s' could not be created."
-msgstr "ローカル ディレクトリに「%s」を作成できませんでした。"
+msgstr "ローカル ディレクトリに「%s」を作成できません。"
 
 #: ../../locales/../src/interface/state.cpp:966
 #, c-format
 msgid "The local directory '%s' does not exist."
-msgstr "ローカル ディレクトリに「%s」は見つかりませんでした。"
+msgstr "ローカル ディレクトリに「%s」は見つかりません。"
 
 #: ../../locales/../src/interface/state.cpp:250
 #, c-format
@@ -7525,8 +7526,7 @@ msgstr "利用可能なポートの最小値は最大値以下である必要が
 
 #: ../../locales/../src/interface/resources/xrc/update.xrc:117
 msgid "The new version could not be downloaded, please retry later."
-msgstr ""
-"新しいバージョンをダウンロードできませんでした。後ほど再試行してください。"
+msgstr "新しいバージョンをダウンロードできません。後でやり直してください。"
 
 #: ../../locales/../src/interface/resources/xrc/update.xrc:104
 msgid "The new version has been saved in your Downloads directory."
@@ -7539,7 +7539,7 @@ msgstr "キューは保存されません。"
 #: ../../locales/../src/interface/state.cpp:893
 #, c-format
 msgid "The remote directory '%s' does not exist."
-msgstr "リモート ディレクトリに「%s」は見つかりませんでした。"
+msgstr "リモート ディレクトリに「%s」は見つかりません。"
 
 #: ../../locales/../src/interface/state.cpp:937
 #, c-format
@@ -7582,7 +7582,7 @@ msgstr ""
 
 #: ../../locales/../src/interface/sitemanager.cpp:566
 msgid "The server could not be added."
-msgstr "サーバーを追加できませんでした。"
+msgstr "サーバーを追加できません。"
 
 #: ../../locales/../src/interface/netconfwizard.cpp:583
 msgid "The server sent an unexpected or unrecognized reply."
@@ -7656,12 +7656,12 @@ msgstr ""
 
 #: ../../locales/../src/interface/netconfwizard.cpp:846
 msgid "The test did not succeed. Do you really want to save the settings?"
-msgstr "テストは成功しませんでした。本当に設定を保存しますか?"
+msgstr "テストは成功していません。本当に設定を保存しますか?"
 
 #: ../../locales/../src/interface/xmlfunctions.cpp:78
 #, c-format
 msgid "The valid backup file %s could not be restored"
-msgstr "有効なバックアップ ファイル「%s」を復元できませんでした"
+msgstr "有効なバックアップ ファイル「%s」を復元できません"
 
 #: ../../locales/../src/interface/settings/settingsdialog.cpp:103
 msgid "Themes"
@@ -7877,15 +7877,15 @@ msgstr "新規ホスト鍵を信用:"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:999
 msgid "Trust the new key and carry on connecting?"
-msgstr "新しい鍵を信用して接続を実行しますか?"
+msgstr "新しい鍵を信用して接続を続けますか?"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:237
 msgid "Trust this certificate and carry on connecting?"
-msgstr "この証明書を信用して接続を実行しますか?"
+msgstr "この証明書を信用して接続を続けますか?"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:888
 msgid "Trust this host and carry on connecting?"
-msgstr "このホストを信用して接続を実行しますか?"
+msgstr "このホストを信用して接続を続けますか?"
 
 #: ../../locales/../src/interface/resources/xrc/update.xrc:122
 #: ../../locales/../src/interface/resources/xrc/update.xrc:197
@@ -8331,7 +8331,7 @@ msgstr ""
 #: ../../locales/../src/interface/asyncrequestqueue.cpp:301
 msgid "You did not enter a new name for the file. Overwrite the file instead?"
 msgstr ""
-"ファイルの新しい名前を入力しませんでした。代わりにファイルを上書きしますか?"
+"ファイルの新しい名前を入力していません。代わりにファイルを上書きしますか?"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3218
 msgid "You have selected at least one symbolic link."
@@ -8525,7 +8525,7 @@ msgid ""
 "Please make sure this executable exists in the same directory as the main "
 "FileZilla executable."
 msgstr ""
-"fzputtygen を起動できませんでした。\n"
+"fzputtygen を起動できません。\n"
 "この実行ファイルが FileZilla の実行ファイルと同じディレクトリにあることを確認"
 "してください。"
 
@@ -8535,7 +8535,7 @@ msgstr "fzsftp は異なるバージョンの FileZilla に属しています"
 
 #: ../../locales/../src/engine/sftpcontrolsocket.cpp:1495
 msgid "fzsftp could not be started"
-msgstr "fzsftp を起動できませんでした"
+msgstr "fzsftp を起動できません"
 
 #: ../../locales/../src/engine/tlssocket.cpp:1127
 msgid "gnutls_certificate_get_peers returned no certificates"
