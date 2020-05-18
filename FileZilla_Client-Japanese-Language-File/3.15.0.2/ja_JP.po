@@ -182,7 +182,7 @@ msgstr ""
 "\n"
 "解決策の候補:\n"
 "- %s が環境変数 PATH に含まれるディレクトリにあるか確認する\n"
-"- 環境変数 FZ_FZSFTP に %s へのフル パスを設定する"
+"- 環境変数 FZ_FZSFTP に %s へのフルパスを設定する"
 
 #: ../../locales/../src/interface/verifycertdialog.cpp:63
 #, c-format
@@ -237,7 +237,7 @@ msgstr "キューに追加(&A)"
 
 #: ../../locales/../src/interface/resources/xrc/sitemanager.xrc:377
 msgid "&Adjust server timezone offset:"
-msgstr "サーバー ダイムゾーン調整のオフセット(&A):"
+msgstr "サーバー ダイムゾーンのオフセット調整(&A):"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:242
 msgid "&Always trust certificate in future sessions."
@@ -370,11 +370,11 @@ msgstr "デフォルトのエディタ(&D):"
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:135
 #: ../../locales/../src/interface/resources/xrc/menus.xrc:349
 msgid "&Default file exists action..."
-msgstr "ファイル存在時のデフォルトのアクション(&D)..."
+msgstr "ファイル存在時のデフォルト アクション(&D)..."
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:155
 msgid "&Delay between failed login attempts:"
-msgstr "ログイン失敗時の待機時間(&D):"
+msgstr "ログイン失敗時の待機時間 (秒)(&D):"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1069
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1238
@@ -1155,7 +1155,7 @@ msgstr "(0 - 99)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:167
 msgid "(0-999 seconds)"
-msgstr "(0 - 999 秒)"
+msgstr "(0 - 999)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:837
 msgid "(1-10)"
@@ -1311,16 +1311,16 @@ msgid ""
 "A proper server always shows all files, but some broken servers hide files "
 "from the user. Use this option to force the server to show all files."
 msgstr ""
-"適切なサーバーは常にすべてのファイルを示していますが、このオプションを使用す"
-"ると、サーバーにすべてのファイルの表示を強制させます。"
+"適切なサーバーは常にすべてのファイルを表示しますが、このオプションを使用する"
+"ことで、サーバーにすべてのファイルを表示することを強制させます。"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:245
 msgid ""
 "A proper server does not require this. Contact the server administrator if "
 "you need this."
 msgstr ""
-"これは適切なサーバーでは不要です。これが必要な場合はサーバー管理者に連絡して"
-"ください。"
+"適切なサーバーはこのオプションを必要としません。このオプションが必要な場合は"
+"サーバー管理者に連絡してください。"
 
 #: ../../locales/../src/interface/state.cpp:258
 msgid ""
@@ -1496,7 +1496,7 @@ msgstr "指定するすべてのポートは 1024 から 65535 の範囲であ�
 #, c-format
 msgid "All transfers have finished. %d file could not be transferred."
 msgid_plural "All transfers have finished. %d files could not be transferred."
-msgstr[0] "すべての転送を終了しました。%d 個のファイルは転送できませんでした。"
+msgstr[0] "すべての転送を終了しました。%d 個のファイルは転送できません。"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:213
 msgid "Allow &fall back to other transfer mode on failure"
@@ -1578,11 +1578,11 @@ msgstr "他のリモート操作が既に進行中のため現在はディレク
 
 #: ../../locales/../src/interface/sitemanager_dialog.cpp:808
 msgid "Any changes made in the Site Manager could not be saved."
-msgstr "サイト マネージャでの変更を保存できませんでした。"
+msgstr "サイト マネージャでの変更を保存できません。"
 
 #: ../../locales/../src/interface/filter.cpp:213
 msgid "Any changes made to the filters could not be saved."
-msgstr "フィルタへの変更を保存できませんでした。"
+msgstr "フィルタへの変更を保存できません。"
 
 #: ../../locales/../src/interface/filter.cpp:970
 msgid "Any changes made to the filters will not be saved."
@@ -2239,11 +2239,11 @@ msgstr "設定テスト"
 
 #: ../../locales/../src/interface/resources/xrc/netconfwizard.xrc:115
 msgid "Configure passive mode"
-msgstr "パッシブ モードを設定"
+msgstr "パッシブ モードの設定"
 
 #: ../../locales/../src/interface/resources/xrc/netconfwizard.xrc:261
 msgid "Configure port range"
-msgstr "ポート範囲を設定"
+msgstr "ポート範囲の設定"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:3379
 msgid "Configuring FileZilla and your network"
@@ -2959,7 +2959,7 @@ msgstr "デフォルトのエディタが引用符で適切に囲まれていま
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1447
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1226
 msgid "Default file exists action"
-msgstr "ファイル存在時のデフォルトのアクション"
+msgstr "ファイル存在時のデフォルト アクション"
 
 #: ../../locales/../src/interface/resources/xrc/sitemanager.xrc:346
 msgid "Default r&emote directory:"
@@ -2993,7 +2993,7 @@ msgstr "デフォルト: http://ip.filezilla-project.org/ip.php"
 #: ../../locales/../src/interface/settings/optionspage_connection.cpp:41
 msgid ""
 "Delay between failed connection attempts has to be between 1 and 999 seconds."
-msgstr "ログイン失敗時の待機時間は 1 から 999 秒の範囲である必要があります。"
+msgstr "ログイン失敗時の待機時間は 0 から 999 秒の範囲である必要があります。"
 
 #: ../../locales/../src/engine/engineprivate.cpp:522
 #, c-format
@@ -3206,7 +3206,7 @@ msgstr "ローカル接続に外部 IP アドレスを使用しない(&L)"
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1147
 msgid "Dotfiles are filenames starting with a dot, e.g. .htaccess"
 msgstr ""
-"ドットファイルとはファイル名がドットで始まるファイルです。 例: .htaccess"
+"ドットファイルとはファイル名がドットで始まるファイルです。(例: .htaccess)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:1808
 msgid "Double-click action"
@@ -4300,7 +4300,7 @@ msgid ""
 "reconnect."
 msgstr ""
 "操作中に指定された時間を超えてもデータが送受信されない場合には、接続は閉じら"
-"れ、FileZilla は必要なときに自動で再接続を試みます。"
+"れ、FileZilla は必要な場合に自動で再接続を試みます。"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:2265
 msgid "If reporting bugs, please provide logs with \"Verbose\" logging level."
@@ -4925,7 +4925,7 @@ msgstr ""
 "利用可能なポートの最小値は 1024 から 65535 の範囲である必要があります。"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:220
-msgid "MAC:"
+msgid "Mac:"
 msgstr "Mac:"
 
 #: ../../locales/../src/interface/xmlfunctions.cpp:44
@@ -5296,7 +5296,7 @@ msgstr "再試行回数は 0 から 99 の間でなければなりません。"
 
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1945
 msgid "O&pen file"
-msgstr "ファイルを開く(&P)"
+msgstr "開く(&P)"
 
 #: ../../locales/../src/interface/resources/xrc/certificate.xrc:263
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:239
@@ -5815,8 +5815,8 @@ msgid ""
 "Please note that some servers might ban you if you try to reconnect too "
 "often or in too short intervals."
 msgstr ""
-"頻繁に再接続したり、間隔が短すぎたりすると、サーバーによってはアクセスが禁止"
-"される場合があることに注意してください。"
+"再接続を頻繁に試みたり短い間隔で行うと、サーバーによっては接続を禁止されてし"
+"まう場合があることに注意してください。"
 
 #: ../../locales/../src/interface/netconfwizard.cpp:579
 msgid ""
@@ -6534,8 +6534,8 @@ msgstr "テーマの選択"
 msgid ""
 "Select default action to perform if target file of a transfer already exists."
 msgstr ""
-"転送するターゲット ファイルが既に存在しているときのデフォルトのアクションを選"
-"択してください。"
+"転送するターゲット ファイルが既に存在している場合のデフォルト アクションを選"
+"択します。"
 
 #: ../../locales/../src/interface/settings/optionspage_edit.cpp:104
 #: ../../locales/../src/interface/edithandler.cpp:1531
@@ -6547,7 +6547,7 @@ msgid ""
 "Select default file exists action if the target file already exists. This "
 "selection is valid only for the current session."
 msgstr ""
-"ターゲット ファイルが既に存在しているときのデフォルトのアクションを選択してく"
+"ターゲット ファイルが既に存在している場合のデフォルト アクションを選択してく"
 "ださい。この選択は現在のセッションのみで有効です。"
 
 #: ../../locales/../src/interface/defaultfileexistsdlg.cpp:16
@@ -6763,8 +6763,8 @@ msgid ""
 "Server might require an account. Try specifying an account using the Site "
 "Manager"
 msgstr ""
-"サーバにアカウントが必要な可能性があります。サイト マネージャを使ってアカウン"
-"トを指定してみてください。"
+"サーバーにアカウントが必要な可能性があります。サイト マネージャを使ってアカウ"
+"ントを指定してみてください。"
 
 #: ../../locales/../src/engine/ControlSocket.cpp:345
 msgid "Server returned empty path."
@@ -8083,7 +8083,7 @@ msgstr ""
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1404
 #: ../../locales/../src/interface/resources/xrc/dialogs.xrc:1427
 msgid "Use default action"
-msgstr "デフォルトのアクションを使用"
+msgstr "デフォルト アクションを使用"
 
 #: ../../locales/../src/interface/sitemanager_dialog.cpp:538
 msgid "Use explicit FTP over TLS if available"
