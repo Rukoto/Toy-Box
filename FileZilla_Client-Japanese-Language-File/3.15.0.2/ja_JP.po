@@ -1147,7 +1147,7 @@ msgstr "(%u%% ダウンロード)"
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:858
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:879
 msgid "(0 for no limit)"
-msgstr "(0: 無制限)"
+msgstr "(1 - 10, 0: 無制限)"
 
 #: ../../locales/../src/interface/resources/xrc/settings.xrc:149
 msgid "(0-99)"
@@ -4108,8 +4108,8 @@ msgid ""
 "For more detailed information about what these options do, please run the "
 "network configuration wizard."
 msgstr ""
-"これらのオプションの詳細については、ネットワーク設定ウィザードを実行してくだ"
-"さい。"
+"これらのオプションをどのように設定すべきかわからない場合は、ネットワーク設定"
+"ウィザードを実行してください"
 
 #: ../../locales/../src/interface/resources/xrc/netconfwizard.xrc:313
 msgid "For reliability you should specify a range of at least 10 ports."
@@ -6355,7 +6355,6 @@ msgstr ""
 msgid "Request failed - client's identd could not confirm the user ID string"
 msgstr ""
 "リクエストが失敗 - クライアントの identd がユーザー ID 文字列を確認できません"
-"でした"
 
 #: ../../locales/../src/engine/proxy.cpp:397
 msgid "Request rejected or failed"
