@@ -137,6 +137,12 @@ C:\ProgramData\OpenShell\Languages へ ja-JP.dll をインストールします�
 
 ダウンロード: [PDF-XChange_Viewer-2.5.322.10jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/PDF-XChange_Viewer-Japanese-Patch/PDF-XChange_Viewer-2.5.322.10jp.exe)
 
+いまさらですが、ローカルでは後継の「PDF-XChange Editor」向けの作業に着手しています。  
+相互比較しながら作業を進行する為、Viewer の言語ファイルも頻繁に差し替わります。  
+その都合で、パッチ処理が「差分」では煩わしいため「上書き」に変更しました。  
+作業が完了次第その旨を記載します。Viewer の差し替えの件についてはご了承願います。  
+現在の Editor の言語ファイルの品質があまり良くなく、完了まで数ヶ月かかる見込みです。
+
 ---
 ## 「Resource Hacker Ver.4.X / Ver.5.X」日本語言語ファイル
 定番リソースエディター「[Resource Hacker](http://www.angusj.com/resourcehacker/)」には [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の日本語言語ファイルがありますが、  
