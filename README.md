@@ -34,9 +34,9 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Bandizip Ver.7.05」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.0 Beta」日本語言語ファイル/Webページ
-## 「Honeyview Ver.5.32」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.09 / Ver.6.27」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.07」日本語言語ファイル/Webページ
+## 「Honeyview Ver.5.33」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
 
@@ -53,8 +53,8 @@ Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われ�
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.48.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.22.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.49.0 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.23.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
@@ -117,14 +117,14 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 LHShellExt??.dll を倍直してシステムに再登録するだけのことです。
 
 ---
-## 「Open-Shell Ver.4.4.143」日本語言語ファイル
+## 「Open-Shell Ver.4.4.145」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
 ダウンロード: [Open-Shell-4.4.135jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.135/Open-Shell-4.4.135jp.exe)  
 ↑ Ver.4.4.135 から Ver.4.4.142 までの適合確認済み。
 
 ダウンロード: [Open-Shell-4.4.143jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.143/Open-Shell-4.4.143jp.exe)  
-↑ Ver.4.4.143 の適合確認済み。
+↑ Ver.4.4.143 から Ver.4.4.145 までの適合確認済み。
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 C:\ProgramData\OpenShell\Languages へ ja-JP.dll をインストールします。  
