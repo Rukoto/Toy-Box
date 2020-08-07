@@ -35,8 +35,8 @@
 
 ---
 ## 「Bandizip Ver.7.09 / Ver.6.27」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.07」日本語言語ファイル/Webページ
-## 「Honeyview Ver.5.33」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.10」日本語言語ファイル/Webページ
+## 「Honeyview Ver.5.34」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
 
@@ -47,13 +47,13 @@ Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われ�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
-## 「Driver Store Explorer Ver.0.11.1」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.13」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.49.0 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.49.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.23.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
@@ -85,13 +85,13 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.105」日本語言語ファイル
+## 「Greenshot Ver.1.3.116」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
 また、プラグインが部分的に翻訳されない等の不具合が内在しています。
 
-ダウンロード: [Greenshot-1.3.105jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.105jp.exe)
+ダウンロード: [Greenshot-1.3.116jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.116jp.exe)
 
 より高機能な [ShareX](https://getsharex.com/) のへの移行や日本語対応も検討しましたが、  
 更新止まってますが既に言語ファイルはあるし、Greenshot で自分の用途では十分なのでスルー。
@@ -117,17 +117,17 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 LHShellExt??.dll を倍直してシステムに再登録するだけのことです。
 
 ---
-## 「Open-Shell Ver.4.4.145」日本語言語ファイル
+## 「Open-Shell Ver.4.4.146」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
 ダウンロード: [Open-Shell-4.4.135jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.135/Open-Shell-4.4.135jp.exe)  
 ↑ Ver.4.4.135 から Ver.4.4.142 までの適合確認済み。
 
 ダウンロード: [Open-Shell-4.4.143jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.143/Open-Shell-4.4.143jp.exe)  
-↑ Ver.4.4.143 から Ver.4.4.145 までの適合確認済み。
+↑ Ver.4.4.143 から Ver.4.4.146 までの適合確認済み。
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
-C:\ProgramData\OpenShell\Languages へ ja-JP.dll をインストールします。  
+%ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
 本体と同じ場所に再配置しても動作しますが、この場合の優先順位は下位となります。  
 言語ファイルが複数の場所に存在してしまわないよう、注意してください。
 
@@ -154,11 +154,6 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/web/20180223164138/http://www.angusj.com/resourcehacker/) から入手できます。
 
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
-
----
-## 「WinMerge 日本語版」日本語言語ファイル (コメントのみ)
-比較・マージアプリ「[WinMerge 日本語版](https://winmergejp.bitbucket.io/)」の本体とプラグインの言語ファイル更新に助力しました。  
-現在までの成果は本体側の改善のみ。ヘルプ対応は未定…。
 
 ---
 ## 「WuMgr Ver.1.1b」日本語対応言語ファイル (作業用)
