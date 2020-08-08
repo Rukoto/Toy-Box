@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2020-07-14 05:30+0200\n"
+"POT-Creation-Date: 2020-08-08 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgstr ""
 msgid "%H:%M:%S left"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:268
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:122
 #, c-format
 msgid ""
 "%a - Account (Lines containing this will be omitted if not using Account "
@@ -87,7 +87,7 @@ msgid_plural "%d seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:245
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:99
 msgid "%h - Host"
 msgstr ""
 
@@ -105,7 +105,7 @@ msgid_plural "%llu files"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:261
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:115
 #, c-format
 msgid "%p - Password"
 msgstr ""
@@ -120,7 +120,7 @@ msgstr ""
 msgid "%s (? B/s)"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:276
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:130
 #, c-format
 msgid "%s - Proxy user"
 msgstr ""
@@ -154,22 +154,22 @@ msgid ""
 msgstr ""
 
 #. @translator: Example: RSA with 2048 bits
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:428
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:427
 #, c-format
 msgid "%s with %d bits"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:681
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:680
 #, c-format
 msgid "%s:%d - Hostname does not match certificate"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:253
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:107
 #, c-format
 msgid "%u - Username"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:284
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:138
 msgid "%w - Proxy password"
 msgstr ""
 
@@ -231,12 +231,12 @@ msgstr ""
 msgid "&Adjust server time, offset by:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:958
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:957
 #, c-format
 msgid "&Always allow insecure plain %s for this server."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:707
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:706
 msgid "&Always trust this certificate in future sessions."
 msgstr ""
 
@@ -256,13 +256,13 @@ msgstr ""
 msgid "&Always use this action"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:85
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:76
 msgid "&Ask your operating system for the external IP address"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:48
-#: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:565
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:119
+#: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:565
 msgid "&Auto"
 msgstr ""
 
@@ -275,8 +275,8 @@ msgid "&Background color:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:52
-#: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:567
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:121
+#: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:567
 msgid "&Binary"
 msgstr ""
 
@@ -288,13 +288,13 @@ msgstr ""
 msgid "&Bookmarks"
 msgstr ""
 
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:53
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:92
 msgid "&Browse"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:873
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:967
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:676
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:71
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1807
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:936
@@ -302,7 +302,7 @@ msgstr ""
 msgid "&Browse..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:68
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:94
 msgid "&Burst tolerance:"
 msgstr ""
 
@@ -311,7 +311,7 @@ msgstr ""
 msgid "&Cancel"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:569
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:568
 msgid "&Certificate in chain:"
 msgstr ""
 
@@ -367,7 +367,7 @@ msgstr ""
 msgid "&Debug"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:765
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:44
 msgid "&Debug information in message log:"
 msgstr ""
 
@@ -426,7 +426,7 @@ msgstr ""
 msgid "&Disconnect"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:164
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:106
 msgid "&Display momentary transfer speed instead of average speed"
 msgstr ""
 
@@ -438,15 +438,15 @@ msgstr ""
 msgid "&Don't show this dialog again."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:133
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:88
 msgid "&Don't use external IP address on local connections."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:84
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:85
 msgid "&Double-click action on directories:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:77
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:78
 msgid "&Double-click action on files:"
 msgstr ""
 
@@ -463,7 +463,7 @@ msgstr ""
 msgid "&Download..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:478
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:38
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:55
 msgid "&Downloads:"
 msgstr ""
@@ -481,10 +481,10 @@ msgstr ""
 msgid "&Edit filter rules..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:555
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2436
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:90
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:129
+#: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:555
 msgid "&Enable"
 msgstr ""
 
@@ -492,7 +492,7 @@ msgstr ""
 msgid "&Enable compression"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:47
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:73
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:49
 msgid "&Enable speed limits"
 msgstr ""
@@ -522,11 +522,11 @@ msgid "&Export Site Manager entries"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:58
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1905
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1917
 msgid "&Export..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:170
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:24
 msgid "&Fall back to active mode"
 msgstr ""
 
@@ -586,7 +586,7 @@ msgstr ""
 msgid "&Follow symlink, delete target directory contents"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:111
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:83
 msgid "&Get external IP address from the following URL:"
 msgstr ""
 
@@ -598,7 +598,7 @@ msgstr ""
 msgid "&Global bookmark"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:377
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:231
 msgid "&HTTP/1.1 using CONNECT method"
 msgstr ""
 
@@ -616,7 +616,7 @@ msgstr ""
 msgid "&Highest"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:49
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:65
 msgid "&Highest available port:"
 msgstr ""
 
@@ -654,11 +654,11 @@ msgstr ""
 msgid "&Key file:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:125
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:53
 msgid "&Layout of file and directory panes:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:12
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:52
 msgid "&Limit local ports used by FileZilla"
 msgstr ""
 
@@ -679,7 +679,7 @@ msgstr ""
 msgid "&Local search"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:653
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:45
 msgid "&Log to file"
 msgstr ""
 
@@ -711,7 +711,7 @@ msgstr ""
 msgid "&Message log"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:145
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:78
 msgid "&Minimize to tray"
 msgstr ""
 
@@ -748,8 +748,8 @@ msgstr ""
 msgid "&No"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:202
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:372
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:56
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:226
 #: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1804
 msgid "&None"
 msgstr ""
@@ -763,21 +763,21 @@ msgid "&Numeric value:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:280
+#: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:72
 #: ../../../source/FileZilla3/locales/../src/interface/fileexistsdlg.cpp:99
 #: ../../../source/FileZilla3/locales/../src/interface/inputdialog.cpp:27
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:120
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:264
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:391
-#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:307
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:963
-#: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:72
-#: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:71
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:371
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:178
+#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:307
+#: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:71
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:962
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:371
 msgid "&OK"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:217
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:71
 msgid "&OPEN"
 msgstr ""
 
@@ -873,8 +873,8 @@ msgstr ""
 msgid "&Remove key"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:302
 #: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1791
+#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:302
 msgid "&Remove selected"
 msgstr ""
 
@@ -896,7 +896,7 @@ msgstr ""
 msgid "&Reopen local file"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:88
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:115
 msgid "&Replace invalid characters with:"
 msgstr ""
 
@@ -928,15 +928,15 @@ msgstr ""
 msgid "&Run configuration wizard now..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:615
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:62
 msgid "&Run update check now..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:212
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:66
 msgid "&SITE"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:387
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:241
 msgid "&SOCKS 5"
 msgstr ""
 
@@ -968,8 +968,8 @@ msgstr ""
 msgid "&Select the columns that should be displayed:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:137
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:119
+#: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:137
 msgid "&Server"
 msgstr ""
 
@@ -981,7 +981,7 @@ msgstr ""
 msgid "&Settings..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:754
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:37
 msgid "&Show debug menu"
 msgstr ""
 
@@ -989,7 +989,7 @@ msgstr ""
 msgid "&Show detailed log"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:648
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:42
 msgid "&Show timestamps in message log"
 msgstr ""
 
@@ -1018,7 +1018,7 @@ msgstr ""
 msgid "&Start transfer immediately"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:138
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:66
 msgid "&Swap local and remote panes"
 msgstr ""
 
@@ -1030,7 +1030,7 @@ msgstr ""
 msgid "&Test"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:138
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:146
 msgid "&Theme:"
 msgstr ""
 
@@ -1051,7 +1051,7 @@ msgstr ""
 msgid "&Treat dotfiles as ASCII files"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:710
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:709
 msgid "&Trust this certificate on the listed alternative hostnames."
 msgstr ""
 
@@ -1076,7 +1076,7 @@ msgstr ""
 msgid "&Upload..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:499
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:41
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:61
 msgid "&Uploads:"
 msgstr ""
@@ -1093,11 +1093,11 @@ msgstr ""
 msgid "&Use system's default editor for text files"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:91
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:78
 msgid "&Use the following IP address:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:164
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:18
 msgid "&Use the server's external IP address instead"
 msgstr ""
 
@@ -1134,7 +1134,7 @@ msgstr ""
 msgid "&Watch locally edited files and prompt to upload modifications"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:591
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:52
 msgid "&When checking for updates, check for:"
 msgstr ""
 
@@ -1191,8 +1191,8 @@ msgstr[1] ""
 msgid "(%u%% downloaded)"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:35
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:41
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:61
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:67
 msgid "(0 for no limit)"
 msgstr ""
 
@@ -1204,7 +1204,7 @@ msgstr ""
 msgid "(0-999 seconds)"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:29
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:55
 msgid "(1-10)"
 msgstr ""
 
@@ -1223,8 +1223,8 @@ msgstr ""
 msgid "(example: %Y-%m-%d)"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:58
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:66
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:84
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:92
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:61
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:65
 #, c-format
@@ -1266,19 +1266,19 @@ msgstr ""
 msgid "-s cannot be used together with an FTP URL."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:775
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:48
 msgid "0 - None"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:776
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:49
 msgid "1 - Warning"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:777
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:50
 msgid "2 - Info"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:778
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:51
 msgid "3 - Verbose"
 msgstr ""
 
@@ -1286,7 +1286,7 @@ msgstr ""
 msgid "32-bit system"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:779
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:52
 msgid "4 - Debug"
 msgstr ""
 
@@ -1372,8 +1372,8 @@ msgid ""
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filetype.cpp:50
-#: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:566
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:120
+#: ../../../source/FileZilla3/locales/../src/interface/statusbar.cpp:566
 msgid "A&SCII"
 msgstr ""
 
@@ -1381,8 +1381,8 @@ msgstr ""
 msgid "A&dd"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:546
-msgid "A&llow resume of ASCII files"
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:61
+msgid "A&llow resuming of ASCII files"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/fileexistsdlg.cpp:150
@@ -1413,7 +1413,7 @@ msgstr ""
 msgid "About FileZilla"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:134
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:62
 msgid "Above the file lists"
 msgstr ""
 
@@ -1446,7 +1446,7 @@ msgstr ""
 msgid "Action:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:120
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:119
 msgid "Active mode"
 msgstr ""
 
@@ -1469,7 +1469,7 @@ msgid ""
 "address."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:142
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:72
 msgid "Active mode IP"
 msgstr ""
 
@@ -1488,8 +1488,8 @@ msgstr ""
 msgid "Add selected files and folders to the transfer queue"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:81
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:88
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:82
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:89
 msgid "Add to queue"
 msgstr ""
 
@@ -1501,7 +1501,7 @@ msgstr ""
 msgid "Advanced"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:606
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:60
 msgid ""
 "Advice: Unless you want to test new features, please keep using stable "
 "versions only. Beta versions and nightly builds are development versions "
@@ -1546,7 +1546,7 @@ msgstr ""
 msgid "Already connected"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:468
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:467
 msgid "Alternative name:"
 msgid_plural "Alternative names:"
 msgstr[0] ""
@@ -1584,7 +1584,7 @@ msgid ""
 "Some queue items might not have been saved."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1690
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1702
 msgid ""
 "An item with the same name as the dragged item already exists at the target "
 "location."
@@ -1640,13 +1640,12 @@ msgstr ""
 msgid "Argument buffer overflow"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:136
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:64
 msgid "As tab in the transfer queue pane"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:485
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:506
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:156
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:46
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:98
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:45
 msgid "Ask for action"
 msgstr ""
@@ -1688,7 +1687,7 @@ msgstr ""
 msgid "Authentication failed."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:140
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:149
 msgid "Author:"
 msgstr ""
 
@@ -1717,7 +1716,7 @@ msgstr ""
 msgid "Basic usage instructions"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:142
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:75
 msgid "Behaviour"
 msgstr ""
 
@@ -1730,7 +1729,7 @@ msgstr ""
 msgid "Binary"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:130
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:58
 msgid "Blackboard"
 msgstr ""
 
@@ -1771,15 +1770,15 @@ msgstr ""
 msgid "Build information"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:830
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:829
 msgid "Business category:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:28
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:56
 msgid ""
-"By default uses any available local port to establish transfers in active "
-"mode. If you want to limit FileZilla to use only a small range of ports, "
-"please enter the port range below."
+"By default FileZilla uses any available local port to establish transfers in "
+"active mode. If you want to limit FileZilla to use only a small range of "
+"ports, please enter the port range below."
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:139
@@ -1852,8 +1851,9 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1189
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1264
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1423
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:75
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:69
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:284
+#: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:76
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1232
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1815
 #: ../../../source/FileZilla3/locales/../src/interface/fileexistsdlg.cpp:103
@@ -1864,13 +1864,12 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:124
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:268
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:396
-#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:311
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:719
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:970
-#: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:76
-#: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:76
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:374
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:183
+#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:311
+#: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:76
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:718
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:969
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:374
 msgid "Cancel"
 msgstr ""
 
@@ -2005,7 +2004,7 @@ msgstr ""
 msgid "Categories to clear"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:598
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:597
 msgid "Certificate"
 msgstr ""
 
@@ -2013,7 +2012,7 @@ msgstr ""
 msgid "Certificate and session data are not available yet."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:538
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:537
 msgid "Certificate details"
 msgstr ""
 
@@ -2030,7 +2029,7 @@ msgstr ""
 msgid "Change the file permissions."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:726
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:68
 msgid "Changing logfile settings requires restart of FileZilla."
 msgstr ""
 
@@ -2046,7 +2045,7 @@ msgstr ""
 msgid "Check for &updates..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:573
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:42
 msgid "Check for FileZilla &updates automatically:"
 msgstr ""
 
@@ -2102,7 +2101,7 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:138
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:429
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1968
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1980
 msgid "Choose the local directory"
 msgstr ""
 
@@ -2110,7 +2109,7 @@ msgstr ""
 msgid "Chunk data improperly terminated"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:694
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:693
 msgid "Cipher:"
 msgstr ""
 
@@ -2119,7 +2118,7 @@ msgstr ""
 msgid "Cl&ose tab"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:127
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:55
 msgid "Classic"
 msgstr ""
 
@@ -2228,7 +2227,7 @@ msgstr ""
 msgid "Comment"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:828
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:827
 msgid "Common name:"
 msgstr ""
 
@@ -2247,21 +2246,21 @@ msgstr ""
 msgid "Compare file&size"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:560
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:559
 msgid ""
 "Compare the displayed fingerprint with the certificate fingerprint you have "
-"received from your server adminstrator or server hosting provider."
+"received from your server administrator or server hosting provider."
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:691
 msgid "Compare:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:68
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:69
 msgid "Comparison &threshold (in minutes):"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:126
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:127
 msgid "Comparison threshold needs to be between 0 and 1440 minutes."
 msgstr ""
 
@@ -2285,7 +2284,7 @@ msgstr ""
 msgid "Compressed"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:23
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:49
 msgid "Concurrent transfers"
 msgstr ""
 
@@ -2337,11 +2336,11 @@ msgstr ""
 msgid "Connect failed: %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:158
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:100
 msgid "Connect in current tab"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:157
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:99
 msgid "Connect in new tab"
 msgstr ""
 
@@ -2372,7 +2371,7 @@ msgstr ""
 msgid "Connecting to %s..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:118
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:117
 msgid "Connection"
 msgstr ""
 
@@ -2809,7 +2808,7 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:705
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:762
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1951
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1963
 #, c-format
 msgid "Could not write \"%s\", the selected sites could not be exported: %s"
 msgstr ""
@@ -2841,7 +2840,7 @@ msgstr ""
 msgid "Could not write to socket: %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:833
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:832
 msgid "Country:"
 msgstr ""
 
@@ -2948,7 +2947,7 @@ msgstr ""
 msgid "Curve:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:222
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:76
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_dateformatting.cpp:66
 msgid "Cus&tom"
 msgstr ""
@@ -3043,7 +3042,7 @@ msgstr ""
 msgid "Date formatting"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:131
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:130
 msgid "Date/time format"
 msgstr ""
 
@@ -3051,11 +3050,11 @@ msgstr ""
 msgid "Date/time unknown"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:143
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:142
 msgid "Debug"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:747
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:35
 msgid "Debugging settings"
 msgstr ""
 
@@ -3075,7 +3074,7 @@ msgstr ""
 msgid "Default editor not properly quoted."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:525
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:37
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:25
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:40
 msgid "Default file exists action"
@@ -3104,7 +3103,7 @@ msgid "Default transfer type:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/netconfwizard.xrc:233
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:124
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:87
 msgid "Default: http://ip.filezilla-project.org/ip.php"
 msgstr ""
 
@@ -3157,7 +3156,7 @@ msgid "Desktop"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:222
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:653
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:652
 msgid "Details"
 msgstr ""
 
@@ -3186,14 +3185,14 @@ msgstr ""
 msgid "Directory access permissions"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:63
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:482
-#: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:57
-#: ../../../source/FileZilla3/locales/../src/interface/view.cpp:109
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:64
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2387
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2407
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:951
+#: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:57
+#: ../../../source/FileZilla3/locales/../src/interface/view.cpp:109
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:308
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:482
 msgid "Directory comparison"
 msgstr ""
 
@@ -3201,7 +3200,7 @@ msgstr ""
 msgid "Directory comparison failed"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:81
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:123
 msgid "Directory containing the logfile does not exist or filename is invalid."
 msgstr ""
 
@@ -3328,7 +3327,7 @@ msgstr ""
 msgid "Dotfiles are filenames starting with a dot, e.g. .htaccess"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:75
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:76
 msgid "Double-click action"
 msgstr ""
 
@@ -3336,7 +3335,7 @@ msgstr ""
 msgid "Download"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:52
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:78
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:58
 msgid "Download &limit:"
 msgstr ""
@@ -3386,9 +3385,9 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:117
 #: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:123
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:96
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:117
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:99
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:96
 msgid ""
 "Drag&drop between different instances of FileZilla has not been implemented "
 "yet."
@@ -3396,9 +3395,9 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:122
 #: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:129
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:110
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:122
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:104
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:110
 msgid "Drag&drop between different servers has not been implemented yet."
 msgstr ""
 
@@ -3423,13 +3422,13 @@ msgstr ""
 msgid "E&xit"
 msgstr ""
 
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1817
 #: ../../../source/FileZilla3/locales/../src/interface/queueview_failed.cpp:38
 #: ../../../source/FileZilla3/locales/../src/interface/queueview_successful.cpp:34
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1817
 msgid "E&xport..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:838
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:837
 msgid "E-Mail:"
 msgstr ""
 
@@ -3465,7 +3464,7 @@ msgid ""
 "Please re-enable checking for updates to obtain more information."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:142
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:152
 msgid "Email:"
 msgstr ""
 
@@ -3495,7 +3494,7 @@ msgstr ""
 msgid "En&able all"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:84
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:110
 msgid "Enable invalid character &filtering"
 msgstr ""
 
@@ -3540,7 +3539,7 @@ msgstr ""
 msgid "Enter custom command"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:86
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:87
 msgid "Enter directory"
 msgstr ""
 
@@ -3635,6 +3634,7 @@ msgstr ""
 msgid "Error loading queue"
 msgstr ""
 
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1553
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:177
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:339
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:795
@@ -3642,6 +3642,10 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:888
 #: ../../../source/FileZilla3/locales/../src/interface/filter.cpp:943
 #: ../../../source/FileZilla3/locales/../src/interface/filter.cpp:1034
+#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:66
+#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:137
+#: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1769
+#: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1803
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:41
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:472
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:532
@@ -3650,12 +3654,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:835
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:941
 #: ../../../source/FileZilla3/locales/../src/interface/wrapengine.cpp:943
-#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:66
-#: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:137
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1553
 #: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:194
-#: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1769
-#: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1803
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:743
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:803
 msgid "Error loading xml file"
@@ -3672,15 +3671,15 @@ msgstr ""
 msgid "Error starting program"
 msgstr ""
 
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1573
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:375
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:930
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:581
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:706
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:763
 #: ../../../source/FileZilla3/locales/../src/interface/xmlfunctions.cpp:159
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:1573
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:826
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1952
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1964
 msgid "Error writing xml file"
 msgstr ""
 
@@ -3706,11 +3705,11 @@ msgstr ""
 msgid "Executable contains no version info, cannot check for updates."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:409
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:408
 msgid "Expired!"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:128
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:56
 msgid "Explorer"
 msgstr ""
 
@@ -3734,7 +3733,7 @@ msgstr ""
 msgid "F&ilter name:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:119
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:118
 msgid "FTP"
 msgstr ""
 
@@ -3758,8 +3757,8 @@ msgstr ""
 msgid "FTP Keep-alive"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:189
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:122
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:43
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:121
 msgid "FTP Proxy"
 msgstr ""
 
@@ -3773,7 +3772,7 @@ msgid ""
 "connections can be established in two ways."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:126
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:125
 msgid "FTP: File Types"
 msgstr ""
 
@@ -3805,7 +3804,7 @@ msgstr ""
 msgid "Failed to convert command to 8 bit charset"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1690
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1702
 msgid "Failed to copy or move sites"
 msgstr ""
 
@@ -3843,7 +3842,7 @@ msgstr ""
 msgid "Failed to get peer address of data connection, connection closed."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:173
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:172
 msgid "Failed to load panels, invalid resource files?"
 msgstr ""
 
@@ -3935,7 +3934,7 @@ msgstr ""
 msgid "Failed to set language to %s, using default system language."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage.cpp:213
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage.cpp:87
 msgid "Failed to validate settings"
 msgstr ""
 
@@ -3980,7 +3979,7 @@ msgstr ""
 msgid "File does not contain any importable data."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:135
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:134
 msgid "File editing"
 msgstr ""
 
@@ -3988,7 +3987,7 @@ msgstr ""
 msgid "File exists"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:127
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:126
 msgid "File exists action"
 msgstr ""
 
@@ -3996,7 +3995,7 @@ msgstr ""
 msgid "File has changed"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:133
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:132
 msgid "File lists"
 msgstr ""
 
@@ -4008,9 +4007,9 @@ msgstr ""
 msgid "File not found"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:59
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:636
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1036
+#: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:59
 msgid "File search"
 msgstr ""
 
@@ -4068,7 +4067,7 @@ msgstr ""
 msgid "FileZilla needs to be restarted for the language change to take effect."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:632
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:39
 msgid "FileZilla updates"
 msgstr ""
 
@@ -4099,7 +4098,7 @@ msgstr ""
 msgid "Filename unchanged"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:664
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:50
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:799
 msgid "Filename:"
 msgstr ""
@@ -4133,7 +4132,7 @@ msgstr ""
 msgid "Filesize"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:132
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:131
 msgid "Filesize format"
 msgstr ""
 
@@ -4143,7 +4142,7 @@ msgstr ""
 msgid "Filetype"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:136
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:135
 msgid "Filetype associations"
 msgstr ""
 
@@ -4151,7 +4150,7 @@ msgstr ""
 msgid "Filter applies to:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:83
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:109
 msgid "Filter invalid characters in filenames"
 msgstr ""
 
@@ -4201,11 +4200,11 @@ msgstr ""
 msgid "Find d&irectories"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:619
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:618
 msgid "Fingerprint (SHA-1):"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:616
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:615
 msgid "Fingerprint (SHA-256):"
 msgstr ""
 
@@ -4251,7 +4250,7 @@ msgstr ""
 msgid "Force showing hidden files"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:237
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:91
 msgid "Format specifications:"
 msgstr ""
 
@@ -4266,7 +4265,7 @@ msgid "Found new %s %s\n"
 msgstr ""
 
 #. @translator: Placeholders will be filled with dates
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:401
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:400
 #, c-format
 msgid "From %s to %s"
 msgstr ""
@@ -4292,8 +4291,8 @@ msgstr ""
 msgid "Generate..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:359
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:124
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:213
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:123
 msgid "Generic proxy"
 msgstr ""
 
@@ -4342,7 +4341,7 @@ msgstr ""
 msgid "Hidden"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:71
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:97
 #: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:999
 #: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:1061
 msgid "High"
@@ -4353,7 +4352,7 @@ msgstr ""
 msgid "Highest"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:81
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:164
 msgid "Highest available port has to be a number between 1024 and 65535."
 msgstr ""
 
@@ -4391,8 +4390,8 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:350
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:94
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:200
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:676
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:953
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:675
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:952
 msgid "Host:"
 msgstr ""
 
@@ -4435,7 +4434,7 @@ msgid ""
 "reconnect."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:796
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:55
 msgid "If reporting bugs, please provide logs with \"Verbose\" logging level."
 msgstr ""
 
@@ -4471,7 +4470,7 @@ msgid ""
 "connection."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:719
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:67
 msgid ""
 "If the size of the logfile reaches the limit, it gets renamed by adding "
 "\".1\" to the end of the filename (possibly overwriting older logfiles) and "
@@ -4494,7 +4493,7 @@ msgstr ""
 msgid "If this problem stays, please contact your router manufacturer."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:538
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:59
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:68
 msgid ""
 "If using 'overwrite if newer', your system time has to be synchronized with "
@@ -4502,7 +4501,7 @@ msgid ""
 "offset in the site manager."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:64
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:65
 msgid ""
 "If using timestamp based comparison, consider two files equal if their "
 "timestamp difference does not exceed this threshold."
@@ -4522,7 +4521,7 @@ msgstr ""
 msgid "If you close FileZilla, your changes will be lost."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:948
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:947
 msgid ""
 "If you continue, your password and files will be sent in clear over the "
 "internet."
@@ -4602,7 +4601,7 @@ msgid ""
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/netconfwizard.xrc:168
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:80
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:74
 msgid ""
 "In order to use active mode, FileZilla needs to know your external IP "
 "address."
@@ -4629,12 +4628,12 @@ msgstr ""
 msgid "Initializing TLS..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:920
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:919
 #, c-format
 msgid "Insecure %s connection"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:491
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:490
 msgid "Insecure algorithm!"
 msgstr ""
 
@@ -4647,11 +4646,11 @@ msgstr ""
 msgid "Interactive"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:128
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:127
 msgid "Interface"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:585
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:584
 msgid "Intermediate certificate"
 msgstr ""
 
@@ -4698,7 +4697,7 @@ msgstr ""
 msgid "Invalid data received"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:397
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:396
 msgid "Invalid date"
 msgstr ""
 
@@ -4744,8 +4743,8 @@ msgstr ""
 msgid "Invalid port given. The port has to be a value from 1 to 65535."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/serverdata.cpp:203
 #: ../../../source/FileZilla3/locales/../src/interface/quickconnectbar.cpp:170
+#: ../../../source/FileZilla3/locales/../src/interface/serverdata.cpp:203
 msgid ""
 "Invalid protocol specified. Valid protocols are:\n"
 "ftp:// for normal FTP with optional encryption,\n"
@@ -4799,19 +4798,19 @@ msgstr ""
 msgid "Invert Filter"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:641
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:640
 msgid "Issuer"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:842
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:841
 msgid "Jurisdiction country:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:844
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:843
 msgid "Jurisdiction locality:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:843
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:842
 msgid "Jurisdiction state or province:"
 msgstr ""
 
@@ -4830,7 +4829,7 @@ msgstr ""
 msgid "Key exchange"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:697
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:696
 msgid "Key exchange:"
 msgstr ""
 
@@ -4848,7 +4847,7 @@ msgstr ""
 msgid "L&owest"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:134
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:133
 msgid "Language"
 msgstr ""
 
@@ -4862,7 +4861,7 @@ msgstr ""
 msgid "Last modified"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:121
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:49
 msgid "Layout"
 msgstr ""
 
@@ -4876,23 +4875,23 @@ msgstr ""
 msgid "Leave empty to keep existing password."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:30
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:56
 msgid "Limit for concurrent &downloads:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:36
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:62
 msgid "Limit for concurrent &uploads:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:8
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:50
 msgid "Limit local ports"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:688
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:57
 msgid "Limit size of logfile"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:696
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:61
 msgid "Limit:"
 msgstr ""
 
@@ -4914,7 +4913,7 @@ msgstr ""
 msgid "Listing:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:38
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:61
 msgid "Lo&west available port:"
 msgstr ""
 
@@ -4983,11 +4982,11 @@ msgstr ""
 msgid "Local size of '%s' does not match expected size: %d != %d"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:835
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:834
 msgid "Locality:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:108
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:149
 msgid "Log file"
 msgstr ""
 
@@ -4995,8 +4994,8 @@ msgstr ""
 msgid "Logged in"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:642
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:142
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:40
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:141
 msgid "Logging"
 msgstr ""
 
@@ -5041,11 +5040,11 @@ msgstr ""
 msgid "Lowest"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:74
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:159
 msgid "Lowest available port has to be a number between 1024 and 65535."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:699
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:698
 msgid "Mac:"
 msgstr ""
 
@@ -5125,7 +5124,7 @@ msgstr ""
 msgid "Match not all of the following"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:24
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:50
 msgid "Maximum simultaneous &transfers:"
 msgstr ""
 
@@ -5138,7 +5137,7 @@ msgstr ""
 msgid "Message log"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:132
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:60
 msgid "Message log positio&n:"
 msgstr ""
 
@@ -5146,7 +5145,7 @@ msgstr ""
 msgid "Message too large"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:708
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:65
 msgid "MiB"
 msgstr ""
 
@@ -5184,8 +5183,8 @@ msgstr ""
 msgid "N&o encryption"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:207
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:210
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:219
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:222
 msgid "N/a"
 msgstr ""
 
@@ -5210,8 +5209,12 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:90
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:196
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:841
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:840
 msgid "Name:"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:58
+msgid "Natural sort"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:426
@@ -5245,7 +5248,7 @@ msgstr ""
 msgid "Network unreachable"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:579
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:46
 msgid "Never"
 msgstr ""
 
@@ -5277,7 +5280,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:643
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:900
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:672
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1874
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1886
 msgid "New bookmark"
 msgstr ""
 
@@ -5302,11 +5305,11 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:552
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:566
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1847
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1859
 msgid "New site"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:135
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:63
 msgid "Next to the transfer queue"
 msgstr ""
 
@@ -5330,7 +5333,7 @@ msgstr ""
 msgid "No directory added"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1436
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1448
 #, c-format
 msgid "No entries found matching '%s'."
 msgstr ""
@@ -5353,7 +5356,7 @@ msgstr ""
 msgid "No host given, please enter a host."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:96
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:91
 msgid "No images available"
 msgstr ""
 
@@ -5400,10 +5403,10 @@ msgstr ""
 msgid "No username given."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:83
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:89
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:84
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:90
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:22
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:423
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:422
 msgid "None"
 msgstr ""
 
@@ -5417,7 +5420,7 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/server.cpp:694
 #: ../../../source/FileZilla3/locales/../src/engine/server.cpp:721
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:70
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:96
 #: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:997
 #: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:1059
 msgid "Normal"
@@ -5449,7 +5452,7 @@ msgstr ""
 msgid "Not initialized, need to call WSAStartup"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:405
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:404
 msgid "Not yet valid!"
 msgstr ""
 
@@ -5461,11 +5464,11 @@ msgstr ""
 msgid "Note: A lost key cannot be recovered."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:339
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:193
 msgid "Note: This only works with plain, unencrypted FTP connections."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:447
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:301
 msgid "Note: Using a generic proxy forces passive mode on FTP connections."
 msgstr ""
 
@@ -5499,7 +5502,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1182
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1355
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/storj.xrc:37
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:72
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:65
 #: ../../../source/FileZilla3/locales/../src/interface/aboutdialog.cpp:133
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1229
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1506
@@ -5508,7 +5511,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:140
 #: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:734
 #: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:113
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:715
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:714
 msgid "OK"
 msgstr ""
 
@@ -5516,7 +5519,7 @@ msgstr ""
 msgid "OS version:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:149
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:88
 msgid "On startup of FileZilla:"
 msgstr ""
 
@@ -5530,11 +5533,11 @@ msgstr ""
 msgid "Once"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:580
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:47
 msgid "Once a day"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:581
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:48
 msgid "Once a week"
 msgstr ""
 
@@ -5627,7 +5630,7 @@ msgstr ""
 msgid "Orange"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:829
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:828
 msgid "Organization:"
 msgstr ""
 
@@ -5639,7 +5642,7 @@ msgstr ""
 msgid "Other system error"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:857
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:856
 msgid "Other:"
 msgstr ""
 
@@ -5649,7 +5652,7 @@ msgid "Out of memory"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_ftp.cpp:37
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:609
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:608
 msgid "Overview"
 msgstr ""
 
@@ -5657,26 +5660,22 @@ msgstr ""
 msgid "Overwrite &if source newer"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:486
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:507
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:47
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:46
 msgid "Overwrite file"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:488
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:509
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:49
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:48
 msgid "Overwrite file if size differs"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:489
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:510
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:50
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:49
 msgid "Overwrite file if size differs or source file is newer"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:487
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:508
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:48
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:47
 msgid "Overwrite file if source file newer"
 msgstr ""
@@ -5703,14 +5702,14 @@ msgstr ""
 msgid "Owner/Group"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:147
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:82
 msgid ""
 "P&revent system from entering idle sleep during transfers and other "
 "operations"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:299
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:395
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:153
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:249
 msgid "P&roxy host:"
 msgstr ""
 
@@ -5741,8 +5740,8 @@ msgstr ""
 msgid "Passive (recommended)"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:153
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:121
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:7
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:120
 msgid "Passive mode"
 msgstr ""
 
@@ -5761,8 +5760,8 @@ msgstr ""
 msgid "Password required"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:129
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:175
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:128
 msgid "Passwords"
 msgstr ""
 
@@ -5870,7 +5869,7 @@ msgid ""
 "Please enter a date of the form YYYY-MM-DD such as for example 2010-07-18."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:197
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:200
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:103
 #, c-format
 msgid "Please enter a download speed limit greater or equal to 0 %s/s."
@@ -5893,18 +5892,18 @@ msgstr ""
 msgid "Please enter a new name for the filter."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:185
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:191
 msgid ""
 "Please enter a number between 0 and 10 for the number of concurrent "
 "downloads."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:191
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:195
 msgid ""
 "Please enter a number between 0 and 10 for the number of concurrent uploads."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:179
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:187
 msgid ""
 "Please enter a number between 1 and 10 for the number of concurrent "
 "transfers."
@@ -5935,7 +5934,7 @@ msgstr ""
 msgid "Please enter an URL where to get your external address from"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:203
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:205
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:109
 #, c-format
 msgid "Please enter an upload speed limit greater or equal to 0 %s/s."
@@ -6094,24 +6093,24 @@ msgid ""
 "protocol specific 'fixups' have to be disabled"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:955
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:954
 msgid "Port:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:836
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:835
 msgid "Postal code:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:104
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:131
 msgid "Pre&allocate space before downloading"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:103
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:130
 msgid "Preallocation"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:288
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1524
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1536
 msgid "Predefined Sites"
 msgstr ""
 
@@ -6119,7 +6118,7 @@ msgstr ""
 msgid "Preserving file timestamps"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:156
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:167
 msgid "Preview"
 msgstr ""
 
@@ -6139,7 +6138,7 @@ msgstr ""
 msgid "Priority"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:620
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:66
 msgid ""
 "Privacy policy: Only your version of FileZilla, your used operating system "
 "and your CPU architecture will be submitted to the server."
@@ -6161,8 +6160,8 @@ msgstr ""
 msgid "Pro&tocol:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:322
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:428
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:176
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:282
 msgid "Pro&xy password:"
 msgstr ""
 
@@ -6194,16 +6193,16 @@ msgstr ""
 msgid "Protocol not supported on given socket type"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:691
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:690
 msgid "Protocol:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:405
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:259
 msgid "Proxy &port:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:312
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:418
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:166
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:272
 msgid "Proxy &user:"
 msgstr ""
 
@@ -6251,7 +6250,7 @@ msgstr ""
 msgid "Public Key Authentication"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:662
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:661
 msgid "Public key algorithm:"
 msgstr ""
 
@@ -6295,9 +6294,9 @@ msgstr ""
 msgid "Quick search cannot be opened if comparing directories."
 msgstr ""
 
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit_associations.cpp:33
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:41
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:78
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit_associations.cpp:33
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1800
 msgid "Quoting rules"
 msgstr ""
@@ -6481,8 +6480,8 @@ msgstr ""
 msgid "Remote"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:1277
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:100
+#: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:1277
 msgid "Remote file"
 msgstr ""
 
@@ -6549,8 +6548,7 @@ msgstr ""
 msgid "Remove &selected"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:491
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:512
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:52
 #: ../../../source/FileZilla3/locales/../src/interface/asyncrequestqueue.cpp:353
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:51
 msgid "Rename file"
@@ -6632,7 +6630,7 @@ msgstr ""
 msgid "Response:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:152
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:93
 msgid "Restore ta&bs and reconnect"
 msgstr ""
 
@@ -6640,13 +6638,12 @@ msgstr ""
 msgid "Results:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:490
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:511
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:51
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:50
 msgid "Resume file transfer"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:551
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:63
 msgid ""
 "Resuming ASCII files can cause problems if server uses a different line "
 "ending format than the client."
@@ -6670,7 +6667,7 @@ msgstr ""
 msgid "Retrieving external IP address from %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:582
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:581
 msgid "Root certificate"
 msgstr ""
 
@@ -6678,7 +6675,7 @@ msgstr ""
 msgid "S&how files currently being edited..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:151
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:91
 msgid "S&how the Site Manager on startup"
 msgstr ""
 
@@ -6686,7 +6683,7 @@ msgstr ""
 msgid "S&hutdown system once"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:150
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:89
 msgid "S&tart normally"
 msgstr ""
 
@@ -6702,7 +6699,7 @@ msgstr ""
 msgid "S&ynchronized browsing"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:123
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:122
 msgid "SFTP"
 msgstr ""
 
@@ -6710,7 +6707,7 @@ msgstr ""
 msgid "SFTP support"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:382
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:236
 msgid "SOC&KS 4"
 msgstr ""
 
@@ -6733,7 +6730,7 @@ msgstr ""
 msgid "Sa&ve passwords protected by a master password"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:474
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:473
 msgid "Same as subject, certificate is self-signed"
 msgstr ""
 
@@ -6754,7 +6751,7 @@ msgstr ""
 msgid "Saving of passwords has been disabled by you."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:144
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:155
 msgid "Scale factor:"
 msgstr ""
 
@@ -6776,7 +6773,7 @@ msgstr ""
 msgid "Search for files recursively."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1436
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1448
 msgid "Search result"
 msgstr ""
 
@@ -6810,15 +6807,15 @@ msgstr ""
 msgid "Sele&ct server"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:66
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:59
 msgid "Select &page:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:137
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_themes.cpp:145
 msgid "Select Theme"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:466
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:34
 msgid ""
 "Select default action to perform if target file of a transfer already exists."
 msgstr ""
@@ -6862,7 +6859,7 @@ msgid "Select file for exported settings"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/export.cpp:38
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1917
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1929
 msgid "Select file for exported sites"
 msgstr ""
 
@@ -6984,7 +6981,7 @@ msgstr ""
 msgid "Selected port usually in use by a different protocol."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:575
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:574
 msgid "Self-signed server certificate"
 msgstr ""
 
@@ -7000,11 +6997,11 @@ msgstr ""
 msgid "Sending keep-alive command"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:839
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:838
 msgid "Serial number:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:659
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:658
 msgid "Serial:"
 msgstr ""
 
@@ -7016,7 +7013,7 @@ msgstr ""
 msgid "Server Side Encryption:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:578
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:577
 msgid "Server certificate"
 msgstr ""
 
@@ -7140,7 +7137,7 @@ msgstr ""
 msgid "Server:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:672
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:671
 msgid "Session details"
 msgstr ""
 
@@ -7154,7 +7151,7 @@ msgstr ""
 msgid "Setting permissions of '%s' to '%s'"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:54
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:47
 msgid "Settings"
 msgstr ""
 
@@ -7166,7 +7163,7 @@ msgstr ""
 msgid "Sh&ow notification bubble"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:804
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:59
 msgid "Show &raw directory listing"
 msgstr ""
 
@@ -7203,7 +7200,7 @@ msgstr ""
 msgid "Shutdown now"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:665
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:664
 msgid "Signature algorithm:"
 msgstr ""
 
@@ -7295,8 +7292,7 @@ msgstr ""
 msgid "Size unknown"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:492
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:513
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_fileexists.cpp:53
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:52
 msgid "Skip file"
 msgstr ""
@@ -7347,7 +7343,7 @@ msgid "Some files are still being edited or need to be uploaded."
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/netconfwizard.xrc:147
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:159
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:13
 msgid ""
 "Some misconfigured remote servers which are behind a router, may reply with "
 "their local IP address."
@@ -7390,7 +7386,7 @@ msgstr ""
 msgid "Speed Limits"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:45
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:71
 #: ../../../source/FileZilla3/locales/../src/interface/speedlimits_dialog.cpp:34
 msgid "Speed limits"
 msgstr ""
@@ -7403,15 +7399,15 @@ msgstr ""
 msgid "Speed limits are enabled, click to change."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:598
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:57
 msgid "Stable and beta versions"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:597
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:56
 msgid "Stable versions only"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:599
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:58
 msgid "Stable, beta and nightly versions"
 msgstr ""
 
@@ -7446,7 +7442,7 @@ msgstr ""
 msgid "Starts the local site in the given path"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:834
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:833
 msgid "State or province:"
 msgstr ""
 
@@ -7482,11 +7478,11 @@ msgstr ""
 msgid "Storj support"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:837
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:836
 msgid "Street:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:629
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:628
 msgid "Subject"
 msgstr ""
 
@@ -7538,13 +7534,13 @@ msgstr ""
 msgid "Syntax error"
 msgstr ""
 
+#: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2541
+#: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2583
 #: ../../../source/FileZilla3/locales/../src/interface/cmdline.cpp:83
 #: ../../../source/FileZilla3/locales/../src/interface/cmdline.cpp:88
 #: ../../../source/FileZilla3/locales/../src/interface/cmdline.cpp:93
 #: ../../../source/FileZilla3/locales/../src/interface/cmdline.cpp:100
 #: ../../../source/FileZilla3/locales/../src/interface/cmdline.cpp:105
-#: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2541
-#: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2583
 msgid "Syntax error in command line"
 msgstr ""
 
@@ -7600,7 +7596,7 @@ msgstr ""
 msgid "Target filename already exists, really continue?"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:840
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:839
 msgid "Telephone number:"
 msgstr ""
 
@@ -7795,12 +7791,12 @@ msgstr ""
 msgid "The filename column cannot be hidden."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:97
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:124
 #, c-format
 msgid "The following character will be replaced: %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:94
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:121
 #, c-format
 msgid "The following characters will be replaced: %s"
 msgstr ""
@@ -7817,14 +7813,14 @@ msgstr ""
 msgid "The global bookmarks could not be saved."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:791
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_debug.cpp:54
 msgid ""
 "The higher the debug level, the more information will be displayed in the "
 "message log. Displaying debug information has a negative impact on "
 "performance."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:88
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:129
 msgid "The limit needs to be between 1 and 2000 MiB"
 msgstr ""
 
@@ -7845,7 +7841,7 @@ msgid ""
 "Disable synchronized browsing and continue changing the local directory?"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:85
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:168
 msgid ""
 "The lowest available port has to be less or equal than the highest available "
 "port."
@@ -7910,7 +7906,7 @@ msgstr ""
 msgid "The server uses following charset encoding for filenames:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:556
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:555
 msgid ""
 "The server's certificate is unknown. Please carefully examine the "
 "certificate to make sure the server can be trusted."
@@ -7970,7 +7966,7 @@ msgstr ""
 msgid "The valid backup file %s could not be restored"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:130
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:129
 msgid "Themes"
 msgstr ""
 
@@ -7982,7 +7978,7 @@ msgstr ""
 msgid "This filter set cannot be renamed."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:934
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:933
 msgid ""
 "This may be the result of a downgrade attack, only continue after you have "
 "spoken to the server administrator or server hosting provider."
@@ -8000,7 +7996,7 @@ msgid ""
 "return your internal address."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:942
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:941
 msgid "This server does not support FTP over TLS."
 msgstr ""
 
@@ -8027,7 +8023,7 @@ msgstr ""
 msgid "Timeout"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:832
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:831
 msgid "Title:"
 msgstr ""
 
@@ -8100,8 +8096,8 @@ msgstr ""
 msgid "Trace:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:80
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:87
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:81
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:88
 msgid "Transfer"
 msgstr ""
 
@@ -8117,7 +8113,7 @@ msgstr ""
 msgid "Transfer Mode"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:163
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:105
 msgid "Transfer Queue"
 msgstr ""
 
@@ -8139,7 +8135,7 @@ msgstr ""
 msgid "Transferring"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:125
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:124
 msgid "Transfers"
 msgstr ""
 
@@ -8167,7 +8163,7 @@ msgstr ""
 msgid "Trust the new key and carry on connecting?"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:705
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:704
 msgid "Trust the server certificate and carry on connecting?"
 msgstr ""
 
@@ -8185,11 +8181,11 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:197
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:51
 msgid "Type of FTP Proxy:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:367
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:221
 msgid "Type of generic proxy:"
 msgstr ""
 
@@ -8205,7 +8201,7 @@ msgstr ""
 msgid "U&se filetype associations if available"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:207
+#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:61
 msgid "USER@&HOST"
 msgstr ""
 
@@ -8219,7 +8215,7 @@ msgstr ""
 msgid "Unfortunately information about the new update could not be retrieved."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:831
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:830
 msgid "Unit:"
 msgstr ""
 
@@ -8244,7 +8240,7 @@ msgstr ""
 msgid "Unknown SOCKS protocol version: %d"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:538
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:537
 msgid "Unknown certificate"
 msgstr ""
 
@@ -8303,8 +8299,8 @@ msgstr ""
 msgid "Up&load and unedit"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:45
-#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:139
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:98
+#: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:138
 msgid "Updates"
 msgstr ""
 
@@ -8312,7 +8308,7 @@ msgstr ""
 msgid "Upload"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:60
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:86
 msgid "Upload &limit:"
 msgstr ""
 
@@ -8367,7 +8363,7 @@ msgid "Uploading and unediting"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_dateformatting.cpp:62
-msgid "Us&e system &defaults for current language"
+msgid "Us&e system defaults for current language"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1088
@@ -8428,7 +8424,7 @@ msgid "Use the server's external IP address instead"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/netconfwizard.xrc:207
-#: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/settings.xrc:102
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:82
 msgid ""
 "Use this if you're behind a router and have a static external IP address."
 msgstr ""
@@ -8457,7 +8453,7 @@ msgstr ""
 msgid "Using insecure HTTP"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:945
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:944
 #, c-format
 msgid "Using plain %s is insecure."
 msgstr ""
@@ -8472,7 +8468,7 @@ msgid ""
 msgstr ""
 
 #. @translator: Period as in a span of time with a start and end date
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:623
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:622
 msgid "Validity period:"
 msgstr ""
 
@@ -8480,7 +8476,7 @@ msgstr ""
 msgid "Verbose log messages from wxWidgets"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:72
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:98
 msgid "Very high"
 msgstr ""
 
@@ -8488,7 +8484,7 @@ msgstr ""
 msgid "View hidden option set, but unsupported by server"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:82
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:83
 msgid "View/Edit"
 msgstr ""
 
@@ -8516,13 +8512,13 @@ msgstr ""
 msgid "Waiting to retry..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:933
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:932
 msgid ""
 "Warning! You have previously connected to this server using FTP over TLS, "
 "yet the server has now rejected FTP over TLS."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:937
+#: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:936
 msgid "Warning! You have previously connected to this server using TLS."
 msgstr ""
 
@@ -8530,7 +8526,7 @@ msgstr ""
 msgid "Warning, ignoring data connection from wrong IP."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:45
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_updatecheck.cpp:98
 msgid ""
 "Warning, use nightly builds at your own risk.\n"
 "No support is given for nightly builds.\n"
@@ -8573,17 +8569,17 @@ msgid ""
 "having to re-enter a password after restarting FileZilla."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:85
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:112
 msgid ""
 "When enabled, characters that are not supported by the local operating "
 "system in filenames are replaced if downloading such a file."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:154
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:96
 msgid "When st&arting a new connection while already connected:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:129
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_interface.cpp:57
 msgid "Widescreen"
 msgstr ""
 
@@ -8661,7 +8657,7 @@ msgstr ""
 msgid "You cannot import settings from FileZilla's own settings directory."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:222
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_transfer.cpp:223
 msgid ""
 "You cannot replace an invalid character with another invalid character. "
 "Please enter a character that is allowed in filenames."
@@ -8713,7 +8709,11 @@ msgstr ""
 msgid "You have to enter a remote directory."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:101
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:180
+msgid "You have to enter a resolver."
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_active.cpp:175
 #: ../../../source/FileZilla3/locales/../src/interface/netconfwizard.cpp:165
 msgid "You have to enter a valid IPv4 address."
 msgstr ""
@@ -8748,7 +8748,7 @@ msgstr ""
 msgid "You need to enter a name for the bookmark."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:76
+#: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:118
 msgid "You need to enter a name for the log file."
 msgstr ""
 
