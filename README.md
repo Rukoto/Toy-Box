@@ -13,13 +13,13 @@
 [こちら](https://github.com/Rukoto/Toy-Box/blob/master/Comment.md)に掲載しております。
 
 ---
-## 「7-Zip Ver.20.00 alpha / Ver.19.00」日本語環境対応パッチ
+## 「7-Zip Ver.20.01 alpha / Ver.19.00」日本語環境対応パッチ
 高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://sevenzip.osdn.jp/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
-ダウンロード: [7-Zip-20.00_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-20.00_x64-jp.exe)  
-ダウンロード: [7-Zip-20.00_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-20.00_x86-jp.exe)  
-↑Ver.20.00 alpha 用
+ダウンロード: [7-Zip-20.01_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-20.01_x64-jp.exe)  
+ダウンロード: [7-Zip-20.01_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-20.01_x86-jp.exe)  
+↑Ver.20.01 alpha 用
 
 ダウンロード: [7-Zip-19.00_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_x64-jp.exe)  
 ダウンロード: [7-Zip-19.00_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_x86-jp.exe)  
@@ -29,7 +29,7 @@
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
 リソースを書き換えただけなので、バイナリ自体がソースです。リソースエディターで確認できます。
 
-ヘルプのソース (Ver.20.00): [7-Zip-20.00_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-20.00_Help-jp.7z)  
+ヘルプのソース (Ver.20.01): [7-Zip-20.01_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-20.01_Help-jp.7z)  
 ヘルプのソース (Ver.19.00): [7-Zip-19.00_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_Help-jp.7z)  
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
