@@ -35,7 +35,7 @@
 
 ---
 ## 「Bandizip Ver.7.09 / Ver.6.27」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.11」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.12」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.34」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
@@ -85,13 +85,13 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.116」日本語言語ファイル
+## 「Greenshot Ver.1.3.122」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
 また、プラグインが部分的に翻訳されない等の不具合が内在しています。
 
-ダウンロード: [Greenshot-1.3.116jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.116jp.exe)
+ダウンロード: [Greenshot-1.3.122jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.122jp.exe)
 
 より高機能な [ShareX](https://getsharex.com/) のへの移行や日本語対応も検討しましたが、  
 更新止まってますが既に言語ファイルはあるし、Greenshot で自分の用途では十分なのでスルー。
