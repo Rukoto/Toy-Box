@@ -35,7 +35,7 @@
 
 ---
 ## 「Bandizip Ver.7.09 / Ver.6.27」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.12」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.13」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.34」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
@@ -47,7 +47,7 @@ Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われ�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
-## 「Driver Store Explorer Ver.0.11.20」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.21」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
@@ -117,14 +117,12 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 LHShellExt??.dll を倍直してシステムに再登録するだけのことです。
 
 ---
-## 「Open-Shell Ver.4.4.148」日本語言語ファイル
+## 「Open-Shell Ver.4.4.149」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード: [Open-Shell-4.4.135jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.135/Open-Shell-4.4.135jp.exe)  
-↑ Ver.4.4.135 から Ver.4.4.142 までの適合確認済み。
-
-ダウンロード: [Open-Shell-4.4.143jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.143/Open-Shell-4.4.143jp.exe)  
-↑ Ver.4.4.143 から Ver.4.4.148 までの適合確認済み。
+ダウンロード: [4.4.135 以降用 Open-Shell-4.4.135jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.135/Open-Shell-4.4.135jp.exe)  
+ダウンロード: [4.4.143 以降用 Open-Shell-4.4.143jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.143/Open-Shell-4.4.143jp.exe)  
+ダウンロード: [4.4.149 以降用 Open-Shell-4.4.149jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.149/Open-Shell-4.4.149jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
