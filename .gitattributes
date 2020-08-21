@@ -1,2 +1,16 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+*.bat diff
+*.css diff
+*.hhc diff
+*.hhk diff
+*.hhp diff
+*.htm diff
+*.ini diff
+*.lang diff
+*.lng diff
+*.po diff
+*.pot diff
+*.rc diff
+*.reg diff
+*.tr diff
+*.txt diff
