@@ -47,7 +47,7 @@ Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われ�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
-## 「Driver Store Explorer Ver.0.11.21」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.22」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。

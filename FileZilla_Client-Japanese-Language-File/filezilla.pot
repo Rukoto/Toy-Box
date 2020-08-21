@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2020-08-14 05:30+0200\n"
+"POT-Creation-Date: 2020-08-21 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -172,7 +172,7 @@ msgstr ""
 msgid "%w - Proxy password"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1281
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1204
 msgid "&AWS S3 encryption"
 msgstr ""
 
@@ -185,22 +185,22 @@ msgid "&About..."
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:398
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:361
 msgid "&Access key ID:"
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:422
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:385
 msgid "&Account ID:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:135
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:133
 msgid "&Account:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/netconfwizard.xrc:80
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_ftp.cpp:55
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1171
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1094
 msgid "&Active"
 msgstr ""
 
@@ -226,7 +226,7 @@ msgstr ""
 msgid "&Add to queue"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:955
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:878
 msgid "&Adjust server time, offset by:"
 msgstr ""
 
@@ -265,11 +265,11 @@ msgstr ""
 msgid "&Auto"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1082
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1005
 msgid "&Autodetect"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:52
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:55
 msgid "&Background color:"
 msgstr ""
 
@@ -296,7 +296,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:967
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:71
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1807
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:936
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:859
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:302
 msgid "&Browse..."
 msgstr ""
@@ -496,11 +496,11 @@ msgstr ""
 msgid "&Enable speed limits"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1092
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1015
 msgid "&Encoding:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:104
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:101
 msgid "&Encryption:"
 msgstr ""
 
@@ -620,8 +620,8 @@ msgid "&Highest available port:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/quickconnectbar.cpp:43
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:93
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:390
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:90
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:345
 msgid "&Host:"
 msgstr ""
 
@@ -649,7 +649,7 @@ msgstr ""
 msgid "&Keep remote path structure relative to search root"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:139
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:137
 msgid "&Key file:"
 msgstr ""
 
@@ -661,7 +661,7 @@ msgstr ""
 msgid "&Limit local ports used by FileZilla"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1175
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1098
 msgid "&Limit number of simultaneous connections"
 msgstr ""
 
@@ -682,7 +682,7 @@ msgstr ""
 msgid "&Log to file"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:118
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:116
 msgid "&Logon Type:"
 msgstr ""
 
@@ -698,7 +698,7 @@ msgstr ""
 msgid "&Manual transfer..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1179
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1102
 msgid "&Maximum number of connections:"
 msgstr ""
 
@@ -765,9 +765,9 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:72
 #: ../../../source/FileZilla3/locales/../src/interface/fileexistsdlg.cpp:99
 #: ../../../source/FileZilla3/locales/../src/interface/inputdialog.cpp:27
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:120
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:264
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:391
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:132
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:276
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:403
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:178
 #: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:307
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:371
@@ -789,11 +789,11 @@ msgstr ""
 msgid "&Overwrite"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1172
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1095
 msgid "&Passive"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:238
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:250
 msgid "&Password:"
 msgstr ""
 
@@ -802,7 +802,7 @@ msgid "&Play sound"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/quickconnectbar.cpp:59
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:98
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:95
 msgid "&Port:"
 msgstr ""
 
@@ -843,11 +843,11 @@ msgstr ""
 msgid "&Refresh"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:114
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:126
 msgid "&Remember master password until FileZilla is closed"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:257
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:269
 msgid "&Remember password until FileZilla is closed"
 msgstr ""
 
@@ -947,7 +947,7 @@ msgstr ""
 msgid "&Search remote files..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1290
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1213
 msgid "&Select a key:"
 msgstr ""
 
@@ -1033,7 +1033,7 @@ msgstr ""
 msgid "&Transfer"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1167
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1090
 msgid "&Transfer mode:"
 msgstr ""
 
@@ -1080,7 +1080,7 @@ msgstr ""
 msgid "&Use custom program"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:950
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:873
 msgid "&Use synchronized browsing"
 msgstr ""
 
@@ -1100,10 +1100,10 @@ msgstr ""
 msgid "&Use thousands separator"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:228
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:123
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:393
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:478
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:240
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:121
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:348
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:441
 msgid "&User:"
 msgstr ""
 
@@ -1160,7 +1160,7 @@ msgstr ""
 msgid "'%s' is not a supported protocol."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:627
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:584
 msgid ""
 "'Normal' and 'Account' logontypes are not available. Your entry has been "
 "changed to 'Ask for password'."
@@ -1396,11 +1396,20 @@ msgstr ""
 msgid "A&utomatically remove successful transfers"
 msgstr ""
 
+#. @translator: Keep short
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:355
+msgid "API &Key:"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:104
+msgid "API Key:"
+msgstr ""
+
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:165
 msgid "ASCII"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1284
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1207
 msgid "AWS &KMS encryption"
 msgstr ""
 
@@ -1412,7 +1421,7 @@ msgstr ""
 msgid "Above the file lists"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:406
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:369
 msgid "Access &Key:"
 msgstr ""
 
@@ -1492,7 +1501,7 @@ msgstr ""
 msgid "Address type not supported"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:71
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:74
 msgid "Advanced"
 msgstr ""
 
@@ -1611,7 +1620,7 @@ msgid "App&ly to directories only"
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:424
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:387
 msgid "Application &Key:"
 msgstr ""
 
@@ -1699,7 +1708,7 @@ msgstr ""
 msgid "B <Unit symbol for bytes. Only translate first letter>"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:925
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:848
 msgid "B&ypass proxy"
 msgstr ""
 
@@ -1746,15 +1755,8 @@ msgstr ""
 msgid "Bookmarks"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:144
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:142
 msgid "Browse..."
-msgstr ""
-
-#: ../../../source/FileZilla3/locales/../src/engine/storj/resolve.cpp:68
-#: ../../../source/FileZilla3/locales/../src/engine/storj/resolve.cpp:148
-#: ../../../source/FileZilla3/locales/../src/engine/storj/resolve.cpp:214
-#: ../../../source/FileZilla3/locales/../src/engine/storj/resolve.cpp:279
-msgid "Bucket not found"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/aboutdialog.cpp:56
@@ -1804,7 +1806,7 @@ msgstr ""
 msgid "C&ustom"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1295
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1218
 msgid "C&ustom KMS ARN:"
 msgstr ""
 
@@ -1856,9 +1858,9 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:143
 #: ../../../source/FileZilla3/locales/../src/interface/inputdialog.cpp:31
 #: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:737
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:124
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:268
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:396
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:136
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:280
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:408
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:183
 #: ../../../source/FileZilla3/locales/../src/interface/osx_sandbox_userdirs.cpp:311
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:374
@@ -2011,7 +2013,7 @@ msgstr ""
 msgid "Certificate details"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:214
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:226
 msgid "Challenge:"
 msgstr ""
 
@@ -2032,7 +2034,7 @@ msgstr ""
 msgid "Character encoding issue"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:85
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:88
 msgid "Charset"
 msgstr ""
 
@@ -2086,11 +2088,11 @@ msgstr ""
 msgid "Checksum mismatch on file %s\n"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:204
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:193
 msgid "Choose a key file"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:940
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:863
 msgid "Choose the default local directory"
 msgstr ""
 
@@ -2180,7 +2182,7 @@ msgstr ""
 msgid "Closes current tab"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:56
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:59
 msgid "Co&mments:"
 msgstr ""
 
@@ -2360,7 +2362,7 @@ msgid "Connecting to %s through %s proxy"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/connect.cpp:19
-#: ../../../source/FileZilla3/locales/../src/engine/storj/connect.cpp:19
+#: ../../../source/FileZilla3/locales/../src/engine/storj/connect.cpp:20
 #: ../../../source/FileZilla3/locales/../src/engine/controlsocket.cpp:800
 #, c-format
 msgid "Connecting to %s..."
@@ -2532,7 +2534,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/filetransfer.cpp:78
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/filetransfer.cpp:99
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:320
-#: ../../../source/FileZilla3/locales/../src/engine/storj/storjcontrolsocket.cpp:231
+#: ../../../source/FileZilla3/locales/../src/engine/storj/storjcontrolsocket.cpp:219
 msgid "Could not convert command to server encoding"
 msgstr ""
 
@@ -2893,7 +2895,7 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/ftp/mkd.cpp:33
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/mkd.cpp:33
-#: ../../../source/FileZilla3/locales/../src/engine/storj/mkd.cpp:25
+#: ../../../source/FileZilla3/locales/../src/engine/storj/mkd.cpp:23
 #, c-format
 msgid "Creating directory '%s'..."
 msgstr ""
@@ -2915,7 +2917,7 @@ msgstr ""
 msgid "Critical file transfer error after transferring %s in %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1298
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1221
 msgid "Cu&stomer encryption"
 msgstr ""
 
@@ -2947,15 +2949,15 @@ msgstr ""
 msgid "Cus&tom"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1303
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1226
 msgid "Cus&tomer Key:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1293
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1216
 msgid "Custom KMS ARN"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1386
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1309
 msgid "Custom KMS ARN id cannot be empty."
 msgstr ""
 
@@ -2963,11 +2965,11 @@ msgstr ""
 msgid "Custom filter set"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1398
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1321
 msgid "Custom key cannot be empty."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1412
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1335
 msgid "Custom key length must be 256-bit."
 msgstr ""
 
@@ -2988,7 +2990,7 @@ msgstr ""
 msgid "D&ecimal prefixes using SI symbols (e.g. 1 KB = 1000 bytes)"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1170
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1093
 msgid "D&efault"
 msgstr ""
 
@@ -3053,11 +3055,11 @@ msgstr ""
 msgid "Debugging settings"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:929
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:852
 msgid "Default &local directory:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1292
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1215
 msgid "Default (AWS/S3)"
 msgstr ""
 
@@ -3075,11 +3077,11 @@ msgstr ""
 msgid "Default file exists action"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:947
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:870
 msgid "Default r&emote directory:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1047
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:970
 msgid ""
 "Default remote path cannot be parsed. Make sure it is a valid absolute path "
 "for the selected server type."
@@ -3184,7 +3186,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2387
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2407
 #: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:482
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:951
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:874
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:308
 #: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:57
 #: ../../../source/FileZilla3/locales/../src/interface/view.cpp:109
@@ -3308,6 +3310,10 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1199
 msgid "Do you want to reopen this file?"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:105
+msgid "Docs"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/welcome_dialog.cpp:99
@@ -3493,6 +3499,11 @@ msgstr ""
 msgid "Enable invalid character &filtering"
 msgstr ""
 
+#. @translator: Keep short
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:357
+msgid "Encr&yption Passphrase:"
+msgstr ""
+
 #: ../../../source/FileZilla3/locales/../src/interface/filter_conditions_dialog.cpp:78
 msgid "Encrypted"
 msgstr ""
@@ -3501,13 +3512,16 @@ msgstr ""
 msgid "Encryption"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:247
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:148
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:259
 msgid "Encryption &key:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:621
 msgid "Encryption details"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/engine/storj/connect.cpp:58
+msgid "Encryption passphrase is not set"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:484
@@ -3545,7 +3559,7 @@ msgid "Enter filter name"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:77
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:361
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:373
 msgid "Enter master password"
 msgstr ""
 
@@ -3557,7 +3571,7 @@ msgstr ""
 msgid "Enter new name for filterset"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:178
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:190
 msgid "Enter password"
 msgstr ""
 
@@ -3594,11 +3608,11 @@ msgid ""
 "default for SFTP is 22."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:167
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:179
 msgid "Enter username"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:173
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:185
 msgid "Enter username and password"
 msgstr ""
 
@@ -3732,7 +3746,7 @@ msgstr ""
 msgid "FTP"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:41
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:38
 msgid "FTP - File Transfer Protocol"
 msgstr ""
 
@@ -3817,7 +3831,7 @@ msgstr ""
 msgid "Failed to create listening socket for active mode transfer"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:146
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:158
 msgid "Failed to decrypt server password."
 msgstr ""
 
@@ -3994,8 +4008,6 @@ msgstr ""
 msgid "File lists"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/storj/resolve.cpp:111
-#: ../../../source/FileZilla3/locales/../src/engine/storj/resolve.cpp:174
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:194
 #: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:690
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1918
@@ -4116,10 +4128,6 @@ msgstr ""
 msgid "Files matching a filter rule are removed from directory listings."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/storj/resolve.cpp:301
-msgid "Files not found"
-msgstr ""
-
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:289
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:338
 #: ../../../source/FileZilla3/locales/../src/interface/filter_conditions_dialog.cpp:104
@@ -4233,7 +4241,7 @@ msgstr ""
 msgid "Forbidden character in file extension."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1086
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1009
 msgid "Force &UTF-8"
 msgstr ""
 
@@ -4274,16 +4282,12 @@ msgstr ""
 msgid "Further documentation"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:43
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:46
 msgid "General"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/proxy.cpp:439
 msgid "General SOCKS server failure"
-msgstr ""
-
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:153
-msgid "Generate..."
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_proxy.cpp:43
@@ -4369,7 +4373,7 @@ msgid "Host key mismatch"
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:415
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:378
 msgid "Host name of identity service"
 msgstr ""
 
@@ -4383,8 +4387,8 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:229
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:350
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:94
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:200
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:98
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:212
 #: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:675
 #: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:952
 msgid "Host:"
@@ -4395,11 +4399,11 @@ msgstr ""
 msgid "Hostkey algorithm:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:962
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:885
 msgid "Hours,"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:385
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:397
 msgid ""
 "I &forgot my master password. Delete all passwords stored with this key."
 msgstr ""
@@ -4413,12 +4417,12 @@ msgid "IPv6 addresses are not supported with SOCKS4 proxy"
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:413
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:376
 msgid "Identity &host:"
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:475
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:438
 msgid "Identity service path:"
 msgstr ""
 
@@ -4717,10 +4721,10 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/asksavepassworddialog.cpp:41
 #: ../../../source/FileZilla3/locales/../src/interface/asksavepassworddialog.cpp:46
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:141
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:146
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:284
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:421
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:153
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:158
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:296
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:433
 msgid "Invalid input"
 msgstr ""
 
@@ -4728,8 +4732,8 @@ msgstr ""
 msgid "Invalid line"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/storj/mkd.cpp:20
-#: ../../../source/FileZilla3/locales/../src/engine/storj/rmd.cpp:24
+#: ../../../source/FileZilla3/locales/../src/engine/storj/mkd.cpp:18
+#: ../../../source/FileZilla3/locales/../src/engine/storj/rmd.cpp:21
 msgid "Invalid path"
 msgstr ""
 
@@ -4833,8 +4837,8 @@ msgstr ""
 msgid "Key file"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:103
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:372
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:115
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:384
 msgid "Key identifier:"
 msgstr ""
 
@@ -4860,13 +4864,13 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:299
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:258
 msgid "Leave empty to keep existing data."
 msgstr ""
 
 #. @translator: Keep this string as short as possible
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:95
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:297
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:256
 msgid "Leave empty to keep existing password."
 msgstr ""
 
@@ -4994,7 +4998,7 @@ msgstr ""
 msgid "Logging"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:471
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:434
 msgid "Login (optional):"
 msgstr ""
 
@@ -5093,8 +5097,8 @@ msgstr ""
 msgid "Manual transfer"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:106
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:375
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:118
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:387
 msgid "Master &Password:"
 msgstr ""
 
@@ -5144,7 +5148,7 @@ msgstr ""
 msgid "MiB"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:967
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:890
 msgid "Minutes"
 msgstr ""
 
@@ -5174,7 +5178,7 @@ msgstr ""
 msgid "My Sites"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1278
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1201
 msgid "N&o encryption"
 msgstr ""
 
@@ -5203,7 +5207,7 @@ msgid "Name or email address"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:90
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:196
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:208
 #: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:840
 msgid "Name:"
 msgstr ""
@@ -5224,7 +5228,7 @@ msgstr ""
 msgid "Need to enter valid remote path"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1146
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1069
 msgid "Need to specify a character encoding"
 msgstr ""
 
@@ -5394,7 +5398,7 @@ msgstr ""
 msgid "No supported SOCKS5 auth method"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:284
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:296
 msgid "No username given."
 msgstr ""
 
@@ -5536,7 +5540,7 @@ msgstr ""
 msgid "Once a week"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:45
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:42
 msgid "Only use plain FTP (insecure)"
 msgstr ""
 
@@ -5726,8 +5730,8 @@ msgid "Parsing %d bytes of version information.\n"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/quickconnectbar.cpp:54
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:131
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:394
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:129
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:349
 msgid "Pass&word:"
 msgstr ""
 
@@ -5744,11 +5748,6 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/netconfwizard.cpp:615
 #: ../../../source/FileZilla3/locales/../src/interface/netconfwizard.cpp:625
 msgid "Passive mode has been set as default transfer mode."
-msgstr ""
-
-#: ../../../source/FileZilla3/locales/../src/engine/storj/connect.cpp:85
-#: ../../../source/FileZilla3/locales/../src/engine/storj/connect.cpp:96
-msgid "Password or encryption key is not set"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:98
@@ -5904,7 +5903,7 @@ msgid ""
 "transfers."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:179
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:191
 msgid "Please enter a password for this server:"
 msgstr ""
 
@@ -5917,7 +5916,7 @@ msgstr ""
 msgid "Please enter a unique name for this filter set"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:168
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:180
 msgid "Please enter a username for this server:"
 msgstr ""
 
@@ -5961,11 +5960,11 @@ msgstr ""
 msgid "Please enter the name of the file which should be created:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:174
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:186
 msgid "Please enter username and password for this server:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:367
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:379
 msgid ""
 "Please enter your current master password to change the password settings."
 msgstr ""
@@ -6143,15 +6142,15 @@ msgstr ""
 msgid "Private &keys:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:409
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:372
 msgid "Pro&ject ID:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:416
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:379
 msgid "Pro&ject:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:88
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:85
 msgid "Pro&tocol:"
 msgstr ""
 
@@ -6176,7 +6175,7 @@ msgid "Processed %s in %s."
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:418
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:381
 msgid "Project (or tenant) name or ID"
 msgstr ""
 
@@ -6592,11 +6591,11 @@ msgstr ""
 msgid "Requesting %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:43
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:40
 msgid "Require explicit FTP over TLS"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:44
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:41
 msgid "Require implicit FTP over TLS"
 msgstr ""
 
@@ -6646,7 +6645,7 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/ftp/list.cpp:59
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/list.cpp:30
-#: ../../../source/FileZilla3/locales/../src/engine/storj/list.cpp:25
+#: ../../../source/FileZilla3/locales/../src/engine/storj/list.cpp:24
 #, c-format
 msgid "Retrieving directory listing of \"%s\"..."
 msgstr ""
@@ -6664,6 +6663,11 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:581
 msgid "Root certificate"
+msgstr ""
+
+#. @translator: Keep short
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:353
+msgid "S&atellite:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/menu_bar.cpp:62
@@ -6725,6 +6729,10 @@ msgstr ""
 msgid "Same as subject, certificate is self-signed"
 msgstr ""
 
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:95
+msgid "Satellite:"
+msgstr ""
+
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:1293
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_passwords.cpp:43
 msgid "Sav&e passwords"
@@ -6734,11 +6742,11 @@ msgstr ""
 msgid "Save settings?"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:621
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:578
 msgid "Saving of password has been disabled by your system administrator."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:624
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:581
 msgid "Saving of passwords has been disabled by you."
 msgstr ""
 
@@ -6781,7 +6789,7 @@ msgid "Search type:"
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:400
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:363
 msgid "Secret Access &Key:"
 msgstr ""
 
@@ -6996,11 +7004,11 @@ msgstr ""
 msgid "Serial:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:915
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:838
 msgid "Server &type:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1276
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1199
 msgid "Server Side Encryption:"
 msgstr ""
 
@@ -7195,7 +7203,7 @@ msgstr ""
 msgid "Signature algorithm:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:108
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:106
 msgid "Signup"
 msgstr ""
 
@@ -7207,7 +7215,7 @@ msgstr ""
 msgid "Site Manager"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:628
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:585
 msgid "Site Manager - Cannot remember password"
 msgstr ""
 
@@ -7215,21 +7223,19 @@ msgstr ""
 msgid "Site Manager - Generated key"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:579
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:591
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:649
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:666
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:681
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:693
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:720
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:731
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:759
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1047
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1060
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1146
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1386
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1398
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1412
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:536
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:548
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:606
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:623
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:638
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:650
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:684
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:970
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:983
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1069
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1309
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1321
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1335
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:955
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:964
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:971
@@ -7417,14 +7423,14 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/ftp/filetransfer.cpp:39
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/filetransfer.cpp:37
-#: ../../../source/FileZilla3/locales/../src/engine/storj/file_transfer.cpp:39
+#: ../../../source/FileZilla3/locales/../src/engine/storj/file_transfer.cpp:40
 #, c-format
 msgid "Starting download of %s"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/ftp/filetransfer.cpp:42
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/filetransfer.cpp:40
-#: ../../../source/FileZilla3/locales/../src/engine/storj/file_transfer.cpp:42
+#: ../../../source/FileZilla3/locales/../src/engine/storj/file_transfer.cpp:43
 #, c-format
 msgid "Starting upload of %s"
 msgstr ""
@@ -7457,12 +7463,8 @@ msgid "Stop recursive operation"
 msgstr ""
 
 #. @translator: Keep short
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:405
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:368
 msgid "Storage &account:"
-msgstr ""
-
-#: ../../../source/FileZilla3/locales/../src/engine/server.cpp:28
-msgid "Storj - Decentralized Cloud Storage"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:604
@@ -7569,6 +7571,10 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/proxy.cpp:454
 msgid "TTL expired"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/engine/server.cpp:28
+msgid "Tardigrade - Decentralized Cloud Storage"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/fileexistsdlg.cpp:36
@@ -7893,7 +7899,7 @@ msgstr ""
 msgid "The server sent an unexpected or unrecognized reply."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1081
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1004
 msgid "The server uses following charset encoding for filenames:"
 msgstr ""
 
@@ -8108,7 +8114,7 @@ msgstr ""
 msgid "Transfer Queue"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:78
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_site.cpp:81
 msgid "Transfer Settings"
 msgstr ""
 
@@ -8357,7 +8363,7 @@ msgstr ""
 msgid "Us&e system defaults for current language"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1088
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1011
 msgid "Use &custom charset"
 msgstr ""
 
@@ -8382,7 +8388,7 @@ msgstr ""
 msgid "Use default action"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:42
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:39
 msgid "Use explicit FTP over TLS if available"
 msgstr ""
 
@@ -8427,20 +8433,20 @@ msgid ""
 "time. Only the version of FileZilla you're using is submitted to the server."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:97
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:204
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:107
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:216
 msgid "User:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:666
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:623
 msgid "Username cannot be a series of spaces"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1084
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1007
 msgid "Uses UTF-8 if the server supports it, else uses local charset."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:51
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:48
 msgid "Using insecure HTTP"
 msgstr ""
 
@@ -8449,11 +8455,11 @@ msgstr ""
 msgid "Using plain %s is insecure."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:50
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:47
 msgid "Using secure HTTPS"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1097
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1020
 msgid ""
 "Using the wrong charset can result in filenames not displaying properly."
 msgstr ""
@@ -8530,7 +8536,7 @@ msgstr ""
 msgid "Warning: Potential security breach!"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:49
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:46
 msgid "WebDAV"
 msgstr ""
 
@@ -8591,13 +8597,13 @@ msgstr ""
 msgid "Wrong line endings"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:421
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:433
 msgid ""
 "Wrong master password entered, it cannot be used to decrypt the stored "
 "passwords."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:141
+#: ../../../source/FileZilla3/locales/../src/interface/loginmanager.cpp:153
 msgid "Wrong master password entered, it cannot be used to decrypt this item."
 msgstr ""
 
@@ -8638,12 +8644,6 @@ msgid ""
 "have."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:720
-msgid ""
-"You cannot change password and encryption key individually if using a master "
-"password."
-msgstr ""
-
 #: ../../../source/FileZilla3/locales/../src/interface/import.cpp:33
 msgid "You cannot import settings from FileZilla's own settings directory."
 msgstr ""
@@ -8654,7 +8654,7 @@ msgid ""
 "Please enter a character that is allowed in filenames."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/storj/file_transfer.cpp:32
+#: ../../../source/FileZilla3/locales/../src/engine/storj/file_transfer.cpp:33
 msgid "You cannot upload files into the root directory."
 msgstr ""
 
@@ -8684,11 +8684,11 @@ msgid ""
 "want to continue?"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:579
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:536
 msgid "You have to enter a hostname."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:693
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:650
 msgid "You have to enter a key file path"
 msgstr ""
 
@@ -8709,19 +8709,15 @@ msgstr ""
 msgid "You have to enter a valid IPv4 address."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:731
-msgid "You have to enter a valid encryption key"
-msgstr ""
-
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1335
 msgid "You have to enter a writable local directory."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:681
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:638
 msgid "You have to enter an account name"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:649
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:606
 msgid "You have to specify a user name"
 msgstr ""
 
@@ -8756,7 +8752,7 @@ msgstr ""
 msgid "You need to enter a proxy port in the range from 1 to 65535"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:759
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:684
 msgid "You need to enter a value."
 msgstr ""
 
@@ -8774,7 +8770,7 @@ msgid ""
 "browsing for this bookmark."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:1060
+#: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:983
 msgid ""
 "You need to enter both a local and a remote path to enable synchronized "
 "browsing for this site."
@@ -8878,11 +8874,11 @@ msgstr ""
 msgid "fzsftp could not be started"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/storj/connect.cpp:120
+#: ../../../source/FileZilla3/locales/../src/engine/storj/connect.cpp:81
 msgid "fzstorj belongs to a different version of FileZilla"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/storj/storjcontrolsocket.cpp:301
+#: ../../../source/FileZilla3/locales/../src/engine/storj/storjcontrolsocket.cpp:289
 msgid "fzstorj could not be started"
 msgstr ""
 
