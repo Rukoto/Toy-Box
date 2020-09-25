@@ -119,12 +119,11 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 LHShellExt??.dll を倍直してシステムに再登録するだけのことです。
 
 ---
-## 「Open-Shell Ver.4.4.149」日本語言語ファイル
+## 「Open-Shell Ver.4.4.156」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード: [4.4.135 以降用 Open-Shell-4.4.135jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.135/Open-Shell-4.4.135jp.exe)  
-ダウンロード: [4.4.143 以降用 Open-Shell-4.4.143jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.143/Open-Shell-4.4.143jp.exe)  
-ダウンロード: [4.4.149 以降用 Open-Shell-4.4.149jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.149/Open-Shell-4.4.149jp.exe)
+ダウンロード: [4.4.149 以降用 Open-Shell-4.4.149jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.149/Open-Shell-4.4.149jp.exe)  
+ダウンロード: [4.4.156 以降用 Open-Shell-4.4.156jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
