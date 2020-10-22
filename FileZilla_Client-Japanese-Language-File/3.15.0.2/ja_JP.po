@@ -161,8 +161,8 @@ msgid ""
 "Please download FileZilla again. If this problem persists, please submit a "
 "bug report."
 msgstr ""
-"%s が見つかりませんでした。この FileZilla のコンポーネントなしに SFTP は動作"
-"しません。\n"
+"%s が見つかりません。この FileZilla のコンポーネントなしに SFTP は動作しませ"
+"ん。\n"
 "\n"
 "FileZilla を再度ダウンロードしてください。問題が続く場合はバグ報告を提出して"
 "ください。"
@@ -1919,7 +1919,7 @@ msgstr "ファイルの名前を変更できません"
 
 #: ../../locales/../src/engine/proxy.cpp:174
 msgid "Cannot resolve hostname to IPv4 address for use with SOCKS4 proxy."
-msgstr "お使いの SOCKS4 ではホスト名を IPv4 へ名前解決できませんでした。"
+msgstr "お使いの SOCKS4 ではホスト名を IPv4 へ名前解決できません。"
 
 #: ../../locales/../src/interface/filter.cpp:340
 #: ../../locales/../src/interface/filter.cpp:404
@@ -5691,7 +5691,7 @@ msgid ""
 "You can also optionally specify program arguments."
 msgstr ""
 "実行するパスと実行ファイル名を入力してください。\n"
-"例えば MS Windows では c:\\somePath\\file.exe, UNIX では /somePath/file .\n"
+"例: c:\\somePath\\file.exe (MS Windows), /somePath/file (UNIX)\n"
 "また、プログラム引数を指定することもできます。"
 
 #: ../../locales/../src/interface/settings/optionspage_connection.cpp:46
