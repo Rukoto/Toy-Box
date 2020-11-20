@@ -147,7 +147,7 @@ LHShellExt??.dll を倍直してシステムに再登録するだけのことで
 UI の改善と訳文を追加・変更、サイズダウンを適用した言語ファイルを公開しています。
 
 ダウンロード: [Ver.4.5.30.180 用 ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/4.5.30.180/ResourceHacker.JP)  
-ダウンロード: [Ver.5.1.8.353 用 ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/5.1.8.353/ResourceHacker.JP)
+ダウンロード: [Ver.5.1.8.360 用 ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/5.1.8.360/ResourceHacker.JP)
 
 Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/web/20180223164138/http://www.angusj.com/resourcehacker/) から入手できます。
 
