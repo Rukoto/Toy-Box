@@ -4,7 +4,7 @@
 ※私の都合に合った仕様としているため、パッチはインストーラー的に使う前提であることをご理解ください。  
 ※パッチはかなりの確率でセキュリティ機能に誤検知されます。[VirusTotal](https://www.virustotal.com/gui/home/upload) 等をご活用ください。  
 ※公式へのコミットを可能な範囲で行いますが、私の拙い英語力が原因で成果が得られない場合もあります。  
-※Windows 10 Pro 2004 x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
+※Windows 10 Pro 20H2 x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
 ※更新停止しているような古いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
@@ -34,8 +34,8 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Bandizip Ver.7.12 / Ver.6.29」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.24」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.13 / Ver.6.29」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.31」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.35」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
@@ -47,20 +47,20 @@ Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われ�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
-## 「Driver Store Explorer Ver.0.11.65」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.67」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.51.0 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.25.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.52.0.5 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.26.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
 
-ダウンロード: [Ver.3.51.0 用 filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.51.0/filezilla.mo)  
-ダウンロード: [Ver.3.51.0 用 libfilezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/libfilezilla-Japanese-Language-File/libfilezilla.mo)
+ダウンロード: [Ver.3.52.0.5 用 filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/filezilla.mo)  
+ダウンロード: [Ver.3.52.0.5 用 libfilezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/libfilezilla-Japanese-Language-File/libfilezilla.mo)
 
 ダウンロード: [Ver.3.15.0.2 用 filezilla.mo (Windows 2000 向け)](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.15.0.2/filezilla.mo)
 
