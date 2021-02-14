@@ -47,7 +47,7 @@ Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われ�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
-## 「Driver Store Explorer Ver.0.11.67」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.68」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
@@ -119,10 +119,11 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 LHShellExt??.dll を倍直してシステムに再登録するだけのことです。
 
 ---
-## 「Open-Shell Ver.4.4.162」日本語言語ファイル
+## 「Open-Shell Ver.4.4.163」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード: [4.4.156 以降用 Open-Shell-4.4.156jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156jp.exe)
+ダウンロード: [4.4.156 ～ 4.4.162 用 Open-Shell-4.4.156jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156jp.exe)  
+ダウンロード: [4.4.163 用 Open-Shell-4.4.163jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
