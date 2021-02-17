@@ -47,20 +47,20 @@ Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われ�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
-## 「Driver Store Explorer Ver.0.11.68」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.70」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.52.0.5 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.52.2 / Ver.3.15.0.2」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.26.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
 
-ダウンロード: [Ver.3.52.0.5 用 filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/filezilla.mo)  
-ダウンロード: [Ver.3.52.0.5 用 libfilezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/libfilezilla-Japanese-Language-File/libfilezilla.mo)
+ダウンロード: [Ver.3.52.2 用 filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.52.2/filezilla.mo)  
+ダウンロード: [Ver.3.52.2 用 libfilezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/libfilezilla-Japanese-Language-File/libfilezilla.mo)
 
 ダウンロード: [Ver.3.15.0.2 用 filezilla.mo (Windows 2000 向け)](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.15.0.2/filezilla.mo)
 
