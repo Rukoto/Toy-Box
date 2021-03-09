@@ -34,8 +34,8 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Bandizip Ver.7.13 / Ver.6.29」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.32」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.15 / Ver.6.29」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.34」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.35」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
@@ -54,7 +54,7 @@ Bandizip の Ver.7.0 で提供条件や語句など多数の変更が行われ�
 
 ---
 ## 「FileZilla Client Ver.3.52.2 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.26.0」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.27.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
