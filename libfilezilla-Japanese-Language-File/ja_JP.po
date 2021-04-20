@@ -1,13 +1,13 @@
 # Japanese translation for libfilezilla.
-# Copyright (C) 2015-2020 Tim Kosse
-# Rukoto Luther <rukotolucies at hotmail.com>, 2017-2020.
+# Copyright (C) 2015-2021 Tim Kosse
+# Rukoto Luther <rukotolucies at hotmail.com>, 2017-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: libfilezilla 0.27.1\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2021-03-16 05:30+0100\n"
-"PO-Revision-Date: 2021-03-16 13:30+0900\n"
+"POT-Creation-Date: 2021-04-16 05:30+0200\n"
+"PO-Revision-Date: 2021-04-16 12:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -16,11 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1475
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1503
 msgid "A certificate in the chain was signed using an insecure algorithm"
 msgstr "チェーンの証明書が安全でないアルゴリズムで署名されています"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1479
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1507
 msgid "An issuer in the certificate chain is not a certificate authority"
 msgstr "証明書チェーンの発行者は認証局ではありません"
 
@@ -32,7 +32,7 @@ msgstr "引数のバッファー オーバーフロー"
 msgid "Bad file descriptor"
 msgstr "不正なファイル記述子"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1465
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1493
 msgid "Beware! Certificate has been revoked"
 msgstr "注意! 証明書は失効しています"
 
@@ -40,19 +40,19 @@ msgstr "注意! 証明書は失効しています"
 msgid "Cannot assign requested address"
 msgstr "要求されたアドレスを割り当てることができません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:281
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:255
 msgid "Certificate file too big."
 msgstr "証明書ファイルが大きすぎます。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1541
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1569
 msgid "Certificate of connection does not match expected certificate."
 msgstr "接続の証明書が予想される証明書と一致しません。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1471
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1499
 msgid "Certificate signature verification failed"
 msgstr "証明書署名の検証に失敗しました"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1033
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1041
 msgid "Client did not properly shut down TLS connection"
 msgstr "クライアントは TLS 接続を適切にシャットダウンしませんでした"
 
@@ -76,54 +76,54 @@ msgstr "ネットワークによって接続がリセットされました"
 msgid "Connection reset by peer"
 msgstr "相手によって接続がリセットされました"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1623
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1651
 msgid "Could not add certificate to temporary trust list"
 msgstr "一時的な信頼リストに証明書を追加できません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1615
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1643
 msgid "Could not copy certificate"
 msgstr "証明書をコピーできません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1178
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1187
 msgid "Could not extract validity period of certificate"
 msgstr "証明書の有効期間を抽出できません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1235
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1254
 msgid ""
 "Could not get distinguished name of certificate issuer, "
 "gnutls_x509_get_issuer_dn failed"
 msgstr ""
 "証明書発行者の識別名を取得できず、gnutls_x509_get_issuer_dn に失敗しました"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1221
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1235
 msgid ""
 "Could not get distinguished name of certificate subject, gnutls_x509_get_dn "
 "failed"
 msgstr ""
 "証明書のサブジェクトの識別名を取得できず、gnutls_x509_get_dn に失敗しました"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:276
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:248
 msgid "Could not open certificate file."
 msgstr "証明書ファイルを開けません。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:257
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:278
 msgid "Could not open key file."
 msgstr "鍵ファイルを開けません。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:288
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:264
 msgid "Could not read certificate file."
 msgstr "証明書ファイルを読み込めません。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:269
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:290
 msgid "Could not read key file."
 msgstr "鍵ファイルを読み込めません。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1448
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1474
 msgid "Could not sort peer certificates"
 msgstr "ピア証明書を並べ替えできません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1586
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1637
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1614
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1665
 msgid "Failed to verify peer certificate"
 msgstr "ピア証明書の検証に失敗しました"
 
@@ -131,22 +131,22 @@ msgstr "ピア証明書の検証に失敗しました"
 msgid "File descriptor not a socket"
 msgstr "ファイル記述子はソケットではありません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:469
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:477
 #, c-format
 msgid "GnuTLS error %d"
 msgstr "GnuTLS エラー %d"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:472
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:480
 #, c-format
 msgid "GnuTLS error %d in %s"
 msgstr "GnuTLS エラー %d %s 内"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:464
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:472
 #, c-format
 msgid "GnuTLS error %d in %s: %s"
 msgstr "GnuTLS エラー %d %s 内: %s"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:461
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:469
 #, c-format
 msgid "GnuTLS error %d: %s"
 msgstr "GnuTLS エラー %d: %s"
@@ -175,7 +175,7 @@ msgstr "ai_flags の値が不正です"
 msgid "Invalid value for hints"
 msgstr "ヒントの値が不正です"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:262
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:283
 msgid "Key file too big."
 msgstr "鍵ファイルが大きすぎます。"
 
@@ -187,8 +187,8 @@ msgstr "使用中のローカル アドレス"
 msgid "Local endpoint has been closed"
 msgstr "ローカル エンドポイントは閉じられています"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1525
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1687
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1553
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1715
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr "中間者攻撃が検出されたため、接続が中断されました。"
 
@@ -270,37 +270,37 @@ msgstr "プロトコルはサポートされていません"
 msgid "Protocol not supported on given socket type"
 msgstr "指定されたソケット タイプはプロトコルでサポートされていません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:484
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:492
 #, c-format
 msgid "Received TLS alert from the client: %s (%d)"
 msgstr "クライアントから TLS アラートを受信しました: %s (%d)"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:484
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:492
 #, c-format
 msgid "Received TLS alert from the server: %s (%d)"
 msgstr "サーバーから TLS アラートを受信しました: %s (%d)"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1494
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1522
 msgid "Received certificate chain could not be verified."
 msgstr "受信した証明書チェーンを検証できません。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1497
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1525
 #, c-format
 msgid ""
 "Received certificate chain could not be verified. Verification status is %d."
 msgstr "受信した証明書チェーンを検証できません。確認ステータスは %d です。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:489
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:497
 #, c-format
 msgid "Received unknown TLS alert %d from the client"
 msgstr "クライアントから未知の TLS アラート %d を受信しました"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:489
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:497
 #, c-format
 msgid "Received unknown TLS alert %d from the server"
 msgstr "サーバーから未知の TLS アラート %d を受信しました"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1152
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1160
 msgid "Remote certificate not trusted."
 msgstr "リモート証明書は信用されていません。"
 
@@ -312,11 +312,11 @@ msgstr "解決されたプロトコルは不明です"
 msgid "Resource temporarily unavailable"
 msgstr "リソースが一時的に使用できません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1033
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1041
 msgid "Server did not properly shut down TLS connection"
 msgstr "サーバーは TLS 接続を適切にシャットダウンしませんでした"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1439
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1477
 msgid ""
 "Server sent unsorted certificate chain in violation of the TLS specifications"
 msgstr "サーバーは TLS の仕様に違反して未分類の証明書チェーンを送信しました"
@@ -361,7 +361,7 @@ msgstr "ai_family メンバーをサポートしていません"
 msgid "The ai_socktype member is not supported"
 msgstr "ai_socktype メンバーをサポートしていません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1488
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1516
 msgid ""
 "The certificate requires the server to include an OCSP status in its "
 "response, but the OCSP status is missing."
@@ -369,7 +369,7 @@ msgstr ""
 "証明書はサーバーの応答に OCSP ステータスを含める必要がありますが、OCSP ステー"
 "タスが見つかりません。"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1483
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1511
 msgid "The server's hostname does not match the certificate's hostname"
 msgstr "サーバーのホスト名が証明書のホスト名と一致しません"
 
@@ -385,25 +385,21 @@ msgstr "指定のアドレス ファミリーをサポートしていません"
 msgid "The specified network name is no longer available"
 msgstr "指定のネットワーク名は使用できません"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1513
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1541
 msgid "Unsupported certificate type"
 msgstr "サポートされていない証明書タイプ"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1658
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1686
 msgid "Verifying certificate..."
 msgstr "証明書を検証中..."
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1402
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1447
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr "gnutls_certificate_get_peers が証明書を返しませんでした"
 
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1414
-msgid "gnutls_pem_base64_encode2 failed"
-msgstr "gnutls_pem_base64_encode2 が失敗しました"
-
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1742
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1780
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1796
-#: ../../../source/lfz/lib/tls_layer_impl.cpp:1812
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1770
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1808
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1824
+#: ../../../source/lfz/lib/tls_layer_impl.cpp:1840
 msgid "unknown"
 msgstr "不明"
