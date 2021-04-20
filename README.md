@@ -155,18 +155,13 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.2.4 / Ver.2.4.6」日本語言語ファイル
+## 「simplewall Ver.3.3.1」日本語言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
-最新版の Ver.3 系は公式のアップデート機能がありますので、通常は公式版のままご使用ください。
+公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
 友人からの依頼品ということで、私自身は本アプリの利用者ではありません。  
-初めて公式に PR した際に全面再翻訳したので、翻訳品質はかなり向上しているはずです。  
-もし翻訳で変な所があれば、公式ではなくこちらの Issue に投稿いただけると幸いです。  
+翻訳で変な所があれば、公式ではなくこちらの Issue に投稿いただけると幸いです。  
 なにしろ公式だとイチイチ英語で会話せねばならず、やりとりが非常に面倒くさいので…。
-
-Ver.2 系はアップデート実行後、都度上書きする必要がありますので注意してください。
-
-ダウンロード: [Ver.2.4.6 用 simplewall.lng](https://github.com/Rukoto/Toy-Box/raw/master/simplewall-Japanese-Language-File/2.4.6/simplewall.lng)
 
 [COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
 -「simplewall」の著作権は Henry++氏 にあります。
