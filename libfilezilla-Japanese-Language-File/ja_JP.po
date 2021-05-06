@@ -4,10 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: libfilezilla 0.27.1\n"
+"Project-Id-Version: libfilezilla 0.28.0\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2021-04-16 05:30+0200\n"
-"PO-Revision-Date: 2021-04-16 12:30+0900\n"
+"POT-Creation-Date: 2021-05-05 05:30+0200\n"
+"PO-Revision-Date: 2021-05-05 12:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
