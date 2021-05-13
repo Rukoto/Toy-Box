@@ -114,17 +114,19 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ダウンロード: [LockHunter-3.3.4.139_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.4.139_x64-jp.exe)  
 ダウンロード: [LockHunter-3.3.4.139_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.4.139_x86-jp.exe)
 
-現時点で最新版に対応したパッチには未着手です。倍直作業あるため時間を要します。  
+最新版に対応したパッチに着手していますが。倍直作業があるため時間を要します。  
 当面の間は日本語化パッチが利用可能な[旧バージョン](https://lockhunter.com/assets/exe/lockhuntersetup_3-3-4.exe)の利用をご検討ください。  
-時間が取れない場合は最新版には追随しないかもしれません。
+倍直作業をポータブル版含め 4 種に対して行うのは負荷が高すぎるので、  
+32-bit Portable 専用のパッチとして今後公開していく予定です。  
+また、この場合に64-bit モジュールをパッチが削除する予定なのでご了承ください。  
 
 ---
-## 「Open-Shell Ver.4.4.166」日本語言語ファイル
+## 「Open-Shell Ver.4.4.167」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
 ダウンロード: [4.4.156 ～ 4.4.162 用 Open-Shell-4.4.156jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156jp.exe)  
 ダウンロード: [4.4.163 ～ 4.4.165 用 Open-Shell-4.4.163jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163jp.exe)  
-ダウンロード: [4.4.166 用 Open-Shell-4.4.166jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166jp.exe)
+ダウンロード: [4.4.166 ～ 4.4.167 用 Open-Shell-4.4.166jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
