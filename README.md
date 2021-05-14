@@ -4,7 +4,7 @@
 ※私の都合に合った仕様としているため、パッチはインストーラー的に使う前提であることをご理解ください。  
 ※パッチはかなりの確率でセキュリティ機能に誤検知されます。[VirusTotal](https://www.virustotal.com/gui/home/upload) 等をご活用ください。  
 ※公式へのコミットを可能な範囲で行いますが、私の拙い英語力が原因で成果が得られない場合もあります。  
-※Windows 10 Pro 20H2 x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
+※Windows 10 Pro 21H1 x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
 ※更新停止しているような古いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
@@ -52,14 +52,14 @@ Webページの一部は翻訳者に変更できない部分があるため、�
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.53.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.54.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.28.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
 
-ダウンロード: [Ver.3.53.1 用 filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.53.1/filezilla.mo)  
-ダウンロード: [Ver.3.53.1 用 libfilezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/libfilezilla-Japanese-Language-File/libfilezilla.mo)
+ダウンロード: [Ver.3.54.1 用 filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.54.1/filezilla.mo)  
+ダウンロード: [Ver.3.54.1 用 libfilezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/libfilezilla-Japanese-Language-File/libfilezilla.mo)
 
 ダウンロード: [Ver.3.15.0.2 用 filezilla.mo (Windows 2000 向け)](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.15.0.2/filezilla.mo)
 
@@ -94,8 +94,10 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 
 ダウンロード: [Greenshot-1.3.194jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194jp.exe)
 
-より高機能な [ShareX](https://getsharex.com/) のへの移行や日本語対応も検討しましたが、  
-更新止まってますが既に言語ファイルはあるし、Greenshot で自分の用途では十分なのでスルー。
+余談ですが、より高機能な [ShareX](https://getsharex.com/) が [kanaxx氏](https://github.com/kanaxx) の貢献により日本語対応していた。  
+[notme氏の原訳](https://ja.osdn.net/users/notme/pf/sharex_ja/wiki/FrontPage) への追記が主体のようで、未翻訳部分が減った事は大変歓迎される事ですね。  
+一方で、大半が原訳のままの状況で、公式に貢献者と認定された事には懸念を抱いています。  
+原訳由来の誤訳等に関しても一定の責任感を持って改善してほしく、今後の更新に期待しています。
 
 ---
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
@@ -109,7 +111,7 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 
 ---
 ## 「LockHunter Portable Ver.3.4.2.145」日本語化パッチ
-ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。
+ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。  
 Ver.3.4.2.145 からポータブル版が公開され、パッチもポータブル版専用です。
 
 ダウンロード: [LockHunter_Portable-3.4.2.145-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter_Portable-Japanese-Patch/LockHunter_Portable-3.4.2.145-jp.exe)
