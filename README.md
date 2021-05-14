@@ -108,17 +108,13 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 作成のきっかけは [Tilt氏](http://tiltstr.seesaa.net/) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「LockHunter Ver.3.3.4.139」日本語化パッチ
+## 「LockHunter Portable Ver.3.4.2.145」日本語化パッチ
 ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。
+Ver.3.4.2.145 からポータブル版が公開され、パッチもポータブル版専用です。
 
-ダウンロード: [LockHunter-3.3.4.139_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.4.139_x64-jp.exe)  
-ダウンロード: [LockHunter-3.3.4.139_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter-Japanese-Patch/LockHunter-3.3.4.139_x86-jp.exe)
+ダウンロード: [LockHunter_Portable-3.4.2.145-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter_Portable-Japanese-Patch/LockHunter_Portable-3.4.2.145-jp.exe)
 
-最新版に対応したパッチに着手していますが。倍直作業があるため時間を要します。  
-当面の間は日本語化パッチが利用可能な[旧バージョン](https://lockhunter.com/assets/exe/lockhuntersetup_3-3-4.exe)の利用をご検討ください。  
-倍直作業をポータブル版含め 4 種に対して行うのは負荷が高すぎるので、  
-32-bit Portable 専用のパッチとして今後公開していく予定です。  
-また、この場合に64-bit モジュールをパッチが削除する予定なのでご了承ください。  
+セットアップ版には本パッチは適用できませんし、作成予定もありません。
 
 ---
 ## 「Open-Shell Ver.4.4.167」日本語言語ファイル
