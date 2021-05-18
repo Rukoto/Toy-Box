@@ -94,8 +94,10 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 
 ダウンロード: [Greenshot-1.3.194jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194jp.exe)
 
-より高機能な [ShareX](https://getsharex.com/) のへの移行や日本語対応も検討しましたが、  
-更新止まってますが既に言語ファイルはあるし、Greenshot で自分の用途では十分なのでスルー。
+余談ですが、より高機能な [ShareX](https://getsharex.com/) が [kanaxx氏](https://github.com/kanaxx) の貢献により日本語対応していた。  
+[notme氏の原訳](https://ja.osdn.net/users/notme/pf/sharex_ja/wiki/FrontPage) への追記が主体のようで、未翻訳部分が減った事は大変歓迎される事ですね。  
+一方で、大半が原訳のままの状況で、公式に貢献者と認定された事には懸念を抱いています。  
+原訳由来の誤訳等に関しても一定の責任感を持って改善してほしく、今後の更新に期待しています。
 
 ---
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
