@@ -35,9 +35,9 @@
 
 ---
 ## 「Bandizip Ver.7.16」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.36」日本語言語ファイル/Webページ
-## 「Honeyview Ver.5.35」日本語言語ファイル/Webページ
-多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
+## 「Honeycam Ver.3.39」日本語言語ファイル/Webページ
+## 「Honeyview Ver.5.38」日本語言語ファイル/Webページ
+多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
 
 小生は「Honeyview」しか使用していないのですが、統一感を持たせるため他のアプリにも対応しました。  
@@ -86,13 +86,13 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.204」日本語言語ファイル
+## 「Greenshot Ver.1.3.205」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
 また、プラグインが部分的に翻訳されない等の不具合が内在しています。
 
-ダウンロード: [Greenshot-1.3.204jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.204jp.exe)
+ダウンロード: [Greenshot-1.3.205jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.205jp.exe)
 
 余談ですが、より高機能な [ShareX](https://getsharex.com/) が [kanaxx氏](https://github.com/kanaxx) の貢献により日本語対応していた。  
 [notme氏の原訳](https://ja.osdn.net/users/notme/pf/sharex_ja/wiki/FrontPage) への追記が主体のようで、未翻訳部分が減った事は大変歓迎される事ですね。  
@@ -137,11 +137,9 @@ Ver.3.4.2.145 からポータブル版が公開され、パッチもポータブ
 
 ダウンロード: [PDF-XChange_Viewer-2.5.322.10jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/PDF-XChange_Viewer-Japanese-Patch/PDF-XChange_Viewer-2.5.322.10jp.exe)
 
-いまさらですが、ローカルでは後継の「PDF-XChange Editor」向けの作業に着手しています。  
-相互比較しながら作業を進行する為、Viewer の言語ファイルも頻繁に差し替わります。  
-その都合で、パッチ処理が「差分」では煩わしいため「上書き」に変更しました。  
-作業が完了次第その旨を記載します。Viewer の差し替えの件についてはご了承願います。  
-現在の Editor の言語ファイルの品質があまり良くなく、完了まで数ヶ月かかる見込みです。
+パッチ処理が「差分」ではなく「上書き」なのは個人的な理由による仕様です。  
+後継の「PDF-XChange Editor」の更新作業にも着手しており、進捗は 90% ぐらい。  
+個人的には低品質と思うものの不都合だとも聞かないので、気長にやります。
 
 ---
 ## 「Resource Hacker Ver.4.X / Ver.5.X」日本語言語ファイル
@@ -156,7 +154,7 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.3.3」日本語言語ファイル (作業用)
+## 「simplewall Ver.3.3.4」日本語言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
