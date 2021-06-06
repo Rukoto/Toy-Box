@@ -35,9 +35,9 @@
 
 ---
 ## 「Bandizip Ver.7.16」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.36」日本語言語ファイル/Webページ
-## 「Honeyview Ver.5.35」日本語言語ファイル/Webページ
-多機能アーカイバ「[Bandizip](http://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
+## 「Honeycam Ver.3.39」日本語言語ファイル/Webページ
+## 「Honeyview Ver.5.38」日本語言語ファイル/Webページ
+多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
 
 小生は「Honeyview」しか使用していないのですが、統一感を持たせるため他のアプリにも対応しました。  
@@ -156,7 +156,7 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.3.3」日本語言語ファイル (作業用)
+## 「simplewall Ver.3.3.4」日本語言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
