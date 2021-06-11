@@ -119,12 +119,12 @@ Ver.3.4.2.145 からポータブル版が公開され、パッチもポータブ
 セットアップ版には本パッチは適用できませんし、作成予定もありません。
 
 ---
-## 「Open-Shell Ver.4.4.167」日本語言語ファイル
+## 「Open-Shell Ver.4.4.168」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
 ダウンロード: [4.4.156 ～ 4.4.162 用 Open-Shell-4.4.156jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156jp.exe)  
 ダウンロード: [4.4.163 ～ 4.4.165 用 Open-Shell-4.4.163jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163jp.exe)  
-ダウンロード: [4.4.166 ～ 4.4.167 用 Open-Shell-4.4.166jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166jp.exe)
+ダウンロード: [4.4.166 ～ 4.4.168 用 Open-Shell-4.4.166jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
