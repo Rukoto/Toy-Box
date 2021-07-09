@@ -69,7 +69,9 @@ Webページの一部は翻訳者に変更できない部分があるため、�
 ---
 ## 「FileZilla Server Ver.0.9.60.2 / Ver.0.9.43 (WIndows XP 向け)」日本語化パッチ
 無料 FTP サーバーアプリ「[FileZilla Server](https://FileZilla-project.org/)」の日本語化パッチを更新しています。  
-本体の更新が滞っているので公開サーバーでの運用は厳禁です。
+本体の更新が滞っているので公開サーバーでの運用は厳禁です。  
+Ver1.0.0 が予告されていますが、ローカライズ仕様が確定するまで日本語化予定はありません。  
+また、現時点ではほぼ倍直作業となるため、日本語化パッチの製作は困難と判断しています。
 
 ダウンロード: [FileZilla_Server-0.9.60.2jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2jp.exe)  
 ↑Ver.0.9.60.2 用
