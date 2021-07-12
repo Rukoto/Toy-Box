@@ -35,7 +35,7 @@
 
 ---
 ## 「Bandizip Ver.7.17」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.40」日本語言語ファイル/Webページ
+## 「Honeycam Ver.3.41」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.40」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
 および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
@@ -121,12 +121,12 @@ Ver.3.4.2.145 からポータブル版が公開され、パッチもポータブ
 セットアップ版には本パッチは適用できませんし、作成予定もありません。
 
 ---
-## 「Open-Shell Ver.4.4.168」日本語言語ファイル
+## 「Open-Shell Ver.4.4.169」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
 ダウンロード: [4.4.156 ～ 4.4.162 用 Open-Shell-4.4.156jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156jp.exe)  
 ダウンロード: [4.4.163 ～ 4.4.165 用 Open-Shell-4.4.163jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163jp.exe)  
-ダウンロード: [4.4.166 ～ 4.4.168 用 Open-Shell-4.4.166jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166jp.exe)
+ダウンロード: [4.4.166 ～ 4.4.169 用 Open-Shell-4.4.166jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
@@ -156,7 +156,7 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.3.4」日本語言語ファイル (作業用)
+## 「simplewall Ver.3.3.5」日本語言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
