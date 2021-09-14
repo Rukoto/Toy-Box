@@ -34,7 +34,7 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Bandizip Ver.7.17」日本語言語ファイル/Webページ
+## 「Bandizip Ver.7.19」日本語言語ファイル/Webページ
 ## 「Honeycam Ver.3.44」日本語言語ファイル/Webページ
 ## 「Honeyview Ver.5.40」日本語言語ファイル/Webページ
 多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
@@ -46,7 +46,7 @@ Webページの一部は翻訳者に変更できない部分があるため、�
 なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
 
 ---
-## 「Driver Store Explorer Ver.0.11.74」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.75」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
