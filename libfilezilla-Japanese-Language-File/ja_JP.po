@@ -4,10 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: libfilezilla 0.29.0\n"
+"Project-Id-Version: libfilezilla 0.33.0\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2021-07-02 13:33+0200\n"
-"PO-Revision-Date: 2021-07-02 20:33+0900\n"
+"POT-Creation-Date: 2021-10-02 05:30+0200\n"
+"PO-Revision-Date: 2021-10-02 12:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -16,11 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1627
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1656
 msgid "A certificate in the chain was signed using an insecure algorithm"
 msgstr "チェーンの証明書が安全でないアルゴリズムで署名されています"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1631
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1660
 msgid "An issuer in the certificate chain is not a certificate authority"
 msgstr "証明書チェーンの発行者は認証局ではありません"
 
@@ -32,7 +32,7 @@ msgstr "引数のバッファー オーバーフロー"
 msgid "Bad file descriptor"
 msgstr "不正なファイル記述子"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1617
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1646
 msgid "Beware! Certificate has been revoked"
 msgstr "注意! 証明書は失効しています"
 
@@ -40,19 +40,19 @@ msgstr "注意! 証明書は失効しています"
 msgid "Cannot assign requested address"
 msgstr "要求されたアドレスを割り当てることができません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:305
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:313
 msgid "Certificate file too big."
 msgstr "証明書ファイルが大きすぎます。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1693
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1721
 msgid "Certificate of connection does not match expected certificate."
 msgstr "接続の証明書が予想される証明書と一致しません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1623
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1652
 msgid "Certificate signature verification failed"
 msgstr "証明書署名の検証に失敗しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1165
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1194
 msgid "Client did not properly shut down TLS connection"
 msgstr "クライアントは TLS 接続を適切にシャットダウンしませんでした"
 
@@ -76,54 +76,58 @@ msgstr "ネットワークによって接続がリセットされました"
 msgid "Connection reset by peer"
 msgstr "相手によって接続がリセットされました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1775
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1850
 msgid "Could not add certificate to temporary trust list"
 msgstr "一時的な信頼リストに証明書を追加できません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1767
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1842
 msgid "Could not copy certificate"
 msgstr "証明書をコピーできません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1311
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1340
 msgid "Could not extract validity period of certificate"
 msgstr "証明書の有効期間を抽出できません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1378
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1407
 msgid ""
 "Could not get distinguished name of certificate issuer, "
 "gnutls_x509_get_issuer_dn failed"
 msgstr ""
 "証明書発行者の識別名を取得できず、gnutls_x509_get_issuer_dn に失敗しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1359
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1388
 msgid ""
 "Could not get distinguished name of certificate subject, gnutls_x509_get_dn "
 "failed"
 msgstr ""
 "証明書のサブジェクトの識別名を取得できず、gnutls_x509_get_dn に失敗しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:298
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:306
 msgid "Could not open certificate file."
 msgstr "証明書ファイルを開けません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:328
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:336
 msgid "Could not open key file."
 msgstr "鍵ファイルを開けません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:314
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:322
 msgid "Could not read certificate file."
 msgstr "証明書ファイルを読み込めません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:340
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:348
 msgid "Could not read key file."
 msgstr "鍵ファイルを読み込めません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1598
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1627
 msgid "Could not sort peer certificates"
 msgstr "ピア証明書を並べ替えできません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1738
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1789
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1803
+msgid "Failed to extract certificate trust path"
+msgstr "証明書の信頼パスの抽出に失敗しました"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1796
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1864
 msgid "Failed to verify peer certificate"
 msgstr "ピア証明書の検証に失敗しました"
 
@@ -131,22 +135,22 @@ msgstr "ピア証明書の検証に失敗しました"
 msgid "File descriptor not a socket"
 msgstr "ファイル記述子はソケットではありません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:567
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:574
 #, c-format
 msgid "GnuTLS error %d"
 msgstr "GnuTLS エラー %d"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:570
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:577
 #, c-format
 msgid "GnuTLS error %d in %s"
 msgstr "GnuTLS エラー %d %s 内"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:562
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:569
 #, c-format
 msgid "GnuTLS error %d in %s: %s"
 msgstr "GnuTLS エラー %d %s 内: %s"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:559
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:566
 #, c-format
 msgid "GnuTLS error %d: %s"
 msgstr "GnuTLS エラー %d: %s"
@@ -175,7 +179,7 @@ msgstr "ai_flags の値が不正です"
 msgid "Invalid value for hints"
 msgstr "ヒントの値が不正です"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:333
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:341
 msgid "Key file too big."
 msgstr "鍵ファイルが大きすぎます。"
 
@@ -187,8 +191,8 @@ msgstr "使用中のローカル アドレス"
 msgid "Local endpoint has been closed"
 msgstr "ローカル エンドポイントは閉じられています"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1677
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1839
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1705
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1914
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr "中間者攻撃が検出されたため、接続が中断されました。"
 
@@ -270,37 +274,37 @@ msgstr "プロトコルはサポートされていません"
 msgid "Protocol not supported on given socket type"
 msgstr "指定されたソケット タイプはプロトコルでサポートされていません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:582
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:589
 #, c-format
 msgid "Received TLS alert from the client: %s (%d)"
 msgstr "クライアントから TLS アラートを受信しました: %s (%d)"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:582
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:589
 #, c-format
 msgid "Received TLS alert from the server: %s (%d)"
 msgstr "サーバーから TLS アラートを受信しました: %s (%d)"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1646
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1675
 msgid "Received certificate chain could not be verified."
 msgstr "受信した証明書チェーンを検証できません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1649
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1678
 #, c-format
 msgid ""
 "Received certificate chain could not be verified. Verification status is %d."
 msgstr "受信した証明書チェーンを検証できません。確認ステータスは %d です。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:587
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:594
 #, c-format
 msgid "Received unknown TLS alert %d from the client"
 msgstr "クライアントから未知の TLS アラート %d を受信しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:587
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:594
 #, c-format
 msgid "Received unknown TLS alert %d from the server"
 msgstr "サーバーから未知の TLS アラート %d を受信しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1284
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1313
 msgid "Remote certificate not trusted."
 msgstr "リモート証明書は信用されていません。"
 
@@ -312,11 +316,11 @@ msgstr "解決されたプロトコルは不明です"
 msgid "Resource temporarily unavailable"
 msgstr "リソースが一時的に使用できません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1165
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1194
 msgid "Server did not properly shut down TLS connection"
 msgstr "サーバーは TLS 接続を適切にシャットダウンしませんでした"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1601
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1630
 msgid ""
 "Server sent unsorted certificate chain in violation of the TLS specifications"
 msgstr "サーバーは TLS の仕様に違反して未分類の証明書チェーンを送信しました"
@@ -361,7 +365,7 @@ msgstr "ai_family メンバーをサポートしていません"
 msgid "The ai_socktype member is not supported"
 msgstr "ai_socktype メンバーをサポートしていません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1640
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1669
 msgid ""
 "The certificate requires the server to include an OCSP status in its "
 "response, but the OCSP status is missing."
@@ -369,7 +373,7 @@ msgstr ""
 "証明書はサーバーの応答に OCSP ステータスを含める必要がありますが、OCSP ステー"
 "タスが見つかりません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1635
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1664
 msgid "The server's hostname does not match the certificate's hostname"
 msgstr "サーバーのホスト名が証明書のホスト名と一致しません"
 
@@ -385,21 +389,21 @@ msgstr "指定のアドレス ファミリーをサポートしていません"
 msgid "The specified network name is no longer available"
 msgstr "指定のネットワーク名は使用できません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1665
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1693
 msgid "Unsupported certificate type"
 msgstr "サポートされていない証明書タイプ"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1810
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1885
 msgid "Verifying certificate..."
 msgstr "証明書を検証中..."
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1571
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1600
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr "gnutls_certificate_get_peers が証明書を返しませんでした"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1894
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1932
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1948
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1964
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1969
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2005
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2021
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2037
 msgid "unknown"
 msgstr "不明"
