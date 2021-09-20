@@ -4,7 +4,7 @@
 ※私の都合に合った仕様としているため、パッチはインストーラー的に使う前提であることをご理解ください。  
 ※パッチはかなりの確率でセキュリティ機能に誤検知されます。[VirusTotal](https://www.virustotal.com/gui/home/upload) 等をご活用ください。  
 ※公式へのコミットを可能な範囲で行いますが、私の拙い英語力が原因で成果が得られない場合もあります。  
-※Windows 10 Pro 21H1 x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
+※Windows 10 Pro 21H2 x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
 ※更新停止しているような古いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
@@ -34,18 +34,6 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Bandizip Ver.7.19」日本語言語ファイル/Webページ
-## 「Honeycam Ver.3.44」日本語言語ファイル/Webページ
-## 「Honeyview Ver.5.40」日本語言語ファイル/Webページ
-多機能アーカイバ「[Bandizip](https://www.bandisoft.com/bandizip/)」、高品質アニメーション GIF メーカー「[Honeycam](http://www.bandisoft.com/honeycam/)」、  
-および高速イメージビューアー「[Honeyview](https://www.bandisoft.com/jp/honeyview/)」の日本語の言語ファイル/Webページを更新しています。
-
-小生は「Honeyview」しか使用していないのですが、統一感を持たせるため他のアプリにも対応しました。  
-Webページの一部は翻訳者に変更できない部分があるため、この点にご留意ください。
-
-なお、「Bandicam」とこれらのアプリは管轄が違い、小生は「Bandicam」との関わりは一切ございません。
-
----
 ## 「Driver Store Explorer Ver.0.11.75」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
@@ -69,9 +57,8 @@ Webページの一部は翻訳者に変更できない部分があるため、�
 ---
 ## 「FileZilla Server Ver.0.9.60.2 / Ver.0.9.43 (WIndows XP 向け)」日本語化パッチ
 無料 FTP サーバーアプリ「[FileZilla Server](https://FileZilla-project.org/)」の日本語化パッチを更新しています。  
-本体の更新が滞っているので公開サーバーでの運用は厳禁です。  
-Ver1.0.0 が予告されていますが、ローカライズ仕様が確定するまで日本語化予定はありません。  
-また、現時点ではほぼ倍直作業となるため、日本語化パッチの製作は困難と判断しています。
+古いバージョンですので、公開サーバーとしての運用は厳禁です。  
+Ver1.0.0 の日本語化は倍直の負荷が高すぎるため、対応予定はありません。
 
 ダウンロード: [FileZilla_Server-0.9.60.2jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2jp.exe)  
 ↑Ver.0.9.60.2 用
@@ -156,7 +143,7 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.4.1」日本語言語ファイル (作業用)
+## 「simplewall Ver.3.4.3」日本語言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
