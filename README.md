@@ -40,14 +40,11 @@
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.55.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.29.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.56.0 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.33.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
-
-ダウンロード: [Ver.3.55.1 用 filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/filezilla.mo)  
-ダウンロード: [Ver.3.55.1 用 libfilezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/libfilezilla-Japanese-Language-File/libfilezilla.mo)
 
 ダウンロード: [Ver.3.15.0.2 用 filezilla.mo (Windows 2000 向け)](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.15.0.2/filezilla.mo)
 
