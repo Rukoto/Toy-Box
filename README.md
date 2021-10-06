@@ -72,13 +72,13 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.205」日本語言語ファイル
+## 「Greenshot Ver.1.3.211」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
 また、プラグインが部分的に翻訳されない等の不具合が内在しています。
 
-ダウンロード: [Greenshot-1.3.205jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.205jp.exe)
+ダウンロード: [Greenshot-1.3.211jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.211jp.exe)
 
 余談ですが、より高機能な [ShareX](https://getsharex.com/) が [kanaxx氏](https://github.com/kanaxx) の貢献により日本語対応していた。  
 [notme氏の原訳](https://ja.osdn.net/users/notme/pf/sharex_ja/wiki/FrontPage) への追記が主体のようで、未翻訳部分が減った事は大変歓迎される事ですね。  
