@@ -72,6 +72,16 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
+## 「Fort Firewall Ver.3.4.2」日本語言語ファイル (作業用)
+パーソナルファイアウォールアプリ「[Fort Firewall](https://github.com/tnodir/fort)」の日本語言語ファイルを更新しています。  
+といっても 5ch のリクエストに応えただけで、もしかしたら一時的な公開になるかも?
+
+ダウンロード: [i18n_ja.qm](https://github.com/Rukoto/Toy-Box/raw/master/Fort_Firewall-Japanese-Language-File/i18n_ja.qm)
+
+[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
+-「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
+
+---
 ## 「Greenshot Ver.1.3.218」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
