@@ -157,6 +157,18 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 -「simplewall」の著作権は Henry++氏 にあります。
 
 ---
+## 「W10Privacy Ver.3.8.0.0」日本語対応言語ファイル
+Windows のプライバシー管理アプリ「[W10Privacy](https://www.w10privacy.de/)」の言語ファイルを更新しています。  
+テスト公開です。目立つ部分だけざっくり翻訳し、設定項目はノータッチです。  
+大量にある設定項目については、順次翻訳していこうとは思いますが、  
+緑色の一部しか必要ないとも考えているので、完全翻訳しないかもしれない。
+
+ダウンロード: [Languages_ja-JP.ini](https://github.com/Rukoto/Toy-Box/raw/master/W10Privacy-Japanese-Language-File/Languages_ja-JP.ini)  
+ダウンロード: [W10Privacy.ini](https://github.com/Rukoto/Toy-Box/raw/master/W10Privacy-Japanese-Language-File/W10Privacy.ini)
+
+-「W10Privacy」の著作権は Bernd Schuster氏 にあります。
+
+---
 ## 「WuMgr Ver.1.1b」日本語対応言語ファイル (作業用)
 サードパーティ製 Windows Update クライアント「[WuMgr](https://github.com/DavidXanatos/wumgr)」の言語ファイルを更新しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
