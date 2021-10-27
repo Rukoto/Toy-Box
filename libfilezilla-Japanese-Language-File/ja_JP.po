@@ -4,10 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: libfilezilla 0.33.0\n"
+"Project-Id-Version: libfilezilla 0.34.0\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2021-10-11 11:11+0200\n"
-"PO-Revision-Date: 2021-10-02 12:30+0900\n"
+"POT-Creation-Date: 2021-10-27 05:30+0200\n"
+"PO-Revision-Date: 2021-10-27 12:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -76,11 +76,11 @@ msgstr "ネットワークによって接続がリセットされました"
 msgid "Connection reset by peer"
 msgstr "相手によって接続がリセットされました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1850
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1854
 msgid "Could not add certificate to temporary trust list"
 msgstr "一時的な信頼リストに証明書を追加できません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1842
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1846
 msgid "Could not copy certificate"
 msgstr "証明書をコピーできません"
 
@@ -122,12 +122,12 @@ msgstr "鍵ファイルを読み込めません。"
 msgid "Could not sort peer certificates"
 msgstr "ピア証明書を並べ替えできません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1803
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1807
 msgid "Failed to extract certificate trust path"
 msgstr "証明書の信頼パスの抽出に失敗しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1796
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1864
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1800
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1868
 msgid "Failed to verify peer certificate"
 msgstr "ピア証明書の検証に失敗しました"
 
@@ -192,7 +192,7 @@ msgid "Local endpoint has been closed"
 msgstr "ローカル エンドポイントは閉じられています"
 
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1705
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1914
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1918
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr "中間者攻撃が検出されたため、接続が中断されました。"
 
@@ -393,7 +393,7 @@ msgstr "指定のネットワーク名は使用できません"
 msgid "Unsupported certificate type"
 msgstr "サポートされていない証明書タイプ"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1885
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1889
 msgid "Verifying certificate..."
 msgstr "証明書を検証中..."
 
@@ -401,9 +401,9 @@ msgstr "証明書を検証中..."
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr "gnutls_certificate_get_peers が証明書を返しませんでした"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1969
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2005
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2021
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2037
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1973
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2009
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2025
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2041
 msgid "unknown"
 msgstr "不明"
