@@ -40,8 +40,8 @@
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.56.0 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.34.1」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.56.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.34.2」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
@@ -55,7 +55,7 @@
 ## 「FileZilla Server Ver.0.9.60.2 / Ver.0.9.43 (WIndows XP 向け)」日本語化パッチ
 無料 FTP サーバーアプリ「[FileZilla Server](https://FileZilla-project.org/)」の日本語化パッチを更新しています。  
 古いバージョンですので、公開サーバーとしての運用は厳禁です。  
-Ver1.0.0 の日本語化は倍直の負荷が高すぎるため、対応予定はありません。
+Ver1.X.X の日本語化は倍直の負荷が高すぎるため、対応予定はありません。
 
 ダウンロード: [FileZilla_Server-0.9.60.2jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2jp.exe)  
 ↑Ver.0.9.60.2 用
@@ -159,16 +159,16 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 ---
 ## 「W10Privacy Ver.3.8.0.0」日本語対応言語ファイル
 Windows のプライバシー設定管理アプリ「[W10Privacy](https://www.w10privacy.de/)」の言語ファイルを更新しています。  
-機能的な部分の翻訳のみ完了させたもので、現時点ではテスト公開となります。  
-設定項目は順次翻訳予定ですが、類似除く 500 弱 の翻訳はちょっと時間を要します。  
-緑色の一部しか翻訳の必要がないとも考えているので、完全翻訳しないかもしれません。
+機能的な部分の翻訳のみ完了させたもので、おそらくこれが最終版になります。  
+更新には追従するつもりですが、設定項目は翻訳しないこととしました。  
+そのうち [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) に移動させます。
 
 ダウンロード: [Languages_ja-JP.ini](https://github.com/Rukoto/Toy-Box/raw/master/W10Privacy-Japanese-Language-File/Languages_ja-JP.ini)  
-設定の参考用: [W10Privacy.ini](https://github.com/Rukoto/Toy-Box/raw/master/W10Privacy-Japanese-Language-File/W10Privacy.ini)
+日本語化設定: [W10Privacy.ini](https://github.com/Rukoto/Toy-Box/raw/master/W10Privacy-Japanese-Language-File/W10Privacy.ini)
 
-"%USERPROFILE%\AppData\Roaming\W10Privacy" に設定等は保存さてています。
+"%USERPROFILE%\AppData\Roaming\W10Privacy" に設定等は保存されています。
 
-PSWindowsUpdate を使用した Windows の更新プログラムの管理が可能ですが、  
+PSWindowsUpdate を使用した Windows の更新プログラムの管理も可能ですが、  
 後述の「WuMgr」のほうが圧倒的に便利なので、PSWindowsUpdate モジュールの使用は非推奨。
 
 -「W10Privacy」の著作権は Bernd Schuster氏 にあります。

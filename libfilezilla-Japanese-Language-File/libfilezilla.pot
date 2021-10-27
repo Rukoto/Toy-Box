@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2021-10-11 11:11+0200\n"
+"POT-Creation-Date: 2021-10-27 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,11 +77,11 @@ msgstr ""
 msgid "Connection reset by peer"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1850
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1854
 msgid "Could not add certificate to temporary trust list"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1842
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1846
 msgid "Could not copy certificate"
 msgstr ""
 
@@ -121,12 +121,12 @@ msgstr ""
 msgid "Could not sort peer certificates"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1803
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1807
 msgid "Failed to extract certificate trust path"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1796
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1864
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1800
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1868
 msgid "Failed to verify peer certificate"
 msgstr ""
 
@@ -191,7 +191,7 @@ msgid "Local endpoint has been closed"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1705
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1914
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1918
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr ""
 
@@ -388,7 +388,7 @@ msgstr ""
 msgid "Unsupported certificate type"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1885
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1889
 msgid "Verifying certificate..."
 msgstr ""
 
@@ -396,9 +396,9 @@ msgstr ""
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1969
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2005
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2021
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2037
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1973
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2009
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2025
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2041
 msgid "unknown"
 msgstr ""
