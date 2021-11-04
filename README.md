@@ -13,13 +13,13 @@
 [こちら](https://github.com/Rukoto/Toy-Box/blob/master/Comment.md)に掲載しております。
 
 ---
-## 「7-Zip Ver.21.03 beta / Ver.19.00」日本語環境対応パッチ
+## 「7-Zip Ver.21.04 beta / Ver.19.00」日本語環境対応パッチ
 高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://sevenzip.osdn.jp/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
-ダウンロード: [7-Zip-21.03_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.03_x64-jp.exe)  
-ダウンロード: [7-Zip-21.03_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.03_x86-jp.exe)  
-↑Ver.21.03 beta 用
+ダウンロード: [7-Zip-21.04_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_x64-jp.exe)  
+ダウンロード: [7-Zip-21.04_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_x86-jp.exe)  
+↑Ver.21.04 beta 用
 
 ダウンロード: [7-Zip-19.00_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_x64-jp.exe)  
 ダウンロード: [7-Zip-19.00_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_x86-jp.exe)  
@@ -29,7 +29,7 @@
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
 リソースを書き換えただけなので、バイナリ自体がソースです。リソースエディターで確認できます。
 
-ヘルプのソース (Ver.21.03): [7-Zip-21.03_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.03_Help-jp.7z)  
+ヘルプのソース (Ver.21.03): [7-Zip-21.04_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_Help-jp.7z)  
 ヘルプのソース (Ver.19.00): [7-Zip-19.00_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_Help-jp.7z)  
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
@@ -40,7 +40,7 @@
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.56.1 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.56.2 / Ver.3.15.0.2」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.34.2」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
