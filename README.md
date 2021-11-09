@@ -29,7 +29,7 @@
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
 リソースを書き換えただけなので、バイナリ自体がソースです。リソースエディターで確認できます。
 
-ヘルプのソース (Ver.21.03): [7-Zip-21.04_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_Help-jp.7z)  
+ヘルプのソース (Ver.21.04): [7-Zip-21.04_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_Help-jp.7z)  
 ヘルプのソース (Ver.19.00): [7-Zip-19.00_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_Help-jp.7z)  
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
@@ -103,7 +103,6 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ---
 ## 「LockHunter Portable Ver.3.4.3.146」日本語化パッチ
 ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。  
-Ver.3.4.3.146 からポータブル版が公開され、パッチもポータブル版専用です。
 
 ダウンロード: [LockHunter_Portable-3.4.3.146-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter_Portable-Japanese-Patch/LockHunter_Portable-3.4.3.146-jp.exe)
 
