@@ -29,7 +29,7 @@
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
 リソースを書き換えただけなので、バイナリ自体がソースです。リソースエディターで確認できます。
 
-ヘルプのソース (Ver.21.03): [7-Zip-21.04_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_Help-jp.7z)  
+ヘルプのソース (Ver.21.04): [7-Zip-21.04_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_Help-jp.7z)  
 ヘルプのソース (Ver.19.00): [7-Zip-19.00_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_Help-jp.7z)  
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
