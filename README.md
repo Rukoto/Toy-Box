@@ -13,24 +13,19 @@
 [こちら](https://github.com/Rukoto/Toy-Box/blob/master/Comment.md)に掲載しております。
 
 ---
-## 「7-Zip Ver.21.04 beta / Ver.19.00」日本語環境対応パッチ
+## 「7-Zip Ver.21.05」日本語環境対応パッチ
 高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://sevenzip.osdn.jp/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
-ダウンロード: [7-Zip-21.04_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_x64-jp.exe)  
-ダウンロード: [7-Zip-21.04_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_x86-jp.exe)  
-↑Ver.21.04 beta 用
-
-ダウンロード: [7-Zip-19.00_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_x64-jp.exe)  
-ダウンロード: [7-Zip-19.00_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_x86-jp.exe)  
-↑Ver.19.00 用
+ダウンロード: [7-Zip-21.05_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.05_x64-jp.exe)  
+ダウンロード: [7-Zip-21.05_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.05_x86-jp.exe)  
+↑Ver.21.05 用
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
 リソースを書き換えただけなので、バイナリ自体がソースです。リソースエディターで確認できます。
 
-ヘルプのソース (Ver.21.04): [7-Zip-21.04_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.04_Help-jp.7z)  
-ヘルプのソース (Ver.19.00): [7-Zip-19.00_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-19.00_Help-jp.7z)  
+ヘルプのソース (Ver.21.05): [7-Zip-21.05_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.05_Help-jp.7z)  
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
