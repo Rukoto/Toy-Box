@@ -19,7 +19,7 @@
 
 ダウンロード: [7-Zip-21.06_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.06_x64-jp.exe)  
 ダウンロード: [7-Zip-21.06_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.06_x86-jp.exe)  
-↑Ver.21.05 用
+↑Ver.21.06 用
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
