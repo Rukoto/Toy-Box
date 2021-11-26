@@ -19,7 +19,7 @@
 
 ダウンロード: [7-Zip-21.06_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.06_x64-jp.exe)  
 ダウンロード: [7-Zip-21.06_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.06_x86-jp.exe)  
-↑Ver.21.05 用
+↑Ver.21.06 用
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
@@ -35,8 +35,8 @@
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.56.2 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.34.2」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.57.0 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.35.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
