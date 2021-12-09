@@ -36,7 +36,7 @@
 
 ---
 ## 「FileZilla Client Ver.3.56.2 / Ver.3.15.0.2」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.34.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.35.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
