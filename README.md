@@ -117,6 +117,8 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ダウンロード: [4.4.163 ～ 4.4.165 用 Open-Shell-4.4.163-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163-jp.exe)  
 ダウンロード: [4.4.166 ～ 4.4.169 用 Open-Shell-4.4.166-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166-jp.exe)
 
+ダウンロード: [4.4.170-fpwrxbaq 用 Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170-fpwrxbaq/Open-Shell-4.4.170-fpwrxbaq-jp.exe)
+
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
 本体と同じ場所に再配置しても動作しますが、この場合の優先順位は下位となります。  
