@@ -52,10 +52,10 @@
 古いバージョンですので、公開サーバーとしての運用は厳禁です。  
 Ver1.X.X の日本語化は倍直の負荷が高すぎるため、対応予定はありません。
 
-ダウンロード: [FileZilla_Server-0.9.60.2jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2jp.exe)  
+ダウンロード: [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
 ↑Ver.0.9.60.2 用
 
-ダウンロード: [FileZilla_Server-0.9.43jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43jp.exe)  
+ダウンロード: [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)  
 ↑Ver.0.9.43 用 (WIndows XP 向け)
 
 古いバージョンの本体は [ココ](https://download.filezilla-project.org/server/) から入手できます。  
@@ -83,7 +83,7 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
 また、プラグインが部分的に翻訳されない等の不具合が内在しています。
 
-ダウンロード: [Greenshot-1.3.219jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.219jp.exe)
+ダウンロード: [Greenshot-1.3.219-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.219-jp.exe)
 
 ---
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
@@ -97,7 +97,7 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 
 ---
 ## 「LockHunter Portable Ver.3.4.3.146」日本語化パッチ
-ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。  
+ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。
 
 ダウンロード: [LockHunter_Portable-3.4.3.146-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter_Portable-Japanese-Patch/LockHunter_Portable-3.4.3.146-jp.exe)
 
@@ -107,9 +107,9 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ## 「Open-Shell Ver.4.4.169」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード: [4.4.156 ～ 4.4.162 用 Open-Shell-4.4.156jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156jp.exe)  
-ダウンロード: [4.4.163 ～ 4.4.165 用 Open-Shell-4.4.163jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163jp.exe)  
-ダウンロード: [4.4.166 ～ 4.4.169 用 Open-Shell-4.4.166jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166jp.exe)
+ダウンロード: [4.4.156 ～ 4.4.162 用 Open-Shell-4.4.156-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156-jp.exe)  
+ダウンロード: [4.4.163 ～ 4.4.165 用 Open-Shell-4.4.163-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163-jp.exe)  
+ダウンロード: [4.4.166 ～ 4.4.169 用 Open-Shell-4.4.166-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166-jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
@@ -120,7 +120,7 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ## 「PDF-XChange Viewer Ver.2.5.322.10」日本語言語ファイル
 「[PDF-XChange Viewer](https://www.tracker-software.com/product/downloads/discontinued)」の日本語言語ファイルを更新するパッチです。
 
-ダウンロード: [PDF-XChange_Viewer-2.5.322.10jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/PDF-XChange_Viewer-Japanese-Patch/PDF-XChange_Viewer-2.5.322.10jp.exe)
+ダウンロード: [PDF-XChange_Viewer-2.5.322.10-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/PDF-XChange_Viewer-Japanese-Patch/PDF-XChange_Viewer-2.5.322.10-jp.exe)
 
 パッチ処理が「差分」ではなく「上書き」なのは個人的な理由による仕様です。  
 後継の「PDF-XChange Editor」の更新作業にも着手しており、進捗は 95% ぐらい。  
