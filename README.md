@@ -86,6 +86,12 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 ダウンロード: [Greenshot-1.3.219-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.219-jp.exe)
 
 ---
+## 「Homedale Ver.2.01」日本語化パッチ
+WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語化するパッチです。
+
+ダウンロード: [Homedale-2.01-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Homedale-Japanese-Patch/Homedale-2.01-jp.exe)
+
+---
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
 データベース型高速ファイル検索アプリ「[Locate32](https://locate32.cogit.net/)」を日本語化します。ネットワークドライブの検索用に。  
 UI の日本語化と訳文修正、および最適化、さらに設定バックアップツールの日本語化も含まれます。
