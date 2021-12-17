@@ -145,35 +145,6 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「simplewall Ver.3.6.1」日本語言語ファイル (作業用)
-その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
-公式のアップデート機能がありますので、通常は公式版のままご使用ください。
-
-友人からの依頼品ということで、私自身は本アプリの利用者ではありません。  
-翻訳で変な所があれば、公式ではなくこちらの Issue に投稿いただけると幸いです。  
-なにしろ公式だとイチイチ英語で会話せねばならず、やりとりが非常に面倒くさいので…。
-
-[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
--「simplewall」の著作権は Henry++氏 にあります。
-
----
-## 「W10Privacy Ver.3.8.0.0」日本語対応言語ファイル
-Windows のプライバシー設定管理アプリ「[W10Privacy](https://www.w10privacy.de/)」の言語ファイルを更新しています。  
-機能的な部分の翻訳のみ完了させたもので、おそらくこれが最終版になります。  
-更新には追従するつもりですが、設定項目は翻訳しないこととしました。  
-そのうち [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) に移動させます。
-
-ダウンロード: [Languages_ja-JP.ini](https://github.com/Rukoto/Toy-Box/raw/master/W10Privacy-Japanese-Language-File/Languages_ja-JP.ini)  
-日本語化設定: [W10Privacy.ini](https://github.com/Rukoto/Toy-Box/raw/master/W10Privacy-Japanese-Language-File/W10Privacy.ini)
-
-"%USERPROFILE%\AppData\Roaming\W10Privacy" に設定等は保存されています。
-
-PSWindowsUpdate を使用した Windows の更新プログラムの管理も可能ですが、  
-後述の「WuMgr」のほうが圧倒的に便利なので、PSWindowsUpdate モジュールの使用は非推奨。
-
--「W10Privacy」の著作権は Bernd Schuster氏 にあります。
-
----
 ## 「WuMgr Ver.1.1b」日本語対応言語ファイル (作業用)
 サードパーティ製 Windows Update クライアント「[WuMgr](https://github.com/DavidXanatos/wumgr)」の言語ファイルを更新しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
