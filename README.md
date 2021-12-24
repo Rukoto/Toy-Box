@@ -29,6 +29,16 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
+## 「Autoruns Ver.14.07」日本語化パッチ
+スタートアップ確認ユーティリティ「[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチがありますが、  
+UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
+
+ダウンロード: [Autoruns-14.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x64-jp.exe)  
+ダウンロード: [Autoruns-14.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x86-jp.exe)
+
+作成のきっかけは [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチですが、すべて刷新した完全なる別モノとなっております。
+
+---
 ## 「Driver Store Explorer Ver.0.11.75」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
