@@ -34,11 +34,8 @@
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
 ダウンロード: [Autoruns-14.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x64-jp.exe)  
-ダウンロード: [Autoruns-14.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x86-jp.exe)
-
-注意:パッチ生成の時間短縮(4分→10秒)やサイズ削減(2MB→30KB)のために  
-パディングを行ったり妥協した翻訳を部分的に含んでいます。  
-解決の目処が立ったらパッチを差し替えるかもしれません。
+ダウンロード: [Autoruns-14.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x86-jp.exe)  
+なお、ARM64 版の作成予定はありません。
 
 作成のきっかけは [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチですが、すべて刷新した完全なる別モノとなっております。
 
