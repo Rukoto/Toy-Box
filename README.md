@@ -39,15 +39,15 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 作成のきっかけは [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチですが、すべて刷新した完全なる別モノとなっております。
 
 ---
-## 「CPU-Z Portable Ver.1.98」日本語化パッチ
+## 「CPU-Z Portable Ver.1.99」日本語化パッチ
 ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード: [CPU-Z_Portable-1.98_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z_Portable-Japanese-Patch/CPU-Z_Portable-1.98_x64-jp.exe)  
+ダウンロード: [CPU-Z_Portable-1.99_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z_Portable-Japanese-Patch/CPU-Z_Portable-1.99_x64-jp.exe)  
 なお、Setup 対応版や x86 版の作成予定はありません。
 
 このアプリを日本語化する意義ってほぼ無いな。そもそも日本語化する箇所が少ない。  
-更新されたら終了の単発案件とする予定。私個人も常用してるわけでもないので。
+私は常用してるわけでもないので、更新は無理しない程度にやります。
 
 ---
 ## 「Driver Store Explorer Ver.0.11.75」日本語言語ファイル (コメントのみ)
@@ -88,7 +88,7 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Fort Firewall Ver.3.4.2」日本語言語ファイル (作業用)
+## 「Fort Firewall Ver.3.4.3」日本語言語ファイル (作業用)
 パーソナルファイアウォールアプリ「[Fort Firewall](https://github.com/tnodir/fort)」の日本語言語ファイルを更新しています。  
 といっても 5ch のリクエストに応えただけで、もしかしたら一時的な公開になるかも?
 
