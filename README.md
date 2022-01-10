@@ -38,16 +38,19 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 
 作成のきっかけは [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチですが、すべて刷新した完全なる別モノとなっております。
 
+-「Autoruns」の著作権は Sysinternals にあります。
+
 ---
-## 「CPU-Z Portable Ver.1.99」日本語化パッチ
+## 「CPU-Z Ver.1.99」日本語化パッチ
 ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード: [CPU-Z_Portable-1.99_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z_Portable-Japanese-Patch/CPU-Z_Portable-1.99_x64-jp.exe)  
-なお、Setup 対応版や x86 版の作成予定はありません。
+ダウンロード (20220107140604): [CPU-Z-1.99_x64-jp_20220107140604.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-1.99_x64-jp_20220107140604.exe)  
+同一バージョンのまま差し替えることがあるらしく、タイムスタンプを追記。  
+適用できない場合は旧版を試すか、当方が気がついて更新するのをお待ち下さい。  
+ファイル名前を変更すれば Setup 版にも適用出来ます。x86 版の作成予定はありません。
 
-このアプリを日本語化する意義ってほぼ無いな。そもそも日本語化する箇所が少ない。  
-私は常用してるわけでもないので、更新は無理しない程度にやります。
+-「CPU-Z」の著作権は Franck Delattre氏 にあります。
 
 ---
 ## 「Driver Store Explorer Ver.0.11.75」日本語言語ファイル (コメントのみ)
@@ -56,28 +59,25 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.57.0 / Ver.3.15.0.2」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.57.0」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.35.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
 
-ダウンロード: [Ver.3.15.0.2 用 filezilla.mo (Windows 2000 向け)](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.15.0.2/filezilla.mo)
+ダウンロード (Ver.3.15.0.2 for Win2K): [filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.15.0.2/filezilla.mo)
 
 [COPYING (GPLv2)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.ja.html)  
 -「FileZilla Client」および「libfilezilla」の著作権は Tim Kosse氏にあります。
 
 ---
-## 「FileZilla Server Ver.0.9.60.2 / Ver.0.9.43 (WIndows XP 向け)」日本語化パッチ
+## 「FileZilla Server Ver.0.9.60.2」日本語化パッチ
 無料 FTP サーバーアプリ「[FileZilla Server](https://FileZilla-project.org/)」の日本語化パッチを更新しています。  
 古いバージョンですので、公開サーバーとしての運用は厳禁です。  
-Ver1.X.X の日本語化は倍直の負荷が高すぎるため、対応予定はありません。
+Ver.1.X.X の日本語化は倍直の負荷が高すぎるため、対応予定はありません。
 
-ダウンロード: [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
-↑Ver.0.9.60.2 用
-
-ダウンロード: [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)  
-↑Ver.0.9.43 用 (WIndows XP 向け)
+ダウンロード (Ver.0.9.60.2 用): [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
+ダウンロード (Ver.0.9.43 for WinXP): [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)
 
 古いバージョンの本体は [ココ](https://download.filezilla-project.org/server/) から入手できます。  
 OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の openssl-1.0.2u-i386-win32.zip で上書きを推奨。
@@ -106,11 +106,15 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 
 ダウンロード: [Greenshot-1.3.220-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.220-jp.exe)
 
+-「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
+
 ---
 ## 「Homedale Ver.2.02」日本語化パッチ
 WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語化するパッチです。
 
 ダウンロード: [Homedale-2.02-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Homedale-Japanese-Patch/Homedale-2.02-jp.exe)
+
+-「Homedale」の著作権は the sz development にあります。
 
 ---
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
@@ -130,15 +134,17 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 
 セットアップ版には本パッチは適用できませんし、作成予定もありません。
 
+-「LockHunter」の著作権は Crystal Rich Ltd にあります。
+
 ---
 ## 「Open-Shell Ver.4.4.169」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード: [4.4.156 ～ 4.4.162 用 Open-Shell-4.4.156-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156-jp.exe)  
-ダウンロード: [4.4.163 ～ 4.4.165 用 Open-Shell-4.4.163-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163-jp.exe)  
-ダウンロード: [4.4.166 ～ 4.4.169 用 Open-Shell-4.4.166-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166-jp.exe)
+ダウンロード (4.4.156 ～ 4.4.162 用): [Open-Shell-4.4.156-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156-jp.exe)  
+ダウンロード (4.4.163 ～ 4.4.165 用): [Open-Shell-4.4.163-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163-jp.exe)  
+ダウンロード (4.4.166 ～ 4.4.169 用): [Open-Shell-4.4.166-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166-jp.exe)
 
-ダウンロード: [4.4.170-fpwrxbaq 用 Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170-fpwrxbaq/Open-Shell-4.4.170-fpwrxbaq-jp.exe)
+ダウンロード (4.4.170-fpwrxbaq 用): [Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170-fpwrxbaq/Open-Shell-4.4.170-fpwrxbaq-jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
@@ -155,17 +161,21 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 後継の「PDF-XChange Editor」の更新作業にも着手しており、進捗は 95% ぐらい。  
 個人的には低品質と思うものの不都合だとも聞かないので、気長にやります。
 
+-「PDF-XChange Viewer」の著作権は PDF-XChange Co Ltd にあります。
+
 ---
 ## 「Resource Hacker Ver.4.X / Ver.5.X」日本語言語ファイル
 定番リソースエディター「[Resource Hacker](http://www.angusj.com/resourcehacker/)」には [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の日本語言語ファイルがありますが、  
 UI の改善と訳文を追加・変更、サイズダウンを適用した言語ファイルを公開しています。
 
-ダウンロード: [Ver.4.5.30.180 用 ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/4.5.30.180/ResourceHacker.JP)  
-ダウンロード: [Ver.5.1.8.360 用 ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/5.1.8.360/ResourceHacker.JP)
+ダウンロード (Ver.4.5.30.180 用): [ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/4.5.30.180/ResourceHacker.JP)  
+ダウンロード (Ver.5.1.8.360 用): [ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/5.1.8.360/ResourceHacker.JP)
 
 Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/web/20180223164138/http://www.angusj.com/resourcehacker/) から入手できます。
 
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
+
+-「Resource Hacker」の著作権は Angus Johnson にあります。
 
 ---
 ## 「WuMgr Ver.1.1b」日本語対応言語ファイル (作業用)
