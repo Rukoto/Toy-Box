@@ -17,8 +17,8 @@
 高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://sevenzip.osdn.jp/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
-ダウンロード: [7-Zip-21.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.07_x64-jp.exe)  
-ダウンロード: [7-Zip-21.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.07_x86-jp.exe)  
+ダウンロード (x64): [7-Zip-21.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.07_x64-jp.exe)  
+ダウンロード (x86): [7-Zip-21.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.07_x86-jp.exe)  
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
@@ -32,8 +32,8 @@
 スタートアップ確認ユーティリティ「[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード: [Autoruns-14.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x64-jp.exe)  
-ダウンロード: [Autoruns-14.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x86-jp.exe)  
+ダウンロード (x64): [Autoruns-14.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x64-jp.exe)  
+ダウンロード (x86): [Autoruns-14.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x86-jp.exe)  
 なお、ARM64 版の作成予定はありません。作れるけど検証できないので。
 
 作成のきっかけは [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチですが、すべて刷新した完全なる別モノとなっております。
@@ -47,8 +47,8 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 
 ダウンロード (20220107140604): [CPU-Z-1.99_x64-jp_20220107140604.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-1.99_x64-jp_20220107140604.exe)  
 同一バージョンのまま差し替えることがあるらしく、タイムスタンプを追記。  
-適用できない場合は旧版を試すか、当方が気がついて更新するのをお待ち下さい。  
-ファイル名前を変更すれば Setup 版にも適用出来ます。x86 版の作成予定はありません。
+適用できない場合は旧版を試すか、当方が気がついて更新するのをお待ちください。  
+セットアップ版は対象ファイル名を cpuz_x64.exe に変更すれば適用できます。x86 版の作成予定はありません。
 
 -「CPU-Z」の著作権は Franck Delattre氏 にあります。
 
@@ -88,7 +88,7 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Fort Firewall Ver.3.4.3」日本語言語ファイル (作業用)
+## 「Fort Firewall Ver.3.4.4」日本語言語ファイル (作業用)
 パーソナルファイアウォールアプリ「[Fort Firewall](https://github.com/tnodir/fort)」の日本語言語ファイルを更新しています。  
 といっても 5ch のリクエストに応えただけで、もしかしたら一時的な公開になるかも?
 
@@ -121,8 +121,8 @@ WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/hom
 データベース型高速ファイル検索アプリ「[Locate32](https://locate32.cogit.net/)」を日本語化します。ネットワークドライブの検索用に。  
 UI の日本語化と訳文修正、および最適化、さらに設定バックアップツールの日本語化も含まれます。
 
-ダウンロード: [Locate32_3.1.11.7100_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Locate32-Japanese-Patch/Locate32_3.1.11.7100_x64-jp.exe)  
-ダウンロード: [Locate32_3.1.11.7100_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Locate32-Japanese-Patch/Locate32_3.1.11.7100_x86-jp.exe)
+ダウンロード (x64): [Locate32_3.1.11.7100_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Locate32-Japanese-Patch/Locate32_3.1.11.7100_x64-jp.exe)  
+ダウンロード (x86): [Locate32_3.1.11.7100_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Locate32-Japanese-Patch/Locate32_3.1.11.7100_x86-jp.exe)
 
 作成のきっかけは [Tilt氏](http://tiltstr.seesaa.net/) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
@@ -175,7 +175,7 @@ Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/we
 
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
--「Resource Hacker」の著作権は Angus Johnson にあります。
+-「Resource Hacker」の著作権は Angus Johnson氏 にあります。
 
 ---
 ## 「WuMgr Ver.1.1b」日本語対応言語ファイル (作業用)

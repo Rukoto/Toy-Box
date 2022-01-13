@@ -398,7 +398,7 @@
     </message>
     <message>
         <source>Restart Required</source>
-        <translation>再起動が必要</translation>
+        <translation>再起動しますか?</translation>
     </message>
     <message>
         <source>Restart Now</source>
@@ -410,7 +410,7 @@
     </message>
     <message>
         <source>Please first install Fort Firewall v%1 and save Options from it.</source>
-        <translation>最初に FortFirewall v%1 をインストールし、そこからオプションを保存してください。</translation>
+        <translation>最初に Fort Firewall v%1 をインストールし、そこからオプションを保存してください。</translation>
     </message>
 </context>
 <context>
@@ -506,11 +506,11 @@
     </message>
     <message>
         <source>Traffic</source>
-        <translation>トラフィック</translation>
+        <translation>通信</translation>
     </message>
     <message>
         <source>Global</source>
-        <translation>グローバル</translation>
+        <translation>全体</translation>
     </message>
     <message>
         <source>Driver</source>
@@ -522,7 +522,7 @@
     </message>
     <message>
         <source>Stop traffic when Fort Firewall is not running</source>
-        <translation>FortFirewall が実行されていないときにトラフィックを停止する</translation>
+        <translation>Fort Firewall が実行されていないときは通信量の収集を停止する</translation>
     </message>
     <message>
         <source>Filter Enabled</source>
@@ -530,7 +530,7 @@
     </message>
     <message>
         <source>Filter Local Addresses</source>
-        <translation>ローカル アドレスのをフィルタリングする</translation>
+        <translation>ローカル アドレスをフィルタリングする</translation>
     </message>
     <message>
         <source>Filter Local Loopback (127.0.0.0/8) and Broadcast (255.255.255.255) Addresses</source>
@@ -538,15 +538,15 @@
     </message>
     <message>
         <source>Stop Traffic</source>
-        <translation>すべてのトラフィックを停止する</translation>
+        <translation>すべての通信を停止する</translation>
     </message>
     <message>
         <source>Stop Internet Traffic</source>
-        <translation>インターネット トラフィックを停止する</translation>
+        <translation>インターネット通信を停止する</translation>
     </message>
     <message>
         <source>Auto-Allow New Programs</source>
-        <translation>新しいプログラムを自動許可する</translation>
+        <translation>新しいプログラムを自動的に許可する</translation>
     </message>
     <message>
         <source>Hot Keys</source>
@@ -578,11 +578,11 @@
     </message>
     <message>
         <source>For current user</source>
-        <translation>現在のユーザー向け</translation>
+        <translation>現在のユーザーのみ</translation>
     </message>
     <message>
         <source>For all users</source>
-        <translation>すべてのユーザー向け</translation>
+        <translation>すべてのユーザー</translation>
     </message>
     <message>
         <source>Installed</source>
@@ -618,7 +618,7 @@
     </message>
     <message>
         <source>Run Fort Firewall as a Service in background</source>
-        <translation>Fort Firewall as a Service をバックグラウンドで実行する</translation>
+        <translation>Fort Firewall をサービスとしてバックグラウンドで実行する</translation>
     </message>
     <message>
         <source>Move Profile</source>
@@ -717,11 +717,11 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Block In:</source>
-        <translation>ブロック時間:</translation>
+        <translation>許可時間:</translation>
     </message>
     <message>
         <source>Block At:</source>
-        <translation>ブロック期限:</translation>
+        <translation>許可期限:</translation>
     </message>
     <message>
         <source>Forever</source>
@@ -827,11 +827,11 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <name>QuotaManager</name>
     <message>
         <source>Day traffic quota exceeded!</source>
-        <translation>1 日のトラフィック割り当てを超えました!</translation>
+        <translation>1 日当たりの通信量割り当てを超えました!</translation>
     </message>
     <message>
         <source>Month traffic quota exceeded!</source>
-        <translation>1 か月のトラフィック割り当てを超えました!</translation>
+        <translation>1 か月当たりの通信量割り当てを超えました!</translation>
     </message>
 </context>
 <context>
@@ -896,7 +896,7 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <name>StatMainPage</name>
     <message>
         <source>Traffic</source>
-        <translation>トラフィック</translation>
+        <translation>通信量</translation>
     </message>
     <message>
         <source>Blocked Connections</source>
@@ -907,23 +907,23 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <name>StatisticsPage</name>
     <message>
         <source>Collect Traffic Statistics</source>
-        <translation>トラフィック統計を収集する</translation>
+        <translation>通信量を収集する</translation>
     </message>
     <message>
         <source>Collect Traffic, when Filter Disabled</source>
-        <translation>フィルタリング無効時にトラフィックを収集する</translation>
+        <translation>フィルタリング無効時も通信量を収集する</translation>
     </message>
     <message>
         <source>Active time period:</source>
-        <translation>アクティブな時間:</translation>
+        <translation>通信量を収集する時間:</translation>
     </message>
     <message>
         <source>Month starts on:</source>
-        <translation>月の開始日:</translation>
+        <translation>月の計測開始日:</translation>
     </message>
     <message>
         <source>Keep data for &apos;Hourly&apos;:</source>
-        <translation>「毎時」データの保持:</translation>
+        <translation>「毎時」データの保持期間:</translation>
     </message>
     <message>
         <source> day(s)</source>
@@ -931,11 +931,11 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Keep data for &apos;Daily&apos;:</source>
-        <translation>「毎日」データの保持:</translation>
+        <translation>「毎日」データの保持期間:</translation>
     </message>
     <message>
         <source>Keep data for &apos;Monthly&apos;:</source>
-        <translation>「毎月」データの保持:</translation>
+        <translation>「毎月」データの保持期間:</translation>
     </message>
     <message>
         <source> month(s)</source>
@@ -943,11 +943,11 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Day&apos;s Quota:</source>
-        <translation>1 日の割り当て:</translation>
+        <translation>1 日の通信量割り当て:</translation>
     </message>
     <message>
         <source>Month&apos;s Quota:</source>
-        <translation>1 か月の割り当て:</translation>
+        <translation>1 か月の通信量割り当て:</translation>
     </message>
     <message>
         <source>Keep count for &apos;Allowed connections&apos;:</source>
@@ -963,19 +963,19 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Always on top</source>
-        <translation>常に手前に表示</translation>
+        <translation>常に手前に表示する</translation>
     </message>
     <message>
         <source>Frameless</source>
-        <translation>フレームなし</translation>
+        <translation>フレームをなくす</translation>
     </message>
     <message>
         <source>Click through</source>
-        <translation>クリック スルー</translation>
+        <translation>クリック スルー状態にする</translation>
     </message>
     <message>
         <source>Hide on hover</source>
-        <translation>ホバー非表示</translation>
+        <translation>ホバー時は非表示にする</translation>
     </message>
     <message>
         <source>Opacity:</source>
@@ -983,15 +983,15 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Hover opacity:</source>
-        <translation>ホバーの不透明度:</translation>
+        <translation>ホバー時不透明度:</translation>
     </message>
     <message>
         <source>Max seconds:</source>
-        <translation>最大秒数:</translation>
+        <translation>描画時間 (秒):</translation>
     </message>
     <message>
         <source>Background:</source>
-        <translation>バックグラウンド:</translation>
+        <translation>背景:</translation>
     </message>
     <message>
         <source>Download:</source>
@@ -1055,7 +1055,7 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Traffic</source>
-        <translation>トラフィック</translation>
+        <translation>通信量</translation>
     </message>
     <message>
         <source>Connections</source>
@@ -1196,7 +1196,7 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Are you sure to reset total statistics?</source>
-        <translation>合計統計をリセットしてもよろしいですか?</translation>
+        <translation>合計の統計をリセットしてもよろしいですか?</translation>
     </message>
     <message>
         <source>Are you sure to clear all statistics?</source>
@@ -1219,7 +1219,7 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Traffic Graph</source>
-        <translation>トラフィック グラフ</translation>
+        <translation>通信量グラフ</translation>
     </message>
     <message>
         <source>Filter Enabled</source>
@@ -1231,7 +1231,7 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Stop Internet Traffic</source>
-        <translation>インターネット トラフィックを停止</translation>
+        <translation>インターネット通信を停止</translation>
     </message>
     <message>
         <source>Auto-Allow New Programs</source>
