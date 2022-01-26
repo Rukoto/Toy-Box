@@ -98,13 +98,15 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 -「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
 
 ---
-## 「Greenshot Ver.1.3.220」日本語言語ファイル
+## 「Greenshot Ver.1.3.229」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
-また、プラグインが部分的に翻訳されない等の不具合が内在しています。
+また、プラグインが部分的に翻訳されない等の不具合が内在しています。  
+さらに、Ver.1.3.229 で UI が改悪され、多くの言語で表示が見切れてしまっています。  
+(なので、当方では Ver1.3.223 のままで使用しています。)
 
-ダウンロード: [Greenshot-1.3.220-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.220-jp.exe)
+ダウンロード (1.3.194 ～ 1.3.229 用): [Greenshot-1.3.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194-jp.exe)
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
