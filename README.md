@@ -28,12 +28,12 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Autoruns Ver.14.07」日本語化パッチ
+## 「Autoruns Ver.14.08」日本語化パッチ
 スタートアップ確認ユーティリティ「[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード (x64): [Autoruns-14.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x64-jp.exe)  
-ダウンロード (x86): [Autoruns-14.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.07_x86-jp.exe)  
+ダウンロード (x64): [Autoruns-14.08_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.08_x64-jp.exe)  
+ダウンロード (x86): [Autoruns-14.08_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.08_x86-jp.exe)  
 なお、ARM64 版の作成予定はありません。作れるけど検証できないので。
 
 作成のきっかけは [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチですが、すべて刷新した完全なる別モノとなっております。
@@ -88,7 +88,7 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Fort Firewall Ver.3.4.4」日本語言語ファイル (作業用)
+## 「Fort Firewall Ver.3.4.5」日本語言語ファイル (作業用)
 パーソナルファイアウォールアプリ「[Fort Firewall](https://github.com/tnodir/fort)」の日本語言語ファイルを更新しています。  
 といっても 5ch のリクエストに応えただけで、もしかしたら一時的な公開になるかも?
 
@@ -98,15 +98,15 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 -「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
 
 ---
-## 「Greenshot Ver.1.3.229」日本語言語ファイル
+## 「Greenshot Ver.1.3.231」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
 また、プラグインが部分的に翻訳されない等の不具合が内在しています。  
-さらに、Ver.1.3.229 で UI が改悪され、多くの言語で表示が見切れてしまっています。  
-(なので、当方では Ver1.3.223 のままで使用しています。)
+Ver.1.3.229 以降は設定ウィンドウのサイズの改悪されています。  
+(Ver.1.3.223 以前であれば、ある程度まともな表示が可能です)
 
-ダウンロード (1.3.194 ～ 1.3.229 用): [Greenshot-1.3.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194-jp.exe)
+ダウンロード (1.3.194 ～ 1.3.231 用): [Greenshot-1.3.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194-jp.exe)
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
