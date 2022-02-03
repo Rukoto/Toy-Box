@@ -166,14 +166,11 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 -「PDF-XChange Viewer」の著作権は PDF-XChange Co Ltd にあります。
 
 ---
-## 「Resource Hacker Ver.4.X / Ver.5.X」日本語言語ファイル
+## 「Resource Hacker Ver.5.1.8.360」日本語言語ファイル
 定番リソースエディター「[Resource Hacker](http://www.angusj.com/resourcehacker/)」には [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の日本語言語ファイルがありますが、  
 UI の改善と訳文を追加・変更、サイズダウンを適用した言語ファイルを公開しています。
 
-ダウンロード (Ver.4.5.30.180 用): [ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/4.5.30.180/ResourceHacker.JP)  
-ダウンロード (Ver.5.1.8.360 用): [ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/5.1.8.360/ResourceHacker.JP)
-
-Ver.4.5.30.180 の本体は [ココ(Wayback Machine)](https://web.archive.org/web/20180223164138/http://www.angusj.com/resourcehacker/) から入手できます。
+ダウンロード: [ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/ResourceHacker.JP)
 
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
