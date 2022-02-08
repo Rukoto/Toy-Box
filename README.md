@@ -59,8 +59,8 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
-## 「FileZilla Client Ver.3.57.0」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.35.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.58.0」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.36.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
