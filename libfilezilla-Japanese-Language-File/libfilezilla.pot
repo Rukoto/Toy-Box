@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-02-07 05:30+0100\n"
+"POT-Creation-Date: 2022-02-12 05:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,7 +37,8 @@ msgstr ""
 msgid "Beware! Certificate has been revoked"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:114
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:108
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:117
 msgid "Cannot assign requested address"
 msgstr ""
 
@@ -229,7 +230,7 @@ msgstr ""
 msgid "Nonrecoverable failure in name resolution"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:110
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:113
 msgid "Not initialized, need to call WSAStartup"
 msgstr ""
 
@@ -267,7 +268,7 @@ msgstr ""
 msgid "Protocol not supported"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:112
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:115
 msgid "Protocol not supported on given socket type"
 msgstr ""
 
@@ -338,7 +339,7 @@ msgstr ""
 msgid "Socket not connected"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:113
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:116
 msgid "Socket type not supported for address family"
 msgstr ""
 
@@ -346,7 +347,7 @@ msgstr ""
 msgid "System limit of open files exceeded"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:111
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:114
 msgid "System's network subsystem has failed"
 msgstr ""
 
@@ -380,7 +381,7 @@ msgstr ""
 msgid "The specified address family is not supported"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:115
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:118
 msgid "The specified network name is no longer available"
 msgstr ""
 
