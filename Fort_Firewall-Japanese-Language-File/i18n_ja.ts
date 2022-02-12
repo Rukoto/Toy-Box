@@ -638,6 +638,62 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
         <source>Are you sure to reinstall the Driver?</source>
         <translation>ドライバーを再インストールしてもよろしいですか?</translation>
     </message>
+    <message>
+        <source>Tray</source>
+        <translation>トレイ</translation>
+    </message>
+    <message>
+        <source>Event:</source>
+        <translation>イベント:</translation>
+    </message>
+    <message>
+        <source>Action:</source>
+        <translation>アクション:</translation>
+    </message>
+    <message>
+        <source>Single Click</source>
+        <translation>シングルクリック</translation>
+    </message>
+    <message>
+        <source>Double Click</source>
+        <translation>ダブルクリック</translation>
+    </message>
+    <message>
+        <source>Middle Click</source>
+        <translation>中央クリック</translation>
+    </message>
+    <message>
+        <source>Show Programs</source>
+        <translation>表示: プログラム</translation>
+    </message>
+    <message>
+        <source>Show Options</source>
+        <translation>表示: オプション</translation>
+    </message>
+    <message>
+        <source>Show Statistics</source>
+        <translation>表示: 統計</translation>
+    </message>
+    <message>
+        <source>Show/Hide Traffic Graph</source>
+        <translation>表示/非表示: 通信量グラフ</translation>
+    </message>
+    <message>
+        <source>Switch Filter Enabled</source>
+        <translation>切り替え: フィルタリング有効化</translation>
+    </message>
+    <message>
+        <source>Switch Stop Traffic</source>
+        <translation>切り替え: すべての通信を停止</translation>
+    </message>
+    <message>
+        <source>Switch Stop Internet Traffic</source>
+        <translation>切り替え: インターネット通信を停止</translation>
+    </message>
+    <message>
+        <source>Switch Auto-Allow New Programs</source>
+        <translation>切り替え: 新しいプログラムを自動的に許可</translation>
+    </message>
 </context>
 <context>
     <name>OptionsWindow</name>
@@ -822,6 +878,10 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
         <source>Are you sure to remove all non-existent programs?</source>
         <translation>存在しないプログラムをすべて削除してもよろしいですか?</translation>
     </message>
+    <message>
+        <source>Services</source>
+        <translation>サービス</translation>
+    </message>
 </context>
 <context>
     <name>QuotaManager</name>
@@ -890,6 +950,52 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source> hour(s)</source>
         <translation> 時間</translation>
+    </message>
+</context>
+<context>
+    <name>ServiceListModel</name>
+    <message>
+        <source>Service Name</source>
+        <translation>サービス名</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation>表示名</translation>
+    </message>
+    <message>
+        <source>Process ID</source>
+        <translation>プロセス ID</translation>
+    </message>
+</context>
+<context>
+    <name>ServicesWindow</name>
+    <message>
+        <source>Edit</source>
+        <translation>編集</translation>
+    </message>
+    <message>
+        <source>Make Trackable</source>
+        <translation>追跡可能にする</translation>
+    </message>
+    <message>
+        <source>Revert Changes</source>
+        <translation>変更を元に戻す</translation>
+    </message>
+    <message>
+        <source>Add Program</source>
+        <translation>プログラムの追加</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>最新の情報に更新</translation>
+    </message>
+    <message>
+        <source>Services</source>
+        <translation>サービス</translation>
+    </message>
+    <message>
+        <source>Please restart the computer to reload changed services!</source>
+        <translation>PC を再起動して、変更されたサービスを再読み込みしてください。</translation>
     </message>
 </context>
 <context>

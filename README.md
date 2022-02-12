@@ -88,7 +88,7 @@ OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の opens
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Fort Firewall Ver.3.4.5」日本語言語ファイル (作業用)
+## 「Fort Firewall Ver.3.4.7」日本語言語ファイル (作業用)
 パーソナルファイアウォールアプリ「[Fort Firewall](https://github.com/tnodir/fort)」の日本語言語ファイルを更新しています。  
 といっても 5ch のリクエストに応えただけで、もしかしたら一時的な公開になるかも?
 

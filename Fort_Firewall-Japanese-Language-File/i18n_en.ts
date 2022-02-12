@@ -637,6 +637,62 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
         <source>Are you sure to reinstall the Driver?</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Tray</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Event:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Action:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Single Click</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Double Click</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Middle Click</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Programs</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Statistics</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show/Hide Traffic Graph</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Switch Filter Enabled</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Switch Stop Traffic</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Switch Stop Internet Traffic</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Switch Auto-Allow New Programs</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>OptionsWindow</name>
@@ -821,6 +877,10 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
         <source>Are you sure to remove all non-existent programs?</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Services</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>QuotaManager</name>
@@ -888,6 +948,52 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source> hour(s)</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>ServiceListModel</name>
+    <message>
+        <source>Service Name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Process ID</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>ServicesWindow</name>
+    <message>
+        <source>Edit</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Make Trackable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Revert Changes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Add Program</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Services</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please restart the computer to reload changed services!</source>
         <translation></translation>
     </message>
 </context>
