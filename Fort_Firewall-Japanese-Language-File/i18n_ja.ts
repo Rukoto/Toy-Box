@@ -226,6 +226,10 @@
         <source>Programs (*.exe);;All files (*.*)</source>
         <translation>プログラム(* .exe);;すべてのファイル(*.*)</translation>
     </message>
+    <message>
+        <source>Apply same rules to child processes</source>
+        <translation>子プロセスに同じルールを適用する</translation>
+    </message>
 </context>
 <context>
     <name>ConfManager</name>
@@ -341,6 +345,10 @@
     <message>
         <source>Unknown</source>
         <translation>不明</translation>
+    </message>
+    <message>
+        <source>Inherited</source>
+        <translation>継承</translation>
     </message>
 </context>
 <context>
@@ -830,6 +838,10 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source>Programs (*.exe);;All files (*.*)</source>
         <translation>プログラム(* .exe);;すべてのファイル(*.*)</translation>
+    </message>
+    <message>
+        <source>Apply same rules to child processes</source>
+        <translation>子プロセスに同じルールを適用する</translation>
     </message>
 </context>
 <context>
