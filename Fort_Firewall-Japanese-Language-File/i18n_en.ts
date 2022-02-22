@@ -226,6 +226,10 @@
         <source>Programs (*.exe);;All files (*.*)</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Apply same rules to child processes</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>ConfManager</name>
@@ -340,6 +344,10 @@
     </message>
     <message>
         <source>Unknown</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Inherited</source>
         <translation></translation>
     </message>
 </context>
@@ -828,6 +836,10 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Programs (*.exe);;All files (*.*)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apply same rules to child processes</source>
         <translation></translation>
     </message>
 </context>
