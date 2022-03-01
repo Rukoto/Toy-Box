@@ -177,9 +177,20 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 -「Resource Hacker」の著作権は Angus Johnson氏 にあります。
 
 ---
+## 「Windows Update MiniTool 18.01.2022」日本語言語ファイル
+サードパーティ製 Windows Update クライアント「[Windows Update MiniTool](http://forum.ru-board.com/topic.cgi?forum=5&topic=48142#2)」の言語ファイルを更新しています。  
+「WuMgr」と同期させるために、あえていくつかの訳文が原文と合致していません。  
+以前のバージョンに比べ、UI が詳細/拡大した事は好み分かれる気がします。
+
+ダウンロード: [ja.lng](https://github.com/Rukoto/Toy-Box/raw/master/Windows_Update_MiniTool-Japanese-Language-File/ja.lng)
+
+しろみち氏元となった日本語言語ファイルを公開されている [しろみち氏](https://twitter.com/Nico_LunaOrbit) に感謝。
+
+---
 ## 「WuMgr Ver.1.1b」日本語対応言語ファイル (作業用)
 サードパーティ製 Windows Update クライアント「[WuMgr](https://github.com/DavidXanatos/wumgr)」の言語ファイルを更新しています。  
-公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
+公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。  
+小生は「Windows Update MiniTool」よりもこちらを愛用しています。
 
 [COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
 -「WuMgr」の著作権は DavidXanatos氏 にあります。
