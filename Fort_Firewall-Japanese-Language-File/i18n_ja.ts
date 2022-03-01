@@ -702,6 +702,18 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
         <source>Switch Auto-Allow New Programs</source>
         <translation>切り替え: 新しいプログラムを自動的に許可</translation>
     </message>
+    <message>
+        <source>Tray Menu Flags</source>
+        <translation>トレイ メニュー内のフラグ変更</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>終了</translation>
+    </message>
+    <message>
+        <source>Action Confirmations</source>
+        <translation>アクションの確認</translation>
+    </message>
 </context>
 <context>
     <name>OptionsWindow</name>
@@ -1362,6 +1374,14 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source>Statistics</source>
         <translation>統計</translation>
+    </message>
+    <message>
+        <source>Are you sure to switch the &quot;%1&quot;?</source>
+        <translation>&quot;%1&quot; を切り替えてもよろしいですか?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to quit the program?</source>
+        <translation>プログラムを終了してもよろしいですか?</translation>
     </message>
 </context>
 <context>
