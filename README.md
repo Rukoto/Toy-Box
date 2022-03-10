@@ -61,6 +61,14 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
 
 ---
+## 「EasyBCD Ver.2.4.0.237」日本語言語ファイル
+ブートローダー編集アプリ「[EasyBCD](https://neosmart.net/EasyBCD/)」の日本語言語ファイルを公開しています。
+
+ダウンロード: [EasyBCD-2.4.0.237-ja.exe](https://github.com/Rukoto/Toy-Box/raw/master/EasyBCD-Japanese-Language-File/EasyBCD-2.4.0.237-ja.exe)
+
+-「EasyBCD」の著作権は [[NeoSmart Technologies]](https://github.com/neosmart) にあります。
+
+---
 ## 「FileZilla Client Ver.3.58.0」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.36.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
