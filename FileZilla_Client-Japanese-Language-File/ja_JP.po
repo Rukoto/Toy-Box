@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FileZilla Client 3.58.0\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-03-04 05:30+0100\n"
-"PO-Revision-Date: 2022-03-04 13:30+0900\n"
+"POT-Creation-Date: 2022-03-11 05:30+0100\n"
+"PO-Revision-Date: 2022-03-11 13:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -143,7 +143,7 @@ msgid "%s byte"
 msgid_plural "%s bytes"
 msgstr[0] "%s バイト"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:436
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:439
 #, c-format
 msgid ""
 "%s could not be found. Without this component of FileZilla, %s will not "
@@ -1426,7 +1426,7 @@ msgid ""
 "A file with that name is still being edited. Please close it and try again."
 msgstr "その名前のファイルはまだ編集中です。閉じてから再度試してください。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:405
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:408
 msgid ""
 "A local filename could not be decoded.\n"
 "Please make sure the LC_CTYPE (or LC_ALL) environment variable is set "
@@ -2158,7 +2158,7 @@ msgstr "パーミッションを変更します。"
 msgid "Changing logfile settings requires restart of FileZilla."
 msgstr "ログ ファイルの設定の変更には FileZilla の再起動が必要です。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:405
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:408
 msgid "Character encoding issue"
 msgstr "文字コードの問題"
 
@@ -2732,7 +2732,7 @@ msgstr ""
 msgid "Could not establish connection to server"
 msgstr "サーバーとの接続を確立できません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:299
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:302
 msgid ""
 "Could not find the resource files for FileZilla, closing FileZilla.\n"
 "You can specify the data directory of FileZilla by setting the FZ_DATADIR "
@@ -3387,13 +3387,13 @@ msgid "Directory access permissions"
 msgstr "ディレクトリのアクセス許可"
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_filelists.cpp:64
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:494
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:939
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:282
 #: ../../../source/FileZilla3/locales/../src/interface/toolbar.cpp:115
 #: ../../../source/FileZilla3/locales/../src/interface/view.cpp:109
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2391
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2411
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:492
 msgid "Directory comparison"
 msgstr "ディレクトリの比較を有効にする"
 
@@ -3735,7 +3735,7 @@ msgstr "暗号化の詳細"
 msgid "Encryption passphrase is not set"
 msgstr "暗号化パスフレーズが設定されていません"
 
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:496
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:494
 msgid "End comparison and change sorting order?"
 msgstr "比較を終了して並べ替え順を変更しますか?"
 
@@ -4043,9 +4043,9 @@ msgstr "FTPS - FTP over TLS (暗黙的)"
 msgid "Failed to change directory"
 msgstr "ディレクトリ変更に失敗しました"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:96
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:111
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:114
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:97
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:112
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:115
 msgid "Failed to change language"
 msgstr "言語の変更に失敗しました"
 
@@ -4141,13 +4141,13 @@ msgstr "外部 IP アドレスの取得に失敗しました。"
 msgid "Failed to send command."
 msgstr "コマンドの送信に失敗しました。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:111
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:112
 #, c-format
 msgid "Failed to set language to %s (%s), using default system language"
 msgstr ""
 "%s (%s) への言語の設定に失敗したので、デフォルトのシステム言語を使用します"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:88
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:89
 #, c-format
 msgid ""
 "Failed to set language to %s (%s), using default system language (%s, %s)."
@@ -4155,25 +4155,25 @@ msgstr ""
 "%s (%s) への言語の設定に失敗しました。デフォルトのシステム言語 (%s, %s) を使"
 "用します。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:75
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:76
 #, c-format
 msgid "Failed to set language to %s (%s), using default system language."
 msgstr ""
 "%s (%s) への言語の設定に失敗しました。デフォルトのシステム言語を利用します。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:114
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:115
 #, c-format
 msgid "Failed to set language to %s, using default system language"
 msgstr "%s への言語の設定に失敗しました。デフォルトのシステム言語を使用します"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:83
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:84
 #, c-format
 msgid "Failed to set language to %s, using default system language (%s, %s)."
 msgstr ""
 "%s への言語の設定に失敗しました。デフォルトのシステム言語を使用します (%s, "
 "%s)"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:71
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:72
 #, c-format
 msgid "Failed to set language to %s, using default system language."
 msgstr ""
@@ -4236,8 +4236,8 @@ msgid "File lists"
 msgstr "ファイル リスト"
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:194
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:437
 #: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1919
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:440
 msgid "File not found"
 msgstr "ファイルが見つかりません"
 
@@ -4282,7 +4282,7 @@ msgstr "%s (%s) のファイル転送に成功しました"
 msgid "File transfers still in progress."
 msgstr "ファイル転送はまだ進行中です。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:300
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:303
 msgid "FileZilla Error"
 msgstr "Filezilla エラー"
 
@@ -6318,7 +6318,7 @@ msgstr ""
 "FileZilla が外部に接続確立するのを許可されていることと、アドレス リゾルバーの"
 "アドレスが正しく入力されていることを確認してください。"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:95
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:96
 msgid "Please make sure the requested locale is installed on your system."
 msgstr ""
 "要求されたロケールがシステムにインストールされていることを確認してください。"
@@ -7044,7 +7044,7 @@ msgstr "同期ブラウジング(&Y)"
 msgid "SFTP"
 msgstr "SFTP"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:416
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:419
 msgid "SFTP support"
 msgstr "SFTP サポート"
 
@@ -7689,7 +7689,7 @@ msgstr ""
 msgid "Sort directories inline"
 msgstr "ディレクトリをインラインで並べ替え"
 
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:495
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:493
 msgid "Sort order cannot be changed if comparing directories."
 msgstr "ディレクトリ比較中は並べ替え順を変更できません。"
 
@@ -7814,7 +7814,7 @@ msgstr "Storj (レガシー API キー使用)"
 msgid "Storj - Decentralized Cloud Storage"
 msgstr "Storj - 分散型クラウド ストレージ"
 
-#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:423
+#: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:426
 msgid "Storj support"
 msgstr "Storj サポート"
 
@@ -9339,7 +9339,7 @@ msgstr "後方一致"
 msgid "equals"
 msgstr "等しい"
 
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:533
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:531
 msgid "file"
 msgstr "ファイル"
 
