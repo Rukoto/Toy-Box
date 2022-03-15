@@ -66,7 +66,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 
 ダウンロード: [EasyBCD-2.4.0.237-ja.exe](https://github.com/Rukoto/Toy-Box/raw/master/EasyBCD-Japanese-Language-File/EasyBCD-2.4.0.237-ja.exe)
 
--「EasyBCD」の著作権は [[NeoSmart Technologies]](https://github.com/neosmart) にあります。
+-「EasyBCD」の著作権は [NeoSmart Technologies](https://github.com/neosmart) にあります。
 
 ---
 ## 「FileZilla Client Ver.3.58.0」日本語言語ファイル (作業用)
