@@ -81,16 +81,19 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「FileZilla Client」および「libfilezilla」の著作権は Tim Kosse氏にあります。
 
 ---
-## 「FileZilla Server Ver.0.9.60.2」日本語化パッチ
+## 「FileZilla Server Ver.1.3.0」日本語化パッチ
 無料 FTP サーバーアプリ「[FileZilla Server](https://FileZilla-project.org/)」の日本語化パッチを更新しています。  
-古いバージョンですので、公開サーバーとしての運用は厳禁です。  
-Ver.1.X.X の日本語化は倍直の負荷が高すぎるため、対応予定はありません。
+Ver.1.3.0 用はダイジェスト版です。使用する上で困らない程度には翻訳してあります。  
+完全版のリリースには少し時間をください。全部倍直なので慎重に作業したいので。  
+また、共通モジュールを参照している部分は翻訳する予定はありません。  
+このような理由で、Quit、Cancelが未翻訳だったり、一部アクセスキーが省略されています。
 
+ダウンロード (Ver.1.3.0 用): [FileZilla_Server-1.3.0-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.3.0-jp.exe)  
 ダウンロード (Ver.0.9.60.2 用): [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
 ダウンロード (Ver.0.9.43 for WinXP): [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)
 
 古いバージョンの本体は [ココ](https://download.filezilla-project.org/server/) から入手できます。  
-OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の openssl-1.0.2u-i386-win32.zip で上書きを推奨。
+0.9.X 系の OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の openssl-1.0.2u-i386-win32.zip で上書きを推奨。
 
 [COPYING(GPLv2)](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/COPYING)  
 -FileZilla Server の著作権は Tim Kosse氏にあります。
