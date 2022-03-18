@@ -83,14 +83,12 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 ---
 ## 「FileZilla Server Ver.1.3.0」日本語化パッチ
 無料 FTP サーバーアプリ「[FileZilla Server](https://FileZilla-project.org/)」の日本語化パッチを更新しています。  
-Ver.1.3.0 用はダイジェスト版です。使用する上で困らない程度には翻訳してあります。  
-完全版のリリースには少し時間をください。全部倍直なので慎重に作業したいので。  
-また、共通モジュールを参照している部分は翻訳する予定はありません。  
-このような理由で、Quit、Cancelが未翻訳だったり、一部アクセスキーが省略されています。
+すべて倍直であることと、一部の参照先が共有モジュール化されているため、  
+一部が意図的に未翻訳だったり、アクセスキーが省略されたりしています。
 
-ダウンロード (Ver.1.3.0 用): [FileZilla_Server-1.3.0-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.3.0-jp.exe)  
-ダウンロード (Ver.0.9.60.2 用): [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
-ダウンロード (Ver.0.9.43 for WinXP): [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)
+ダウンロード (1.3.0 用): [FileZilla_Server-1.3.0-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.3.0-jp.exe)  
+ダウンロード (0.9.60.2 用): [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
+ダウンロード (0.9.43 for WinXP): [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)
 
 古いバージョンの本体は [ココ](https://download.filezilla-project.org/server/) から入手できます。  
 0.9.X 系の OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の openssl-1.0.2u-i386-win32.zip で上書きを推奨。
