@@ -93,14 +93,6 @@
         <translation>状態</translation>
     </message>
     <message>
-        <source>Bl.</source>
-        <translation>Bl.</translation>
-    </message>
-    <message>
-        <source>Block scheduled</source>
-        <translation>スケジュールされたブロック</translation>
-    </message>
-    <message>
         <source>Creation Time</source>
         <translation>作成日時</translation>
     </message>
