@@ -5,7 +5,7 @@
 ※パッチはかなりの確率でセキュリティ機能に誤検知されます。[VirusTotal](https://www.virustotal.com/gui/home/upload) 等をご活用ください。  
 ※公式へのコミットを可能な範囲で行いますが、私の拙い英語力が原因で成果が得られない場合もあります。  
 ※Windows 10 Pro 21H2 x64 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
-※更新停止しているような古いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
+※更新停止/低需要/諸事情アリといった優先度の低いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
 ---
@@ -45,7 +45,8 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード (20220304185000): [CPU-Z-2.00_x64-jp_20220304185000.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.00_x64-jp_20220304185000.exe)  
+ダウンロード (20220304185000): [CPU-Z-2.00_x64-jp_20220304185000.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.00_x64-jp_20220304185000.exe)
+
 同一バージョンのまま差し替えることがあるらしく、Zip ファイルのタイムスタンプを明記。  
 適用できない場合は旧版を試すか、当方が気がついて更新するのをお待ちください。  
 セットアップ版は対象ファイル名を cpuz_x64.exe に変更すれば適用できます。x86 版の作成予定はありません。
@@ -117,7 +118,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 Ver.1.3.229 以降は設定ウィンドウのサイズの改悪されています。  
 (Ver.1.3.223 以前であれば、ある程度まともな表示が可能です)
 
-ダウンロード (1.3.244 ～ 1.3.246 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)
+ダウンロード (1.3.244 ～ 1.3.246 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
 ダウンロード (1.3.194 ～ 1.3.239 用): [Greenshot-1.3.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194-jp.exe)
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
