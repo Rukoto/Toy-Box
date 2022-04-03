@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-03-11 05:30+0100\n"
+"POT-Creation-Date: 2022-04-01 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2260,10 +2260,10 @@ msgstr ""
 msgid "Command and its arguments need to be properly quoted."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:215
-#: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:237
-#: ../../../source/FileZilla3/locales/../src/interface/storj_key_interface.cpp:86
-#: ../../../source/FileZilla3/locales/../src/interface/storj_key_interface.cpp:108
+#: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:218
+#: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:242
+#: ../../../source/FileZilla3/locales/../src/interface/storj_key_interface.cpp:89
+#: ../../../source/FileZilla3/locales/../src/interface/storj_key_interface.cpp:113
 msgid "Command failed"
 msgstr ""
 
@@ -2596,7 +2596,7 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/filetransfer.cpp:69
 #: ../../../source/FileZilla3/locales/../src/engine/sftp/filetransfer.cpp:90
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:347
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:334
 #: ../../../source/FileZilla3/locales/../src/engine/storj/storjcontrolsocket.cpp:233
 msgid "Could not convert command to server encoding"
 msgstr ""
@@ -2686,11 +2686,11 @@ msgstr ""
 msgid "Could not get path from URL"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:237
+#: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:242
 msgid "Could not get reply from fzputtygen."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/storj_key_interface.cpp:108
+#: ../../../source/FileZilla3/locales/../src/interface/storj_key_interface.cpp:113
 msgid "Could not get reply from fzstorj."
 msgstr ""
 
@@ -2851,11 +2851,15 @@ msgstr ""
 msgid "Could not seek to offset %d within '%s'."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:215
+#: ../../../source/FileZilla3/locales/../src/interface/fzputtygen_interface.cpp:218
 msgid "Could not send command to fzputtygen."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/storj_key_interface.cpp:86
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:659
+msgid "Could not send command to fzsftp executable"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/interface/storj_key_interface.cpp:89
 msgid "Could not send command to fzstorj."
 msgstr ""
 
@@ -3294,7 +3298,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/view.cpp:109
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2391
 #: ../../../source/FileZilla3/locales/../src/interface/Mainfrm.cpp:2411
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:492
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:494
 msgid "Directory comparison"
 msgstr ""
 
@@ -3631,7 +3635,7 @@ msgstr ""
 msgid "Encryption passphrase is not set"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:494
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:496
 msgid "End comparison and change sorting order?"
 msgstr ""
 
@@ -3927,6 +3931,11 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/engine/ftp/ftpcontrolsocket.cpp:304
 msgid "Failed to convert command to 8 bit charset"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:111
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:124
+msgid "Failed to convert reply to local character set."
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:1674
@@ -4405,6 +4414,14 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/aboutdialog.cpp:81
 msgid "GnuTLS:"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:95
+msgid "Got overlong input line, aborting."
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:73
+msgid "Got unexpected EOF from child process."
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:27
@@ -5378,7 +5395,7 @@ msgstr ""
 msgid "Next to the transfer queue"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:399
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:394
 msgid "No"
 msgstr ""
 
@@ -5585,7 +5602,7 @@ msgid ""
 "well as the fallback mode if enabled."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:409
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:404
 msgid "Once"
 msgstr ""
 
@@ -6461,7 +6478,7 @@ msgstr ""
 msgid "Received too long response line from server, closing connection."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:476
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:471
 msgid "Received too long response line, closing connection."
 msgstr ""
 
@@ -7362,7 +7379,7 @@ msgstr ""
 msgid "Sort directories inline"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:493
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:495
 msgid "Sort order cannot be changed if comparing directories."
 msgstr ""
 
@@ -8141,11 +8158,11 @@ msgstr ""
 msgid "Treat the &following filetypes as ASCII files:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:395
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:390
 msgid "Trust changed Hostkey:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:392
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:387
 msgid "Trust new Hostkey:"
 msgstr ""
 
@@ -8252,6 +8269,11 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/engine/misc.cpp:29
 #, c-format
 msgid "Unknown error %u"
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:152
+#, c-format
+msgid "Unknown eventType %d"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:4
@@ -8633,7 +8655,7 @@ msgstr ""
 msgid "Yellow"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:406
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/sftpcontrolsocket.cpp:401
 msgid "Yes"
 msgstr ""
 
@@ -8884,7 +8906,7 @@ msgstr ""
 msgid "equals"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:531
+#: ../../../source/FileZilla3/locales/../src/interface/filelistctrl.cpp:533
 msgid "file"
 msgstr ""
 
@@ -8896,11 +8918,11 @@ msgid ""
 "FileZilla executable."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/connect.cpp:169
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/connect.cpp:164
 msgid "fzsftp belongs to a different version of FileZilla"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/connect.cpp:209
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/connect.cpp:204
 msgid "fzsftp could not be started"
 msgstr ""
 
@@ -8908,7 +8930,7 @@ msgstr ""
 msgid "fzstorj belongs to a different version of FileZilla"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/storj/storjcontrolsocket.cpp:313
+#: ../../../source/FileZilla3/locales/../src/engine/storj/storjcontrolsocket.cpp:317
 msgid "fzstorj could not be started"
 msgstr ""
 
