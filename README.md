@@ -56,7 +56,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「CPU-Z」の著作権は Franck Delattre氏 にあります。
 
 ---
-## 「Driver Store Explorer Ver.0.11.76」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.79」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
