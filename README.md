@@ -41,17 +41,17 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Autoruns」の著作権は Sysinternals にあります。
 
 ---
-## 「CPU-Z Ver.2.00」日本語化パッチ
+## 「CPU-Z Ver.2.01」日本語化パッチ
 ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード (20220304185000): [CPU-Z-2.00_x64-jp_20220304185000.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.00_x64-jp_20220304185000.exe)
+ダウンロード (20220413184816): [CPU-Z-2.01_x64-jp_20220413184816.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.01_x64-jp_20220413184816.exe)
 
 同一バージョンのまま差し替えることがあるらしく、Zip ファイルのタイムスタンプを明記。  
 適用できない場合は旧版を試すか、当方が気がついて更新するのをお待ちください。  
 セットアップ版は対象ファイル名を cpuz_x64.exe に変更すれば適用できます。x86 版の作成予定はありません。
 
-本アプリを日本語化する意義を感じないので、Ver.2.00 が最終更新になると思います。
+本アプリを日本語化する意義を感じないのですが、倍直コピペで済むので当面は更新継続します。
 
 -「CPU-Z」の著作権は Franck Delattre氏 にあります。
 
@@ -110,7 +110,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
 
 ---
-## 「Greenshot Ver.1.3.249」日本語言語ファイル
+## 「Greenshot Ver.1.3.256」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
 ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
@@ -118,7 +118,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 Ver.1.3.229 以降は設定ウィンドウのサイズの改悪されています。  
 (Ver.1.3.223 以前であれば、ある程度まともな表示が可能です)
 
-ダウンロード (1.3.244 ～ 1.3.249 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
+ダウンロード (1.3.244 ～ 1.3.256 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
 ダウンロード (1.3.194 ～ 1.3.239 用): [Greenshot-1.3.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194-jp.exe)
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
