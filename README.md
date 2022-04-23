@@ -14,7 +14,7 @@
 
 ---
 ## 「7-Zip Ver.21.07」日本語環境対応パッチ
-高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://sevenzip.osdn.jp/)」の日本語環境対応パッチを更新しています。  
+高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://www.7-zip.org/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
 ダウンロード (x64): [7-Zip-21.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.07_x64-jp.exe)  
@@ -190,12 +190,12 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 -「Resource Hacker」の著作権は Angus Johnson氏 にあります。
 
 ---
-## 「Windows Update MiniTool 18.01.2022」日本語言語ファイル
+## 「Windows Update MiniTool 22.04.2022」日本語言語ファイル
 サードパーティ製 Windows Update クライアント「[Windows Update MiniTool](http://forum.ru-board.com/topic.cgi?forum=5&topic=48142#2)」の言語ファイルを更新しています。  
 「WuMgr」と同期させるために、あえていくつかの訳文が原文と合致していません。  
 以前のバージョンに比べ、UI が詳細/拡大した事は好み分かれる気がします。
 
-ダウンロード: [ja.lng](https://github.com/Rukoto/Toy-Box/raw/master/Windows_Update_MiniTool-Japanese-Language-File/18.01.2022/ja.lng)
+ダウンロード: [ja.lng](https://github.com/Rukoto/Toy-Box/raw/master/Windows_Update_MiniTool-Japanese-Language-File/22.04.2022/ja.lng)
 
 元となった日本語言語ファイルを公開されていた [しろみち氏](https://twitter.com/Nico_LunaOrbit) に感謝。
 
