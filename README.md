@@ -56,7 +56,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「CPU-Z」の著作権は Franck Delattre氏 にあります。
 
 ---
-## 「Driver Store Explorer Ver.0.11.79」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.84」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
@@ -82,12 +82,12 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「FileZilla Client」および「libfilezilla」の著作権は Tim Kosse氏にあります。
 
 ---
-## 「FileZilla Server Ver.1.3.0」日本語化パッチ
+## 「FileZilla Server Ver.1.4.0」日本語化パッチ
 無料 FTP サーバーアプリ「[FileZilla Server](https://FileZilla-project.org/)」の日本語化パッチを更新しています。  
 すべて倍直であることと、一部の参照先が共有モジュール化されているため、  
 一部が意図的に未翻訳だったり、アクセスキーが省略されたりしています。
 
-ダウンロード (1.3.0 用): [FileZilla_Server-1.3.0-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.3.0-jp.exe)  
+ダウンロード (1.4.0 用): [FileZilla_Server-1.4.0-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.4.0-jp.exe)  
 ダウンロード (0.9.60.2 用): [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
 ダウンロード (0.9.43 for WinXP): [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)
 
