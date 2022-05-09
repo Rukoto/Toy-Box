@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-04-09 05:30+0200\n"
+"POT-Creation-Date: 2022-04-28 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -259,7 +259,7 @@ msgstr ""
 msgid "&Always use default editor"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1786
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1785
 msgid "&Always use selection for all unassociated files"
 msgstr ""
 
@@ -307,7 +307,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:681
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:775
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:71
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1808
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1807
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_controls.cpp:924
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager_dialog.cpp:276
 msgid "&Browse..."
@@ -428,7 +428,7 @@ msgid ""
 "&Disable synchronized browsing and continue changing the remote directory"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1204
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1203
 msgid "&Discard local file then download and edit file anew"
 msgstr ""
 
@@ -576,11 +576,11 @@ msgstr ""
 msgid "&Filters:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:846
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:845
 msgid "&Finish editing"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:850
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:849
 msgid "&Finish editing and delete local file"
 msgstr ""
 
@@ -761,8 +761,8 @@ msgstr ""
 msgid "&Next >"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:859
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1237
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:858
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1236
 msgid "&No"
 msgstr ""
 
@@ -917,7 +917,7 @@ msgstr ""
 msgid "&Rename..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1202
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1201
 msgid "&Reopen local file"
 msgstr ""
 
@@ -1092,7 +1092,7 @@ msgstr ""
 msgid "&Trust this certificate on the listed alternative hostnames."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1489
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1488
 msgid "&Unedit"
 msgstr ""
 
@@ -1118,7 +1118,7 @@ msgstr ""
 msgid "&Uploads:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1791
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1790
 msgid "&Use custom program"
 msgstr ""
 
@@ -1187,8 +1187,8 @@ msgstr ""
 msgid "&Write"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:856
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1234
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:855
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1233
 msgid "&Yes"
 msgstr ""
 
@@ -1392,15 +1392,15 @@ msgid ""
 "and asks the server to connect to it."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:815
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:814
 msgid "A file previously opened has been changed."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1166
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1165
 msgid "A file with that name is already being transferred."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1170
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1169
 msgid ""
 "A file with that name is still being edited. Please close it and try again."
 msgstr ""
@@ -1520,11 +1520,11 @@ msgstr ""
 msgid "Action after queue &completion"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1484
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1483
 msgid "Action on selected file:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1200
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1199
 msgid "Action to perform:"
 msgstr ""
 
@@ -1802,8 +1802,8 @@ msgstr ""
 msgid "Behaviour"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1436
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1463
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1435
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1462
 msgid "Being edited"
 msgstr ""
 
@@ -1920,8 +1920,8 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:285
 #: ../../../source/FileZilla3/locales/../src/interface/chmoddialog.cpp:160
 #: ../../../source/FileZilla3/locales/../src/interface/defaultfileexistsdlg.cpp:76
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1230
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1816
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1229
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1815
 #: ../../../source/FileZilla3/locales/../src/interface/fileexistsdlg.cpp:103
 #: ../../../source/FileZilla3/locales/../src/interface/filter_manager.cpp:126
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:143
@@ -1980,8 +1980,8 @@ msgid "Cannot create new filter"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1930
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1112
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1338
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1111
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1337
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1634
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2078
 msgid "Cannot edit file"
@@ -2023,19 +2023,19 @@ msgstr ""
 msgid "Cannot select filter"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1862
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1867
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1881
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1861
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1866
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1880
 msgid "Cannot set file association"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1388
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1387
 msgid "Cannot show dialog"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1147
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1166
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1312
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1146
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1165
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1311
 msgid "Cannot view/edit selected file"
 msgstr ""
 
@@ -2140,12 +2140,12 @@ msgstr ""
 msgid "Checking for updates..."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:879
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:890
 #, c-format
 msgid "Checksum match on file %s\n"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:875
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:886
 #, c-format
 msgid "Checksum mismatch on file %s\n"
 msgstr ""
@@ -2375,7 +2375,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1895
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:1428
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:1099
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1124
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1123
 #: ../../../source/FileZilla3/locales/../src/interface/file_utils.h:43
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1646
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2042
@@ -2626,7 +2626,7 @@ msgstr ""
 msgid "Could not create URI for this transfer."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:536
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:547
 #, c-format
 msgid "Could not create local file %s\n"
 msgstr ""
@@ -2641,7 +2641,7 @@ msgstr ""
 msgid "Could not create security-scoped bookmark from URL:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1312
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1311
 msgid "Could not create temporary file name."
 msgstr ""
 
@@ -2699,7 +2699,7 @@ msgstr ""
 msgid "Could not get size of '%s'"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1112
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1111
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1634
 msgid "Could not get temporary directory to download file into."
 msgstr ""
@@ -2755,7 +2755,7 @@ msgid ""
 "Synchronized browsing has been disabled."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:845
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:856
 #, c-format
 msgid "Could not obtain size of '%s'"
 msgstr ""
@@ -2765,7 +2765,7 @@ msgstr ""
 msgid "Could not obtain size of '%s'."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:858
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:869
 #, c-format
 msgid "Could not open '%s'"
 msgstr ""
@@ -2804,7 +2804,7 @@ msgstr ""
 msgid "Could not parse server address:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:867
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:878
 #, c-format
 msgid "Could not read from '%s'"
 msgstr ""
@@ -2912,7 +2912,7 @@ msgstr ""
 msgid "Could not write \"%s\", the selected sites could not be exported: %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:180
+#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:182
 #: ../../../source/FileZilla3/locales/../src/interface/verifycertdialog.cpp:28
 #: ../../../source/FileZilla3/locales/../src/interface/xmlfunctions.cpp:11
 #, c-format
@@ -3386,7 +3386,7 @@ msgstr ""
 msgid "Do &not use default editor"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1217
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1216
 msgid "Do the same with &all selected files already being edited"
 msgstr ""
 
@@ -3417,7 +3417,7 @@ msgstr ""
 msgid "Do you really want to send '%s' to the server?"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1197
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1196
 msgid "Do you want to reopen this file?"
 msgstr ""
 
@@ -3478,7 +3478,7 @@ msgstr ""
 msgid "Download: %s/s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1421
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1420
 msgid "Downloading"
 msgstr ""
 
@@ -3763,7 +3763,7 @@ msgstr ""
 msgid "Error loading queue"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:151
+#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:153
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:178
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:340
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:796
@@ -3798,7 +3798,7 @@ msgstr ""
 msgid "Error starting program"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:185
+#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:187
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:376
 #: ../../../source/FileZilla3/locales/../src/interface/bookmarks_dialog.cpp:931
 #: ../../../source/FileZilla3/locales/../src/interface/sitemanager.cpp:330
@@ -4101,7 +4101,7 @@ msgstr ""
 msgid "File exists action"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:806
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:805
 msgid "File has changed"
 msgstr ""
 
@@ -4111,7 +4111,7 @@ msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:194
 #: ../../../source/FileZilla3/locales/../src/interface/FileZilla.cpp:440
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1919
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1918
 msgid "File not found"
 msgstr ""
 
@@ -4185,7 +4185,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_connection_sftp.cpp:85
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:287
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:338
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1407
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1406
 #: ../../../source/FileZilla3/locales/../src/interface/filter_conditions_dialog.cpp:100
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:175
 msgid "Filename"
@@ -4206,7 +4206,7 @@ msgid "Filename unchanged"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_logging.cpp:50
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:820
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:819
 msgid "Filename:"
 msgstr ""
 
@@ -4220,7 +4220,7 @@ msgid ""
 "|"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1392
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1391
 msgid "Files currently being edited"
 msgstr ""
 
@@ -4331,13 +4331,13 @@ msgstr ""
 msgid "For reliability you should specify a range of at least 10 ports."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:150
+#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:152
 msgid ""
 "For this session the default settings will be used. Any changes to the "
 "settings will not be saved."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1147
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1146
 msgid "Forbidden character in file extension."
 msgstr ""
 
@@ -4362,7 +4362,7 @@ msgid "Format: Extension followed by properly quoted command and arguments."
 msgstr ""
 
 #. @translator: Two examples: Found new nightly 2014-04-03\n, Found new release 3.9.0.1\n
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:800
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:811
 #, c-format
 msgid "Found new %s %s\n"
 msgstr ""
@@ -4812,7 +4812,7 @@ msgstr ""
 msgid "Invalid filename"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:795
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:806
 #, c-format
 msgid "Invalid hash: %s\n"
 msgstr ""
@@ -5016,8 +5016,8 @@ msgstr ""
 msgid "Lo&west available port:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1453
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1701
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1452
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1700
 msgid "Local"
 msgstr ""
 
@@ -5033,8 +5033,8 @@ msgstr ""
 msgid "Local file does not exist."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:431
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:541
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:442
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:552
 #, c-format
 msgid "Local file is %s\n"
 msgstr ""
@@ -5068,7 +5068,7 @@ msgstr ""
 msgid "Local site:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:849
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:860
 #, c-format
 msgid "Local size of '%s' does not match expected size: %d != %d"
 msgstr ""
@@ -5424,7 +5424,7 @@ msgstr ""
 msgid "No external IP address set, trying default."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1388
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1387
 msgid "No files are currently being edited."
 msgstr ""
 
@@ -5452,19 +5452,19 @@ msgstr ""
 msgid "No permission to open '%s'"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1747
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1746
 msgid "No program associated with filetype"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1757
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1756
 msgid "No program has been associated to edit dotfiles."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1754
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1753
 msgid "No program has been associated to edit extensionless files."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1760
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1759
 #, c-format
 msgid "No program has been associated to edit files with the extension '%s'."
 msgstr ""
@@ -5577,9 +5577,9 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:990
 #: ../../../source/FileZilla3/locales/../src/interface/settings/settingsdialog.cpp:72
 #: ../../../source/FileZilla3/locales/../src/interface/aboutdialog.cpp:132
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1227
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1504
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1813
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1226
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1503
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1812
 #: ../../../source/FileZilla3/locales/../src/interface/filter_manager.cpp:123
 #: ../../../source/FileZilla3/locales/../src/interface/filteredit.cpp:140
 #: ../../../source/FileZilla3/locales/../src/interface/listctrlex.cpp:736
@@ -5624,7 +5624,7 @@ msgstr ""
 msgid "Only use plain FTP (insecure)"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1498
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1497
 msgid "Op&en file"
 msgstr ""
 
@@ -5659,14 +5659,14 @@ msgstr ""
 msgid "Open the settings dialog of FileZilla"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:830
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:829
 msgid "Opened as:"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1925
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1937
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:381
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1332
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:380
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1331
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2073
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2084
 msgid "Opening failed"
@@ -5750,7 +5750,7 @@ msgstr ""
 msgid "Overwrite if different si&ze or source newer"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:249
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:260
 #, c-format
 msgid "Own build type: %s\n"
 msgstr ""
@@ -5795,7 +5795,7 @@ msgstr ""
 msgid "Parameter not a valid URL"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:609
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:620
 #, c-format
 msgid "Parsing %d bytes of version information.\n"
 msgstr ""
@@ -5855,10 +5855,10 @@ msgstr ""
 msgid "Paths"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1433
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1587
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1671
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1682
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1432
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1586
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1670
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1681
 msgid "Pending removal"
 msgstr ""
 
@@ -6350,7 +6350,7 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:41
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:78
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit_associations.cpp:33
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1801
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1800
 msgid "Quoting rules"
 msgstr ""
 
@@ -6469,7 +6469,7 @@ msgstr ""
 msgid "Received data tainted"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:590
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:601
 msgid "Received invalid character in version information"
 msgstr ""
 
@@ -6530,7 +6530,7 @@ msgstr ""
 msgid "Remember passwords?"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1417
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1416
 msgid "Remote"
 msgstr ""
 
@@ -6548,7 +6548,7 @@ msgstr ""
 msgid "Remote filters:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1409
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1408
 msgid "Remote path"
 msgstr ""
 
@@ -6580,7 +6580,7 @@ msgstr ""
 msgid "Remote path handling:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:838
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:837
 msgid "Remote path:"
 msgstr ""
 
@@ -6880,7 +6880,7 @@ msgid ""
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:173
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1898
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1897
 msgid "Select default editor"
 msgstr ""
 
@@ -6934,7 +6934,7 @@ msgstr ""
 msgid "Select filename for converted key file"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1763
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1762
 msgid "Select how these files should be opened."
 msgstr ""
 
@@ -7005,12 +7005,12 @@ msgid "Selected %s and %s. Total size: At least %s"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/settings/optionspage_edit.cpp:194
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1867
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1919
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1866
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1918
 msgid "Selected editor does not exist."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1179
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1178
 msgid "Selected file already being edited"
 msgstr ""
 
@@ -7018,11 +7018,11 @@ msgstr ""
 msgid "Selected file is already loaded"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1170
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1169
 msgid "Selected file is already opened"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1287
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1286
 msgid "Selected file is still being edited"
 msgstr ""
 
@@ -7190,7 +7190,7 @@ msgstr ""
 msgid "Server/Local file"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:835
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:834
 #: ../../../source/FileZilla3/locales/../src/interface/manual_transfer.cpp:133
 msgid "Server:"
 msgstr ""
@@ -7445,7 +7445,7 @@ msgstr ""
 msgid "Start with opened Site Manager"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:239
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:250
 #, c-format
 msgid "Started update check on %s\n"
 msgstr ""
@@ -7472,7 +7472,7 @@ msgstr ""
 msgid "State or province:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1410
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1409
 #: ../../../source/FileZilla3/locales/../src/interface/queue.cpp:1295
 msgid "Status"
 msgstr ""
@@ -7646,7 +7646,7 @@ msgstr ""
 msgid "Testing resume capabilities of server"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1399
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1398
 msgid "The &following files are currently being edited:"
 msgstr ""
 
@@ -7672,7 +7672,7 @@ msgstr ""
 msgid "The address you entered was: %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1881
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1880
 msgid "The associated program could not be found."
 msgstr ""
 
@@ -7708,11 +7708,11 @@ msgstr ""
 msgid "The data connection could not be established: %s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1785
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1784
 msgid "The default editor for text files is:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1772
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1771
 msgid "The default editor for this file type is:"
 msgstr ""
 
@@ -7741,7 +7741,7 @@ msgid ""
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1929
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1337
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1336
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2077
 #, c-format
 msgid ""
@@ -7768,7 +7768,7 @@ msgid "The file '%s' could not be loaded."
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1925
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1332
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1331
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2073
 #, c-format
 msgid ""
@@ -7777,7 +7777,7 @@ msgid ""
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:1937
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:381
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:380
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:2084
 #, c-format
 msgid ""
@@ -7899,11 +7899,11 @@ msgid ""
 "The selected file contains importable data for the following categories:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1188
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1187
 msgid "The selected file is already being edited:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1287
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1286
 msgid ""
 "The selected file is still opened in some other program, please close it."
 msgstr ""
@@ -8184,7 +8184,7 @@ msgid "Try again"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:603
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1408
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1407
 msgid "Type"
 msgstr ""
 
@@ -8196,7 +8196,7 @@ msgstr ""
 msgid "Type of generic proxy:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1492
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1491
 msgid "U&pload"
 msgstr ""
 
@@ -8238,8 +8238,8 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:495
 #: ../../../source/FileZilla3/locales/../src/interface/resources/xrc/dialogs.xrc:505
 #: ../../../source/FileZilla3/locales/../src/engine/sizeformatting_base.cpp:63
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1439
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1466
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1438
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1465
 msgid "Unknown"
 msgstr ""
 
@@ -8256,7 +8256,7 @@ msgstr ""
 msgid "Unknown certificate"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:183
+#: ../../../source/FileZilla3/locales/../src/interface/Options.cpp:185
 #: ../../../source/FileZilla3/locales/../src/interface/xmlfunctions.cpp:13
 msgid "Unknown error"
 msgstr ""
@@ -8317,7 +8317,7 @@ msgstr ""
 msgid "Unsupported redirect"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1495
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1494
 msgid "Up&load and unedit"
 msgstr ""
 
@@ -8334,7 +8334,7 @@ msgstr ""
 msgid "Upload &limit:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1430
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1429
 msgid "Upload failed"
 msgstr ""
 
@@ -8360,11 +8360,11 @@ msgstr ""
 msgid "Upload selected files and directories"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:849
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:848
 msgid "Upload this file back to the server?"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:845
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:844
 msgid "Upload this file to the server?"
 msgstr ""
 
@@ -8373,19 +8373,19 @@ msgstr ""
 msgid "Upload: %s/s"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1424
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1457
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1628
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1423
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1456
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1627
 msgid "Uploading"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1427
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1631
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1426
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1630
 msgid "Uploading and pending removal"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1460
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1634
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1459
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1633
 msgid "Uploading and unediting"
 msgstr ""
 
@@ -8401,7 +8401,7 @@ msgstr ""
 msgid "Use &custom editor:"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1779
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1778
 msgid "Use &default editor for text files"
 msgstr ""
 
@@ -8438,7 +8438,7 @@ msgstr ""
 msgid "Use system &defaults for current language"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1768
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1767
 msgid "Use system association"
 msgstr ""
 
@@ -8714,7 +8714,7 @@ msgstr ""
 msgid "You have selected at least one symbolic link."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1125
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1124
 #: ../../../source/FileZilla3/locales/../src/interface/search.cpp:1647
 msgid ""
 "You have selected more than 10 files for editing, do you really want to "
@@ -8790,7 +8790,7 @@ msgstr ""
 msgid "You need to enter a name for the log file."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1862
+#: ../../../source/FileZilla3/locales/../src/interface/edithandler.cpp:1861
 msgid "You need to enter a properly quoted command."
 msgstr ""
 
@@ -8884,7 +8884,7 @@ msgstr ""
 msgid "contains"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:244
+#: ../../../source/FileZilla3/locales/../src/commonui/updater.cpp:255
 msgid "custom"
 msgstr ""
 
