@@ -166,6 +166,12 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 本体と同じ場所に再配置しても動作しますが、この場合の優先順位は下位となります。  
 言語ファイルが複数の場所に存在してしまわないよう、注意してください。
 
+アイコン (Windows 11 ダーク用): [Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/Win11_Dark.png)  
+アイコン (Windows 11 ライト用): [Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/Win11_Light.png)
+
+画面右下の最小化ボタンを反転させて Open-Shell 用アイコンにしました。  
+画面左下 10x49 で Open-Shell が有効になり、Windows 自身の動作を邪魔しません。
+
 ---
 ## 「PDF-XChange Viewer Ver.2.5.322.10」日本語言語ファイル
 「[PDF-XChange Viewer](https://www.tracker-software.com/product/downloads/discontinued)」の日本語言語ファイルを更新するパッチです。
