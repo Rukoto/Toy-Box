@@ -100,7 +100,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Fort Firewall Ver.3.5.6」日本語言語ファイル
+## 「Fort Firewall Ver.3.5.7」日本語言語ファイル
 パーソナルファイアウォールアプリ「[Fort Firewall](https://github.com/tnodir/fort)」の日本語言語ファイルを更新しています。  
 といっても 5ch のリクエストに応えただけで、もしかしたら一時的な公開になるかも?
 
@@ -113,13 +113,10 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 ## 「Greenshot Ver.1.3.256」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
-ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
-また、プラグインが部分的に翻訳されない等の不具合が内在しています。  
-Ver.1.3.229 以降は設定ウィンドウのサイズが改悪されています。  
-(Ver.1.3.223 以前であれば、ある程度まともな表示が可能です)
+Ver.1.3.256 では、キャプチャサイズが垂直方向に 1px 欠けるバグがあるので、  
+Ver.1.3.249 の利用を推奨。Ver.1.3.229 での UI 改悪は issueでてるしそのうち直りそう。
 
 ダウンロード (1.3.244 ～ 1.3.256 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
-ダウンロード (1.3.194 ～ 1.3.239 用): [Greenshot-1.3.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194-jp.exe)
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
@@ -152,22 +149,22 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 -「LockHunter」の著作権は Crystal Rich Ltd にあります。
 
 ---
-## 「Open-Shell Ver.4.4.169」日本語言語ファイル
+## 「Open-Shell Ver.4.4.170」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
 ダウンロード (4.4.156 ～ 4.4.162 用): [Open-Shell-4.4.156-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156-jp.exe)  
 ダウンロード (4.4.163 ～ 4.4.165 用): [Open-Shell-4.4.163-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163-jp.exe)  
-ダウンロード (4.4.166 ～ 4.4.169 用): [Open-Shell-4.4.166-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166-jp.exe)
+ダウンロード (4.4.166 ～ 4.4.170 用): [Open-Shell-4.4.166-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166-jp.exe)
 
-ダウンロード (4.4.170-fpwrxbaq 用): [Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170-fpwrxbaq/Open-Shell-4.4.170-fpwrxbaq-jp.exe)
+ダウンロード (4.4.170-fpwrxbaq 専用): [Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170-fpwrxbaq/Open-Shell-4.4.170-fpwrxbaq-jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
 本体と同じ場所に再配置しても動作しますが、この場合の優先順位は下位となります。  
 言語ファイルが複数の場所に存在してしまわないよう、注意してください。
 
-アイコン (Windows 11 ダーク用): [Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/Win11_Dark.png)  
-アイコン (Windows 11 ライト用): [Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/Win11_Light.png)
+アイコン (Windows 11 ダーク用): [Win11_Dark.png](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/Win11_Dark.png)  
+アイコン (Windows 11 ライト用): [Win11_Light.png](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/Win11_Light.png)
 
 画面右下の最小化ボタンを反転させて Open-Shell 用アイコンにしました。  
 画面左下 10x49 で Open-Shell が有効になり、Windows 自身の動作を邪魔しません。
