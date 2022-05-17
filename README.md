@@ -113,13 +113,10 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 ## 「Greenshot Ver.1.3.256」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
-ローカライズの仕様がそもそも微妙なので、一部に妥協した翻訳を含みます。  
-また、プラグインが部分的に翻訳されない等の不具合が内在しています。  
-Ver.1.3.229 以降は設定ウィンドウのサイズが改悪されています。  
-(Ver.1.3.223 以前であれば、ある程度まともな表示が可能です)
+Ver.1.3.256 では、キャプチャサイズが垂直方向に 1px 欠けるバグがあるので、  
+Ver.1.3.249 の利用を推奨。Ver.1.3.229 での UI 改悪は issueでてるしそのうち直りそう。
 
 ダウンロード (1.3.244 ～ 1.3.256 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
-ダウンロード (1.3.194 ～ 1.3.239 用): [Greenshot-1.3.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.194-jp.exe)
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
