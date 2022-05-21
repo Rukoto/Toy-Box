@@ -10,10 +10,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: FileZilla Client 3.59.0\n"
+"Project-Id-Version: FileZilla Client 3.60.0\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-05-18 05:30+0200\n"
-"PO-Revision-Date: 2022-05-18 12:30+0900\n"
+"POT-Creation-Date: 2022-05-21 05:30+0200\n"
+"PO-Revision-Date: 2022-05-21 12:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -3599,9 +3599,9 @@ msgstr "ダウンロード中..."
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:117
 #: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:114
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:101
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:118
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:91
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:101
 msgid ""
 "Drag&drop between different instances of FileZilla has not been implemented "
 "yet."
@@ -3609,9 +3609,9 @@ msgstr "FileZilla の異なるインスタンス間でのドラッグ＆ドロ�
 
 #: ../../../source/FileZilla3/locales/../src/interface/LocalListView.cpp:122
 #: ../../../source/FileZilla3/locales/../src/interface/LocalTreeView.cpp:120
-#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:115
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteListView.cpp:123
 #: ../../../source/FileZilla3/locales/../src/interface/RemoteTreeView.cpp:96
+#: ../../../source/FileZilla3/locales/../src/interface/QueueView.cpp:115
 msgid "Drag&drop between different servers has not been implemented yet."
 msgstr "異なるサーバー間でのドラッグ＆ドロップは未実装です。"
 
