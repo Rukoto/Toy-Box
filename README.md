@@ -129,6 +129,21 @@ WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/hom
 -「Homedale」の著作権は the sz development にあります。
 
 ---
+## 「ImDisk Toolkit 20220301」日本語化ファイル
+仮想ドライブ作成アプリ「[ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)」の日本語化ファイルを更新しています。
+
+ダウンロード: [ImDiskTk-20220301-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit_Japanese-File/ImDiskTk-20220301-jp.zip)
+
+インストール時にセットアップファイルを日本語化する使い方になりますので、  
+公式の files.cab と同じディレクトリに上記 Zip ファイルの中身を展開し、  
+install_jp.bat を実行するだけです。言語は「English」を指定する必要があります。
+
+一部は意図的に翻訳しておりません。(ショートカット名やコンテキストメニュー)
+
+[COPYING (WTFPL)](http://www.wtfpl.net/)  
+-「ImDisk Toolkit」の著作権は Olof氏、v77氏、Kenneth Bell氏、その他の方々にあります。
+
+---
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
 データベース型高速ファイル検索アプリ「[Locate32](https://locate32.cogit.net/)」を日本語化します。ネットワークドライブの検索用に。  
 UI の日本語化と訳文修正、および最適化、さらに設定バックアップツールの日本語化も含まれます。
