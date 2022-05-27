@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FileZilla Client 3.60.0\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-05-21 05:30+0200\n"
-"PO-Revision-Date: 2022-05-21 12:30+0900\n"
+"POT-Creation-Date: 2022-05-27 15:55+0200\n"
+"PO-Revision-Date: 2022-05-27 22:55+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -4062,8 +4062,8 @@ msgstr "言語の変更に失敗しました"
 msgid "Failed to convert command to 8 bit charset"
 msgstr "8 ビット文字コードへ変換するコマンドに失敗しました"
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:111
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:124
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:115
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:128
 msgid "Failed to convert reply to local character set."
 msgstr "応答をローカル文字セットに変換できません。"
 
@@ -4562,7 +4562,7 @@ msgstr "グローバル ブックマーク"
 msgid "GnuTLS:"
 msgstr "GnuTLS:"
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:95
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:99
 msgid "Got overlong input line, aborting."
 msgstr "入力行が長すぎるため、中止しました。"
 
@@ -8676,7 +8676,7 @@ msgstr "不明なエラー %d"
 msgid "Unknown error %u"
 msgstr "不明なエラー %u"
 
-#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:152
+#: ../../../source/FileZilla3/locales/../src/engine/sftp/input_parser.cpp:156
 #, c-format
 msgid "Unknown eventType %d"
 msgstr "不明なイベントの種類 %d"

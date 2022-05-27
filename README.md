@@ -76,8 +76,6 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
 
-ダウンロード (Ver.3.15.0.2 for Win2K): [filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.15.0.2/filezilla.mo)
-
 [COPYING (GPLv2)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.ja.html)  
 -「FileZilla Client」および「libfilezilla」の著作権は Tim Kosse氏にあります。
 
