@@ -70,13 +70,11 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「EasyBCD」の著作権は [NeoSmart Technologies](https://github.com/neosmart) にあります。
 
 ---
-## 「FileZilla Client Ver.3.60.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.60.1」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.37.2」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
-
-ダウンロード (Ver.3.15.0.2 for Win2K): [filezilla.mo](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Client-Japanese-Language-File/3.15.0.2/filezilla.mo)
 
 [COPYING (GPLv2)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.ja.html)  
 -「FileZilla Client」および「libfilezilla」の著作権は Tim Kosse氏にあります。
@@ -110,13 +108,13 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
 
 ---
-## 「Greenshot Ver.1.3.256」日本語言語ファイル
+## 「Greenshot Ver.1.3.258」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
-Ver.1.3.256 では、キャプチャサイズが垂直方向に 1px 欠けるバグがあるので、  
+Ver.1.3.258 では、キャプチャサイズが縦横共に 1px 大きくなるバグが発生しています。  
 Ver.1.3.249 の利用を推奨。Ver.1.3.229 での UI 改悪は issueでてるしそのうち直りそう。
 
-ダウンロード (1.3.244 ～ 1.3.256 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
+ダウンロード (1.3.244 ～ 1.3.258 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
@@ -170,8 +168,6 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ダウンロード (4.4.156 ～ 4.4.162 用): [Open-Shell-4.4.156-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.156/Open-Shell-4.4.156-jp.exe)  
 ダウンロード (4.4.163 ～ 4.4.165 用): [Open-Shell-4.4.163-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.163/Open-Shell-4.4.163-jp.exe)  
 ダウンロード (4.4.166 ～ 4.4.170 用): [Open-Shell-4.4.166-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.166/Open-Shell-4.4.166-jp.exe)
-
-ダウンロード (4.4.170-fpwrxbaq 専用): [Open-Shell-4.4.170-fpwrxbaq-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170-fpwrxbaq/Open-Shell-4.4.170-fpwrxbaq-jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
