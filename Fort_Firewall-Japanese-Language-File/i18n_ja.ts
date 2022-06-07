@@ -131,14 +131,6 @@
         <translation>グループ名変更</translation>
     </message>
     <message>
-        <source>Block All</source>
-        <translation>すべてブロック</translation>
-    </message>
-    <message>
-        <source>Allow All</source>
-        <translation>すべて許可</translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>オプション</translation>
     </message>
@@ -387,6 +379,21 @@
     </message>
 </context>
 <context>
+    <name>FirewallConf</name>
+    <message>
+        <source>Block, if not allowed</source>
+        <translation>許可されていない場合はブロック</translation>
+    </message>
+    <message>
+        <source>Allow, if not blocked</source>
+        <translation>ブロックされていない場合は許可</translation>
+    </message>
+    <message>
+        <source>Ignore, if not blocked or allowed</source>
+        <translation>ブロックまたは許可されていない場合は無視</translation>
+    </message>
+</context>
+<context>
     <name>FortManager</name>
     <message>
         <source>Application is already running!</source>
@@ -414,7 +421,7 @@
     </message>
 </context>
 <context>
-    <name>Ip4Range</name>
+    <name>IpRange</name>
     <message>
         <source>Error at line %1: %2</source>
         <translation>行 %1 のエラー: %2</translation>
@@ -454,7 +461,7 @@
         <translation>オプション</translation>
     </message>
     <message>
-        <source>IPv4 Addresses</source>
+        <source>IP Addresses</source>
         <translation>IPv4 アドレス</translation>
     </message>
     <message>
@@ -706,6 +713,10 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
         <source>Action Confirmations</source>
         <translation>アクションの確認</translation>
     </message>
+    <message>
+        <source>Filter Mode:</source>
+        <translation>フィルタリングモード:</translation>
+    </message>
 </context>
 <context>
     <name>OptionsWindow</name>
@@ -747,6 +758,21 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source>Program exit</source>
         <translation>プログラム終了時</translation>
+    </message>
+</context>
+<context>
+    <name>PolicyListBox</name>
+    <message>
+        <source>Add Policy</source>
+        <translation>ポリシー追加</translation>
+    </message>
+    <message>
+        <source>Remove Policy</source>
+        <translation>ポリシー削除</translation>
+    </message>
+    <message>
+        <source>Edit Policy</source>
+        <translation>ポリシー編集</translation>
     </message>
 </context>
 <context>
@@ -923,6 +949,25 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source>Service error.</source>
         <translation>サービスのエラーです。</translation>
+    </message>
+</context>
+<context>
+    <name>RulesPage</name>
+    <message>
+        <source>Library of preset rules:</source>
+        <translation>プリセット ルールのライブラリ:</translation>
+    </message>
+    <message>
+        <source>Preset rules for applications:</source>
+        <translation>アプリケーションのプリセット ルール:</translation>
+    </message>
+    <message>
+        <source>Global rules, applied before application rules:</source>
+        <translation>アプリケーション ルールの前に適用されるグローバル ルール:</translation>
+    </message>
+    <message>
+        <source>Global rules, applied after application rules:</source>
+        <translation>アプリケーション ルールの後に適用されるグローバル ルール:</translation>
     </message>
 </context>
 <context>
@@ -1374,6 +1419,14 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source>Are you sure you want to quit the program?</source>
         <translation>プログラムを終了してもよろしいですか?</translation>
+    </message>
+    <message>
+        <source>Filter Mode</source>
+        <translation>フィルタリングモード</translation>
+    </message>
+    <message>
+        <source>Are you sure to select the &quot;%1&quot;?</source>
+        <translation>&quot;%1&quot; を選択してもよろしいですか?</translation>
     </message>
 </context>
 <context>

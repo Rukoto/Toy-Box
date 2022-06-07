@@ -98,7 +98,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Fort Firewall Ver.3.5.7」日本語言語ファイル
+## 「Fort Firewall Ver.3.5.8」日本語言語ファイル
 パーソナルファイアウォールアプリ「[Fort Firewall](https://github.com/tnodir/fort)」の日本語言語ファイルを更新しています。  
 といっても 5ch のリクエストに応えただけで、もしかしたら一時的な公開になるかも?
 
