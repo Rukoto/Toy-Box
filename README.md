@@ -108,13 +108,13 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
 
 ---
-## 「Greenshot Ver.1.3.258」日本語言語ファイル
+## 「Greenshot Ver.1.3.259」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
-Ver.1.3.258 では、キャプチャサイズが縦横共に 1px 大きくなるバグが発生しています。  
+Ver.1.3.259 では、キャプチャサイズが縦横共に 1px 大きくなるバグが発生しています。  
 Ver.1.3.249 の利用を推奨。Ver.1.3.229 での UI 改悪は issueでてるしそのうち直りそう。
 
-ダウンロード (1.3.244 ～ 1.3.258 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
+ダウンロード (1.3.244 ～ 1.3.259 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
@@ -202,6 +202,14 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 作成のきっかけは [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
 -「Resource Hacker」の著作権は Angus Johnson氏 にあります。
+
+---
+## 「simplewall Ver.3.6.3」日本語対応言語ファイル (作業用)
+その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
+公式のアップデート機能がありますので、通常は公式版のままご使用ください。
+
+[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
+-「simplewall」の著作権は Henry++氏 にあります。
 
 ---
 ## 「Windows Update MiniTool 22.04.2022」日本語言語ファイル
