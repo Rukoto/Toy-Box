@@ -204,6 +204,14 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 -「Resource Hacker」の著作権は Angus Johnson氏 にあります。
 
 ---
+## 「simplewall Ver.3.6.3」日本語対応言語ファイル (作業用)
+その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
+公式のアップデート機能がありますので、通常は公式版のままご使用ください。
+
+[COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
+-「simplewall」の著作権は Henry++氏 にあります。
+
+---
 ## 「Windows Update MiniTool 22.04.2022」日本語言語ファイル
 サードパーティ製 Windows Update クライアント「[Windows Update MiniTool](http://forum.ru-board.com/topic.cgi?forum=5&topic=48142#2)」の言語ファイルを更新しています。  
 「WuMgr」と同期させるために、あえていくつかの訳文が原文と合致していません。  
