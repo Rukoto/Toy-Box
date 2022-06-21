@@ -13,18 +13,18 @@
 [こちら](https://github.com/Rukoto/Toy-Box/blob/master/Comment.md)に掲載しております。
 
 ---
-## 「7-Zip Ver.21.07」日本語環境対応パッチ
+## 「7-Zip Ver.22.00」日本語環境対応パッチ
 高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://www.7-zip.org/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
-ダウンロード (x64): [7-Zip-21.07_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.07_x64-jp.exe)  
-ダウンロード (x86): [7-Zip-21.07_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.07_x86-jp.exe)  
+ダウンロード (x64): [7-Zip-22.00_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-22.00_x64-jp.exe)  
+ダウンロード (x86): [7-Zip-22.00_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-22.00_x86-jp.exe)  
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
 リソースを書き換えただけなので、バイナリ自体がソースです。リソースエディターで確認できます。
 
-ヘルプのソース (Ver.21.07): [7-Zip-21.07_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-21.07_Help-jp.7z)  
+ヘルプのソース (Ver.22.00): [7-Zip-22.00_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-22.00_Help-jp.7z)  
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
@@ -56,7 +56,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「CPU-Z」の著作権は Franck Delattre氏 にあります。
 
 ---
-## 「Driver Store Explorer Ver.0.11.84」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.11.86」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
@@ -204,7 +204,7 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 -「Resource Hacker」の著作権は Angus Johnson氏 にあります。
 
 ---
-## 「simplewall Ver.3.6.3」日本語対応言語ファイル (作業用)
+## 「simplewall Ver.3.6.4」日本語対応言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
