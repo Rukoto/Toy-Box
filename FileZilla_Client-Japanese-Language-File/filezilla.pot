@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-06-03 05:30+0200\n"
+"POT-Creation-Date: 2022-06-30 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1192,15 +1192,15 @@ msgstr ""
 msgid "&Yes"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:459
-#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:511
+#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:461
+#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:513
 #, c-format
 msgid "'%s' does not exist or cannot be accessed."
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:477
-#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:498
-#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:505
+#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:479
+#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:500
+#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:507
 #, c-format
 msgid "'%s' is not a directory."
 msgstr ""
@@ -1948,7 +1948,7 @@ msgstr ""
 msgid "Cancels the current operation"
 msgstr ""
 
-#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:471
+#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:473
 #, c-format
 msgid "Cannot access '%s', no media inserted or drive not ready."
 msgstr ""
@@ -5450,6 +5450,10 @@ msgstr ""
 #: ../../../source/FileZilla3/locales/../src/interface/filter_manager.cpp:260
 #: ../../../source/FileZilla3/locales/../src/interface/filter_manager.cpp:330
 msgid "No name for the filterset given."
+msgstr ""
+
+#: ../../../source/FileZilla3/locales/../src/engine/local_path.cpp:422
+msgid "No path given"
 msgstr ""
 
 #: ../../../source/FileZilla3/locales/../src/commonui/xml_file.cpp:221
