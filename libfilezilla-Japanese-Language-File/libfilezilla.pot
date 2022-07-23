@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-05-27 15:55+0200\n"
+"POT-Creation-Date: 2022-07-20 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -118,8 +118,24 @@ msgstr ""
 msgid "Could not read key file."
 msgstr ""
 
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:301
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:349
+#, c-format
+msgid "Could not seek to offset %d within '%s'."
+msgstr ""
+
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1634
 msgid "Could not sort peer certificates"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:244
+#, c-format
+msgid "Could not sync '%s' to disk."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:353
+#, c-format
+msgid "Could not truncate '%s' to offset %d."
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1812

@@ -4,10 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: libfilezilla 0.37.2\n"
+"Project-Id-Version: libfilezilla 0.38.1\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-05-27 15:55+0200\n"
-"PO-Revision-Date: 2022-05-27 22:55+0900\n"
+"POT-Creation-Date: 2022-07-20 05:30+0200\n"
+"PO-Revision-Date: 2022-07-20 12:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -119,9 +119,25 @@ msgstr "証明書ファイルを読み込めません。"
 msgid "Could not read key file."
 msgstr "鍵ファイルを読み込めません。"
 
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:301
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:349
+#, c-format
+msgid "Could not seek to offset %d within '%s'."
+msgstr "「%s」内で %d をオフセットしようとしません。"
+
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1634
 msgid "Could not sort peer certificates"
 msgstr "ピア証明書を並べ替えできません"
+
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:244
+#, c-format
+msgid "Could not sync '%s' to disk."
+msgstr "「%s」をディスクに同期できません。"
+
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:353
+#, c-format
+msgid "Could not truncate '%s' to offset %d."
+msgstr "「%s」を切り捨てて %d をオフセットできません。"
 
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1812
 msgid "Failed to extract certificate trust path"

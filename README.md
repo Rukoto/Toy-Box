@@ -70,8 +70,8 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「EasyBCD」の著作権は [NeoSmart Technologies](https://github.com/neosmart) にあります。
 
 ---
-## 「FileZilla Client Ver.3.60.1」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.37.2」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.60.2」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.38.1」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
