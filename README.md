@@ -153,7 +153,7 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 
 ---
 ## 「LockHunter Portable Ver.3.4.3.146」日本語化パッチ
-ファイル等のロックを解除するツール「[LockHunter](https://lockhunter.com/)」を日本語化するパッチです。
+ファイル等のロックを解除するツール「[LockHunter (Portable)](https://blog.crystalrich.com/lockhunter-3-4-released/#more-1148)」を日本語化するパッチです。
 
 ダウンロード: [LockHunter_Portable-3.4.3.146-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/LockHunter_Portable-Japanese-Patch/LockHunter_Portable-3.4.3.146-jp.exe)
 
