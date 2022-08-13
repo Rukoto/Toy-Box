@@ -236,12 +236,12 @@
         <translation>アプリケーション パスが多すぎます</translation>
     </message>
     <message>
-        <source>Bad Include IP address: %1</source>
-        <translation>不正な受容 IP アドレス: %1</translation>
+        <source>Bad Include IP address: #%1 %2</source>
+        <translation>不正な受容 IP アドレス: %1 %2</translation>
     </message>
     <message>
-        <source>Bad Exclude IP address: %1</source>
-        <translation>不正な除外 IP アドレス: %1</translation>
+        <source>Bad Exclude IP address: #%1 %2</source>
+        <translation>不正な除外 IP アドレス: %1 %2</translation>
     </message>
     <message>
         <source>Too many IP addresses</source>
@@ -423,8 +423,8 @@
 <context>
     <name>IpRange</name>
     <message>
-        <source>Error at line %1: %2</source>
-        <translation>行 %1 のエラー: %2</translation>
+        <source>Error at line %1: %2 (%3)</source>
+        <translation>行 %1 のエラー: %2 (%3)</translation>
     </message>
     <message>
         <source>Bad format</source>
@@ -716,6 +716,10 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source>Filter Mode:</source>
         <translation>フィルタリングモード:</translation>
+    </message>
+    <message>
+        <source>Dark Mode</source>
+        <translation>ダークモード</translation>
     </message>
 </context>
 <context>
