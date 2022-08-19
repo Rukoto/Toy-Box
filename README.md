@@ -108,13 +108,13 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Fort Firewall」の著作権は Nodir Temirkhodjaev氏 にあります。
 
 ---
-## 「Greenshot Ver.1.3.265」日本語言語ファイル
+## 「Greenshot Ver.1.3.270」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。  
-Ver.1.3.265 では、キャプチャサイズが縦横共に 1px 大きくなるバグが発生しています。  
-Ver.1.3.249 の利用を推奨。Ver.1.3.229 での UI 改悪は issue でてるしそのうち直りそう。
+Ver.1.3.270 では、キャプチャサイズが縦横共に 1px 大きくなるバグが発生しています。  
+Issue を提出したのでそのうち直るはず。現時点では Ver.1.3.249 の利用を推奨。
 
-ダウンロード (1.3.244 ～ 1.3.265 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
+ダウンロード (1.3.244 ～ 1.3.270 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
@@ -218,7 +218,7 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 ## 「Windows Update MiniTool 22.04.2022」日本語言語ファイル
 サードパーティ製 Windows Update クライアント「[Windows Update MiniTool](http://forum.ru-board.com/topic.cgi?forum=5&topic=48142#2)」の言語ファイルを更新しています。  
 「WuMgr」と同期させるために、あえていくつかの訳文が原文と合致していません。  
-以前のバージョンに比べ、UI が詳細/拡大した事は好み分かれる気がします。
+以前のバージョンに比べ、UI が詳細/拡大した事は好みが分かれる気がします。
 
 ダウンロード: [ja.lng](https://github.com/Rukoto/Toy-Box/raw/master/Windows_Update_MiniTool-Japanese-Language-File/22.04.2022/ja.lng)
 
