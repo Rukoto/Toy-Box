@@ -162,15 +162,10 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 -「LockHunter」の著作権は Crystal Rich Ltd にあります。
 
 ---
-## 「Open-Shell Ver.4.4.170」日本語言語ファイル
+## 「Open-Shell Ver.4.4.174」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード (4.4.170 用): [Open-Shell-4.4.170-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170/Open-Shell-4.4.170-jp.exe)
-
-Ver.4.4171 ～ 4.4.173 は非推奨のビルドです。理由は既に追放された contributor の一人が、  
-その権限を乱用して正規の手続きを無視して発行されたビルドだからです。  
-また、非公式ビルド Ver.4.4.8, Ver.4.4.11, Ver.4.4.200 も発行されてしまっており、  
-中身の安全性と関係なく、追放された者の非公式ビルドを入手・頒布すべきではありません。
+ダウンロード (4.4.172 ～ 4.4.174用): [Open-Shell-4.4.172-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.172/Open-Shell-4.4.172-jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
