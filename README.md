@@ -127,10 +127,10 @@ WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/hom
 -「Homedale」の著作権は the sz development にあります。
 
 ---
-## 「ImDisk Toolkit 20220807」日本語化ファイル
+## 「ImDisk Toolkit 20220826」日本語化ファイル
 仮想ドライブ作成アプリ「[ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)」の日本語化ファイルを更新しています。
 
-ダウンロード: [ImDiskTk-20220807-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit_Japanese-File/ImDiskTk-20220807-jp.zip)
+ダウンロード: [ImDiskTk-20220826-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit_Japanese-File/ImDiskTk-20220826-jp.zip)
 
 インストール時にセットアップファイルを日本語化する使い方になりますので、  
 公式の files.cab と同じディレクトリに上記 Zip ファイルの中身を展開し、  
