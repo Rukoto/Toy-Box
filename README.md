@@ -45,7 +45,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード (20220413184816): [CPU-Z-2.01_x64-jp_20220413184816.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.01_x64-jp_20220413184816.exe)
+ダウンロード (20220413184816): [CPU-Z-2.01_x64-jp-20220413184816.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.01_x64-jp-20220413184816.exe)
 
 同一バージョンのまま差し替えることがあるらしく、Zip ファイルのタイムスタンプを明記。  
 適用できない場合は旧版を試すか、当方が気がついて更新するのをお待ちください。  
@@ -130,7 +130,7 @@ WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/hom
 ## 「ImDisk Toolkit 20220826」日本語化ファイル
 仮想ドライブ作成アプリ「[ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)」の日本語化ファイルを更新しています。
 
-ダウンロード: [ImDiskTk-20220826-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit_Japanese-File/ImDiskTk-20220826-jp.zip)
+ダウンロード: [ImDiskTk-20220826-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20220826-jp.zip)
 
 インストール時にセットアップファイルを日本語化する使い方になりますので、  
 公式の files.cab と同じディレクトリに上記 Zip ファイルの中身を展開し、  
@@ -146,8 +146,8 @@ install_jp.bat を実行するだけです。言語は「English」を指定す�
 データベース型高速ファイル検索アプリ「[Locate32](https://locate32.cogit.net/)」を日本語化します。ネットワークドライブの検索用に。  
 UI の日本語化と訳文修正、および最適化、さらに設定バックアップツールの日本語化も含まれます。
 
-ダウンロード (x64): [Locate32_3.1.11.7100_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Locate32-Japanese-Patch/Locate32_3.1.11.7100_x64-jp.exe)  
-ダウンロード (x86): [Locate32_3.1.11.7100_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Locate32-Japanese-Patch/Locate32_3.1.11.7100_x86-jp.exe)
+ダウンロード (x64): [Locate32-3.1.11.7100_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Locate32-Japanese-Patch/Locate32-3.1.11.7100_x64-jp.exe)  
+ダウンロード (x86): [Locate32-3.1.11.7100_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Locate32-Japanese-Patch/Locate32-3.1.11.7100_x86-jp.exe)
 
 作成のきっかけは [Tilt氏](http://tiltstr.seesaa.net/) の言語ファイルですが、すべて刷新した完全なる別モノとなっております。
 
@@ -162,11 +162,11 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 -「LockHunter」の著作権は Crystal Rich Ltd にあります。
 
 ---
-## 「Open-Shell Ver.4.4.175」日本語言語ファイル
+## 「Open-Shell Ver.4.4.176」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
 ダウンロード (Latest: 4.4.170用): [Open-Shell-4.4.170-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170/Open-Shell-4.4.170-jp.exe)  
-ダウンロード (Pre-release: 4.4.175用): [Open-Shell-4.4.172-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.172/Open-Shell-4.4.172-jp.exe)
+ダウンロード (Pre-release: 4.4.176用): [Open-Shell-4.4.172-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.172/Open-Shell-4.4.172-jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
