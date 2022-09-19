@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-09-07 10:01+0200\n"
+"POT-Creation-Date: 2022-09-19 11:18+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1663
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1664
 msgid "A certificate in the chain was signed using an insecure algorithm"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1667
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1668
 msgid "An issuer in the certificate chain is not a certificate authority"
 msgstr ""
 
@@ -33,7 +33,7 @@ msgstr ""
 msgid "Bad file descriptor"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1653
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1654
 msgid "Beware! Certificate has been revoked"
 msgstr ""
 
@@ -46,11 +46,11 @@ msgstr ""
 msgid "Certificate file too big."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1726
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1727
 msgid "Certificate of connection does not match expected certificate."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1659
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1660
 msgid "Certificate signature verification failed"
 msgstr ""
 
@@ -78,11 +78,11 @@ msgstr ""
 msgid "Connection reset by peer"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1860
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1861
 msgid "Could not add certificate to temporary trust list"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1852
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1853
 msgid "Could not copy certificate"
 msgstr ""
 
@@ -124,7 +124,7 @@ msgstr ""
 msgid "Could not seek to offset %d within '%s'."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1634
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1635
 msgid "Could not sort peer certificates"
 msgstr ""
 
@@ -138,12 +138,12 @@ msgstr ""
 msgid "Could not truncate '%s' to offset %d."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1812
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1813
 msgid "Failed to extract certificate trust path"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1805
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1874
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1806
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1875
 msgid "Failed to verify peer certificate"
 msgstr ""
 
@@ -207,8 +207,8 @@ msgstr ""
 msgid "Local endpoint has been closed"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1710
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1922
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1711
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1923
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr ""
 
@@ -298,11 +298,11 @@ msgstr ""
 msgid "Received TLS alert from the server: %s (%d)"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1680
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1681
 msgid "Received certificate chain could not be verified."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1683
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1684
 #, c-format
 msgid ""
 "Received certificate chain could not be verified. Verification status is %d."
@@ -334,7 +334,7 @@ msgstr ""
 msgid "Server did not properly shut down TLS connection"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1637
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1638
 msgid ""
 "Server sent unsorted certificate chain in violation of the TLS specifications"
 msgstr ""
@@ -379,13 +379,13 @@ msgstr ""
 msgid "The ai_socktype member is not supported"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1675
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1676
 msgid ""
 "The certificate requires the server to include an OCSP status in its "
 "response, but the OCSP status is missing."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1671
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1672
 msgid "The server's hostname does not match the certificate's hostname"
 msgstr ""
 
@@ -401,17 +401,17 @@ msgstr ""
 msgid "The specified network name is no longer available"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1698
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1699
 msgid "Unsupported certificate type"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1607
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1608
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1978
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2014
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2030
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2046
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1979
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2015
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2031
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2047
 msgid "unknown"
 msgstr ""
