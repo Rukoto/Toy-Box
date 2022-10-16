@@ -147,10 +147,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Fragment first TCP packet</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Enabled</source>
         <translation></translation>
     </message>
@@ -236,11 +232,11 @@
         <translation></translation>
     </message>
     <message>
-        <source>Bad Include IP address: %1</source>
+        <source>Bad Include IP address: #%1 %2</source>
         <translation></translation>
     </message>
     <message>
-        <source>Bad Exclude IP address: %1</source>
+        <source>Bad Exclude IP address: #%1 %2</source>
         <translation></translation>
     </message>
     <message>
@@ -423,7 +419,7 @@
 <context>
     <name>IpRange</name>
     <message>
-        <source>Error at line %1: %2</source>
+        <source>Error at line %1: %2 (%3)</source>
         <translation></translation>
     </message>
     <message>
@@ -716,6 +712,22 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
         <source>Filter Mode:</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Dark Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Right Click</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Tray Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>OptionsWindow</name>
@@ -901,10 +913,6 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Options</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Collect New Blocked Programs</source>
         <translation></translation>
     </message>
     <message>
@@ -1233,6 +1241,14 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     </message>
     <message>
         <source>Collect blocked connections</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Programs</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Collect New Blocked Programs</source>
         <translation></translation>
     </message>
 </context>

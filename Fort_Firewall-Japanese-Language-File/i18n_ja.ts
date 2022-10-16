@@ -147,10 +147,6 @@
         <translation>接続統計を収集</translation>
     </message>
     <message>
-        <source>Fragment first TCP packet</source>
-        <translation>最初の TCP パケットをフラグメント化</translation>
-    </message>
-    <message>
         <source>Enabled</source>
         <translation>有効</translation>
     </message>
@@ -721,6 +717,18 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
         <source>Dark Mode</source>
         <translation>ダークモード</translation>
     </message>
+    <message>
+        <source>Right Click</source>
+        <translation>右クリック</translation>
+    </message>
+    <message>
+        <source>Show Tray Menu</source>
+        <translation>トレイ メニューを表示</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>ブロック</translation>
+    </message>
 </context>
 <context>
     <name>OptionsWindow</name>
@@ -907,10 +915,6 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source>Options</source>
         <translation>オプション</translation>
-    </message>
-    <message>
-        <source>Collect New Blocked Programs</source>
-        <translation>新しくブロックされたプログラムを収集</translation>
     </message>
     <message>
         <source>Programs</source>
@@ -1239,6 +1243,14 @@ Would you like to move profile from &quot;%2&quot; to new location?</source>
     <message>
         <source>Collect blocked connections</source>
         <translation>ブロックされた接続を収集する</translation>
+    </message>
+    <message>
+        <source>Programs</source>
+        <translation>プログラム</translation>
+    </message>
+    <message>
+        <source>Collect New Blocked Programs</source>
+        <translation>新しくブロックされたプログラムを収集する</translation>
     </message>
 </context>
 <context>
