@@ -41,11 +41,11 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Autoruns」の著作権は Sysinternals にあります。
 
 ---
-## 「CPU-Z Ver.2.02」日本語化パッチ
+## 「CPU-Z Ver.2.03」日本語化パッチ
 ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード (20220830044627): [CPU-Z-2.02_x64-jp-20220830044627.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.02_x64-jp-20220830044627.exe)
+ダウンロード (20221018210846): [CPU-Z-2.03_x64-jp-20221018210846.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.03_x64-jp-20221018210846.exe)
 
 同一バージョンのまま差し替えることがあるらしく、ZIP ファイルのタイムスタンプを明記。  
 適用できない場合は旧版を試すか、当方が気がついて更新するのをお待ちください。  
