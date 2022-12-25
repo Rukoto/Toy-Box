@@ -160,22 +160,16 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 -「LockHunter」の著作権は Crystal Rich Ltd にあります。
 
 ---
-## 「Open-Shell Ver.4.4.183」日本語言語ファイル
+## 「Open-Shell Ver.4.4.184」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
 ダウンロード (Latest: 4.4.170用): [Open-Shell-4.4.170-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170/Open-Shell-4.4.170-jp.exe)  
-ダウンロード (Pre-release: 4.4.181～4.4.183用): [Open-Shell-4.4.181-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.181/Open-Shell-4.4.181-jp.exe)
+ダウンロード (Pre-release: 4.4.181～4.4.184用): [Open-Shell-4.4.181-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.181/Open-Shell-4.4.181-jp.exe)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
 本体と同じ場所に再配置しても動作しますが、この場合の優先順位は下位となります。  
 言語ファイルが複数の場所に存在してしまわないよう、注意してください。
-
-アイコン (Windows 11 ダーク用): [Win11_Dark.png](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/Win11_Dark.png)  
-アイコン (Windows 11 ライト用): [Win11_Light.png](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/Win11_Light.png)
-
-画面右下の最小化ボタンを反転させて Open-Shell 用アイコンにしました。  
-画面左下 10x49 で Open-Shell が有効になり、Windows 自身の動作を邪魔しません。
 
 ---
 ## 「PDF-XChange Viewer Ver.2.5.322.10」日本語言語ファイル
