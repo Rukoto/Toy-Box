@@ -117,10 +117,10 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
 ---
-## 「Homedale Ver.2.04」日本語化パッチ
+## 「Homedale Ver.2.05」日本語化パッチ
 WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語化するパッチです。
 
-ダウンロード: [Homedale-2.04-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Homedale-Japanese-Patch/Homedale-2.04-jp.exe)
+ダウンロード: [Homedale-2.05-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Homedale-Japanese-Patch/Homedale-2.05-jp.exe)
 
 -「Homedale」の著作権は the sz development にあります。
 
