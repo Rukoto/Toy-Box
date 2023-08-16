@@ -160,11 +160,11 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 -「LockHunter」の著作権は Crystal Rich Ltd にあります。
 
 ---
-## 「Open-Shell Ver.4.4.190」日本語言語ファイル
+## 「Open-Shell Ver.4.4.191」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード (Latest: 4.4.170用): [Open-Shell-4.4.170-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.170/Open-Shell-4.4.170-jp.exe)  
-ダウンロード (Pre-release: 4.4.190用): [Open-Shell-4.4.190-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.190/Open-Shell-4.4.190-jp.exe)
+ダウンロード (Latest: 4.4.190用): [Open-Shell-4.4.190-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.190/Open-Shell-4.4.190-jp.exe)  
+ダウンロード (Pre-release: 4.4.191用): (同上)
 
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
@@ -195,7 +195,7 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 -「Resource Hacker」の著作権は Angus Johnson氏 にあります。
 
 ---
-## 「simplewall Ver.3.7」日本語対応言語ファイル (作業用)
+## 「simplewall Ver.3.7.1」日本語対応言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
