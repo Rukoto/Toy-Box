@@ -117,10 +117,10 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
 ---
-## 「Homedale Ver.2.07」日本語化パッチ
+## 「Homedale Ver.2.08」日本語化パッチ
 WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語化するパッチです。
 
-ダウンロード: [Homedale-2.07-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Homedale-Japanese-Patch/Homedale-2.07-jp.exe)
+ダウンロード: [Homedale-2.08-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Homedale-Japanese-Patch/Homedale-2.08-jp.exe)
 
 -「Homedale」の著作権は the sz development にあります。
 
@@ -195,7 +195,7 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 -「Resource Hacker」の著作権は Angus Johnson氏 にあります。
 
 ---
-## 「simplewall Ver.3.7.1」日本語対応言語ファイル (作業用)
+## 「simplewall Ver.3.7.2」日本語対応言語ファイル (作業用)
 その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
