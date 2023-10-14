@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2022-10-18 05:30+0200\n"
+"POT-Creation-Date: 2023-10-12 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1664
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1674
 msgid "A certificate in the chain was signed using an insecure algorithm"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1668
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1678
 msgid "An issuer in the certificate chain is not a certificate authority"
 msgstr ""
 
@@ -33,8 +33,13 @@ msgstr ""
 msgid "Bad file descriptor"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1654
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1664
 msgid "Beware! Certificate has been revoked"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:767
+msgid ""
+"Broken server, it claims to have processed a request before it got fully set"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:108
@@ -42,19 +47,27 @@ msgstr ""
 msgid "Cannot assign requested address"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:313
+#: ../../../source/libfilezilla/lib/http/client.cpp:971
+msgid "Cannot use writers without buffer pool"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:310
 msgid "Certificate file too big."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1727
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1737
 msgid "Certificate of connection does not match expected certificate."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1660
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1670
 msgid "Certificate signature verification failed"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1201
+#: ../../../source/libfilezilla/lib/http/client.cpp:993
+msgid "Chunk data improperly terminated"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1211
 msgid "Client did not properly shut down TLS connection"
 msgstr ""
 
@@ -78,43 +91,84 @@ msgstr ""
 msgid "Connection reset by peer"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1861
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1874
 msgid "Could not add certificate to temporary trust list"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1853
+#: ../../../source/libfilezilla/lib/http/client.cpp:338
+#: ../../../source/libfilezilla/lib/http/client.cpp:352
+#, c-format
+msgid "Could not connect to '%s'"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/jws.cpp:212
+#, c-format
+msgid ""
+"Could not convert private key to JWK, exporting ECC parameters failed: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/jws.cpp:176
+#, c-format
+msgid ""
+"Could not convert private key to JWK, exporting RSA parameters failed: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/jws.cpp:152
+#, c-format
+msgid "Could not convert private key to JWK, import failed: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/jws.cpp:159
+msgid ""
+"Could not convert private key to JWK, only RSA and ECDSA private keys are "
+"supported."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/jws.cpp:219
+msgid ""
+"Could not convert private key to JWK, unsupported elliptic curve, only "
+"SECP256R1 is supported."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1866
 msgid "Could not copy certificate"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1347
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1357
 msgid "Could not extract validity period of certificate"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1414
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1424
 msgid ""
 "Could not get distinguished name of certificate issuer, "
 "gnutls_x509_get_issuer_dn failed"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1395
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1405
 msgid ""
 "Could not get distinguished name of certificate subject, gnutls_x509_get_dn "
 "failed"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:306
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:303
 msgid "Could not open certificate file."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:336
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:333
 msgid "Could not open key file."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:322
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:319
 msgid "Could not read certificate file."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:348
+#: ../../../source/libfilezilla/lib/http/client.cpp:636
+#: ../../../source/libfilezilla/lib/http/client.cpp:1146
+#, c-format
+msgid "Could not read from socket: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:345
 msgid "Could not read key file."
 msgstr ""
 
@@ -124,7 +178,7 @@ msgstr ""
 msgid "Could not seek to offset %d within '%s'."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1635
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1645
 msgid "Could not sort peer certificates"
 msgstr ""
 
@@ -138,12 +192,27 @@ msgstr ""
 msgid "Could not truncate '%s' to offset %d."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1813
+#: ../../../source/libfilezilla/lib/http/client.cpp:368
+#: ../../../source/libfilezilla/lib/http/client.cpp:481
+#, c-format
+msgid "Could not write to socket: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:482
+msgid "Disconnected from server"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:459
+#, c-format
+msgid "Excess data read from '%s'"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1823
 msgid "Failed to extract certificate trust path"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1806
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1875
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1816
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1888
 msgid "Failed to verify peer certificate"
 msgstr ""
 
@@ -151,32 +220,53 @@ msgstr ""
 msgid "File descriptor not a socket"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:574
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:547
 #, c-format
 msgid "GnuTLS error %d"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:577
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:550
 #, c-format
 msgid "GnuTLS error %d in %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:569
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:542
 #, c-format
 msgid "GnuTLS error %d in %s: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:566
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:539
 #, c-format
 msgid "GnuTLS error %d: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:608
+#: ../../../source/libfilezilla/lib/http/client.cpp:665
+msgid "HTTP connection closed prematurely"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:75
 msgid "Host is down"
 msgstr ""
 
+#: ../../../source/libfilezilla/lib/http/client.cpp:229
+msgid "Hostname not in UTF-8"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:695
+msgid "Internal error, bad state"
+msgstr ""
+
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:61
 msgid "Interrupted by signal"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:889
+msgid "Invalid Content-Length"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:745
+msgid "Invalid HTTP Response"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:49
@@ -187,6 +277,19 @@ msgstr ""
 msgid "Invalid characters in hostname"
 msgstr ""
 
+#: ../../../source/libfilezilla/lib/http/client.cpp:1053
+#: ../../../source/libfilezilla/lib/http/client.cpp:1058
+msgid "Invalid chunk size"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:787
+msgid "Invalid line"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:754
+msgid "Invalid response code"
+msgstr ""
+
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:82
 msgid "Invalid value for ai_flags"
 msgstr ""
@@ -195,8 +298,12 @@ msgstr ""
 msgid "Invalid value for hints"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:341
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:338
 msgid "Key file too big."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:1018
+msgid "Line length exceeded"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:46
@@ -207,8 +314,27 @@ msgstr ""
 msgid "Local endpoint has been closed"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1711
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1923
+#: ../../../source/libfilezilla/lib/http/client.cpp:993
+#: ../../../source/libfilezilla/lib/http/client.cpp:1005
+#: ../../../source/libfilezilla/lib/http/client.cpp:1011
+#: ../../../source/libfilezilla/lib/http/client.cpp:1018
+#: ../../../source/libfilezilla/lib/http/client.cpp:1053
+#: ../../../source/libfilezilla/lib/http/client.cpp:1058
+#, c-format
+msgid "Malformed chunk data: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:713
+#: ../../../source/libfilezilla/lib/http/client.cpp:719
+#: ../../../source/libfilezilla/lib/http/client.cpp:787
+#: ../../../source/libfilezilla/lib/http/client.cpp:847
+#: ../../../source/libfilezilla/lib/http/client.cpp:889
+#, c-format
+msgid "Malformed response header: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1721
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1936
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr ""
 
@@ -250,6 +376,11 @@ msgstr ""
 msgid "Not initialized, need to call WSAStartup"
 msgstr ""
 
+#: ../../../source/libfilezilla/lib/http/client.cpp:719
+#: ../../../source/libfilezilla/lib/http/client.cpp:1011
+msgid "Null character in line"
+msgstr ""
+
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:57
 msgid "Operation already in progress"
 msgstr ""
@@ -271,6 +402,10 @@ msgstr ""
 msgid "Out of memory"
 msgstr ""
 
+#: ../../../source/libfilezilla/lib/http/client.cpp:233
+msgid "Path not in UTF-8"
+msgstr ""
+
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:45
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:54
 msgid "Permission denied"
@@ -288,38 +423,43 @@ msgstr ""
 msgid "Protocol not supported on given socket type"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:589
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:591
 #, c-format
 msgid "Received TLS alert from the client: %s (%d)"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:589
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:591
 #, c-format
 msgid "Received TLS alert from the server: %s (%d)"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1681
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1691
 msgid "Received certificate chain could not be verified."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1684
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1694
 #, c-format
 msgid ""
 "Received certificate chain could not be verified. Verification status is %d."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:594
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:596
 #, c-format
 msgid "Received unknown TLS alert %d from the client"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:594
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:596
 #, c-format
 msgid "Received unknown TLS alert %d from the server"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1320
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1330
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1851
 msgid "Remote certificate not trusted."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:225
+msgid "Request has no host"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:97
@@ -330,11 +470,34 @@ msgstr ""
 msgid "Resource temporarily unavailable"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1201
+#: ../../../source/libfilezilla/lib/http/client.cpp:621
+msgid "Response too large"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1211
 msgid "Server did not properly shut down TLS connection"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1638
+#: ../../../source/libfilezilla/lib/http/client.cpp:286
+#, c-format
+msgid "Server instructed client to wait %d seconds before sending next request"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:713
+msgid "Server not sending proper line endings"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/digest.cpp:251
+#, c-format
+msgid "Server requested unsupported digest authentication algorithm: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/digest.cpp:259
+#, c-format
+msgid "Server requested unsupported quality-of-protection: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1648
 msgid ""
 "Server sent unsorted certificate chain in violation of the TLS specifications"
 msgstr ""
@@ -345,6 +508,11 @@ msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:62
 msgid "Socket already connected"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:1184
+#, c-format
+msgid "Socket error: %s"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:70
@@ -379,13 +547,13 @@ msgstr ""
 msgid "The ai_socktype member is not supported"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1676
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1686
 msgid ""
 "The certificate requires the server to include an OCSP status in its "
 "response, but the OCSP status is missing."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1672
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1682
 msgid "The server's hostname does not match the certificate's hostname"
 msgstr ""
 
@@ -401,17 +569,39 @@ msgstr ""
 msgid "The specified network name is no longer available"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1699
+#: ../../../source/libfilezilla/lib/http/client.cpp:727
+#: ../../../source/libfilezilla/lib/http/client.cpp:804
+msgid "Too long header line"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:810
+msgid "Too many header lines"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:451
+#, c-format
+msgid "Unexpected end-of-file on '%s'"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:847
+msgid "Unknown transfer encoding"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1709
 msgid "Unsupported certificate type"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1608
+#: ../../../source/libfilezilla/lib/http/client.cpp:1005
+msgid "Wrong line endings"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1618
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1979
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2015
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2031
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2047
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1992
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2028
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2044
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2060
 msgid "unknown"
 msgstr ""
