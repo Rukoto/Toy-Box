@@ -41,21 +41,6 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Autoruns」の著作権は Sysinternals にあります。
 
 ---
-## 「CPU-Z Ver.2.04.0」日本語化パッチ
-ハードウェア情報確認ユーティリティ「[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100325/cpuz) の日本語化パッチがありますが、  
-UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
-
-ダウンロード (20230127033812): [CPU-Z-2.04.0_x64-jp-20230127033812.exe](https://github.com/Rukoto/Toy-Box/raw/master/CPU-Z-Japanese-Patch/CPU-Z-2.04.0_x64-jp-20230127033812.exe)
-
-同一バージョンのまま差し替えることがあるらしく、ZIP ファイルのタイムスタンプを明記。  
-適用できない場合は旧版を試すか、当方が気がついて更新するのをお待ちください。  
-セットアップ版は対象ファイル名を cpuz_x64.exe に変更すれば適用できます。x86 版の作成予定はありません。
-
-本アプリを日本語化する意義を感じないのですが、倍直コピペで済むので当面は更新継続します。
-
--「CPU-Z」の著作権は Franck Delattre氏 にあります。
-
----
 ## 「Driver Store Explorer Ver.0.11.92」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
