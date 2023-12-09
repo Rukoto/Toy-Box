@@ -170,7 +170,7 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 -「PDF-XChange Viewer」の著作権は PDF-XChange Co Ltd にあります。
 
 ---
-## 「Resource Hacker Ver.5.1.8.360」日本語言語ファイル
+## 「Resource Hacker Ver.5.2.7.427」日本語言語ファイル
 定番リソースエディター「[Resource Hacker](http://www.angusj.com/resourcehacker/)」には [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の日本語言語ファイルがありますが、  
 UI の改善と訳文を追加・変更、サイズダウンを適用した言語ファイルを公開しています。
 
