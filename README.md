@@ -18,14 +18,13 @@
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
 ダウンロード (x64): [7-Zip-23.01_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-23.01_x64-jp.exe)  
-ダウンロード (x86): [7-Zip-23.01_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-23.01_x86-jp.exe)  
-今回はヘルプの日本語化を含みません。近日中にヘルプを含めて再リリースします。
+ダウンロード (x86): [7-Zip-23.01_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-23.01_x86-jp.exe)
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
 リソースを書き換えただけなので、バイナリ自体がソースです。リソースエディターで確認できます。
 
-ヘルプのソース (Ver.22.01): [7-Zip-22.01_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-22.01_Help-jp.7z)  
+ヘルプのソース (Ver.23.01): [7-Zip-23.01_Help-jp.7z](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-23.01_Help-jp.7z)  
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
