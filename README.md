@@ -4,7 +4,7 @@
 ※私の都合に合った仕様としているため、パッチはインストーラー的に使う前提であることをご理解ください。  
 ※パッチはかなりの確率でセキュリティ機能に誤検知されます。[VirusTotal](https://www.virustotal.com/gui/home/upload) 等をご活用ください。  
 ※公式へのコミットを可能な範囲で行いますが、私の拙い英語力が原因で成果が得られない場合もあります。  
-※Windows 11 Pro 22H2 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
+※Windows 11 Pro 23H2 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
 ※更新停止/低需要/諸事情アリといった優先度の低いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
@@ -65,12 +65,12 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「FileZilla Client」および「libfilezilla」の著作権は Tim Kosse氏にあります。
 
 ---
-## 「FileZilla Server Ver.1.5.1」日本語化パッチ
+## 「FileZilla Server Ver.1.7.3」日本語化パッチ
 無料 FTP サーバーアプリ「[FileZilla Server](https://FileZilla-project.org/)」の日本語化パッチを更新しています。  
 すべて倍直であることと、一部の参照先が共有モジュール化されているため、  
 一部が意図的に未翻訳だったり、アクセスキーが省略されたりしています。
 
-ダウンロード (1.5.1 用): [FileZilla_Server-1.5.1-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.5.1-jp.exe)  
+ダウンロード (1.7.3 用): [FileZilla_Server-1.7.3-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.7.3-jp.exe)  
 ダウンロード (0.9.60.2 用): [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
 ダウンロード (0.9.43 for WinXP): [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)
 
