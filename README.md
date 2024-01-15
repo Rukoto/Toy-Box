@@ -55,7 +55,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「EasyBCD」の著作権は [NeoSmart Technologies](https://github.com/neosmart) にあります。
 
 ---
-## 「FileZilla Client Ver.3.66.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.66.4」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.45.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
@@ -110,10 +110,10 @@ WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/hom
 -「Homedale」の著作権は the sz development にあります。
 
 ---
-## 「ImDisk Toolkit 20220826」日本語化ファイル
+## 「ImDisk Toolkit 20240113」日本語化ファイル
 仮想ドライブ作成アプリ「[ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)」の日本語化ファイルを更新しています。
 
-ダウンロード: [ImDiskTk-20220826-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20220826-jp.zip)
+ダウンロード: [ImDiskTk-20240113-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20240113-jp.zip)
 
 インストール時にセットアップファイルを日本語化する使い方になりますので、  
 公式の files.cab と同じディレクトリに上記 Zip ファイルの中身を展開し、  
@@ -180,8 +180,8 @@ UI の改善と訳文を追加・変更、サイズダウンを適用した言�
 -「Resource Hacker」の著作権は Angus Johnson氏 にあります。
 
 ---
-## 「simplewall Ver.3.7.2」日本語対応言語ファイル (作業用)
-その名の通りのシンプルなファイアウォール「[simplewall](https://www.henrypp.org/)」の日本語言語ファイルを更新しています。  
+## 「simplewall Ver.3.7.7」日本語対応言語ファイル (作業用)
+その名の通りのシンプルなファイアウォール「[simplewall](https://github.com/henrypp)」の日本語言語ファイルを更新しています。  
 公式のアップデート機能がありますので、通常は公式版のままご使用ください。
 
 [COPYING (GPLv3)](https://www.gnu.org/licenses/gpl.html)  
