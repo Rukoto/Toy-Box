@@ -4,7 +4,7 @@
 ※私の都合に合った仕様としているため、パッチはインストーラー的に使う前提であることをご理解ください。  
 ※パッチはかなりの確率でセキュリティ機能に誤検知されます。[VirusTotal](https://www.virustotal.com/gui/home/upload) 等をご活用ください。  
 ※公式へのコミットを可能な範囲で行いますが、私の拙い英語力が原因で成果が得られない場合もあります。  
-※Windows 11 Pro 23H2 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
+※Windows 11 Pro 24H2 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
 ※更新停止/低需要/諸事情アリといった優先度の低いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
@@ -96,6 +96,8 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語化するパッチです。
 
 ダウンロード: [Homedale-2.13-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Homedale-Japanese-Patch/Homedale-2.13-jp.exe)
+
+Aterm の表記などに合わせ微調整。
 
 -「Homedale」の著作権は the sz development にあります。
 
