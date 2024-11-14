@@ -144,6 +144,9 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ダウンロード (Latest: 4.4.190用): [Open-Shell-4.4.190-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.190/Open-Shell-4.4.190-jp.exe)  
 ダウンロード (Pre-release: 4.4.191用): (同上)
 
+Windows 11 では[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) の併用を推奨します。  
+ただし、Windows セキュリティによる ~~誤検知~~ **嫌がらせ** に対処できる方に限ります。
+
 「Classic Shell」時代からの言語ファイル更新機能の仕様に従っていますので、  
 %ALLUSERSPROFILE%\OpenShell\Languages へ ja-JP.dll をインストールします。  
 本体と同じ場所に再配置しても動作しますが、この場合の優先順位は下位となります。  
