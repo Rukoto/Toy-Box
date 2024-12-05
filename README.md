@@ -103,10 +103,10 @@ Aterm の表記などに合わせ微調整。
 -「Homedale」の著作権は the sz development にあります。
 
 ---
-## 「ImDisk Toolkit 20240210」日本語化ファイル
+## 「ImDisk Toolkit 20241123」日本語化ファイル
 仮想ドライブ作成アプリ「[ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)」の日本語化ファイルを更新しています。
 
-ダウンロード: [ImDiskTk-20240210-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20240210-jp.zip)
+ダウンロード: [ImDiskTk-20241123-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20241123-jp.zip)
 
 インストール時にセットアップファイルを日本語化する使い方になりますので、  
 公式の files.cab と同じディレクトリに上記 Zip ファイルの中身を展開し、  
