@@ -56,8 +56,8 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「EasyBCD」の著作権は [NeoSmart Technologies](https://github.com/neosmart) にあります。
 
 ---
-## 「FileZilla Client Ver.3.66.4」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.45.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.68.1」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.49.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
@@ -71,11 +71,11 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 すべて倍直であることと、一部の参照先が共有モジュール化されているため、  
 一部が意図的に未翻訳だったり、アクセスキーが省略されたりしています。
 
-ダウンロード (1.7.3 用): [FileZilla_Server-1.8.0-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.8.0-jp.exe)  
+ダウンロード (1.8.0 用): [FileZilla_Server-1.8.0-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-1.8.0-jp.exe)  
 ダウンロード (0.9.60.2 用): [FileZilla_Server-0.9.60.2-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.60.2-jp.exe)  
 ダウンロード (0.9.43 for WinXP): [FileZilla_Server-0.9.43-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/FileZilla_Server-0.9.43-jp.exe)
 
-古いバージョンの本体は [ココ](https://download.filezilla-project.org/server/) から入手できます。  
+古いバージョンの本体は [Internet Archive](http://web.archive.org/web/20231115122607/https://download.filezilla-project.org/server/) から入手できます。  
 0.9.X 系の OpenSSL の DLL ファイルは [ココ](https://indy.fulgan.com/SSL/) の openssl-1.0.2u-i386-win32.zip で上書きを推奨。
 
 [COPYING(GPLv2)](https://github.com/Rukoto/Toy-Box/raw/master/FileZilla_Server-Japanese-Patch/COPYING)  
@@ -84,11 +84,11 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.274」日本語言語ファイル
+## 「Greenshot Ver.1.3.277」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。
 
-ダウンロード (1.3.244 ～ 1.3.274 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
+ダウンロード (1.3.244 ～ 1.3.277 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
@@ -141,7 +141,7 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 ## 「Open-Shell Ver.4.4.194」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード (Latest: 4.4.190用): [Open-Shell-4.4.190-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.190/Open-Shell-4.4.190-jp.exe)  
+ダウンロード (Latest: 4.4.191用): [Open-Shell-4.4.190-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.190/Open-Shell-4.4.190-jp.exe)  
 ダウンロード (Pre-release: 4.4.194用): [Open-Shell-4.4.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.194/Open-Shell-4.4.194-jp.exe)  
 
 Windows 11 では[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) の併用を推奨します。  

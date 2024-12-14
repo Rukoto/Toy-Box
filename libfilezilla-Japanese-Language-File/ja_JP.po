@@ -1,13 +1,13 @@
 # Japanese translation for libfilezilla.
-# Copyright (C) 2015-2023 Tim Kosse
-# Rukoto Luther <rukotolucies at hotmail.com>, 2017-2023.
+# Copyright (C) 2015-2024 Tim Kosse
+# Rukoto Luther <rukotolucies at hotmail.com>, 2017-2024.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: libfilezilla 0.45.0\n"
+"Project-Id-Version: libfilezilla 0.49.0\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2023-10-12 05:30+0200\n"
-"PO-Revision-Date: 2023-10-12 12:30+0900\n"
+"POT-Creation-Date: 2024-12-13 05:30+0100\n"
+"PO-Revision-Date: 2024-12-13 13:30+0900\n"
 "Last-Translator: Rukoto Luther <rukotolucies at hotmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -16,11 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1674
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1951
 msgid "A certificate in the chain was signed using an insecure algorithm"
 msgstr "チェーンの証明書が安全でないアルゴリズムで署名されています"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1678
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1955
 msgid "An issuer in the certificate chain is not a certificate authority"
 msgstr "証明書チェーンの発行者は認証局ではありません"
 
@@ -28,15 +28,20 @@ msgstr "証明書チェーンの発行者は認証局ではありません"
 msgid "Argument buffer overflow"
 msgstr "引数のバッファー オーバーフロー"
 
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:216
+#, c-format
+msgid "Attempting to use PIN. Token: %s, URL: %s."
+msgstr "PIN の使用を試行しています。トークン: %s, URL: %s"
+
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:58
 msgid "Bad file descriptor"
 msgstr "不正なファイル記述子"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1664
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1941
 msgid "Beware! Certificate has been revoked"
 msgstr "注意! 証明書は失効しています"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:767
+#: ../../../source/libfilezilla/lib/http/client.cpp:778
 msgid ""
 "Broken server, it claims to have processed a request before it got fully set"
 msgstr ""
@@ -48,27 +53,40 @@ msgstr ""
 msgid "Cannot assign requested address"
 msgstr "要求されたアドレスを割り当てることができません"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:971
+#: ../../../source/libfilezilla/lib/http/client.cpp:986
 msgid "Cannot use writers without buffer pool"
 msgstr "バッファー プールがないとライターは使用できません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:310
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:387
 msgid "Certificate file too big."
 msgstr "証明書ファイルが大きすぎます。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1737
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2014
 msgid "Certificate of connection does not match expected certificate."
 msgstr "接続の証明書が予想される証明書と一致しません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1670
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2587
+msgid "Certificate purposes do not match with its intended type."
+msgstr "証明書の目的が意図されたタイプと一致しません。"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2955
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2961
+msgid "Certificate request has wrong key usage types set."
+msgstr "証明書要求に間違ったキー使用タイプが設定されています。"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2941
+msgid "Certificate request purposes do not match with its type."
+msgstr "証明書要求の目的がそのタイプと一致しません。"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1947
 msgid "Certificate signature verification failed"
 msgstr "証明書署名の検証に失敗しました"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:993
+#: ../../../source/libfilezilla/lib/http/client.cpp:1008
 msgid "Chunk data improperly terminated"
 msgstr "チャンク データが不正に終了しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1211
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1442
 msgid "Client did not properly shut down TLS connection"
 msgstr "クライアントは TLS 接続を適切にシャットダウンしません"
 
@@ -92,12 +110,12 @@ msgstr "ネットワークによって接続がリセットされました"
 msgid "Connection reset by peer"
 msgstr "相手によって接続がリセットされました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1874
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2151
 msgid "Could not add certificate to temporary trust list"
 msgstr "一時的な信頼リストに証明書を追加できません"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:338
-#: ../../../source/libfilezilla/lib/http/client.cpp:352
+#: ../../../source/libfilezilla/lib/http/client.cpp:343
+#: ../../../source/libfilezilla/lib/http/client.cpp:357
 #, c-format
 msgid "Could not connect to '%s'"
 msgstr "「%s」に接続できません"
@@ -137,91 +155,109 @@ msgstr ""
 "秘密鍵を JWK に変換できません。楕円曲線はサポートされていません。サポートされ"
 "ているのは SECP256R1 のみです。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1866
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2143
 msgid "Could not copy certificate"
 msgstr "証明書をコピーできません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1357
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1588
 msgid "Could not extract validity period of certificate"
 msgstr "証明書の有効期間を抽出できません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1424
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2583
+msgid "Could not get certificate purposes."
+msgstr "証明書の目的を取得できません。"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2937
+msgid "Could not get certificate request purposes."
+msgstr "証明書要求の目的を取得できません。"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1655
 msgid ""
 "Could not get distinguished name of certificate issuer, "
 "gnutls_x509_get_issuer_dn failed"
 msgstr ""
 "証明書発行者の識別名を取得できず、gnutls_x509_get_issuer_dn に失敗しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1405
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1636
 msgid ""
 "Could not get distinguished name of certificate subject, gnutls_x509_get_dn "
 "failed"
 msgstr ""
 "証明書のサブジェクトの識別名を取得できず、gnutls_x509_get_dn に失敗しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:303
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:401
+msgid "Could not key file."
+msgstr "鍵ファイルを読み込めません。"
+
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:401
+#, c-format
+msgid "Could not open '%s' for reading: %s"
+msgstr "「%s」を読み取り用に開けません: %s"
+
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:336
+#, c-format
+msgid "Could not open '%s' for writing: %s"
+msgstr "「%s」を書き込み用に開けません: %s"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:376
 msgid "Could not open certificate file."
 msgstr "証明書ファイルを開けません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:333
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:377
 msgid "Could not open key file."
 msgstr "鍵ファイルを開けません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:319
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:400
 msgid "Could not read certificate file."
 msgstr "証明書ファイルを読み込めません。"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:636
-#: ../../../source/libfilezilla/lib/http/client.cpp:1146
+#: ../../../source/libfilezilla/lib/http/client.cpp:647
+#: ../../../source/libfilezilla/lib/http/client.cpp:1166
 #, c-format
 msgid "Could not read from socket: %s"
 msgstr "ソケットから読み込めません: %s"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:345
-msgid "Could not read key file."
-msgstr "鍵ファイルを読み込めません。"
-
-#: ../../../source/libfilezilla/lib/aio/writer.cpp:301
-#: ../../../source/libfilezilla/lib/aio/writer.cpp:349
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:275
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:344
 #, c-format
 msgid "Could not seek to offset %d within '%s'."
 msgstr "オフセット %d を「%s」内で検索できません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1645
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1922
 msgid "Could not sort peer certificates"
 msgstr "ピア証明書を並べ替えできません"
 
-#: ../../../source/libfilezilla/lib/aio/writer.cpp:244
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:218
 #, c-format
 msgid "Could not sync '%s' to disk."
 msgstr "「%s」をディスクに同期できません。"
 
-#: ../../../source/libfilezilla/lib/aio/writer.cpp:353
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:348
 #, c-format
 msgid "Could not truncate '%s' to offset %d."
 msgstr "「%s」を切り捨てて %d をオフセットできません。"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:368
-#: ../../../source/libfilezilla/lib/http/client.cpp:481
+#: ../../../source/libfilezilla/lib/http/client.cpp:375
+#: ../../../source/libfilezilla/lib/http/client.cpp:490
 #, c-format
 msgid "Could not write to socket: %s"
 msgstr "ソケットに書き込めません: %s"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:482
+#: ../../../source/libfilezilla/lib/http/client.cpp:491
 msgid "Disconnected from server"
 msgstr "サーバーから切断"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:459
+#: ../../../source/libfilezilla/lib/http/client.cpp:468
 #, c-format
 msgid "Excess data read from '%s'"
 msgstr "'%s' からの過剰なデータ読み込み"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1823
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2100
 msgid "Failed to extract certificate trust path"
 msgstr "証明書の信頼パスの抽出に失敗しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1816
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1888
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2093
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2165
 msgid "Failed to verify peer certificate"
 msgstr "ピア証明書の検証に失敗しました"
 
@@ -229,28 +265,36 @@ msgstr "ピア証明書の検証に失敗しました"
 msgid "File descriptor not a socket"
 msgstr "ファイル記述子はソケットではありません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:547
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:383
+msgid "File does not exist"
+msgstr "ファイルが存在しません"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:778
 #, c-format
 msgid "GnuTLS error %d"
 msgstr "GnuTLS エラー %d"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:550
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:781
 #, c-format
 msgid "GnuTLS error %d in %s"
 msgstr "GnuTLS エラー %d %s 内"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:542
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:773
 #, c-format
 msgid "GnuTLS error %d in %s: %s"
 msgstr "GnuTLS エラー %d %s 内: %s"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:539
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:770
 #, c-format
 msgid "GnuTLS error %d: %s"
 msgstr "GnuTLS エラー %d: %s"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:608
-#: ../../../source/libfilezilla/lib/http/client.cpp:665
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:3147
+msgid "GnuTLS has been compiled without PKCS#11 support"
+msgstr "GnuTLS は PKCS#11 サポートなしでコンパイルされています"
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:619
+#: ../../../source/libfilezilla/lib/http/client.cpp:676
 msgid "HTTP connection closed prematurely"
 msgstr "HTTP 接続が途中で閉じられました"
 
@@ -258,23 +302,32 @@ msgstr "HTTP 接続が途中で閉じられました"
 msgid "Host is down"
 msgstr "ホストがダウンしています"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:229
+#: ../../../source/libfilezilla/lib/http/client.cpp:234
 msgid "Hostname not in UTF-8"
 msgstr "ホスト名が UTF-8 ではない"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:695
+#: ../../../source/libfilezilla/lib/http/client.cpp:706
 msgid "Internal error, bad state"
 msgstr "内部エラー、不正な状態"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:563
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1856
+msgid "Internal error: invalid certs"
+msgstr "内部エラー: 無効な証明書"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:504
+msgid "Internal error: invalid key"
+msgstr "内部エラー: 無効なキー"
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:61
 msgid "Interrupted by signal"
 msgstr "シグナルにより中断されました"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:889
+#: ../../../source/libfilezilla/lib/http/client.cpp:904
 msgid "Invalid Content-Length"
 msgstr "不正なコンテンツ長"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:745
+#: ../../../source/libfilezilla/lib/http/client.cpp:756
 msgid "Invalid HTTP Response"
 msgstr "不正な HTTP レスポンス"
 
@@ -286,16 +339,47 @@ msgstr "不正な引数が渡されました"
 msgid "Invalid characters in hostname"
 msgstr "ホスト名に不正な文字"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1053
 #: ../../../source/libfilezilla/lib/http/client.cpp:1058
+#: ../../../source/libfilezilla/lib/http/client.cpp:1073
+#: ../../../source/libfilezilla/lib/http/client.cpp:1078
 msgid "Invalid chunk size"
 msgstr "不正なチャンク サイズ"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:787
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:556
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1846
+msgid "Invalid data blob for certificates"
+msgstr "不正な 証明書 BLOB データ"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:497
+msgid "Invalid data blob for key"
+msgstr "不正な キー BLOB データ"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:542
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1829
+msgid "Invalid file path for certificates"
+msgstr "不正な 証明書ファイル パス"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:483
+msgid "Invalid file path for key"
+msgstr "不正な キー ファイル パス"
+
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:385
+msgid "Invalid filename"
+msgstr "不正な ファイル名"
+
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:313
+msgid "Invalid filename."
+msgstr "不正な ファイル名です。"
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:798
 msgid "Invalid line"
 msgstr "不正な行"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:754
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:447
+msgid "Invalid pkcs11 URL in key"
+msgstr "キー内に不正な pkcs11 URL"
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:765
 msgid "Invalid response code"
 msgstr "不正なレスポンス コード"
 
@@ -307,11 +391,11 @@ msgstr "ai_flags の値が不正です"
 msgid "Invalid value for hints"
 msgstr "ヒントの値が不正です"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:338
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:388
 msgid "Key file too big."
 msgstr "鍵ファイルが大きすぎます。"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1018
+#: ../../../source/libfilezilla/lib/http/client.cpp:1033
 msgid "Line length exceeded"
 msgstr "行の長さを超えました"
 
@@ -323,27 +407,28 @@ msgstr "使用中のローカル アドレス"
 msgid "Local endpoint has been closed"
 msgstr "ローカル エンドポイントは閉じられています"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:993
-#: ../../../source/libfilezilla/lib/http/client.cpp:1005
-#: ../../../source/libfilezilla/lib/http/client.cpp:1011
-#: ../../../source/libfilezilla/lib/http/client.cpp:1018
-#: ../../../source/libfilezilla/lib/http/client.cpp:1053
+#: ../../../source/libfilezilla/lib/http/client.cpp:1008
+#: ../../../source/libfilezilla/lib/http/client.cpp:1020
+#: ../../../source/libfilezilla/lib/http/client.cpp:1026
+#: ../../../source/libfilezilla/lib/http/client.cpp:1033
 #: ../../../source/libfilezilla/lib/http/client.cpp:1058
+#: ../../../source/libfilezilla/lib/http/client.cpp:1073
+#: ../../../source/libfilezilla/lib/http/client.cpp:1078
 #, c-format
 msgid "Malformed chunk data: %s"
 msgstr "不正なチャンク データ: %s"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:713
-#: ../../../source/libfilezilla/lib/http/client.cpp:719
-#: ../../../source/libfilezilla/lib/http/client.cpp:787
-#: ../../../source/libfilezilla/lib/http/client.cpp:847
-#: ../../../source/libfilezilla/lib/http/client.cpp:889
+#: ../../../source/libfilezilla/lib/http/client.cpp:724
+#: ../../../source/libfilezilla/lib/http/client.cpp:730
+#: ../../../source/libfilezilla/lib/http/client.cpp:798
+#: ../../../source/libfilezilla/lib/http/client.cpp:858
+#: ../../../source/libfilezilla/lib/http/client.cpp:904
 #, c-format
 msgid "Malformed response header: %s"
 msgstr "不正なレスポンス ヘッダー: %s"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1721
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1936
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1998
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2213
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr "中間者攻撃が検出されたため、接続が中断されました。"
 
@@ -383,14 +468,26 @@ msgstr "ホストへのルートがありません"
 msgid "Nonrecoverable failure in name resolution"
 msgstr "名前解決で回復不能の障害"
 
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:311
+msgid "Not enough space on device."
+msgstr "デバイスの空き容量が足りません。"
+
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:113
 msgid "Not initialized, need to call WSAStartup"
 msgstr "初期化されていないため、WSAStartup を呼び出す必要があります"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:719
-#: ../../../source/libfilezilla/lib/http/client.cpp:1011
+#: ../../../source/libfilezilla/lib/http/client.cpp:730
+#: ../../../source/libfilezilla/lib/http/client.cpp:1026
 msgid "Null character in line"
 msgstr "行内に NULL 文字があります"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:210
+#, c-format
+msgid ""
+"Only few PIN tries remaining before the token is locked. Token: %s, URL: %s."
+msgstr ""
+"トークンがロックされるまでの PIN 試行回数はあとわずかです。トークン: %s, "
+"URL: %s"
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:57
 msgid "Operation already in progress"
@@ -413,7 +510,17 @@ msgstr "その他のシステム エラー"
 msgid "Out of memory"
 msgstr "メモリ不足"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:233
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:205
+#, c-format
+msgid "PIN length (%d) exceeds the maximum (%d). Token: %s, URL: %s"
+msgstr "PIN の長さ (%d) が最大値 (%d) を超えています。トークン: %s, URL: %s"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:512
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1820
+msgid "PKCS11 URLs not supported yet for certificates"
+msgstr "PKCS11 URL は証明書ではまだサポートされていません"
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:238
 msgid "Path not in UTF-8"
 msgstr "パスが UTF-8 ではない"
 
@@ -421,6 +528,11 @@ msgstr "パスが UTF-8 ではない"
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:54
 msgid "Permission denied"
 msgstr "アクセス拒否"
+
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:381
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:307
+msgid "Permission denied."
+msgstr "アクセスが拒否されました。"
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:50
 msgid "Process file table overflow"
@@ -434,42 +546,42 @@ msgstr "プロトコルはサポートされていません"
 msgid "Protocol not supported on given socket type"
 msgstr "指定されたソケット タイプはプロトコルでサポートされていません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:591
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:822
 #, c-format
 msgid "Received TLS alert from the client: %s (%d)"
 msgstr "クライアントから TLS アラートを受信しました: %s (%d)"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:591
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:822
 #, c-format
 msgid "Received TLS alert from the server: %s (%d)"
 msgstr "サーバーから TLS アラートを受信しました: %s (%d)"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1691
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1968
 msgid "Received certificate chain could not be verified."
 msgstr "受信した証明書チェーンを検証できません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1694
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1971
 #, c-format
 msgid ""
 "Received certificate chain could not be verified. Verification status is %d."
 msgstr "受信した証明書チェーンを検証できません。確認ステータスは %d です。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:596
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:827
 #, c-format
 msgid "Received unknown TLS alert %d from the client"
 msgstr "クライアントから未知の TLS アラート %d を受信しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:596
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:827
 #, c-format
 msgid "Received unknown TLS alert %d from the server"
 msgstr "サーバーから未知の TLS アラート %d を受信しました"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1330
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1851
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1561
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2128
 msgid "Remote certificate not trusted."
 msgstr "リモート証明書は信用されていません。"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:225
+#: ../../../source/libfilezilla/lib/http/client.cpp:230
 msgid "Request has no host"
 msgstr "リクエストにホストがありません"
 
@@ -481,22 +593,22 @@ msgstr "解決されたプロトコルは不明です"
 msgid "Resource temporarily unavailable"
 msgstr "リソースが一時的に使用できません"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:621
+#: ../../../source/libfilezilla/lib/http/client.cpp:632
 msgid "Response too large"
 msgstr "応答が大きすぎる"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1211
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1442
 msgid "Server did not properly shut down TLS connection"
 msgstr "サーバーは TLS 接続を適切にシャットダウンしません"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:286
+#: ../../../source/libfilezilla/lib/http/client.cpp:291
 #, c-format
 msgid "Server instructed client to wait %d seconds before sending next request"
 msgstr ""
 "サーバーはクライアントに、次のリクエストを送信する前に %d 秒待機するように指"
 "示しました"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:713
+#: ../../../source/libfilezilla/lib/http/client.cpp:724
 msgid "Server not sending proper line endings"
 msgstr "サーバーが適切な改行文字を送信しません"
 
@@ -511,7 +623,7 @@ msgstr ""
 msgid "Server requested unsupported quality-of-protection: %s"
 msgstr "サーバーにサポートされていない保護品質を要求しました: %s"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1648
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1925
 msgid ""
 "Server sent unsorted certificate chain in violation of the TLS specifications"
 msgstr "サーバーは TLS の仕様に違反して未分類の証明書チェーンを送信しました"
@@ -524,7 +636,7 @@ msgstr "アドレス空間外のソケット アドレス"
 msgid "Socket already connected"
 msgstr "ソケットは既に接続されています"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1184
+#: ../../../source/libfilezilla/lib/http/client.cpp:1204
 #, c-format
 msgid "Socket error: %s"
 msgstr "ソケット エラー: %s"
@@ -549,6 +661,11 @@ msgstr "システムが開けるファイル数を越えました"
 msgid "System's network subsystem has failed"
 msgstr "システムのネットワーク サブシステムに障害が発生しました"
 
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:309
+msgid "Target directory does not exist, or name refers to a directory."
+msgstr ""
+"ターゲット ディレクトリが存在しないか、名前がディレクトリを参照しています。"
+
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:81
 msgid "Temporary failure in name resolution"
 msgstr "名前解決が一時的に失敗しました"
@@ -561,7 +678,7 @@ msgstr "ai_family メンバーをサポートしていません"
 msgid "The ai_socktype member is not supported"
 msgstr "ai_socktype メンバーをサポートしていません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1686
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1963
 msgid ""
 "The certificate requires the server to include an OCSP status in its "
 "response, but the OCSP status is missing."
@@ -569,7 +686,12 @@ msgstr ""
 "証明書はサーバーの応答に OCSP ステータスを含める必要がありますが、OCSP ステー"
 "タスが見つかりません。"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1682
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:199
+#, c-format
+msgid "The last tried PIN was wrong. Token: %s, URL: %s."
+msgstr "最後に試した PIN が間違っていました。トークン: %s, URL: %s"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1959
 msgid "The server's hostname does not match the certificate's hostname"
 msgstr "サーバーのホスト名が証明書のホスト名と一致しません"
 
@@ -585,39 +707,69 @@ msgstr "指定のアドレス ファミリーをサポートしていません"
 msgid "The specified network name is no longer available"
 msgstr "指定のネットワーク名は使用できません"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:727
-#: ../../../source/libfilezilla/lib/http/client.cpp:804
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:213
+#, c-format
+msgid ""
+"This is the last PIN try remaining before the token is locked. Token: %s, "
+"URL: %s."
+msgstr ""
+"これはトークンがロックされる前に残っている最後の PIN 試行です。トークン: %s, "
+"URL: %s"
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:738
+#: ../../../source/libfilezilla/lib/http/client.cpp:815
 msgid "Too long header line"
 msgstr "あまりにも長いヘッダー行"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:810
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:224
+#, c-format
+msgid "Too many attempts (%d) while trying the PIN. Token: %s, URL: %s."
+msgstr "PIN の試行回数 (%d) が多すぎます。 トークン: %s, URL: %s"
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:821
 msgid "Too many header lines"
 msgstr "あまりにも長いヘッダー行"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:451
+#: ../../../source/libfilezilla/lib/http/client.cpp:460
 #, c-format
 msgid "Unexpected end-of-file on '%s'"
 msgstr "「%s」の予期しないファイルの終わり"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:847
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:387
+#, c-format
+msgid "Unknown error %u (%u)"
+msgstr "不明なエラー %u (%u)"
+
+#: ../../../source/libfilezilla/lib/aio/writer.cpp:315
+#, c-format
+msgid "Unknown error %u (%u)."
+msgstr "不明なエラー %u です。(%u)"
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:858
 msgid "Unknown transfer encoding"
 msgstr "不明な転送文字コード"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1709
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1986
 msgid "Unsupported certificate type"
 msgstr "サポートされていない証明書タイプ"
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1005
+#: ../../../source/libfilezilla/lib/http/client.cpp:1020
 msgid "Wrong line endings"
 msgstr "間違った改行文字"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1618
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:194
+#, c-format
+msgid "Wrong type of PIN requested. Flags: %d, Token: %s, URL: %s."
+msgstr ""
+"要求された PIN の種類が間違っています。フラグ: %d, トークン: %s, URL: %s"
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1895
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr "gnutls_certificate_get_peers が証明書を返しません"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1992
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2028
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2044
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2060
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2269
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2305
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2321
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2337
 msgid "unknown"
 msgstr "不明"
