@@ -42,7 +42,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Autoruns」の著作権は Sysinternals にあります。
 
 ---
-## 「Driver Store Explorer Ver.0.11.92」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.12.40」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
@@ -91,20 +91,6 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 ダウンロード (1.3.244 ～ 1.3.277 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
-
----
-## 「Homedale Ver.2.17」日本語環境対応パッチ
-WiFi/WLAN モニターアプリ「[Homedale](https://www.the-sz.com/products/homedale/)」を日本語化するパッチです。
-
-ダウンロード: [Homedale-2.17-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Homedale-Japanese-Patch/Homedale-2.17-jp.exe)
-
-Ver.2.16 にて、[他所様](https://coolvitto.hateblo.jp/entry/2025/01/21/093440) の訳文で公式日本語化したので表題が変わりました。  
-訳文が差し替えになりますが、パッチ内の訳文は当方によるものなので御承知おき下さい。  
-本パッチを用いた場合は、スタイルガイドに極力準拠したものに改修されます。
-
-そんなわけで、本項目は Study-Room レポジトリに移動させる予定です。
-
--「Homedale」の著作権は the sz development にあります。
 
 ---
 ## 「ImDisk Toolkit 20241123」日本語化ファイル
