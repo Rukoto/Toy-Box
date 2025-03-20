@@ -93,10 +93,10 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
 ---
-## 「ImDisk Toolkit 20241123」日本語化ファイル
+## 「ImDisk Toolkit 20250206」日本語化ファイル
 仮想ドライブ作成アプリ「[ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)」の日本語化ファイルを更新しています。
 
-ダウンロード: [ImDiskTk-20241123-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20241123-jp.zip)
+ダウンロード (20241123 / 20250206 用): [ImDiskTk-20241123-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20241123-jp.zip)
 
 インストール時にセットアップファイルを日本語化する使い方になりますので、  
 公式の files.cab と同じディレクトリに上記 Zip ファイルの中身を展開し、  
@@ -154,7 +154,7 @@ Windows 11 では[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) �
 -「PDF-XChange Viewer」の著作権は PDF-XChange Co Ltd にあります。
 
 ---
-## 「Resource Hacker Ver.5.2.7.427」日本語言語ファイル
+## 「Resource Hacker Ver.5.2.8.448」日本語言語ファイル
 定番リソースエディター「[Resource Hacker](http://www.angusj.com/resourcehacker/)」には [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の日本語言語ファイルがありますが、  
 UI の改善と訳文を追加・変更、サイズダウンを適用した言語ファイルを公開しています。
 
