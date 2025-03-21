@@ -19,7 +19,8 @@
 
 ダウンロード (x64): [7-Zip-24.09_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-24.09_x64-jp.exe)  
 ダウンロード (x86): [7-Zip-24.09_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-24.09_x86-jp.exe)  
-今回はヘルプの日本語化を含みません。時間ができたらヘルプを含めて再リリースします。
+今回はヘルプの日本語化を含みません。時間ができたらヘルプを含めて再リリースします。  
+現在、公式に言語ファイルの更新依頼をしています。次回のバージョンで差し替わるはず。
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
@@ -156,7 +157,8 @@ Windows 11 では[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) �
 ---
 ## 「Resource Hacker Ver.5.2.8.448」日本語言語ファイル
 定番リソースエディター「[Resource Hacker](http://www.angusj.com/resourcehacker/)」には [wwwcfe氏](http://d.hatena.ne.jp/wwwcfe/20100917/resourcehacker) の日本語言語ファイルがありますが、  
-UI の改善と訳文を追加・変更、サイズダウンを適用した言語ファイルを公開しています。
+UI の改善と訳文を追加・変更、サイズダウンを適用した言語ファイルを公開しています。  
+(複数の箇所で表記揺れがあったので差し替えました。)
 
 ダウンロード: [ResourceHacker.JP](https://github.com/Rukoto/Toy-Box/raw/master/Resource_Hacker-Japanese-File/ResourceHacker.JP)
 
