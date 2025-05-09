@@ -129,10 +129,10 @@ UI の日本語化と訳文修正、および最適化、さらに設定バッ�
 -「LockHunter」の著作権は Crystal Rich Ltd にあります。
 
 ---
-## 「Open-Shell Ver.4.4.195」日本語言語ファイル
+## 「Open-Shell Ver.4.4.196」日本語言語ファイル
 スタートメニュー等のカスタマイズアプリ「[Open-Shell](https://open-shell.github.io/Open-Shell-Menu/)」の日本語言語ファイルを公開しています。
 
-ダウンロード (Latest: 4.4.195用): [Open-Shell-4.4.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.194/Open-Shell-4.4.194-jp.exe)
+ダウンロード (Latest: 4.4.194以降用): [Open-Shell-4.4.194-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Open-Shell-Japanese-Language-File/4.4.194/Open-Shell-4.4.194-jp.exe)
 
 Windows 11 では[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) の併用を推奨します。  
 ただし、Windows セキュリティによる ~~誤検知~~ **嫌がらせ** に対処できる方に限ります。
