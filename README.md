@@ -43,7 +43,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Autoruns」の著作権は Sysinternals にあります。
 
 ---
-## 「Driver Store Explorer Ver.0.12.40」日本語言語ファイル (コメントのみ)
+## 「Driver Store Explorer Ver.0.12.88」日本語言語ファイル (コメントのみ)
 ドライバーストア管理アプリ「[Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)」の日本語訳を更新しています。  
 ドライバーストア内に残存してしまった使われていない古いドライバーを簡単に確認でき、  
 バージョン等を列挙して表示することで、確実にクリーンアップできるのが特徴です。
@@ -57,7 +57,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「EasyBCD」の著作権は [NeoSmart Technologies](https://github.com/neosmart) にあります。
 
 ---
-## 「FileZilla Client Ver.3.68.1」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.69.1」日本語言語ファイル (作業用)
 ## 「libfilezilla Ver.0.49.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
@@ -85,11 +85,11 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.277」日本語言語ファイル
+## 「Greenshot Ver.1.3.281」日本語言語ファイル
 スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
 プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。
 
-ダウンロード (1.3.244 ～ 1.3.277 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
+ダウンロード (1.3.244 ～ 1.3.281 用): [Greenshot-1.3.244-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.244-jp.exe)  
 
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
