@@ -13,14 +13,13 @@
 [こちら](https://github.com/Rukoto/Toy-Box/blob/master/Comment.md)に掲載しております。
 
 ---
-## 「7-Zip Ver.24.09」日本語環境対応パッチ
+## 「7-Zip Ver.25.00」日本語環境対応パッチ
 高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://www.7-zip.org/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
-ダウンロード (x64): [7-Zip-24.09_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-24.09_x64-jp.exe)  
-ダウンロード (x86): [7-Zip-24.09_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-24.09_x86-jp.exe)  
-今回はヘルプの日本語化を含みません。時間ができたらヘルプを含めて再リリースします。  
-現在、公式に言語ファイルの更新依頼をしています。次回のバージョンで差し替わるはず。
+ダウンロード (x64): [7-Zip-25.00_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-25.00_x64-jp.exe)  
+ダウンロード (x86): [7-Zip-25.00_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-25.00_x86-jp.exe)  
+今回はヘルプの日本語化を含みません。時間ができたらヘルプを含めて再リリースします。
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
 -「7-Zip」の著作権は Igor Pavlov氏 にあります。  
