@@ -93,21 +93,6 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
 
 ---
-## 「ImDisk Toolkit 20250206」日本語化ファイル
-仮想ドライブ作成アプリ「[ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)」の日本語化ファイルを更新しています。
-
-ダウンロード (20241123 / 20250206 用): [ImDiskTk-20241123-jp.zip](https://github.com/Rukoto/Toy-Box/raw/master/ImDisk_Toolkit-Japanese-File/ImDiskTk-20241123-jp.zip)
-
-インストール時にセットアップファイルを日本語化する使い方になりますので、  
-公式の files.cab と同じディレクトリに上記 Zip ファイルの中身を展開し、  
-install_jp.bat を実行するだけです。言語は「English」を指定する必要があります。
-
-一部は意図的に翻訳しておりません。(ショートカット名やコンテキストメニュー)
-
-[COPYING (WTFPL)](http://www.wtfpl.net/)  
--「ImDisk Toolkit」の著作権は Olof氏、v77氏、Kenneth Bell氏、その他の方々にあります。
-
----
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
 データベース型高速ファイル検索アプリ「[Locate32](https://locate32.cogit.net/)」を日本語化します。ネットワークドライブの検索用に。  
 UI の日本語化と訳文修正、および最適化、さらに設定バックアップツールの日本語化も含まれます。
