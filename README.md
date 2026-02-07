@@ -84,15 +84,6 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 元となった日本語化パッチを公開されている [パソコンおやじ氏](http://www.aconus.com/~oyaji/) に感謝。
 
 ---
-## 「Greenshot Ver.1.3.296」日本語言語ファイル
-スクリーンキャプチャアプリ「[Greenshot](https://getgreenshot.org/)」の日本語言語ファイルを更新するパッチです。  
-プラグインによる Imgur へのアップロードが便利で、随分昔から愛用しています。
-
-ダウンロード (1.3.290 ～ 1.3.296 用): [Greenshot-1.3.290-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Greenshot-Japanese-Patch/Greenshot-1.3.290-jp.exe)  
-
--「Greenshot」の著作権は Thomas Braun氏、Jens Klingen氏、Robin Krom氏 にあります。
-
----
 ## 「Locate32 Ver.3.1.11.7100」日本語環境対応パッチ
 データベース型高速ファイル検索アプリ「[Locate32](https://locate32.cogit.net/)」を日本語化します。ネットワークドライブの検索用に。  
 UI の日本語化と訳文修正、および最適化、さらに設定バックアップツールの日本語化も含まれます。
