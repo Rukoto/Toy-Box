@@ -13,12 +13,12 @@
 [こちら](https://github.com/Rukoto/Toy-Box/blob/master/Comment.md)に掲載しております。
 
 ---
-## 「7-Zip Ver.26.01」日本語環境対応パッチ
+## 「7-Zip Ver.26.02」日本語環境対応パッチ
 高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://www.7-zip.org/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
-ダウンロード (x64): [7-Zip-26.01_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-26.01_x64-jp.exe)  
-ダウンロード (x86): [7-Zip-26.01_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-26.01_x86-jp.exe)  
+ダウンロード (x64): [7-Zip-26.02_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-26.02_x64-jp.exe)  
+ダウンロード (x86): [7-Zip-26.02_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-26.02_x86-jp.exe)  
 今回はヘルプの日本語化を含みません。時間ができたらヘルプを含めて再リリースします。
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
@@ -29,12 +29,13 @@
 ヘルプに関しては機械翻訳の割合が高いです。更新はバージョンアップ時に気が向いたら。
 
 ---
-## 「Autoruns Ver.14.3」日本語化パッチ
+## 「Autoruns Ver.14.11」日本語化パッチ
 スタートアップ確認ユーティリティ「[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)」には [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチがありますが、  
 UI の改善と訳文を追加・変更、さらに倍直対応した日本語化パッチを公開しています。
 
-ダウンロード (x64): [Autoruns-14.3_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.3_x64-jp.exe)  
-なお、x86版 と ARM64 版の作成予定はありません。
+ダウンロード (x64): [Autoruns-14.11_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.11_x64-jp.exe)  
+ダウンロード (x86): [Autoruns-14.11_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/Autoruns-Japanese-Patch/Autoruns-14.11_x86-jp.exe)  
+なお、ARM64 版の作成予定はありません。作れるけど検証できないので。
 
 作成のきっかけは [wwwcfe氏](https://wwwcfe.hatenablog.com/entry/20100609/autoruns) の日本語化パッチですが、すべて刷新した完全なる別モノとなっております。
 
