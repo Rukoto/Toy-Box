@@ -42,13 +42,13 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 -「Autoruns」の著作権は Sysinternals にあります。
 
 ---
-## 「Clownfish Voice Changer Ver.2.04 x64」日本語化パッチ
+## 「Clownfish Voice Changer Ver.2.05 x64」日本語化パッチ
 バイスチェンジャーアプリ「[Clownfish Voice Changer](https://clownfish-translator.com/voicechanger/)」日本語化パッチを更新しています。  
 公式に一部翻訳されていない部分を、完全ではないですが補完するパッチです。  
 公式と翻訳についてやり取りしていますが、ローカライズの準備が完全にできていないそうで、  
 UI が完全に日本語化されるまでは時間を要しそうな感じです。
 
-: [ClownfishVoiceChanger-2.04_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/ClownfishVoiceChanger-Japanese-Patch/ClownfishVoiceChanger-2.04_x64-jp.exe)
+: [ClownfishVoiceChanger-2.05_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/ClownfishVoiceChanger-Japanese-Patch/ClownfishVoiceChanger-2.05_x64-jp.exe)
 
 -「Clownfish Voice Changer」の著作権は Shark Lab, Sofia にあります。
 
