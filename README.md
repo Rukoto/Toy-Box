@@ -13,12 +13,12 @@
 [こちら](https://github.com/Rukoto/Toy-Box/blob/master/Comment.md)に掲載しております。
 
 ---
-## 「7-Zip Ver.26.02」日本語環境対応パッチ
+## 「7-Zip Ver.26.03」日本語環境対応パッチ
 高い圧縮率を誇る多機能アーカイバ「[7-Zip](https://www.7-zip.org/)」の日本語環境対応パッチを更新しています。  
 ヘルプ含む各ファイルの日本語化と訳文の修正、ファイルマネージャーの整形を行います。
 
-ダウンロード (x64): [7-Zip-26.02_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-26.02_x64-jp.exe)  
-ダウンロード (x86): [7-Zip-26.02_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-26.02_x86-jp.exe)  
+ダウンロード (x64): [7-Zip-26.03_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-26.03_x64-jp.exe)  
+ダウンロード (x86): [7-Zip-26.03_x86-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/7-Zip-Japanese-Patch/7-Zip-26.03_x86-jp.exe)  
 今回はヘルプの日本語化を含みません。時間ができたらヘルプを含めて再リリースします。
 
 [COPYING (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.ja.html)  
@@ -48,7 +48,7 @@ UI の改善と訳文を追加・変更、さらに倍直対応した日本語�
 公式と翻訳についてやり取りしていますが、ローカライズの準備が完全にできていないそうで、  
 UI が完全に日本語化されるまでは時間を要しそうな感じです。
 
-: [ClownfishVoiceChanger-2.05_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/ClownfishVoiceChanger-Japanese-Patch/ClownfishVoiceChanger-2.05_x64-jp.exe)
+ダウンロード: [ClownfishVoiceChanger-2.05_x64-jp.exe](https://github.com/Rukoto/Toy-Box/raw/master/ClownfishVoiceChanger-Japanese-Patch/ClownfishVoiceChanger-2.05_x64-jp.exe)
 
 -「Clownfish Voice Changer」の著作権は Shark Lab, Sofia にあります。
 
