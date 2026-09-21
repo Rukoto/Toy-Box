@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://trac.filezilla-project.org/\n"
-"POT-Creation-Date: 2024-12-13 05:30+0100\n"
+"POT-Creation-Date: 2026-09-21 05:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,74 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1951
+#: ../../../source/libfilezilla/lib/windows/impersonation_helper.cpp:318
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:389
+#, c-format
+msgid "%s failed. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:106
+#, c-format
+msgid "%s failed. NTSTATUS: 0x%08x, SubStatus: 0x%08x."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:116
+#, c-format
+msgid ""
+"%s failed. NTSTATUS: 0x%08x, Win32 Error: %d, SubStatus: 0x%08x, SubStatus "
+"Win32 Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:119
+#, c-format
+msgid "%s failed. NTSTATUS: 0x%08x, Win32 Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:109
+#, c-format
+msgid "%s failed. NTSTATUS: 0x%08x."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_helper.cpp:171
+#, c-format
+msgid "%s: could not read error string from helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_helper.cpp:142
+#, c-format
+msgid "%s: could not read request header."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_helper.cpp:157
+#, c-format
+msgid "%s: could not read response from helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_helper.cpp:176
+#, c-format
+msgid "%s: helper failed: %s"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_helper.cpp:163
+#, c-format
+msgid "%s: helper returned an invalid response."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_helper.cpp:148
+#, c-format
+msgid "%s: invalid request header."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1956
 msgid "A certificate in the chain was signed using an insecure algorithm"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1955
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:223
+#, c-format
+msgid "AllocateLocallyUniqueId failed. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1960
 msgid "An issuer in the certificate chain is not a certificate authority"
 msgstr ""
 
@@ -38,21 +101,21 @@ msgstr ""
 msgid "Bad file descriptor"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1941
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1946
 msgid "Beware! Certificate has been revoked"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:778
+#: ../../../source/libfilezilla/lib/http/client.cpp:776
 msgid ""
 "Broken server, it claims to have processed a request before it got fully set"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:108
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:117
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:118
 msgid "Cannot assign requested address"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:986
+#: ../../../source/libfilezilla/lib/http/client.cpp:1003
 msgid "Cannot use writers without buffer pool"
 msgstr ""
 
@@ -60,32 +123,32 @@ msgstr ""
 msgid "Certificate file too big."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2014
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2023
 msgid "Certificate of connection does not match expected certificate."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2587
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2596
 msgid "Certificate purposes do not match with its intended type."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2955
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2961
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2964
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2970
 msgid "Certificate request has wrong key usage types set."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2941
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2950
 msgid "Certificate request purposes do not match with its type."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1947
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1952
 msgid "Certificate signature verification failed"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1008
+#: ../../../source/libfilezilla/lib/http/client.cpp:1025
 msgid "Chunk data improperly terminated"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1442
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1451
 msgid "Client did not properly shut down TLS connection"
 msgstr ""
 
@@ -109,7 +172,7 @@ msgstr ""
 msgid "Connection reset by peer"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2151
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2160
 msgid "Could not add certificate to temporary trust list"
 msgstr ""
 
@@ -119,58 +182,62 @@ msgstr ""
 msgid "Could not connect to '%s'"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/jws.cpp:212
+#: ../../../source/libfilezilla/lib/jws.cpp:217
 #, c-format
 msgid ""
 "Could not convert private key to JWK, exporting ECC parameters failed: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/jws.cpp:176
+#: ../../../source/libfilezilla/lib/jws.cpp:181
 #, c-format
 msgid ""
 "Could not convert private key to JWK, exporting RSA parameters failed: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/jws.cpp:152
+#: ../../../source/libfilezilla/lib/jws.cpp:157
 #, c-format
 msgid "Could not convert private key to JWK, import failed: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/jws.cpp:159
+#: ../../../source/libfilezilla/lib/jws.cpp:164
 msgid ""
 "Could not convert private key to JWK, only RSA and ECDSA private keys are "
 "supported."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/jws.cpp:219
+#: ../../../source/libfilezilla/lib/jws.cpp:224
 msgid ""
 "Could not convert private key to JWK, unsupported elliptic curve, only "
 "SECP256R1 is supported."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2143
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2152
 msgid "Could not copy certificate"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1588
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:634
+msgid "Could not create isolated desktop."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1597
 msgid "Could not extract validity period of certificate"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2583
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2592
 msgid "Could not get certificate purposes."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2937
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2946
 msgid "Could not get certificate request purposes."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1655
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1660
 msgid ""
 "Could not get distinguished name of certificate issuer, "
 "gnutls_x509_get_issuer_dn failed"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1636
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1641
 msgid ""
 "Could not get distinguished name of certificate subject, gnutls_x509_get_dn "
 "failed"
@@ -180,7 +247,7 @@ msgstr ""
 msgid "Could not key file."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/aio/reader.cpp:401
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:406
 #, c-format
 msgid "Could not open '%s' for reading: %s"
 msgstr ""
@@ -203,7 +270,7 @@ msgid "Could not read certificate file."
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/http/client.cpp:647
-#: ../../../source/libfilezilla/lib/http/client.cpp:1166
+#: ../../../source/libfilezilla/lib/http/client.cpp:1183
 #, c-format
 msgid "Could not read from socket: %s"
 msgstr ""
@@ -214,7 +281,7 @@ msgstr ""
 msgid "Could not seek to offset %d within '%s'."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1922
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1927
 msgid "Could not sort peer certificates"
 msgstr ""
 
@@ -234,6 +301,10 @@ msgstr ""
 msgid "Could not write to socket: %s"
 msgstr ""
 
+#: ../../../source/libfilezilla/lib/http/client.cpp:857
+msgid "Discarding interim response"
+msgstr ""
+
 #: ../../../source/libfilezilla/lib/http/client.cpp:491
 msgid "Disconnected from server"
 msgstr ""
@@ -243,12 +314,12 @@ msgstr ""
 msgid "Excess data read from '%s'"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2100
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2109
 msgid "Failed to extract certificate trust path"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2093
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2165
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2102
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2174
 msgid "Failed to verify peer certificate"
 msgstr ""
 
@@ -256,31 +327,46 @@ msgstr ""
 msgid "File descriptor not a socket"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/aio/reader.cpp:383
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:388
 msgid "File does not exist"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:778
+#: ../../../source/libfilezilla/lib/windows/security_descriptor_builder.cpp:209
+#, c-format
+msgid "GetUserInfoFromToken: ConvertSidToStringSidA failed. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/security_descriptor_builder.cpp:218
+#, c-format
+msgid "GetUserInfoFromToken: GetUserAndDomainFromSid failed. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/security_descriptor_builder.cpp:202
+#, c-format
+msgid "GetUserInfoFromToken: GetUserFromToken failed. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:779
 #, c-format
 msgid "GnuTLS error %d"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:781
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:782
 #, c-format
 msgid "GnuTLS error %d in %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:773
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:774
 #, c-format
 msgid "GnuTLS error %d in %s: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:770
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:771
 #, c-format
 msgid "GnuTLS error %d: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:3147
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:3156
 msgid "GnuTLS has been compiled without PKCS#11 support"
 msgstr ""
 
@@ -302,7 +388,7 @@ msgid "Internal error, bad state"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:563
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1856
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1861
 msgid "Internal error: invalid certs"
 msgstr ""
 
@@ -314,7 +400,7 @@ msgstr ""
 msgid "Interrupted by signal"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:904
+#: ../../../source/libfilezilla/lib/http/client.cpp:921
 msgid "Invalid Content-Length"
 msgstr ""
 
@@ -330,14 +416,14 @@ msgstr ""
 msgid "Invalid characters in hostname"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1058
-#: ../../../source/libfilezilla/lib/http/client.cpp:1073
-#: ../../../source/libfilezilla/lib/http/client.cpp:1078
+#: ../../../source/libfilezilla/lib/http/client.cpp:1075
+#: ../../../source/libfilezilla/lib/http/client.cpp:1090
+#: ../../../source/libfilezilla/lib/http/client.cpp:1095
 msgid "Invalid chunk size"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:556
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1846
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1851
 msgid "Invalid data blob for certificates"
 msgstr ""
 
@@ -345,8 +431,12 @@ msgstr ""
 msgid "Invalid data blob for key"
 msgstr ""
 
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:628
+msgid "Invalid desktop name prefix."
+msgstr ""
+
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:542
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1829
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1834
 msgid "Invalid file path for certificates"
 msgstr ""
 
@@ -354,7 +444,7 @@ msgstr ""
 msgid "Invalid file path for key"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/aio/reader.cpp:385
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:390
 msgid "Invalid filename"
 msgstr ""
 
@@ -362,12 +452,16 @@ msgstr ""
 msgid "Invalid filename."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:798
+#: ../../../source/libfilezilla/lib/http/client.cpp:796
 msgid "Invalid line"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:447
 msgid "Invalid pkcs11 URL in key"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_helper.cpp:323
+msgid "Invalid request."
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/http/client.cpp:765
@@ -386,8 +480,12 @@ msgstr ""
 msgid "Key file too big."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1033
+#: ../../../source/libfilezilla/lib/http/client.cpp:1050
 msgid "Line length exceeded"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_profile_helper.cpp:171
+msgid "LoadUserProfileW is not available."
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:46
@@ -398,28 +496,32 @@ msgstr ""
 msgid "Local endpoint has been closed"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1008
-#: ../../../source/libfilezilla/lib/http/client.cpp:1020
-#: ../../../source/libfilezilla/lib/http/client.cpp:1026
-#: ../../../source/libfilezilla/lib/http/client.cpp:1033
-#: ../../../source/libfilezilla/lib/http/client.cpp:1058
-#: ../../../source/libfilezilla/lib/http/client.cpp:1073
-#: ../../../source/libfilezilla/lib/http/client.cpp:1078
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:273
+msgid "LsaLogonUser returned an unsupported or malformed profile buffer."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:1025
+#: ../../../source/libfilezilla/lib/http/client.cpp:1037
+#: ../../../source/libfilezilla/lib/http/client.cpp:1043
+#: ../../../source/libfilezilla/lib/http/client.cpp:1050
+#: ../../../source/libfilezilla/lib/http/client.cpp:1075
+#: ../../../source/libfilezilla/lib/http/client.cpp:1090
+#: ../../../source/libfilezilla/lib/http/client.cpp:1095
 #, c-format
 msgid "Malformed chunk data: %s"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/http/client.cpp:724
 #: ../../../source/libfilezilla/lib/http/client.cpp:730
-#: ../../../source/libfilezilla/lib/http/client.cpp:798
-#: ../../../source/libfilezilla/lib/http/client.cpp:858
-#: ../../../source/libfilezilla/lib/http/client.cpp:904
+#: ../../../source/libfilezilla/lib/http/client.cpp:796
+#: ../../../source/libfilezilla/lib/http/client.cpp:875
+#: ../../../source/libfilezilla/lib/http/client.cpp:921
 #, c-format
 msgid "Malformed response header: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1998
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2213
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2007
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2222
 msgid "Man-in-the-Middle attack detected, aborting connection."
 msgstr ""
 
@@ -461,12 +563,12 @@ msgstr ""
 msgid "Not enough space on device."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:113
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:114
 msgid "Not initialized, need to call WSAStartup"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/http/client.cpp:730
-#: ../../../source/libfilezilla/lib/http/client.cpp:1026
+#: ../../../source/libfilezilla/lib/http/client.cpp:1043
 msgid "Null character in line"
 msgstr ""
 
@@ -503,7 +605,7 @@ msgid "PIN length (%d) exceeds the maximum (%d). Token: %s, URL: %s"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:512
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1820
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1825
 msgid "PKCS11 URLs not supported yet for certificates"
 msgstr ""
 
@@ -516,8 +618,8 @@ msgstr ""
 msgid "Permission denied"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/aio/reader.cpp:381
 #: ../../../source/libfilezilla/lib/aio/writer.cpp:307
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:386
 msgid "Permission denied."
 msgstr ""
 
@@ -529,47 +631,51 @@ msgstr ""
 msgid "Protocol not supported"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:115
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:116
 msgid "Protocol not supported on given socket type"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:822
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:823
 #, c-format
 msgid "Received TLS alert from the client: %s (%d)"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:822
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:823
 #, c-format
 msgid "Received TLS alert from the server: %s (%d)"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1968
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1977
 msgid "Received certificate chain could not be verified."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1971
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1980
 #, c-format
 msgid ""
 "Received certificate chain could not be verified. Verification status is %d."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:827
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:828
 #, c-format
 msgid "Received unknown TLS alert %d from the client"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:827
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:828
 #, c-format
 msgid "Received unknown TLS alert %d from the server"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1561
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2128
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1570
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2137
 msgid "Remote certificate not trusted."
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/http/client.cpp:230
 msgid "Request has no host"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:188
+msgid "Required functions are not available in secur32.dll."
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:97
@@ -584,7 +690,11 @@ msgstr ""
 msgid "Response too large"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1442
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:192
+msgid "SeTcbPrivilege could not be enabled."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1451
 msgid "Server did not properly shut down TLS connection"
 msgstr ""
 
@@ -597,17 +707,21 @@ msgstr ""
 msgid "Server not sending proper line endings"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/digest.cpp:251
+#: ../../../source/libfilezilla/lib/http/digest.cpp:253
 #, c-format
 msgid "Server requested unsupported digest authentication algorithm: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/digest.cpp:259
+#: ../../../source/libfilezilla/lib/http/digest.cpp:261
 #, c-format
 msgid "Server requested unsupported quality-of-protection: %s"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1925
+#: ../../../source/libfilezilla/lib/http/client.cpp:849
+msgid "Server sent too many interimg responses"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1930
 msgid ""
 "Server sent unsorted certificate chain in violation of the TLS specifications"
 msgstr ""
@@ -620,7 +734,7 @@ msgstr ""
 msgid "Socket already connected"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1204
+#: ../../../source/libfilezilla/lib/http/client.cpp:1221
 #, c-format
 msgid "Socket error: %s"
 msgstr ""
@@ -633,15 +747,23 @@ msgstr ""
 msgid "Socket not connected"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:116
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:110
+msgid "Socket type not supported"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:117
 msgid "Socket type not supported for address family"
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/http/client.cpp:845
+msgid "Switching protocols is not supported"
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/socket_errors.cpp:51
 msgid "System limit of open files exceeded"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:114
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:115
 msgid "System's network subsystem has failed"
 msgstr ""
 
@@ -661,7 +783,7 @@ msgstr ""
 msgid "The ai_socktype member is not supported"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1963
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1968
 msgid ""
 "The certificate requires the server to include an OCSP status in its "
 "response, but the OCSP status is missing."
@@ -672,7 +794,11 @@ msgstr ""
 msgid "The last tried PIN was wrong. Token: %s, URL: %s."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1959
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1972
+msgid "The received OCSP status is invalid."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1964
 msgid "The server's hostname does not match the certificate's hostname"
 msgstr ""
 
@@ -684,7 +810,7 @@ msgstr ""
 msgid "The specified address family is not supported"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/socket_errors.cpp:118
+#: ../../../source/libfilezilla/lib/socket_errors.cpp:119
 msgid "The specified network name is no longer available"
 msgstr ""
 
@@ -696,7 +822,7 @@ msgid ""
 msgstr ""
 
 #: ../../../source/libfilezilla/lib/http/client.cpp:738
-#: ../../../source/libfilezilla/lib/http/client.cpp:815
+#: ../../../source/libfilezilla/lib/http/client.cpp:813
 msgid "Too long header line"
 msgstr ""
 
@@ -705,7 +831,7 @@ msgstr ""
 msgid "Too many attempts (%d) while trying the PIN. Token: %s, URL: %s."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:821
+#: ../../../source/libfilezilla/lib/http/client.cpp:819
 msgid "Too many header lines"
 msgstr ""
 
@@ -714,7 +840,7 @@ msgstr ""
 msgid "Unexpected end-of-file on '%s'"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/aio/reader.cpp:387
+#: ../../../source/libfilezilla/lib/aio/reader.cpp:392
 #, c-format
 msgid "Unknown error %u (%u)"
 msgstr ""
@@ -724,15 +850,15 @@ msgstr ""
 msgid "Unknown error %u (%u)."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:858
+#: ../../../source/libfilezilla/lib/http/client.cpp:875
 msgid "Unknown transfer encoding"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1986
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1995
 msgid "Unsupported certificate type"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/http/client.cpp:1020
+#: ../../../source/libfilezilla/lib/http/client.cpp:1037
 msgid "Wrong line endings"
 msgstr ""
 
@@ -741,13 +867,257 @@ msgstr ""
 msgid "Wrong type of PIN requested. Flags: %d, Token: %s, URL: %s."
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1895
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:1900
 msgid "gnutls_certificate_get_peers returned no certificates"
 msgstr ""
 
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2269
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2305
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2321
-#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2337
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:568
+#, c-format
+msgid ""
+"impersonation_desktop: could not duplicate desktop from helper. Last Error: "
+"%d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:526
+#, c-format
+msgid ""
+"impersonation_desktop: could not duplicate token into helper. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:560
+#, c-format
+msgid ""
+"impersonation_desktop: could not duplicate window station from helper. Last "
+"Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:500
+#, c-format
+msgid ""
+"impersonation_desktop: could not locate libfilezilla module. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:508
+#, c-format
+msgid "impersonation_desktop: could not locate rundll32.exe. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:548
+msgid "impersonation_desktop: could not read desktop info from helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:578
+msgid "impersonation_desktop: could not read returned desktop name."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:519
+msgid "impersonation_desktop: could not start rundll32 helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:534
+msgid "impersonation_desktop: could not write request to helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:553
+msgid "impersonation_desktop: helper returned invalid desktop info."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:513
+#, c-format
+msgid "impersonation_desktop: invalid isolated desktop name prefix: '%s'."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_desktop_helper.cpp:493
+msgid "impersonation_desktop: use32.dll is not available."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:337
+#, c-format
+msgid ""
+"impersonation_logon: could not duplicate token from helper. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:292
+#, c-format
+msgid ""
+"impersonation_logon: could not locate libfilezilla module. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:299
+#, c-format
+msgid "impersonation_logon: could not locate rundll32.exe. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:306
+msgid "impersonation_logon: could not start rundll32 helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:319
+msgid "impersonation_logon: could not write request to helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_logon_helper.cpp:331
+msgid "impersonation_logon: helper returned invalid token info."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_profile_helper.cpp:104
+#, c-format
+msgid ""
+"impersonation_profile: could not duplicate profile handle from helper. Last "
+"Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_profile_helper.cpp:73
+#, c-format
+msgid ""
+"impersonation_profile: could not duplicate token into helper. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_profile_helper.cpp:52
+#, c-format
+msgid ""
+"impersonation_profile: could not locate libfilezilla module. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_profile_helper.cpp:59
+#, c-format
+msgid "impersonation_profile: could not locate rundll32.exe. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_profile_helper.cpp:66
+msgid "impersonation_profile: could not start rundll32 helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_profile_helper.cpp:85
+msgid "impersonation_profile: could not write request to helper."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/windows/impersonation_profile_helper.cpp:97
+msgid "impersonation_profile: helper returned invalid profile info."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:1008
+#, c-format
+msgid ""
+"impersonation_token: DropAdminPrivilegesFromToken failed. User: '%s', "
+"Domain: '%s'. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:1002
+#, c-format
+msgid ""
+"impersonation_token: DuplicateTokenEx failed. User: '%s', Domain: '%s'. Last "
+"Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:344
+#, c-format
+msgid "impersonation_token: could not get GID for group '%s'. User: '%s'."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:900
+#, c-format
+msgid ""
+"impersonation_token: could not load user profile. User: '%s', Roaming: '%s'."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:335
+#, c-format
+msgid "impersonation_token: invalid credentials. User: '%s'."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:379
+#, c-format
+msgid "impersonation_token: invalid user id '%s'."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:368
+#, c-format
+msgid "impersonation_token: user '%s' not found."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:385
+#, c-format
+msgid "impersonation_token: user id '%s' not found."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:689
+#, c-format
+msgid ""
+"logon_windows_user: ConvertStringSidToSidW failed. SID: '%s'. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:740
+#, c-format
+msgid ""
+"logon_windows_user: GetComputerNameW failed while classifying domain '%s'. "
+"Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:819
+#, c-format
+msgid ""
+"logon_windows_user: LogonUserExW failed. User: '%s', Domain: '%s'. Last "
+"Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:825
+msgid ""
+"logon_windows_user: LogonUserExW returned an unsupported or malformed "
+"profile buffer."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:706
+#, c-format
+msgid ""
+"logon_windows_user: LookupAccountSidW failed while probing sizes. SID: '%s'. "
+"Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:715
+#, c-format
+msgid ""
+"logon_windows_user: LookupAccountSidW failed. SID: '%s'. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:700
+#, c-format
+msgid ""
+"logon_windows_user: LookupAccountSidW unexpectedly succeeded while probing "
+"sizes. SID: '%s'."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:720
+#, c-format
+msgid ""
+"logon_windows_user: SID does not identify a user account. SID: '%s', Type: "
+"%d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:767
+#, c-format
+msgid "logon_windows_user: TranslateNameW failed for '%s'. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:760
+#, c-format
+msgid ""
+"logon_windows_user: TranslateNameW failed while probing the UPN size for "
+"'%s'. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/impersonation.cpp:751
+msgid "logon_windows_user: cannot import TranslateNameW from secur32.dll."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/process.cpp:276
+#, c-format
+msgid "process: CreateProcessAsUserW failed. Last Error: %d."
+msgstr ""
+
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2278
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2314
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2330
+#: ../../../source/libfilezilla/lib/tls_layer_impl.cpp:2346
 msgid "unknown"
 msgstr ""

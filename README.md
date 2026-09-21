@@ -4,7 +4,7 @@
 ※私の都合に合った仕様としているため、パッチはインストーラー的に使う前提であることをご理解ください。  
 ※パッチはかなりの確率でセキュリティ機能に誤検知されます。[VirusTotal](https://www.virustotal.com/gui/home/upload) 等をご活用ください。  
 ※公式へのコミットを可能な範囲で行いますが、私の拙い英語力が原因で成果が得られない場合もあります。  
-※Windows 11 Pro 25H2 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
+※Windows 11 Pro 26H2 用に最適化しています。その他の OS では表示が崩れる可能性があります。  
 ※更新停止/低需要/諸事情アリといった優先度の低いアプリは [Study-Room レポジトリ](https://github.com/Rukoto/Study-Room) を参照ください。  
 ※「jetAudio 日本語言語パック」は [こちら](https://github.com/Rukoto/JetAudio-Japanese-Language-pack) を参照ください。
 
@@ -67,8 +67,8 @@ UI が完全に日本語化されるまでは時間を要しそうな感じで�
 -「EasyBCD」の著作権は [NeoSmart Technologies](https://github.com/neosmart) にあります。
 
 ---
-## 「FileZilla Client Ver.3.69.1」日本語言語ファイル (作業用)
-## 「libfilezilla Ver.0.49.0」日本語言語ファイル (作業用)
+## 「FileZilla Client Ver.3.71.1」日本語言語ファイル (作業用)
+## 「libfilezilla Ver.0.57.0」日本語言語ファイル (作業用)
 高機能 FTP クライアント「[FileZilla Client](https://FileZilla-project.org/)」の日本語言語ファイルを更新しています。  
 また C++ ライブラリの「[libfilezilla](https://lib.filezilla-project.org/)」も併せて翻訳しています。  
 公式バイナリに同梱されているもので十分な翻訳率ですので、通常は公式版のままご使用ください。
